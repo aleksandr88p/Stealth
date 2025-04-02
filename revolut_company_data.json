@@ -1,0 +1,233 @@
+{
+  "pagination": {
+    "page": 1,
+    "total_pages": 3,
+    "per_page": 10
+  },
+  "data": [
+    {
+      "name": "Revolut",
+      "tagline": "Treinos personalizados para corpo, alma e mente.",
+      "website": "revolutcentrodetreinamento.com.br",
+      "postal_code": null,
+      "location_city": "brasília",
+      "location_country": "br",
+      "location_geo_area": "df",
+      "industries": [
+        "Wellness and Fitness Services"
+      ],
+      "specialities": [],
+      "type": "Privately Held",
+      "profile_id": "71677662",
+      "logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQEPiNnGD8VxIQ/company-logo_400_400/company-logo_400_400/0/1630477113667?e=1731542400&v=beta&t=S5REyR0mOH--ousx0vltutc1s-X2qIGI7bECx3tHnVI",
+      "description": "Um centro de treinamento personalizado para corpo, alma e mente.",
+      "followers": 51,
+      "staff_count": 3,
+      "li_url": "https://www.linkedin.com/company/71677662/"
+    },
+    {
+      "name": "Revolut",
+      "tagline": "Change the way you money",
+      "website": "www.revolut.com",
+      "postal_code": "E14 4HD",
+      "location_city": "london",
+      "location_country": "gb",
+      "location_geo_area": "england",
+      "industries": [
+        "Financial Services"
+      ],
+      "specialities": [
+        "Mobile Banking",
+        "Card Payments",
+        "Money Remittance",
+        "Foreign Exchange"
+      ],
+      "type": "Privately Held",
+      "profile_id": "5356541",
+      "logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQEFu_mKkdIaVg/company-logo_400_400/company-logo_400_400/0/1696928550643/revolut_logo?e=1732147200&v=beta&t=EJ4QHZGRxlAl4hxUXEh4FQUPkYsqdcFdq66_IUvrYWE",
+      "description": "People deserve more from their money. More visibility, more control, more freedom. And since 2015, Revolut has been on a mission to deliver just that. With an arsenal of aweso﻿me products, we've helped 45+ million customers get more from their money. And we're not done yet.\n\nAs we continue our lightning-fast growth,‌ two things are essential to continuing our success: our people and our culture. We've been officially certified as a Great Place to Work™ in recognition of our outstanding employee experience!\n\nSo far, we have 10,000+ people working around the world, from our great offices or remotely, on our mission. And we're looking for more. We want brilliant people who love building great products, love redefining success, and love turning the complexity of a chaotic world into the simplicity of a beautiful solution.",
+      "followers": 1041022,
+      "staff_count": 14492,
+      "li_url": "https://www.linkedin.com/company/5356541/"
+    },
+    {
+      "name": "Revolut Business",
+      "tagline": "The borderless financial super app for businesses",
+      "website": "link.revolut.com",
+      "postal_code": "E144HD",
+      "location_city": "london",
+      "location_country": "gb",
+      "location_geo_area": "england",
+      "industries": [
+        "Financial Services"
+      ],
+      "specialities": [
+        "Multi-currency accounts",
+        "Spend management",
+        "Business debit cards",
+        "Expenses",
+        "Low fee Global Transfers",
+        "Payment gateways",
+        "Merchant tools"
+      ],
+      "type": null,
+      "profile_id": "14598629",
+      "logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQHWqzV_5EWp7g/company-logo_400_400/company-logo_400_400/0/1697027889503/revolut_for_business_logo?e=1731542400&v=beta&t=fSzDkWhw-1mDaLKnMZM471sMPDtgIr_lMyqJ0D0cRdk",
+      "description": "Revolut Business is a borderless financial super app for businesses – whether you're a start-up, scale-up, or enterprise, we'll rapidly improve how you accept and make payments, control spending, and empower your teams. Available on mobile and web.",
+      "followers": 38072,
+      "staff_count": 0,
+      "li_url": "https://www.linkedin.com/company/14598629/"
+    },
+    {
+      "name": "Revolut Media",
+      "tagline": "Agence Marketing Digital et Communication ",
+      "website": null,
+      "postal_code": "90090",
+      "location_city": "tanger",
+      "location_country": "ma",
+      "location_geo_area": "none",
+      "industries": [
+        "Advertising Services"
+      ],
+      "specialities": [],
+      "type": "Self-Employed",
+      "profile_id": "78310961",
+      "logo_url": "https://media.licdn.com/dms/image/v2/D4E0BAQGUo5sTg12xhg/company-logo_400_400/company-logo_400_400/0/1664927284466/revolutmedia_logo?e=1731542400&v=beta&t=g7leY--cfQ5n4au4WmznXl_w_ze0eeEiMeWgC3qJdRo",
+      "description": "Revolut Media, c’est une équipe de première division experte en marketing et transformation digitale qui joue pour vous. Contactez-nous puis installez-vous confortablement et préparez-vous au décollage.",
+      "followers": 346,
+      "staff_count": 4,
+      "li_url": "https://www.linkedin.com/company/78310961/"
+    },
+    {
+      "name": "Revolut Support",
+      "tagline": "Here to help you with any issues with our app",
+      "website": "www.revolut.com",
+      "postal_code": null,
+      "location_city": null,
+      "location_country": null,
+      "location_geo_area": null,
+      "industries": [
+        "Financial Services"
+      ],
+      "specialities": [],
+      "type": null,
+      "profile_id": "81506565",
+      "logo_url": "https://media.licdn.com/dms/image/D4D0BAQFx7OCKNA4CVA/company-logo_400_400/0/1698049914514/revolut_support_logo?e=1731542400&v=beta&t=sz2X1ZrjYSOoff99-6p0ZpTddIT_ALmP_iBpWNZZKsI",
+      "description": "We're here on LinkedIn to assist you with any issues you may encounter while using our app.\n\nRemember that the best way to get help is through our chat feature within the app or by logging in to our website. To initiate the in-app support chat, click on your profile picture or initials/name located in the top left corner of your screen, select Help, then click on \"Get more help and contact us,\" choose the topic of your inquiry, and locate the 'Chat with us\" button to connect with an agent.\n\nIf you're having trouble accessing the app, you can message us on certain social media platforms. However, please do not share any personal information publicly.\n\nPlease note that this account does not provide updates related to Revolut. For news and updates, please follow our main Revolut page.",
+      "followers": 6346,
+      "staff_count": 0,
+      "li_url": "https://www.linkedin.com/company/81506565/"
+    },
+    {
+      "name": "Revolut AI",
+      "tagline": "Human Solutions",
+      "website": null,
+      "postal_code": null,
+      "location_city": null,
+      "location_country": null,
+      "location_geo_area": null,
+      "industries": [
+        "IT Services and IT Consulting"
+      ],
+      "specialities": [
+        "IT",
+        "Information Technology",
+        "AI",
+        "AI Services",
+        "IT Services",
+        "IT and Software",
+        "Medical Services Sector",
+        "Financial Services Sector",
+        "Specialized Recruitment",
+        "Human Resources"
+      ],
+      "type": "Privately Held",
+      "profile_id": "67934225",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQH8qXVaD67NjA/company-logo_400_400/0/1630557781309?e=1731542400&v=beta&t=4rEsG_qxRR6t98VQYYFELNslDWekhbF0l7AyNuNuGq8",
+      "description": "Human Solutions. Leveraging AI and Data Science for Better Selections to Scale. (The Revolut AI website is under construction).",
+      "followers": 74,
+      "staff_count": 2,
+      "li_url": "https://www.linkedin.com/company/67934225/"
+    },
+    {
+      "name": "Revolut Digital",
+      "tagline": null,
+      "website": "www.revolut.digital",
+      "postal_code": null,
+      "location_city": "berlin",
+      "location_country": "de",
+      "location_geo_area": "none",
+      "industries": [
+        "Advertising Services"
+      ],
+      "specialities": [],
+      "type": "Privately Held",
+      "profile_id": "100651603",
+      "logo_url": "https://media.licdn.com/dms/image/D4E0BAQF9_mie34VWIw/company-logo_400_400/0/1702854135747/revolutdigital_logo?e=1724889600&v=beta&t=_6VQNbozRT455Fwqx9Mf8fncvOxBsypm2Yo-BrNU6IM",
+      "description": null,
+      "followers": 3,
+      "staff_count": 0,
+      "li_url": "https://www.linkedin.com/company/100651603/"
+    },
+    {
+      "name": "Revolut IT",
+      "tagline": "Give your recruitment a makeover",
+      "website": "www.revolut-it.com",
+      "postal_code": null,
+      "location_city": null,
+      "location_country": null,
+      "location_geo_area": null,
+      "industries": [
+        "IT Services and IT Consulting"
+      ],
+      "specialities": [],
+      "type": "Self-Employed",
+      "profile_id": "74491943",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGyuyPB3rYAyw/company-logo_400_400/0/1630557244437?e=1731542400&v=beta&t=0pGJBIFg2Yp3t8Avv5fgBRjtoZEVFFBLpbEMN6X_-uY",
+      "description": null,
+      "followers": 35,
+      "staff_count": 0,
+      "li_url": "https://www.linkedin.com/company/74491943/"
+    },
+    {
+      "name": "Revolut EU",
+      "tagline": "One app, all things money.",
+      "website": "revolut.com",
+      "postal_code": null,
+      "location_city": null,
+      "location_country": null,
+      "location_geo_area": null,
+      "industries": [
+        "Banking"
+      ],
+      "specialities": [],
+      "type": "Privately Held",
+      "profile_id": "78373782",
+      "logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQEISH0fSXmdMg/company-logo_400_400/company-logo_400_400/0/1642445306384?e=1731542400&v=beta&t=GmrvUr-sHXPvB7YjkSvWd_wyjcOFxyD88ILMDA6QluE",
+      "description": null,
+      "followers": 52,
+      "staff_count": 2,
+      "li_url": "https://www.linkedin.com/company/78373782/"
+    },
+    {
+      "name": "Studio Revolut",
+      "tagline": "Studio Revolut is a young dynamic architecture, interior and product design studio based in Cape Town, South Africa.",
+      "website": "www.studiorevolut.co.za",
+      "postal_code": null,
+      "location_city": null,
+      "location_country": null,
+      "location_geo_area": null,
+      "industries": [
+        "Architecture and Planning"
+      ],
+      "specialities": [],
+      "type": "Privately Held",
+      "profile_id": "65712026",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEntbB8Fxl0DQ/company-logo_400_400/0/1630525206797?e=1731542400&v=beta&t=FAUFDnCZc1cimqIbfdEAVpSi8ahDYXEjIYdMDQEizLc",
+      "description": null,
+      "followers": 98,
+      "staff_count": 1,
+      "li_url": "https://www.linkedin.com/company/65712026/"
+    }
+  ]
+}

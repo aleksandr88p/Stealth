@@ -1,0 +1,11 @@
+profile_id,name,sub_title,location,linkedin_url,is_founder,is_stealth,founder_indicators,stealth_indicators,confidence
+antonio-gomez-garza,Antonio G.,Co-founder & CEO | ex-Uber | ex-Revolut,", mexico",https://www.linkedin.com/in/antonio-gomez-garza/,True,True,"founder, co-founder, ceo",no_company_name,Высокая
+laurence-krieger-98b8a4120,Laurence Krieger,Digital Banking CEO | Chairman | Investor | Fintech Advisor |- Revolut - Tide - Bain - Enfuce,"london, united kingdom",https://www.linkedin.com/in/laurence-krieger-98b8a4120/,True,True,ceo,no_company_name,Высокая
+williamkeane,William Keane,CEO of FundUp | 2x unicorn alum,"london, united kingdom",https://www.linkedin.com/in/williamkeane/,True,True,ceo,no_company_name,Высокая
+stella-schwaeble,Stella Schwaeble,Metamorphosing,"london, united kingdom",https://www.linkedin.com/in/stella-schwaeble/,False,True,,metamorphosing,Низкая
+joeriaksel,Joeri Vankeirsbilck,Building | ex Revolut,", ",https://www.linkedin.com/in/joeriaksel/,False,True,,building,Низкая
+graah,Hannes Graah,Building with Zeal | ex-Revolut & Spotify,", ",https://www.linkedin.com/in/graah/,False,True,,building,Низкая
+carl-fernandes-a738296a,Carl Fernandes,"Building something new | ex-Revolut, Lyft, YC S20","boston, united states",https://www.linkedin.com/in/carl-fernandes-a738296a/,False,True,,"building, something new, building something",Низкая
+rickyleeuk,Ricky Lee,Something New in Payments ⚫️,"london, united kingdom",https://www.linkedin.com/in/rickyleeuk/,False,True,,something new,Низкая
+théo-daniellot,Théo Daniellot,Working on something new in the cybersecurity space,", ",https://www.linkedin.com/in/théo-daniellot/,False,True,,"something new, working on, working on something",Низкая
+andrictham,Andric Tham,Heads down. Learning and building.,", ",https://www.linkedin.com/in/andrictham/,False,True,,building,Низкая

@@ -1,0 +1,10 @@
+# __pycache__ и все что связано с ним
+__pycache__
+*.pyc
+
+# venv
+venv/
+
+# .env
+.env
+
