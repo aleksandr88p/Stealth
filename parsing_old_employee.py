@@ -41,7 +41,7 @@ def parse_revolut_by_past_roles():
         roles_query_parts.append(f'past_job_titles:{role}')
     
     roles_query = " OR ".join(roles_query_parts)
-    query = f"past_companies:5356541 AND ({roles_query})"
+    query = f"past_companies{config.PAST_COMPANIE} AND ({roles_query})"
     
 
     print(f"DEBUG - Запрос к API: {query}")
@@ -73,7 +73,7 @@ def parse_revolut_founders():
         roles_query_parts.append(f'current_job_titles:{role}')
     
     roles_query = " OR ".join(roles_query_parts)
-    query = f"past_companies:5356541 AND ({roles_query})"
+    query = f"past_companies:{config.PAST_COMPANIE} AND ({roles_query})"
     
 
     print(f"DEBUG - Запрос к API: {query}")
@@ -109,7 +109,7 @@ def parse_revolut_stealth_titles():
             keywords_query_parts.append(f'sub_title:{keyword}')
     
     keywords_query = " OR ".join(keywords_query_parts)
-    query = f"past_companies:5356541 AND ({keywords_query})"
+    query = f"past_companies:{config.PAST_COMPANIE} AND ({keywords_query})"
     
     
     print(f"DEBUG - Запрос к API: {query}")
@@ -218,7 +218,7 @@ def parse_revolut_specific_companies():
 
     
     companies_query = " OR ".join(f"current_companies:{company_id}" for company_id in config.TARGET_COMPANIES)
-    query = f"past_companies:5356541 AND ({companies_query})"
+    query = f"past_companies:{config.PAST_COMPANIE} AND ({companies_query})"
     
     print(f"DEBUG - Запрос к API: {query}")
     

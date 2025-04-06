@@ -35,5 +35,8 @@ STEALTH_KEYWORDS = [
         "coming soon", "soft launch", "low profile", "covert", "redacted"
     ]   
 
+# PAST_COMPANIEE id example Revolut
+PAST_COMPANIE = 5356541
+
 # ID компаний (stealth)
 TARGET_COMPANIES = [18583501, 18016269]
