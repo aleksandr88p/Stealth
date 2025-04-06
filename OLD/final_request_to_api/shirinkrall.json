@@ -1,0 +1,511 @@
+{
+    "profile_id": "shirinkrall",
+    "first_name": "Shirin",
+    "last_name": "Krall",
+    "sub_title": "Founder at MARBL | Ex-Revolut, Ex-McKinsey",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C4D03AQHCecafUUjeEA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1534892401068?e=1749081600&v=beta&t=Gaecpf1F_d8NCIBUdimAY9_uENHHs_urJjX8Fl5w8rM",
+    "background_image": "https://media.licdn.com/dms/image/v2/C4E16AQGfh-Yia7ZciA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1615111179841?e=1749081600&v=beta&t=U5LVSb63NQoJHH5sehMNH7eqEvCvLob9b7NX2WFnFSk",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAZDaPMB9cjXy0lfZc5AePMHU-kJQtwY1pE",
+    "object_urn": 105081075,
+    "birth_date": null,
+    "summary": "Previously Global Head of Retail (B2C) Marketing at Revolut where she helped build and scale the Growth department as Revolut’s user base grew from 10M to 30M+. Her teams were responsible for all upper- and mid-funnel marketing channels (TV, VOD, BVOD, Youtube, Influencer, Sponsorships & Events) plus the Growth Creative Studio (4 teams/ 30 reports). In her previous role as Global Operations Lead, she led the strategy and implementation of Revolut's Brexit customer migration, deposit-protection-insured bank accounts rollout, and branch network expansion.\n\nPrior to Revolut, Shirin spent 4+ years leading consulting engagements at McKinsey & Company in New York serving financial services clients on growth strategy, commercial due diligences, and change management.\n\nShe holds a BA and BSBA from Boston University and an MBA from Stanford GSB.",
+    "location": {
+        "country": "United Kingdom",
+        "short": "Greater London, England",
+        "city": "Greater London",
+        "state": "England",
+        "default": "Greater London, England, United Kingdom"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "DE",
+            "language": "de"
+        },
+        "supported_locales": [
+            {
+                "country": "DE",
+                "language": "de"
+            },
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "Stanford University Graduate School of Business",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGyTHJCehyEuA/company-logo_400_400/company-logo_400_400/0/1630537027992/stanford_graduate_school_of_business_logo?e=1749081600&v=beta&t=mEH4QfcH_a4lAXX1hnvj15s4Jr1GgW64JbCSdZwqPMA",
+                "url": "https://www.linkedin.com/school/stanford-graduate-school-of-business/"
+            },
+            "degree_name": "Master of Business Administration (M.B.A.)",
+            "description": null,
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Questrom School of Business, Boston University",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGextjQtaHKaQ/company-logo_400_400/company-logo_400_400/0/1630571912963/boston_university_school_of_management_logo?e=1749081600&v=beta&t=dldd8WmQE-WU7Cjv4LGFGkfHk8hQixE1DifBjMpEevs",
+                "url": "https://www.linkedin.com/school/questrom-school-of-business-boston-university/"
+            },
+            "degree_name": "Bachelor of Science in Business Administration (B.S.B.A)",
+            "description": "Dual degree, B.A. in Economics and B.S.B.A",
+            "field_of_study": "Finance Concentration",
+            "grade": "Magna Cum Laude"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Boston University",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFBK74krMig1Q/company-logo_400_400/company-logo_400_400/0/1631319084422?e=1749081600&v=beta&t=wsGdtW8ZfZrzzhcSJMOvIpjxkPLUzW3rECzfhzb0c-U",
+                "url": "https://www.linkedin.com/school/boston-university/"
+            },
+            "degree_name": "Bachelor of Arts (BA)",
+            "description": null,
+            "field_of_study": "Economics",
+            "grade": "Magna Cum Laude"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "Schule Schloss Salem",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF34HYyjuB_BQ/company-logo_400_400/company-logo_400_400/0/1630641183909/schule_schloss_salem_logo?e=1749081600&v=beta&t=2tcgEUM6mdymx9EVQYEElvLEolA_q09-akY53g37LpM",
+                "url": "https://www.linkedin.com/school/schule-schloss-salem/"
+            },
+            "degree_name": "International Baccalaureate Diploma",
+            "description": null,
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Gordonstoun",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "General Certificate of Secondary Education (GCSE)",
+            "description": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 104308436,
+                "name": "MARBL",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGozUKqQIKVWQ/company-logo_400_400/company-logo_400_400/0/1738853878722/getmarbl_logo?e=1749081600&v=beta&t=h0zBZ-2_C-YXQzIfn5oKnrY_OibTZQYYvCzGanXBP80",
+                "url": "https://www.linkedin.com/company/getmarbl/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2024
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "MARBL",
+                    "description": null,
+                    "title": "Founder",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Helped build and scale the Revolut Core Growth department which:\n+ Grew Revolut’s retail user base from 10m in 2021 to 30m+ in 2023\n+ Moved Revolut's app store finance category ranking to #1 in 11 of our core markets\n+ Made Revolut the fastest growing brand in the UK in 2022 (moving from #72 to #15 most valuable brand in one year)\n\nResponsible for all upper- and mid funnel marketing channels (TV, VOD, BVOD, Youtube, Influencer, Sponsorships & Events) plus the growth creative studio (4 teams/ 30 reports). Owned associated KPIs and budgets.",
+                    "title": "Global Head of Retail (B2C) Marketing",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Joined as the 9th person in the Core Growth department.\n\nLaunched Revolut's first UK ATL campaign, scaled the influencer channel, and led the selection, negotiation and onboarding process for the department’s key creative agency partners.",
+                    "title": "Global Growth Operations Lead",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Led the strategy and implementation of Revolut's Brexit customer migration, deposit-protection-insured bank accounts rollout, and branch network expansion.\n\n+ Migrated 9m+ EEA accounts from the UK to EEA entities (Brexit)\n+ Offered 10m+ EEA customers deposit protection insurance\n+ Offered 2m+ French customers local account details (IBAN)",
+                    "title": "Global Operations Lead",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1371,
+                "name": "McKinsey & Company",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQFTxAlpCMGXuw/company-logo_400_400/B56ZVR8QEtHQAc-/0/1740836504187/mckinsey_logo?e=1749081600&v=beta&t=_uc765tJSFs18vcimoFth-dcXPxvuMe2e1JoN9ILT2E",
+                "url": "https://www.linkedin.com/company/mckinsey/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "New York, New York, United States",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "McKinsey & Company",
+                    "description": "Served financial services clients on growth strategy, large program delivery, and commercial due diligence engagements",
+                    "title": "Engagement Manager, Financial Services Practice",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1791,
+                "name": "Stanford University Graduate School of Business",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGyTHJCehyEuA/company-logo_400_400/company-logo_400_400/0/1630537027992/stanford_graduate_school_of_business_logo?e=1749081600&v=beta&t=mEH4QfcH_a4lAXX1hnvj15s4Jr1GgW64JbCSdZwqPMA",
+                "url": "https://www.linkedin.com/school/stanford-graduate-school-of-business/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Palo Alto, California, United States",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Stanford University Graduate School of Business",
+                    "description": null,
+                    "title": "MBA Candidate",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1371,
+                "name": "McKinsey & Company",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQFTxAlpCMGXuw/company-logo_400_400/B56ZVR8QEtHQAc-/0/1740836504187/mckinsey_logo?e=1749081600&v=beta&t=_uc765tJSFs18vcimoFth-dcXPxvuMe2e1JoN9ILT2E",
+                "url": "https://www.linkedin.com/company/mckinsey/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "New York, New York, United States",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "McKinsey & Company",
+                    "description": "Served financial services clients on growth strategy, large program delivery, and commercial due diligence engagements",
+                    "title": "Engagement Manager, Financial Services Practice",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "New York, New York, United States",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "McKinsey & Company",
+                    "description": "Served clients across industries (financial services, private equity, consumer, healthcare, and others) on strategy, large program delivery, and commercial due diligence engagements",
+                    "title": "Business Analyst",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Founder and Advisor",
+            "company": {
+                "id": null,
+                "name": "Boston University Consulting Group",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHgJrGUBpVJUA/company-logo_400_400/company-logo_400_400/0/1696945999022/buconsultinggroup_logo?e=1749081600&v=beta&t=jhE2-u0S4KGGRkiqGwb1mqLIEiahkC62R-VdZGAR7kA",
+                "url": "https://www.linkedin.com/company/buconsultinggroup/"
+            },
+            "cause": "EDUCATION",
+            "description": "https://www.buconsultinggroup.com/"
+        }
+    ],
+    "skills": [
+        "Financial Modeling",
+        "Due Diligence",
+        "Market Research",
+        "Customer Insight",
+        "Executive Coaching",
+        "Strategy",
+        "Performance Improvement",
+        "Strategic Planning for Growth",
+        "Project Management",
+        "Product Operations",
+        "Strategy Execution",
+        "Strategic Planning",
+        "Board Relations",
+        "Marketing Campaign Management",
+        "Growth Hacking",
+        "Creative Services",
+        "Growth Marketing",
+        "Agency Relationship Management",
+        "Teamwork",
+        "Statistical Data Analysis"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

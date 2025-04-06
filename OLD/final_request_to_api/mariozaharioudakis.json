@@ -1,0 +1,326 @@
+{
+    "profile_id": "mariozaharioudakis",
+    "first_name": "Mario",
+    "last_name": "Z.",
+    "sub_title": "Working on something 👌 ",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/v2/C4E16AQGM9y_Fc2kXxg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1519422399875?e=1749081600&v=beta&t=b3s0hgcZJpQogwNPwgCOmIUrst3Q-YEdAQpONMzCqu4",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAABKUIDQBA1zTXXztrU8Sv3_VltEbeikbFxY",
+    "object_urn": 311697460,
+    "birth_date": null,
+    "summary": "Solve Problems",
+    "location": {
+        "country": null,
+        "short": "United States",
+        "city": null,
+        "state": null,
+        "default": "United States"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Greek",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Brown University",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEK5eP7BQ975w/company-logo_400_400/company-logo_400_400/0/1630594275590/brown_university_logo?e=1749081600&v=beta&t=3ISsK3MqN7MuIDKOjDvSp1N-MqIdnoT8K1RZD-TEdrY",
+                "url": "https://www.linkedin.com/school/brown-university/"
+            },
+            "degree_name": "Bachelor’s Degree",
+            "description": null,
+            "field_of_study": "Applied Mathematics",
+            "grade": "GPA 3.96"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Dodonea",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "High School",
+            "description": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [
+        {
+            "name": "GMAT",
+            "score": "730",
+            "date": {
+                "month": 3,
+                "day": null,
+                "year": 2019
+            }
+        },
+        {
+            "name": "SAT math / SAT critical reading / SAT writing",
+            "score": "800 / 630 / 610",
+            "date": {
+                "month": 11,
+                "day": null,
+                "year": 2014
+            }
+        },
+        {
+            "name": "SAT subject Math II / Physics",
+            "score": "800 / 800",
+            "date": {
+                "month": 5,
+                "day": null,
+                "year": 2014
+            }
+        }
+    ],
+    "position_groups": [
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "New York, New York, United States",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "CEO Office - Founder’s Associate",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1371,
+                "name": "McKinsey & Company",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQFTxAlpCMGXuw/company-logo_400_400/B56ZVR8QEtHQAc-/0/1740836504187/mckinsey_logo?e=1749081600&v=beta&t=_uc765tJSFs18vcimoFth-dcXPxvuMe2e1JoN9ILT2E",
+                "url": "https://www.linkedin.com/company/mckinsey/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Athens, Attiki, Greece",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "McKinsey & Company",
+                    "description": null,
+                    "title": "Business Analyst",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5216201,
+                "name": "Hellenic Air Force (HAF)",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFHbtP67DG52w/company-logo_400_400/company-logo_400_400/0/1630485049807/hellenic_airforce_logo?e=1749081600&v=beta&t=3hrQ-A_pllA0EdmTjNlMJn34H51qrgIzyQOR48mCxZU",
+                "url": "https://www.linkedin.com/company/hellenic-airforce/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Hellenic Air Force (HAF)",
+                    "description": null,
+                    "title": "Airman",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 157343,
+                "name": "Brown University",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEK5eP7BQ975w/company-logo_400_400/company-logo_400_400/0/1630594275590/brown_university_logo?e=1749081600&v=beta&t=3ISsK3MqN7MuIDKOjDvSp1N-MqIdnoT8K1RZD-TEdrY",
+                "url": "https://www.linkedin.com/school/brown-university/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Brown University",
+                    "description": null,
+                    "title": "Macroeconomics & Labor economics Teaching Assistant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Matlab",
+        "Microsoft Excel",
+        "Microsoft Word",
+        "PowerPoint",
+        "Stata",
+        "MATLAB"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

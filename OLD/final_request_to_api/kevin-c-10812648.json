@@ -1,0 +1,489 @@
+{
+    "profile_id": "kevin-c-10812648",
+    "first_name": "Kevin",
+    "last_name": "C.",
+    "sub_title": "Product Manager | Freelance Consultant",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/v2/D4D16AQHD0YqStgI89w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714410901395?e=1749081600&v=beta&t=bTIsJEdPXG6lXtNcATo2Xs6sARh1Azmrg4--6CKHA48",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAn8FxgBjUrOBfoi8jQqTno7CCEFpo4dACo",
+    "object_urn": 167515928,
+    "birth_date": null,
+    "summary": "I'm an independent consultant based in Zurich with previous industry experiences in management consulting, start-up, fintech and VC, I work closely with multinational clients in various industries and advice them in the fields of Product Management, Data Analytics, and Digital Transformation.\n\nTypical client's needs include:\n- Designing and developing a user centred web or mobile application\n- Implementing a comprehensive data analytics strategy from data warehouse to visualisation\n- Modernising and digitalising legacy processes and architecture\n\nAreas of expertise:\n- Product Management\n- Data Analytics\n- Digital Transformation",
+    "location": {
+        "country": "Switzerland",
+        "short": "Zurich, Zurich",
+        "city": "Zurich",
+        "state": "Zurich",
+        "default": "Zurich, Zurich, Switzerland"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Chinese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "University of Bern",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHut4Ygpsx3YQ/company-logo_400_400/company-logo_400_400/0/1654245131341/university_of_bern_logo?e=1749081600&v=beta&t=q7iOrKtoWxZs1dqf6beUD4J46gmj1tOiZf8u1y67hJg",
+                "url": "https://www.linkedin.com/school/university-of-bern/"
+            },
+            "degree_name": "Master of Science (MSc)",
+            "description": null,
+            "field_of_study": "Economics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Korea University",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGlk-jTN4pzzQ/company-logo_400_400/company-logo_400_400/0/1631338821198?e=1749081600&v=beta&t=NebzWylmJrai_zKYocqWQCxWJql_iGz0T5xkMnDmNUU",
+                "url": "https://www.linkedin.com/school/koreauniversity/"
+            },
+            "degree_name": "Master of Science (MSc)",
+            "description": "Exchange semester",
+            "field_of_study": "Economics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Certified Scrum Product Owner (CSPO)",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Scrum Alliance",
+            "url": "https://bcert.me/srsxugacg",
+            "license_number": "001596388",
+            "display_source": "bcert.me",
+            "company": {
+                "id": null,
+                "name": "Scrum Alliance",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQFdepbfdMhg3g/company-logo_400_400/company-logo_400_400/0/1719255628822/scrum_alliance_logo?e=1749081600&v=beta&t=qstoYa-TOqZIyDBrO6LnJKhzsTo_retRgcjdRSrS_o0",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 100578237,
+                "name": "Actuation GmbH",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFc4ZMzbF9Vdg/company-logo_400_400/company-logo_400_400/0/1704026358803/actuation_gmbh_logo?e=1749081600&v=beta&t=2oi0j09wI98JvGEKgx6zpHBBFVgqGDMvtpvY8v7xncQ",
+                "url": "https://www.linkedin.com/company/actuation-gmbh/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Zurich, Switzerland",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Actuation GmbH",
+                    "description": "Freelance Consultant in the fields of Product Management, Data Analytics and Digital Transformation.",
+                    "title": "Founder",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2172350,
+                "name": "Verve Ventures",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGZtG76io4VEw/company-logo_400_400/company-logo_400_400/0/1630547468982/investiere_venture_capital_logo?e=1749081600&v=beta&t=tmbLNv2xY66SdkDDAjok0-9sYkutQ3xraOxkfBpc6js",
+                "url": "https://www.linkedin.com/company/verveventures/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Zurich, Switzerland",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Verve Ventures",
+                    "description": "− PO for a product team of 5 engineers and 1 product designer.\n− Team was responsible for the development of company’s in-house investment platform and backoffice applications.\n− Responsible for defining product roadmap, prioritising features and improvements based on feedback and research, as well as managing product feature releases.\n− Other responsibilities included defining & monitoring quarterly OKRs and people management tasks.\n− Team achieved full digitalisation of client onboarding (KYC) and investment processes reducing the operational cost per investment.\n− Team completed the implementation of company’s first data warehouse and BI dashboards, giving the management team greater and real time visibility into business performances.\n− Initiated the complete redesigning of the main platforms with focus on UX & UI through the hiring of the company’s first product designer.\n− Completed various ad-hoc projects such as CRM implementation and portfolio tool migration.\n− Main tech stack: Azure, Angular, Scala, NodeJS, MongoDB, Bitbucket, Docker, and Kubernetes.",
+                    "title": "Product Owner",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "− PO for a product team of 6 engineers and 1 data analyst across three countries.\n− Team was responsible for two product lines: Fraud Operations (FraudOps) and Statutory Reporting.\n− Responsible for defining product roadmap, prioritising features, defining & monitoring quarterly KPIs, and managing operational procedures.\n− Other responsibilities included training and monitoring of operation teams and people management tasks.\n− Team achieved full digitalisation of statutory reports in key markets (e.g. UK, Australia, Lithuania, etc.) and obtained approval from jurisdictions’ regulator.\n− Team completed development of a fraud reporting handling system helping to reduce operational costs and increasing recovered fraudulent funds.\n− Team completed development of fraud reporting portal prototype for banking and payment partners allowing end-to-end automation of fraud report.\n− Established regular communication with key regulators and payment partners to discuss emerging trend and threats.\n− Main tech stack: GCP, React, Python, Java, Postgres, Airflow, TeamCity, Docker, and Kubernetes.",
+                    "title": "Product Owner",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Associate Product Owner",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18946971,
+                "name": "Iyokus Ltd",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGwpehyLCARJA/company-logo_400_400/company-logo_400_400/0/1630634194107?e=1749081600&v=beta&t=Wd3R8ApAFIoPwFrS8EC-AM17N9yUCRL68pUF1F6wPl4",
+                "url": "https://www.linkedin.com/company/iyokus/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Iyokus Ltd",
+                    "description": "Iyokus is an e-commerce marketplace platform that helps retailers and manufacturers to sell unsold inventory and returned products faster and more effectively. At iyokus.com buyers bid the price they are willing to pay and receive feedback or counteroffer instantaneously. We give the buyers the ability to pay only what they are willing to pay and help sellers to reduce inventory costs and increase the recovery rate of these inventories, which otherwise often end up in landfills.\n\n- Leading the development and continues improvement of the main web application (mainly in Angular and Node.js) and several administrative microservices\n- API development and enhancement\n- Continuous design and SEO enhancement  \n- Design and create products ETL process and order management flow (order, cancellation, refund, etc.)\n- Integrate different cloud services (AWS, Heroku, Stripe, MongoDB, etc.)\n- Together with co-founder work on marketing, accounting and legal aspects of the business",
+                    "title": "Founder",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1038,
+                "name": "Deloitte Switzerland",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_400_400/company-logo_400_400/0/1662120928214/deloitte_logo?e=1749081600&v=beta&t=kvkV46PSklIG8Deko0Ubzj4XVKsJ7K2wCoKtOD-S3S8",
+                "url": "https://www.linkedin.com/company/deloitte/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Zürich Area, Switzerland",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Deloitte Switzerland",
+                    "description": "Assumed different roles across many projects from data analyst and SQL developer to project management.\n\nSelected projects experience:\n\nCompliance project at a global financial institution\n - Data engineering and processing\n - SQL Server data model design and deployment including quality control\n - Process streamlining and automation\n - Data analytics and reporting\n\nRobotic Process Automation (RPA) project at a global financial institution\n- Led development teams to develop and deploy automation onsite. \n- Requirements gathering and documentation\n- Stakeholders management and project coordination\n- Conduct RPA training workshops\n\nFinancial reporting transformation project at a global pharmaceutical company\n- Co-led a large and global project team\n- Led requirement gathering and reporting standardisation\n- Develop project plan and timeline together with senior management\n- Led cross teams coordination and served as the main interface between business and technology teams\n- Track project progress and report to the senior management team\n\nOther non-project responsibilities include assisting in the company's management reporting and off-site events organisation",
+                    "title": "Senior Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2041,
+                "name": "Aon Risk Solutions",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQH3BSg91nREwg/company-logo_400_400/company-logo_400_400/0/1721332906033?e=1749081600&v=beta&t=MlNopp7lmyhW5Kdc6ZYPOHS0I3bLe-gwsb_PxiifM2Y",
+                "url": "https://www.linkedin.com/company/aon/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Basel Area, Switzerland",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Aon Risk Solutions",
+                    "description": "- Performed market analysis of healthcare and insurance sectors for several developing countries\n- Conducted detailed post-merger documentation and evaluation of internal control systems",
+                    "title": "Internship",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "role": "Volunteer",
+            "company": {
+                "id": null,
+                "name": "World Federation of United Nations Associations (WFUNA)",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFs7cM5bN7bmg/company-logo_400_400/company-logo_400_400/0/1701100822229/world_federation_of_united_nations_associations_logo?e=1749081600&v=beta&t=Qks4fS9xLJCAwiOsiYPsRHRaLCdFx7dYeuqZf08WLhw",
+                "url": "https://www.linkedin.com/company/world-federation-of-united-nations-associations/"
+            },
+            "cause": "HUMAN_RIGHTS",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Startup Mentor",
+            "company": {
+                "id": null,
+                "name": "Tenity",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFjWoAyAW9tfA/company-logo_400_400/company-logo_400_400/0/1676442032484/tenity_logo?e=1749081600&v=beta&t=NlNeRfQoIsjaTOep84VCZjn_SHYat-4A_sLoWC7jgOY",
+                "url": "https://www.linkedin.com/company/tenity/"
+            },
+            "cause": null,
+            "description": null
+        }
+    ],
+    "skills": [
+        "Web Applications",
+        "FinTech",
+        "Startups",
+        "User Experience (UX)",
+        "Scrum",
+        "Product Management",
+        "Agile Methodologies",
+        "Project Management",
+        "Management Consulting",
+        "SQL",
+        "Data Analytics"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

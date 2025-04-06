@@ -1,0 +1,343 @@
+{
+    "profile_id": "thibautgenevrier",
+    "first_name": "Thibaut",
+    "last_name": "Genevrier",
+    "sub_title": "Partner & Head of Acquiring at Revolut",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAABZY1HAB-uGw9lSnWtBVwCeqMaIRVuFi5FA",
+    "object_urn": 374920304,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": null,
+        "short": "United Kingdom",
+        "city": null,
+        "state": null,
+        "default": "United Kingdom"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "The University of Queensland",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFdPHGC1hgwrw/company-logo_400_400/company-logo_400_400/0/1630608110520/university_of_queensland_logo?e=1749081600&v=beta&t=H0E4kwW0kEccSvs6GlfbL5AuI9RWx_B7GSBSP_l0I0o",
+                "url": "https://www.linkedin.com/school/university-of-queensland/"
+            },
+            "degree_name": "Master's degree",
+            "description": null,
+            "field_of_study": "Information Technology",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "Concordia University",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGYfVVygRuGfQ/company-logo_400_400/company-logo_400_400/0/1719257371250/concordia_university_logo?e=1749081600&v=beta&t=FFk-m3zRR9itSH2qVoB1VHlikAQXs_NjjpT__M849oo",
+                "url": "https://www.linkedin.com/school/concordia-university/"
+            },
+            "degree_name": "Bachelor's degree",
+            "description": null,
+            "field_of_study": "Political Science",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Partner",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "- Created the acquiring business. Hired and managed an exceptional multi-disciplinary team of 175 people (engineering, product, design, sales, marketting, data, risks and operations)\n- Launched amazing products: Revolut Pay, Revolut Pro, Revolut Reader, Merchant Account, Online Pyament Gateway, TapToPay with Apple, Payment link and invoicing solutions",
+                    "title": "General Manager - Acquiring",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1557218,
+                "name": "Lightspeed HQ",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFufBC2F27y9Q/company-logo_400_400/company-logo_400_400/0/1703010074652/lightspeedcommerce_logo?e=1749081600&v=beta&t=KlIm0zA_TOWnXdeHRF4JmqIBVybto24aanQOEmsg_To",
+                "url": "https://www.linkedin.com/company/lightspeedcommerce/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Montreal, Canada Area",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Lightspeed HQ",
+                    "description": null,
+                    "title": "Manager, Product Management - Payments",
+                    "employment_type": null
+                },
+                {
+                    "location": "Montreal, Canada Area",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Lightspeed HQ",
+                    "description": null,
+                    "title": "Senior Product Manager - Payments",
+                    "employment_type": null
+                },
+                {
+                    "location": "Montreal, Canada Area",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Lightspeed HQ",
+                    "description": null,
+                    "title": "Product Owner - Payments",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5175,
+                "name": "Valtech Canada",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFSPsCKDQ-lvQ/company-logo_400_400/company-logo_400_400/0/1697789289882/valtech_logo?e=1749081600&v=beta&t=e6I7p2m8bH5RyW_6Y8TtcsCW1EiTHthgW2z_MaRttCo",
+                "url": "https://www.linkedin.com/company/valtech/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Montreal, Canada Area",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Valtech Canada",
+                    "description": null,
+                    "title": "Product Owner",
+                    "employment_type": null
+                },
+                {
+                    "location": "Montreal, Canada Area",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Valtech Canada",
+                    "description": null,
+                    "title": "Business Analyst",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Leadership",
+        "Information Technology",
+        "PostgreSQL",
+        "PostGIS",
+        "RESTful WebServices",
+        "Adobe Experience Manager",
+        "Project Management",
+        "Python",
+        "Team Leadership",
+        "CQ5",
+        "Django",
+        "Requirements Analysis",
+        "AEM",
+        "Global Politics",
+        "Comparative Politics",
+        "FreeBSD",
+        "VMware ESX",
+        "Oracle Database",
+        "Debian",
+        "MongoDB"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

@@ -1,0 +1,750 @@
+{
+    "profile_id": "joeriaksel",
+    "first_name": "Joeri",
+    "last_name": "Vankeirsbilck",
+    "sub_title": "Co-founder at Growthcoders | Accelerating growth for ambitious tech companies | ex Revolut",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQHlqztnhT1sMg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1709322994414?e=1749081600&v=beta&t=e-eK8H7CuM_XEjbfFMZtDODjRPvcfPs74BPKo8YaWI0",
+    "background_image": "https://media.licdn.com/dms/image/v2/D4E16AQHX17rWiVsuYQ/profile-displaybackgroundimage-shrink_350_1400/B4EZWp19.UHgAY-/0/1742311252323?e=1749081600&v=beta&t=BlUtBeasUzrcn6Ahq236qPinSoOZbsuHrDesCnk7iBc",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAABTaQ4BhGdffE49DsrV5I2YUjdxsEvYWl4",
+    "object_urn": 5466382,
+    "birth_date": null,
+    "summary": "Looking to accelerate your growth but don’t want to hire an entire growth team?\n\nAfter working with a variety of startups, scale-ups, and unicorns - often from their earliest days - I’ve teamed up with a some of my best ex-colleagues to offer a comprehensive suite of product growth services in a flexible package, tailored to your unique needs.\n\nAt Growthcoders, we specialize in:\n• 🛠️ GTM Strategy: Building actionable growth roadmaps with measurable KPIs\n• 📊 Data & Experimentation: Leveraging data to optimize, iterate, and scale\n• 💡 UI/UX & Conversion Optimization: Designing seamless experiences that drive results\n• 🚀 Growth Engineering & Automation: Creating tools to drive traffic, and automating sales & marketing\n\nWhether you’re looking to scale your growth or solve a specific challenge, book a free call today to explore how we can help.\nhttps://growthcoders.co",
+    "location": {
+        "country": null,
+        "short": "United Kingdom",
+        "city": null,
+        "state": null,
+        "default": "United Kingdom"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "INSEAD",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGGK49QM3u7NQ/company-logo_400_400/company-logo_400_400/0/1630650117382/insead_logo?e=1749081600&v=beta&t=Rbhs5SgqyXn8m_fOLWWgKNwj6yF46NULAifKsODCPdU",
+                "url": "https://www.linkedin.com/school/insead/"
+            },
+            "degree_name": "Master of Business Administration (M.B.A.)",
+            "description": null,
+            "field_of_study": "Finance, Entrepreneurship",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "KU Leuven",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHAtw6LesXG-w/company-logo_400_400/company-logo_400_400/0/1631310791100?e=1749081600&v=beta&t=OFgL0xcJhav47uMFx0SktrshbE-y02cRaIqR5cN4q9Q",
+                "url": "https://www.linkedin.com/school/ku_leuven/"
+            },
+            "degree_name": "Master's Degree",
+            "description": null,
+            "field_of_study": "Advanced Business Studies",
+            "grade": "Distinction"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "The Wharton School",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFQu7wZniptpA/company-logo_400_400/company-logo_400_400/0/1677690194092/the_wharton_school_logo?e=1749081600&v=beta&t=TNTo8iphzsOh5jYYUSPaiLcU_IaM1eYkUpLlAit3fsw",
+                "url": "https://www.linkedin.com/school/the-wharton-school/"
+            },
+            "degree_name": "Marketing Strategy (summer session)",
+            "description": null,
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "The London School of Economics and Political Science (LSE)",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEmNyPMuyVfyQ/company-logo_400_400/company-logo_400_400/0/1657529757949/london_school_of_economics_logo?e=1749081600&v=beta&t=s2vntm1jW8adEV9mgSELCrzQtg2OLnUyRoAoQbtRiUs",
+                "url": "https://www.linkedin.com/school/london-school-of-economics/"
+            },
+            "degree_name": "Advanced Topics in Marketing (summer session)",
+            "description": null,
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "KU Leuven",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHAtw6LesXG-w/company-logo_400_400/company-logo_400_400/0/1631310791100?e=1749081600&v=beta&t=OFgL0xcJhav47uMFx0SktrshbE-y02cRaIqR5cN4q9Q",
+                "url": "https://www.linkedin.com/school/ku_leuven/"
+            },
+            "degree_name": "Bachelor's Degree",
+            "description": null,
+            "field_of_study": "Managerial Economics",
+            "grade": "Distinction"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [
+        {
+            "name": "Python User Group, Singapore & APAC",
+            "position": "Committee Member",
+            "date_start": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            },
+            "date_end": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            }
+        }
+    ],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [
+        {
+            "name": "GMAT",
+            "score": "730",
+            "date": null
+        }
+    ],
+    "position_groups": [
+        {
+            "company": {
+                "id": 106250977,
+                "name": "Growthcoders",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF2B14I7efOVQ/company-logo_400_400/B4EZUT7z3IHgAg-/0/1739796201395/growthcoders_logo?e=1749081600&v=beta&t=2i82XVcF__Fg6WO-iitmJF7mxFXfvMIpY-26OXPbAKg",
+                "url": "https://www.linkedin.com/company/growthcoders/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2025
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London Area, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2025
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Growthcoders",
+                    "description": "The product growth agency for ambitious startups.",
+                    "title": "Co-Founder",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 105532470,
+                "name": "Founder Ventures",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFgG_oOeDdKyA/company-logo_400_400/company-logo_400_400/0/1730986529481/founderventures_logo?e=1749081600&v=beta&t=xNAeMY29UC6rnw_WPQ7JaOC_rbCrrtlRS1E84Kuv_os",
+                "url": "https://www.linkedin.com/company/founderventures/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2024
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2025
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London Area, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2025
+                        }
+                    },
+                    "company": "Founder Ventures",
+                    "description": "- Product help for startups and scale-ups\n- Building and testing new ideas",
+                    "title": "Product help for startups and scale-ups",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 80975702,
+                "name": "Easop",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEcxUroz1HpWQ/company-logo_400_400/company-logo_400_400/0/1664959207137/easophq_logo?e=1749081600&v=beta&t=MPHm-RJyzTl9ynqytkTOmtF_Tm0aFYqoOfpO9ejjZpI",
+                "url": "https://www.linkedin.com/company/easophq/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "New York, United States",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Easop",
+                    "description": "Easop is the leading global equity compensation solution. Grant tax-efficient equity to your team members worldwide, without the lawyers or the hassle. Our SaaS solution provides localized legal templates drafted by top-tier law firms, automated workflows, and scalable pricing to help you make competitive equity grants in minutes. We sync with Carta, Pulley, Deel and Remote to fit seamlessly into your existing workflows.\n\nEasop was acquired by Remote in April 2024.",
+                    "title": "Head of GTM",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 40914442,
+                "name": "Comma",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGbnZzbRQi50w/company-logo_400_400/company-logo_400_400/0/1682676698693/commapayments_logo?e=1749081600&v=beta&t=-WMxD31EccV27LHr7ateeM224rPI7aFfnecwbNf6Ld0",
+                "url": "https://www.linkedin.com/company/commapayments/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Comma",
+                    "description": "Comma makes it easy for accountants & bookkeepers to create and share payment runs with clients. Clients can then batch pay bills, taxes, and salaries on their phone with a thumb click from their own bank account. It’s a magical experience for clients, and enables accountants & bookkeepers to offer brand new services.\n\nComma was acquired by Weavr.io in March 2023",
+                    "title": "VP Commercial",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18776174,
+                "name": "On Deck",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFIB4x9n1R9FQ/company-logo_400_400/company-logo_400_400/0/1675897483043/beondeck_logo?e=1749081600&v=beta&t=A6apAo3IquEIHddWqHcKbb4M18rQcbaGUMGPfC7jU4I",
+                "url": "https://www.linkedin.com/company/%27odf%27/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "On Deck",
+                    "description": null,
+                    "title": "Fellow at On Deck Health (ODH1)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Global Head of Growth Partnerships",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11013402,
+                "name": "J16k",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEfskmOxRlzpQ/company-logo_400_400/company-logo_400_400/0/1631359693329/j16k_logo?e=1749081600&v=beta&t=cR3-RcHWgkNn5CHvOdDHFg1IS-Q7hNG9FRCpPoNBUBc",
+                "url": "https://www.linkedin.com/company/j16k/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "J16k",
+                    "description": "Growth, GTM, sales & marketing for startups and scale-ups",
+                    "title": "Founder",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6627531,
+                "name": "Modulr Finance",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFrTUPWFOBB0g/company-logo_400_400/B4EZUotE1oHMAY-/0/1740144660267/modulr_finance_logo?e=1749081600&v=beta&t=RG9tSfzHHHJ1dEYk-JHOk5UIDRGHWsYz_ozKeM8byH4",
+                "url": "https://www.linkedin.com/company/modulr-finance/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Modulr Finance",
+                    "description": "Modulr offers APIs to instantly open unlimited (bank) accounts, make real-time payments, and takes care of all regulatory requirements. Modulr provides the back-end for innovative fintech challengers and automates payments processes in a range of corporate sectors. The company launched in 2016 and has processed £6bn in just two years. Backed by Blenheim Chalcot.\n\nLaunched and scaled up one of top two revenue driving sectors. End-to-end ownership from initial analysis, go-to-market strategy and marketing plan, to delivering sales and channel partnerships.",
+                    "title": "Strategic Market Development Director",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2808012,
+                "name": "GoCardless",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFIIW9iGmhrVQ/company-logo_400_400/company-logo_400_400/0/1677577972786/gocardless_logo?e=1749081600&v=beta&t=MO1Wq6fYEM-5-CSNL2xNQfFjb891IVAFnBH3xvPIB9Q",
+                "url": "https://www.linkedin.com/company/gocardless/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "GoCardless",
+                    "description": "GoCardless makes it easy to accept recurring payments online by unifying the world’s Direct Debit networks via API. GoCardless processes over 2bn GBP annually for 20,000 merchants. The company is backed by some of the world’s leading investors including Balderton Capital, Accel Partners, Notion Capital, and Y Combinator.\n\nLaunched GoCardless in Netherlands, Belgium and Luxembourg. Accelerated growth in France.\nClosed European partnerships in various verticals.",
+                    "title": "Country Lead - Benelux",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1668689,
+                "name": "Affectv",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFe0V8yTfbYtQ/company-logo_400_400/company-logo_400_400/0/1670581648900/hybridtheory_logo?e=1749081600&v=beta&t=eeEuj5zWy_kNHO8NrteK8z3nHPdYLQsYxwzflulsiGA",
+                "url": "https://www.linkedin.com/company/hybridtheory/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Affectv",
+                    "description": "Affectv is an advertising technology company bringing new users to the world's top advertisers by utilising realtime behavioural data to personalise display ads. Affectv is backed by Octopus Ventures and has offices in London, New York and Sydney.\n\nIn charge of the company’s data strategy, product partnerships and licensing to drive the performance of its core programmatic products and bring new products to market.\n\nClosed industry-first data partnerships ahead of much larger US competitors Rocketfuel and Quantcast, enabling the company to go to market with better performing ad solutions faster, thereby securing new top tier customers.",
+                    "title": "Business Development Director",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Panel Member",
+            "company": {
+                "id": null,
+                "name": "British Lung Foundation",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFY8mep0TssLQ/company-logo_400_400/company-logo_400_400/0/1631347920402?e=1749081600&v=beta&t=Zj02tBafJBYmd0VYWR3lI2DaOqTruKDFG7ZsPMO6Owg",
+                "url": "https://www.linkedin.com/company/british-lung-foundation/"
+            },
+            "cause": "HEALTH",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "role": "Techbikers Fundraising",
+            "company": {
+                "id": null,
+                "name": "Room to Read",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF63OSnReHIPg/company-logo_400_400/company-logo_400_400/0/1731454239940?e=1749081600&v=beta&t=IQ1fLDpUiQ4GyitfRLD9mxy93EUn0aW9DyUYwhe5etg",
+                "url": "https://www.linkedin.com/company/room-to-read/"
+            },
+            "cause": "EDUCATION",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "role": "Fundraising",
+            "company": {
+                "id": null,
+                "name": "Cancer Research UK (CRUK)",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHaxOWsvLyxww/company-logo_400_400/company-logo_400_400/0/1693998896586/cancer_research_uk_logo?e=1749081600&v=beta&t=U38ybpjNJSt8cfUVEIEUjWg5AL8VwTmhD46PcVZHC2k",
+                "url": "https://www.linkedin.com/company/cancer-research-uk/"
+            },
+            "cause": "HEALTH",
+            "description": null
+        }
+    ],
+    "skills": [
+        "Start-ups",
+        "Strategy",
+        "Digital Marketing",
+        "Entrepreneurship",
+        "Business Development",
+        "Product Management",
+        "Product Launch",
+        "P&L Management",
+        "Go-to-market Strategy",
+        "Sales",
+        "International Development",
+        "Digital Media",
+        "E-commerce",
+        "Business Planning",
+        "Marketing Strategy",
+        "Online Marketing",
+        "Marketing",
+        "Venture Capital",
+        "Competitive Analysis",
+        "Corporate Development"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

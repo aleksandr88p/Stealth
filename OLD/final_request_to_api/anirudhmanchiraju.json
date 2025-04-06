@@ -1,0 +1,909 @@
+{
+    "profile_id": "anirudhmanchiraju",
+    "first_name": "Anirudh",
+    "last_name": "Manchiraju",
+    "sub_title": "Staff Product@Deel Fintech | Ex-Amazon | Ex- Revolut | Stanford | Duke | BITS-Pilani",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/v2/D5616AQHMQVmHGz5zYg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737713454184?e=1749081600&v=beta&t=hUHtxJqiGr_EHVSM6741wRTUe87y5r7nFMy1gjs0Q8Q",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAASll4oBE5_Hi-ZEGfRkv5c_vbe6Y6awDrQ",
+    "object_urn": 77961098,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": null,
+        "short": "United Kingdom",
+        "city": null,
+        "state": null,
+        "default": "United Kingdom"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Marathi",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Tamil",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Telugu",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Duke University",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE1nqQztnbgIA/company-logo_400_400/company-logo_400_400/0/1704127476142/duke_university_logo?e=1749081600&v=beta&t=Io23gocTWTnEMI2kBq_nZNbgl_3FrabxNElRasW-Fqg",
+                "url": "https://www.linkedin.com/school/duke-university/"
+            },
+            "degree_name": "Master's degree",
+            "description": "Duke's Master of Engineering Management (MEM) Program, offered by Pratt School of Engineering with the support of the Fuqua School of Business and the Duke School of Law, prepares engineering and science graduates to become future industry leaders. The core curriculum consists of marketing, finance, intellectual property and business law, and management, similar to key courses in an MBA curriculum.",
+            "field_of_study": "Engineering  Management",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Stanford University Graduate School of Business",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGyTHJCehyEuA/company-logo_400_400/company-logo_400_400/0/1630537027992/stanford_graduate_school_of_business_logo?e=1749081600&v=beta&t=mEH4QfcH_a4lAXX1hnvj15s4Jr1GgW64JbCSdZwqPMA",
+                "url": "https://www.linkedin.com/school/stanford-graduate-school-of-business/"
+            },
+            "degree_name": "Certification ",
+            "description": "• Selected to participate in an intensive summer management program which has an admissions rate of 15% \n• Developed a strong foundation in business and management fundamentals\n• Attended classes on strategy, marketing, accounting, finance, operations, talent management, entrepreneurship, economics, statistics, auctions, corporate governance, nonprofit, and negotiations\n• Engaged with guest speakers from leading companies\n• Learned from the same world-renowned Stanford GSB faculty who teach in the MBA program\n• Studied alongside students from more than 30 countries",
+            "field_of_study": "Summer Institute of General Management",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Birla Institute of Technology and Science, Pilani",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHJcHjUCqWVbA/company-logo_400_400/company-logo_400_400/0/1695033146996/birla_institute_of_technology_and_science_pilani_logo?e=1749081600&v=beta&t=Z4pjHcFYM_lkg-c_yrImqWz_9zV1JGZJV_GiqqdPy3w",
+                "url": "https://www.linkedin.com/school/birla-institute-of-technology-and-science-pilani/"
+            },
+            "degree_name": "Dual degree in M.Sc(Hons.) & B.E,(Hons.)",
+            "description": null,
+            "field_of_study": "Chemistry & Electronics & Instrumentation",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Achieving Excellence",
+            "description": "Received the award in the category of 'Teamwork & Partnership' in the 4th quarter of 2013",
+            "issuer": "Wells Fargo",
+            "date": {
+                "month": 12,
+                "day": null,
+                "year": 2013
+            }
+        },
+        {
+            "title": "Achieving Excellence",
+            "description": "Received the award in the category of 'Leadership Skills' in the 4th quarter of 2011 ",
+            "issuer": "Wells Fargo",
+            "date": {
+                "month": 12,
+                "day": null,
+                "year": 2011
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Microsoft acquisition of Skype. Was it worth $8.5 billion?",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": null,
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anirudh",
+                    "last_name": "Manchiraju",
+                    "name": null,
+                    "headline": "Staff Product@Deel Fintech | Ex-Amazon | Ex- Revolut | Stanford | Duke | BITS-Pilani"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Lin Rui",
+                    "last_name": "Li-Alcorn",
+                    "name": null,
+                    "headline": "Strategic Problem Solving & Innovation for Good | MBA/MPP"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mayura",
+                    "last_name": "Davda-Shah",
+                    "name": null,
+                    "headline": "Founder & Creative Director at MAYU & Hommage "
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Liz",
+                    "last_name": "Verity",
+                    "name": null,
+                    "headline": "Corporate Strategy at LogicMonitor"
+                }
+            ]
+        },
+        {
+            "title": "Wireless Sensor Networks and its applications - Thesis",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "description": "Applied the concepts of wireless networks and analysed the soil parameters using Cypress PSOC Kits",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anirudh",
+                    "last_name": "Manchiraju",
+                    "name": null,
+                    "headline": "Staff Product@Deel Fintech | Ex-Amazon | Ex- Revolut | Stanford | Duke | BITS-Pilani"
+                }
+            ]
+        },
+        {
+            "title": "Development of an enzymatic bio-assay based on colorimetry and the kinetic study of ALP",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "description": "The kinetics of ALP in reaction with p-NPP and methyl paraoxon (inhibitor) was studied",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anirudh",
+                    "last_name": "Manchiraju",
+                    "name": null,
+                    "headline": "Staff Product@Deel Fintech | Ex-Amazon | Ex- Revolut | Stanford | Duke | BITS-Pilani"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Dharma Teja",
+                    "last_name": "V.",
+                    "name": null,
+                    "headline": "Experienced scientist in genomics and diagnostics devices"
+                }
+            ]
+        },
+        {
+            "title": "Effect of unconventional processing on the chemical  composition of volatiles from cumin",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "description": "At Central Food Technological Research Institute (CFTRI)\nURL : http://ir.cftri.com/8746/",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anirudh",
+                    "last_name": "Manchiraju",
+                    "name": null,
+                    "headline": "Staff Product@Deel Fintech | Ex-Amazon | Ex- Revolut | Stanford | Duke | BITS-Pilani"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Competitive Strategies",
+            "number": null
+        },
+        {
+            "name": "Financial Accounting",
+            "number": null
+        },
+        {
+            "name": "Fixed Income Securities",
+            "number": null
+        },
+        {
+            "name": "Innovation Management",
+            "number": null
+        },
+        {
+            "name": "Intellectual Property, Law",
+            "number": null
+        },
+        {
+            "name": "Management",
+            "number": null
+        },
+        {
+            "name": "Marketing",
+            "number": null
+        },
+        {
+            "name": "Product Management",
+            "number": null
+        },
+        {
+            "name": "Supply Chain Management",
+            "number": null
+        }
+    ],
+    "test_scores": [
+        {
+            "name": "GRE",
+            "score": "330/340",
+            "date": {
+                "month": 9,
+                "day": null,
+                "year": 2010
+            }
+        }
+    ],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18922914,
+                "name": "Deel",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQES3O6oszqhug/company-logo_400_400/company-logo_400_400/0/1708945543116/deel_logo?e=1749081600&v=beta&t=bOgYMbmbrzKYd0tCEJgGlI9FqtyPxKc9plYzRnT7gFE",
+                "url": "https://www.linkedin.com/company/deel/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2024
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Deel",
+                    "description": null,
+                    "title": "Staff Product Operations Manager (Fintech)",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18106262,
+                "name": "CloudKitchens",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFk1VTeMLuMOA/company-logo_400_400/company-logo_400_400/0/1630655802650/cloudkitchens_logo?e=1749081600&v=beta&t=tP02KL1IlejzbX-QFpf3BqGjZE2XzUpYpgxDrboyH1E",
+                "url": "https://www.linkedin.com/company/cloudkitchens/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2024
+                        }
+                    },
+                    "company": "CloudKitchens",
+                    "description": null,
+                    "title": "Product Lead - Analytics",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "CloudKitchens",
+                    "description": null,
+                    "title": "Otter | Head of Product Operations - EMEA & APAC",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "CloudKitchens",
+                    "description": null,
+                    "title": "Otter | Regional Product Program Manager - EMEA",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Strategy & Business Operations\n•\tOverseen progress of 2021 company goals, acting as a strategic partner to head of departments (HODs) on KPI design\n•\tDrove quarterly roadmap reviews and prioritization for business units, coordinating with HODs\n•\tCoordinated with product owners and developers to implement feature improvements of KPI performance product\n•\tReduced redundant tasks 70% through in-detail process mapping and identifying blockers\n\nSuccession Planning\n•\tManaged the implementation of key person framework and planning successors for the company\n•\tIdentified key person types across all entities by forming a global working committee comprising risk, compliance and HR teams\n•\tOperationalized the framework and assured continued success for the tool by setting up key policies and educational documents\n•\tCreated dashboards, automated work flows to notify when a change happens on key person profile (onboarding, termination)",
+                    "title": "Senior Operations Manager - CEO Office",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1586,
+                "name": "Amazon",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_400_400/company-logo_400_400/0/1630640869849/amazon_logo?e=1749081600&v=beta&t=q5naXkE0LUSxLGxESloF4IYnupyXdNWtQje37S1Z8LI",
+                "url": "https://www.linkedin.com/company/amazon/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Amazon",
+                    "description": "Daily Execution – Covid\n•\tMeticulously executed inbounding of essentials (or priority stock) to warehouses, to help meet surge in demand \n•\tAnalyzed the effect of social distancing on warehouse associates to mitigate inbounding of 2-person team lift products \n•\tRevamped reverse logistics forecasting techniques to adapt to localized lockdown challenges across EU due to Covid-19\t\n\nLong term Strategy - Brexit\n•\tSpearhead the weekly sales and operational planning (S&OP) process end-to-end for inbound and cross-border flows \n•\tStabilized network by analyzing variations in seller lead times (due to Brexit uncertainty) that led to stockpiling efforts \n•\tEnsured inventory fullness at robotic sites was above 95% during peak (a key metric), despite fluctuations in vendor inbound\n\nProduct Launch\n•\tLed testing for launch of new Inventory Planning Tool, customized for Brexit, coordinating with various cross-functional teams\n•\tStreamlined planning process post launch through automation with minimal impact to downstream stakeholders\n•\tGathered user feedback post-launch, translated to business requirements and helped prioritize for road map 2020",
+                    "title": "Senior Supply Chain Analyst",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2382910,
+                "name": "Amazon Web Services",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_400_400/company-logo_400_400/0/1738855736997/amazon_web_services_logo?e=1749081600&v=beta&t=NaEHuClqkDK6j88vpEMeWF09TOQFcCrSPm1r0wqXbd4",
+                "url": "https://www.linkedin.com/company/amazon-web-services/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Amazon Web Services",
+                    "description": "•\tCreated and managed data pipelines, migrating data from local systems to AWS Redshift cluster\n•\tDrove an org wide initiative to revamp existing metrics, by encouraging internal stakeholders to ask the right business questions\n•\tAided strategy teams to decide the location of a new data center by creating maps using Mapbox and Tableau\n•\tBuilt powerful visualizations that bridged gaps in data between suppliers and construction managers\n•\tDesigned a Power Heat map tool for EMEA data centers in Q1 2018, that later expanded to other regions\n•\tDeveloped automated solutions for recurrent reporting (daily/weekly/monthly) using VBA\n•\tMigrated 20+ VBA based reports into Tableau \n•\tExpanded our team's reach by connecting to more data sources like Salesforce, AWS Redshift, SharePoint etc.\n•\tActively involved in tying the data collected at the grassroots level to senior management goals",
+                    "title": "Senior Data Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Greater Seattle Area",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Amazon Web Services",
+                    "description": "• Designed automated solutions for recurrent reporting (daily/weekly/monthly) using VBA\n• Provide in-depth analysis to management on business metrics and key performance indicators\n• Collaborated with finance, engineering and real estate teams teams to build extended solutions",
+                    "title": "Data Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3356,
+                "name": "Duke University",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE1nqQztnbgIA/company-logo_400_400/company-logo_400_400/0/1704127476142/duke_university_logo?e=1749081600&v=beta&t=Io23gocTWTnEMI2kBq_nZNbgl_3FrabxNElRasW-Fqg",
+                "url": "https://www.linkedin.com/school/duke-university/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Raleigh-Durham, North Carolina Area",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Duke University",
+                    "description": null,
+                    "title": "Graduate Teaching Assistant - Competitive Strategies",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 47732,
+                "name": "The Conservation Fund",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHulFGV_vF76g/company-logo_400_400/company-logo_400_400/0/1726788836160/the_conservation_fund_logo?e=1749081600&v=beta&t=y7FGDh-uqMGA5YwEtmH1ZHl7h6QkfYF5ET51gIo_igo",
+                "url": "https://www.linkedin.com/company/the-conservation-fund/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Chapel Hill",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "The Conservation Fund",
+                    "description": "• Performed economic impact analysis of North Carolina state parks using IMPLAN and ArcGIS tools\n• Analyzed visitation data and expense reports from 2000-2015\n• Recommended changes to future spending strategies\n• Surveyed 3,000+ people to study in-county and out-of-county effects of state parks",
+                    "title": "Strategy Consultant",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3356,
+                "name": "Duke University",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE1nqQztnbgIA/company-logo_400_400/company-logo_400_400/0/1704127476142/duke_university_logo?e=1749081600&v=beta&t=Io23gocTWTnEMI2kBq_nZNbgl_3FrabxNElRasW-Fqg",
+                "url": "https://www.linkedin.com/school/duke-university/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Raleigh-Durham, North Carolina Area",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Duke University",
+                    "description": "• Analyzed key features and pricing strategies of the current project management (PM) tools in the industry\n• Compared them with the features of Net Serpents PM prototype\n• Evaluated the market forces and business model using standard frameworks \n• Recommended the next moves to incorporate certain features that would help compete against competitors",
+                    "title": "Student Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1235,
+                "name": "Wells Fargo",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGLxWPpGqaVmw/company-logo_400_400/company-logo_400_400/0/1630471638964/wellsfargo_logo?e=1749081600&v=beta&t=U7IsGU-hhpyIp-XQ-39BJLHZ29uuUQaaHPUW7HqTWpI",
+                "url": "https://www.linkedin.com/company/wellsfargo/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Wells Fargo",
+                    "description": "• Managed projects that includes UNIX patching \n• Led, trained and recruited teams on processes in India and Hong Kong \n• Drove strategy, planning, scheduling and coordination of infrastructure related activities \n• Analysed data related to 45000+ servers on a daily basis\n• Collaborated effectively with partners across US, Hong Kong and India\n• Coordinated with stakeholders, business partners and the engineers to ensure smooth activity\n• Responsible for change management across support major lines of businesses of the bank",
+                    "title": "Technical Program Manager",
+                    "employment_type": null
+                },
+                {
+                    "location": "Hyderabad Area, India",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Wells Fargo",
+                    "description": "• Systems analyst aligned to the Wholesale line of business\n• Developed skills as a Middleware administrator on server technologies\n• Primary skills in WebSphere Application server (WAS)\n• Secondary skills in Weblogic, SunOne, Apache server technologies\n• Trained new hires on various aspects of Middleware technologies\n• Designated the role of a Workflow coordinator in addition to the above responsibilities",
+                    "title": "Web Systems Analyst",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1134790,
+                "name": "Birla Institute of Technology and Science, Pilani - Goa Campus",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG8khSb9vCdJg/company-logo_400_400/company-logo_400_400/0/1631349331520?e=1749081600&v=beta&t=lRLO7i89XPUk8k9QGJ7lDFw3LIT12GPtL_6uw5Ms6MM",
+                "url": "https://www.linkedin.com/school/birla-institute-of-technology-and-science-pilani---goa-campus/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Birla Institute of Technology and Science, Pilani - Goa Campus",
+                    "description": "Teaching/Professional Assistant under Professor Radhika Vatsan.",
+                    "title": "Undergraduate Teaching Assistant - Image Processing",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Volunteer",
+            "company": {
+                "id": null,
+                "name": "The Art of Living",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEda-QxKPDCYw/company-logo_400_400/B56ZWYnKmrGUAY-/0/1742022159437/the_art_of_living_logo?e=1749081600&v=beta&t=ApztvcUmll5nsT1QzpgKRUkVmJrc3l0ejP6inl2LthE",
+                "url": "https://www.linkedin.com/company/the-art-of-living/"
+            },
+            "cause": "SOCIAL_SERVICES",
+            "description": null
+        }
+    ],
+    "skills": [
+        "Agile Methodologies",
+        "Data Analysis",
+        "Strategy",
+        "Project Management",
+        "Business Intelligence",
+        "Management Consulting",
+        "Business Development",
+        "Research",
+        "Microsoft Excel",
+        "Tableau",
+        "Matlab",
+        "Management",
+        "Leadership",
+        "Teamwork",
+        "SQL"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

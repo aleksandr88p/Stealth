@@ -1,0 +1,499 @@
+{
+    "profile_id": "valeriyknyazhev",
+    "first_name": "Valerii",
+    "last_name": "Kniazhev",
+    "sub_title": "Working on Crypto Trading",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C4D03AQE0jAOncSgBkg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1537952208316?e=1749081600&v=beta&t=re9m9JKDuiGjpIcpU9Edchp--ea9YCZ7MuHZTxHHIww",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAB6osOIBr-o4b74w1MXBgDkKYj7o0LX24Rs",
+    "object_urn": 514371810,
+    "birth_date": null,
+    "summary": "Java developer",
+    "location": {
+        "country": "United Kingdom",
+        "short": "London, England",
+        "city": "London",
+        "state": "England",
+        "default": "London, England, United Kingdom"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            },
+            {
+                "country": "RU",
+                "language": "ru"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Moscow Institute of Physics and Technology (State University) (MIPT)",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEBw1Y3fw-u1Q/company-logo_400_400/company-logo_400_400/0/1631357428609?e=1749081600&v=beta&t=UA8YQL71l6WL3GXfY9XEEeym340Tg6cgBlfXzY-rl4E",
+                "url": "https://www.linkedin.com/school/moscowinstituteofphysicsandtechnology/"
+            },
+            "degree_name": "Master's degree",
+            "description": "Department of Innovation and High Technologies\nCathedra of Theoretical and Applied Problems of Innovation",
+            "field_of_study": "Applied mathematics and physics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Moscow Institute of Physics and Technology (State University) (MIPT)",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEBw1Y3fw-u1Q/company-logo_400_400/company-logo_400_400/0/1631357428609?e=1749081600&v=beta&t=UA8YQL71l6WL3GXfY9XEEeym340Tg6cgBlfXzY-rl4E",
+                "url": "https://www.linkedin.com/school/moscowinstituteofphysicsandtechnology/"
+            },
+            "degree_name": "Bachelor's degree",
+            "description": "Department of Innovation and High Technologies\nCathedra of Image Recognition and Text Processing",
+            "field_of_study": "Applied mathematics and physics",
+            "grade": "4.51"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Math и Python for data analysis",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/29T3YY7PQYPP",
+            "license_number": "29T3YY7PQYPP",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQG24u4DKpQ5dQ/company-logo_400_400/company-logo_400_400/0/1631343250640?e=1749081600&v=beta&t=Cq8rEFf-AiYZEim1t-tMxOJHIVNxDXkTIF1JpoT2l0I",
+                "url": null
+            }
+        },
+        {
+            "name": "Basics of objective setting for software development",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Stepik",
+            "url": "https://stepic.org/certificate/d85b3190b9b1d1757ccd05cb75d3516984bc0c75.pdf",
+            "license_number": null,
+            "display_source": "stepic.org",
+            "company": {
+                "id": null,
+                "name": "Stepik",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF4FoapgWWOyA/company-logo_400_400/company-logo_400_400/0/1630637018778/stepic_logo?e=1749081600&v=beta&t=5z1tKw1OqfuGC5Umn0OZsgzRjmHJ_94wwCR03Af5fsE",
+                "url": null
+            }
+        },
+        {
+            "name": "Discrete Structures (Analysis)",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Stepic.org",
+            "url": "https://stepic.org/certificate/76392173c920243b1a14e2334e89bf91dbf2ba44.pdf",
+            "license_number": null,
+            "display_source": "stepic.org",
+            "company": {
+                "id": null,
+                "name": "Stepik",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF4FoapgWWOyA/company-logo_400_400/company-logo_400_400/0/1630637018778/stepic_logo?e=1749081600&v=beta&t=5z1tKw1OqfuGC5Umn0OZsgzRjmHJ_94wwCR03Af5fsE",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "WinAPI-NotePad",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Notepad for editing files.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Valerii",
+                    "last_name": "Kniazhev",
+                    "name": null,
+                    "headline": "Working on Crypto Trading"
+                }
+            ]
+        },
+        {
+            "title": "PythonNoteBook",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Our own version of JupiterNotebook.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Valerii",
+                    "last_name": "Kniazhev",
+                    "name": null,
+                    "headline": "Working on Crypto Trading"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Федоров Алексей",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Корзун Владислав",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Рыков Никита",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Лебедев Алексей",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andrey",
+                    "last_name": "Reshetnikov",
+                    "name": null,
+                    "headline": "Senior iOS Developer, Tech Lead"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 105253352,
+                "name": "Neverless",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHKPl5DjZlw_Q/company-logo_400_400/company-logo_400_400/0/1732807299611/neverlessapp_logo?e=1749081600&v=beta&t=7-D3gDkJgA7bkufjJnJ5X-sqkNYLpcAhuXP8NbXyCj8",
+                "url": "https://www.linkedin.com/company/neverlessapp/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2024
+                        }
+                    },
+                    "company": "Neverless",
+                    "description": null,
+                    "title": "Founding Backend Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Retail Platform Team",
+                    "title": "Senior Software Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut Ltd",
+                    "description": "Market Making - Trading desk team",
+                    "title": "Senior Software Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Moscow",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Trading Platform team",
+                    "title": "Backend Software Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9500280,
+                "name": "BostonGene",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHB0bhqcNVGwQ/company-logo_400_400/company-logo_400_400/0/1630654650344/bostongene_logo?e=1749081600&v=beta&t=LamFBKxQFkI07VLjjoJ4pLRmur8jriwxug8-IBs6wJI",
+                "url": "https://www.linkedin.com/company/bostongene/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russia",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "BostonGene",
+                    "description": "- Development of a cloud platform, which includes\ninfrastructure and services for storing medical related\ninformation and managing computing resources.\n- Development of a service which generates a personalized\nreport with recommendations based on precomputed\ngenetic analysis.\n- Domain analysis.\n- Mentoring of junior developers.\n- Managing of backend development team (4 people).\n- Project management of product services.\n- Maintaining CI/CD processes.\n\nStack: Java-development (Spring-framework), MongoDB, PostgreSQL, Testing (Mockito, Spock, JUnit) Docker, React, Redux",
+                    "title": "Software Platform Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "role": "Event Organizer",
+            "company": {
+                "id": null,
+                "name": "Moscow Institute of Physics and Technology (State University) (MIPT)",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEBw1Y3fw-u1Q/company-logo_400_400/company-logo_400_400/0/1631357428609?e=1749081600&v=beta&t=UA8YQL71l6WL3GXfY9XEEeym340Tg6cgBlfXzY-rl4E",
+                "url": "https://www.linkedin.com/school/moscowinstituteofphysicsandtechnology/"
+            },
+            "cause": "CIVIL_RIGHTS",
+            "description": "Student's football cup"
+        }
+    ],
+    "skills": [
+        "Java",
+        "Spring Framework",
+        "Linux",
+        "Algorithms",
+        "Testing",
+        "design patterns",
+        "Machine Learning",
+        "project management",
+        "Git",
+        "Hibernate",
+        "SQL",
+        "JIRA",
+        "Docker",
+        "JavaScript",
+        "C++",
+        "C#",
+        "Python",
+        "Android",
+        "MongoDB",
+        "Tortoise SVN"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

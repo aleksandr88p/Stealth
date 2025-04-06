@@ -1,0 +1,728 @@
+{
+    "profile_id": "graah",
+    "first_name": "Hannes",
+    "last_name": "Graah",
+    "sub_title": "Building with Zeal | ex-Revolut & Spotify",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQHSnKlf6eR5fw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1673208313172?e=1749081600&v=beta&t=kDM4v74XmkpXPlPkAX8nM8J-TEC-tv2RSN5nDBifT28",
+    "background_image": "https://media.licdn.com/dms/image/v2/C5616AQEPLzgIMcwMiw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1657810157979?e=1749081600&v=beta&t=AW3BV5_k2AgeNPcEUdhqIaPQ1caugq_-O6bZwo9RbDI",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAABjfGIBaF3NZEYafT7Nn0JofkvnV_ZkH2w",
+    "object_urn": 6519906,
+    "birth_date": null,
+    "summary": "Together with some amazing people at Zeal and Gro we're empowering people to transact freely and cut out middlemen.\n\nPreviously I reinvented how people listen to music and do banking at Spotify and Revolut. I helped build these companies and industries through a broad mix of growth functions. I've also founded several companies, and invested/advised many more.\n\nOn the do-good-side, besides creating jobs through investments I also raised double digit million dollars for UNICEF during my time at P&G.",
+    "location": {
+        "country": null,
+        "short": "No man's land",
+        "city": null,
+        "state": null,
+        "default": "No man's land"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            },
+            {
+                "country": "JP",
+                "language": "ja"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Stockholm School of Economics",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQETFcd6jui9wQ/company-logo_400_400/company-logo_400_400/0/1631311095014?e=1749081600&v=beta&t=wbsdIBkG04FH_H79N1O58O6JMLcZd7Cjke_uBLJCN20",
+                "url": "https://www.linkedin.com/school/stockholm-school-of-economics/"
+            },
+            "degree_name": "Bachelor's",
+            "description": "Dropped out after a semester to join P&G",
+            "field_of_study": "Business and Economics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Lund University",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGZdRyM61SwOw/company-logo_400_400/company-logo_400_400/0/1631375165915/lunduniversity_logo?e=1749081600&v=beta&t=8mnhMTbNgh0SdDhXnH8bdVVI2PfXPzBtciOSwl7cabE",
+                "url": "https://www.linkedin.com/school/lunduniversity/"
+            },
+            "degree_name": "Master of Laws (LL.M.)",
+            "description": "Practised reading and arguing",
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "National University of Singapore",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGvBq9cz6AIIQ/company-logo_400_400/company-logo_400_400/0/1631313842677?e=1749081600&v=beta&t=X0QyF8Zhghyw8i1GotjlFKE0oW8fVtMni4-KbdzUSsU",
+                "url": "https://www.linkedin.com/school/national-university-of-singapore/"
+            },
+            "degree_name": null,
+            "description": null,
+            "field_of_study": "International Business and Trade Law",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Lund University",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGZdRyM61SwOw/company-logo_400_400/company-logo_400_400/0/1631375165915/lunduniversity_logo?e=1749081600&v=beta&t=8mnhMTbNgh0SdDhXnH8bdVVI2PfXPzBtciOSwl7cabE",
+                "url": "https://www.linkedin.com/school/lunduniversity/"
+            },
+            "degree_name": "Bachelor of Science (B.S.)",
+            "description": "Research on words and how they impact people",
+            "field_of_study": "Psychology",
+            "grade": null
+        }
+    ],
+    "patents": [
+        {
+            "inventors": [
+                {
+                    "first_name": "Sten",
+                    "last_name": "Garmark",
+                    "headline": "Vice President, Global Head of Consumer Experience at Spotify",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/C4D03AQHHpXttBh6moQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1565779056119?e=1749081600&v=beta&t=NMofe9JRXX7EX0G32fiqRrNsAhEn9FW7VlAkkC8_MYw"
+                },
+                {
+                    "first_name": "Nicklas",
+                    "last_name": "Söderlind",
+                    "headline": "Senior Manager, Partner Product and Delivery at Spotify",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/C4D03AQGLCNPWrPEulw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1535055321745?e=1749081600&v=beta&t=1di1FCYYGvDzFNfYtqKwCexfMb8JHplvt32Iza8kCLA"
+                },
+                {
+                    "first_name": "Samuel",
+                    "last_name": "Cyprian",
+                    "headline": "Product, Marketing & Growth",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/C4E03AQHwSwApDoNsOg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1569832851939?e=1749081600&v=beta&t=psjdTmTLPm7lZxTU8FsvEKvIfH-EHQcF6mAchMs3Fhs"
+                },
+                {
+                    "first_name": "Aron",
+                    "last_name": "Levin",
+                    "headline": "founder / marketing / growth",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQHN5czCCfgPcQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1691395851888?e=1749081600&v=beta&t=4BxMM3kIB-T_RXtwst3SgvZOILK58COxoC7l9_j2ygc"
+                },
+                {
+                    "first_name": "Hannes",
+                    "last_name": "Graah",
+                    "headline": "Building with Zeal | ex-Revolut & Spotify",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQHSnKlf6eR5fw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1673208313172?e=1749081600&v=beta&t=kDM4v74XmkpXPlPkAX8nM8J-TEC-tv2RSN5nDBifT28"
+                },
+                {
+                    "first_name": "Erik",
+                    "last_name": "Hartwig",
+                    "headline": "Co-Founder at HonWig",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/C5603AQHvtWkPXzO2xQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1588286276304?e=1749081600&v=beta&t=y59SUOAeJ9p4Urox-4bMcU6c1x6mrj5GI6ORLh1YA4I"
+                },
+                {
+                    "first_name": "Gunnar",
+                    "last_name": "Kreitz",
+                    "headline": "Investor & Advisor at Kale United",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/C5103AQEO67CVkCpJ4Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516299054052?e=1749081600&v=beta&t=mgGlEYFHtX7miJwPtVXEzzIApr-UKjkNuAetOvghxlk"
+                }
+            ],
+            "patent_number": "US 8,898,766 B2",
+            "title": "Systems and Methods for Controlling a Local Application Through a Web Page",
+            "issuer": "us",
+            "date": {
+                "month": 11,
+                "day": 25,
+                "year": 2014
+            },
+            "application_number": "US 20130269019 A1"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Cannes Gold Cyberlion - Pringles Can Hands",
+            "description": "The banner that never ends...\nhttp://creativity-online.com/work/pringles-can-hands/16220",
+            "issuer": "Cannes International Advertising Festival",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2009
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 87213896,
+                "name": "Zeal",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQECzh0PR5RkkQ/company-logo_400_400/company-logo_400_400/0/1682512034262/with_zeal_logo?e=1749081600&v=beta&t=20GPHZZ4pHQoQCjanUxPGoKYhCY6hn77P_-i8qdXGFY",
+                "url": "https://www.linkedin.com/company/with-zeal/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Zeal",
+                    "description": null,
+                    "title": "Builder",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 68570881,
+                "name": "Gro",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHS4-yZDr3ESw/company-logo_400_400/company-logo_400_400/0/1657208545617/grwthlbs_logo?e=1749081600&v=beta&t=tMXdW2wgLlNFbYJ4oJCGoMfqtb2oDdxaCWA6I_WbPb8",
+                "url": "https://www.linkedin.com/company/grodao/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Gro",
+                    "description": null,
+                    "title": "Builder",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Driving Growth every possible way to bring better banking to more people. Leading 100+ people in our distributed markets org, and our central Performance, Marketing, Brand, Product and Data Science teams focused on growth.",
+                    "title": "VP Growth",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 207470,
+                "name": "Spotify",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFkDzx_7dqq3A/company-logo_400_400/company-logo_400_400/0/1631377935713?e=1749081600&v=beta&t=mevKEgUyKF0K14I1LiY8tGQ5VK7O5x7zlE7iJCYyMDI",
+                "url": "https://www.linkedin.com/company/spotify/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "All over the world",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Spotify",
+                    "description": "Worked with the music, advertising and tech industries to provide music listening opportunities for the 5.5 billion people in countries where Spotify is not yet launched.",
+                    "title": "Global Head of New Markets",
+                    "employment_type": null
+                },
+                {
+                    "location": "Tokyo, Japan",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Spotify",
+                    "description": "Set up local team and operations then launched Spotify in Japan.",
+                    "title": "Managing Director Japan",
+                    "employment_type": null
+                },
+                {
+                    "location": "Stockholm, Sweden",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Spotify",
+                    "description": "Worked with the CEO and COO on assorted projects.",
+                    "title": "Business Operations Director",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3239922,
+                "name": "H2 (h2.co)",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQH8aQHCb5Mb7Q/company-logo_400_400/company-logo_400_400/0/1644607203855/h2_logo?e=1749081600&v=beta&t=6uC9oHwRV47-zscx__SmhWainiQmMhNX1B9xI-udKSA",
+                "url": "https://www.linkedin.com/company/h2/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Tokyo, Japan",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "H2 (h2.co)",
+                    "description": "Spending time with entrepreneurs and tech execs from many corners of the world",
+                    "title": "Global Chapter Chair",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1116,
+                "name": "Procter & Gamble",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGGCd-fMXfRWw/company-logo_400_400/company-logo_400_400/0/1661448432247/procter_and_gamble_logo?e=1749081600&v=beta&t=-k-V7pICTSzueQPORi_nA9DZf_SEFwEFgqML0uQuJro",
+                "url": "https://www.linkedin.com/company/procter-and-gamble/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Geneva Area, Switzerland",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Procter & Gamble",
+                    "description": "Pringles: Launched subfranchises (Xtreme & Multigrain) and picked up P&G's first Cannes Gold Cyberlion.\n\nDigiThought: Created an internal consulting organization and helped 30+ P&G brands build their digital marketing strategies.\n\nPampers: Led development of the multi-brand UNICEF campaign '1 pack = 1 vaccine'. Helped eradicate tetanus in a couple of African countries.",
+                    "title": "Associate Brand Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "CIA Lifestyle Pte Ltd",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Singapore",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "CIA Lifestyle Pte Ltd",
+                    "description": "Online nightlife magazine",
+                    "title": "CEO & Founder",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "DND",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "DND",
+                    "description": "Built a platform for second-hand sales then sold it",
+                    "title": "Co-Founder & Product Guy",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Psynapsys",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Lund, Sweden",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2003
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "Psynapsys",
+                    "description": "Developed websites with CMS and assorted software solutions for small to mid-sized companies.",
+                    "title": "Co-Founder & Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Libertas Amici Gaudium",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1997
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kristianstad, Sweden",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 1997
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2002
+                        }
+                    },
+                    "company": "Libertas Amici Gaudium",
+                    "description": "Arranged 17 x weekend long nonstop events for local area network gaming with 20-100 participants per event.",
+                    "title": "Co-Founder and Main Organizer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Business Strategy",
+        "Marketing Strategy",
+        "Start-ups",
+        "Product Management",
+        "Digital Marketing",
+        "Business Development",
+        "Brand Management",
+        "Business Operations",
+        "Strategy",
+        "Strategic Partnerships",
+        "Product Launch",
+        "Entrepreneurship",
+        "Marketing Management",
+        "Digital Strategy",
+        "Online Advertising",
+        "Management Consulting",
+        "Market Analysis",
+        "Management",
+        "E-commerce",
+        "Marketing"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

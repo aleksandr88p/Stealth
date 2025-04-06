@@ -1,0 +1,146 @@
+{
+  "pagination": {
+    "page": 12,
+    "total_pages": 12,
+    "per_page": 20
+  },
+  "data": [
+    {
+      "profile_id": "adergachev",
+      "first_name": "Arsenii",
+      "last_name": "Dergachev",
+      "sub_title": "Building something new | ex-Revolut",
+      "profile_picture": "https://media.licdn.com/dms/image/D4E03AQGBpv3lf_U44Q/profile-displayphoto-shrink_800_800/0/1697458449251?e=1723075200&v=beta&t=FoaR9w8sVBYKg2wpd7IGjs8x5Ubmc32fbiFYoI6cMo8",
+      "li_url": "https://www.linkedin.com/in/adergachev/",
+      "location_city": "london",
+      "location_country": "united kingdom",
+      "skills": [
+        "Problem Solving",
+        "P&L Optimisation",
+        "SQL",
+        "Microsoft Visual Basic for Applications (VBA)"
+      ]
+    },
+    {
+      "profile_id": "max-mckeown-52730a154",
+      "first_name": "Max",
+      "last_name": "Mckeown",
+      "sub_title": "Founder @ Empowr Health",
+      "profile_picture": "https://media.licdn.com/dms/image/D5603AQG_ihsgaKpl7Q/profile-displayphoto-shrink_800_800/0/1694185508340?e=1709769600&v=beta&t=0QjwKP_zyjEbL4s85znttAE6NU7q1clwNNJrowcTvw8",
+      "li_url": "https://www.linkedin.com/in/max-mckeown-52730a154/",
+      "location_city": "london",
+      "location_country": "united kingdom",
+      "skills": [
+        "Microsoft Office",
+        "Social Media",
+        "Marketing",
+        "Adobe Illustrator",
+        "Adobe Photoshop"
+      ]
+    },
+    {
+      "profile_id": "thomasrozelot",
+      "first_name": "Thomas",
+      "last_name": "ROZELOT",
+      "sub_title": "Senior Associate at Strategy&",
+      "profile_picture": "https://media.licdn.com/dms/image/D4E03AQHh5ZxaJa7iEQ/profile-displayphoto-shrink_800_800/0/1684163852165?e=1712188800&v=beta&t=sP8X5suPcY7w04MkgxGGzBvH_JoveE6ex84WsPJpfsg",
+      "li_url": "https://www.linkedin.com/in/thomasrozelot/",
+      "location_city": null,
+      "location_country": null,
+      "skills": [
+        "Leadership",
+        "Communication",
+        "Strategy",
+        "Project Management",
+        "Business Strategy",
+        "Digital Strategy",
+        "Strategic Consulting",
+        "Entrepreneurship",
+        "Product Management",
+        "Software Engineering",
+        "Object-Oriented Programming (OOP)",
+        "Microsoft Office",
+        "Python",
+        "Microsoft Excel",
+        "C++",
+        "Linux",
+        "SQL",
+        "Databases",
+        "LaTeX",
+        "Decision-Making"
+      ]
+    },
+    {
+      "profile_id": "nobufusa-arai-3201265a",
+      "first_name": "Nobufusa",
+      "last_name": "Arai",
+      "sub_title": "JP MLRO @ Airwallex | ex-Revolut ex-Citi ex-GE",
+      "profile_picture": "https://media.licdn.com/dms/image/C5103AQHO4D3s6y57Pw/profile-displayphoto-shrink_100_100/0/1517360667372?e=1720656000&v=beta&t=vWFs-IIq7uaPlV75jIYsE31Dact_JeRoyb00Na6ut50",
+      "li_url": "https://www.linkedin.com/in/nobufusa-arai-3201265a/",
+      "location_city": "tokyo",
+      "location_country": "japan",
+      "skills": [
+        "Investments",
+        "Valuation",
+        "Risk Management",
+        "Asset Management"
+      ]
+    },
+    {
+      "profile_id": "leonardololi",
+      "first_name": "Leonardo",
+      "last_name": "Loli",
+      "sub_title": "Connecting people (Discover International)",
+      "profile_picture": "https://media.licdn.com/dms/image/C4D03AQENaRUoS2mLgg/profile-displayphoto-shrink_800_800/0/1605687945820?e=1723075200&v=beta&t=N0VVnUkNeF_2MCg_XvoJ4hqgkdK3W1UwiuWhQyqNJ5k",
+      "li_url": "https://www.linkedin.com/in/leonardololi/",
+      "location_city": "cracow",
+      "location_country": "poland",
+      "skills": [
+        "Approvvigionamento",
+        "Biotechnology Industry",
+        "Pharmaceutics",
+        "Business Development",
+        "Recruiting",
+        "Networking",
+        "Google Adwords",
+        "Google Analytics",
+        "Google Merchant Center",
+        "Lingua inglese",
+        "Microsoft Excel",
+        "Teamwork"
+      ]
+    },
+    {
+      "profile_id": "bertuğ-öngiden-60064846",
+      "first_name": "Bertuğ",
+      "last_name": "Öngiden",
+      "sub_title": "Corporate Strategy Director at Citi",
+      "profile_picture": "https://media.licdn.com/dms/image/C5603AQH3ZTrT75hc6Q/profile-displayphoto-shrink_400_400/0/1517434785581?e=1722470400&v=beta&t=lWe9mg9W8cZ79TH_C7V4R0UD9iICP6BqdBZlLKeIyLc",
+      "li_url": "https://www.linkedin.com/in/bertuğ-öngiden-60064846/",
+      "location_city": null,
+      "location_country": null,
+      "skills": [
+        "Competitive Analysis",
+        "English",
+        "Market Research",
+        "Marketing",
+        "Digital Marketing",
+        "Market Analysis",
+        "Marketing Research",
+        "Business Strategy",
+        "Segmentation",
+        "Brand Management",
+        "Marketing Management",
+        "Analysis",
+        "Strategy",
+        "Product Marketing",
+        "Product Management",
+        "Digital Transformation",
+        "Digital Strategy",
+        "Organizational Design",
+        "Business Planning",
+        "Data Analysis"
+      ]
+    }
+  ]
+}

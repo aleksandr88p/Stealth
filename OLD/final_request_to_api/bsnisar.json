@@ -1,0 +1,880 @@
+{
+    "profile_id": "bsnisar",
+    "first_name": "Bohdan",
+    "last_name": "Snisar",
+    "sub_title": "Building cool stuff  |  ex-Revolut, ex-Wix",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/v2/D5616AQFfV78WGmgFUQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712819934744?e=1749081600&v=beta&t=lgytXnd_HqyWtRxQB5Onj9a19iKYWZWwtCg0zi2C75k",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAABJx1xsBl_ewzDixkhpJLrwTErCZp2dzJHs",
+    "object_urn": 309450523,
+    "birth_date": null,
+    "summary": "Originally from 🇺🇦 With a tenure of 13 years in the software industry.  B.S. in Computer Science and M.S. in  Economics. Cultivated extensive experience across a broad range of roles, beginning as a software engineer, progressing to team lead, and ultimately culminating in the software architect position.\n\nThis journey has given me an enriched understanding of the entire software development lifecycle, combined with a unique proficiency in problem-solving and a knack for fostering team synergy. On this journey I have mastered and worked with countless technologies and accumulated vast experience working and integrating with a variety of technologies and platforms:  Java, Go, building BigData pipelines, vector-based-search and ML, RDBS and sittributed systems.",
+    "location": {
+        "country": "United States",
+        "short": "San Francisco, California",
+        "city": "San Francisco",
+        "state": "California",
+        "default": "San Francisco, California, United States"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "RU",
+            "language": "ru"
+        },
+        "supported_locales": [
+            {
+                "country": "RU",
+                "language": "ru"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Английский",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Русский",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Internet",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "Dnipro University of Technology",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGZzMDLX6fvNA/company-logo_400_400/company-logo_400_400/0/1708002599657/dnipro_university_of_technology_logo?e=1749081600&v=beta&t=a9bGbdLA5laA0V16iTsaSoKEzQEAKsG-8iNR2GmubN4",
+                "url": "https://www.linkedin.com/school/dniprotech/"
+            },
+            "degree_name": "Bachelor's degree",
+            "description": null,
+            "field_of_study": "Computer Science ",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Dnipro University of Technology",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGZzMDLX6fvNA/company-logo_400_400/company-logo_400_400/0/1708002599657/dnipro_university_of_technology_logo?e=1749081600&v=beta&t=a9bGbdLA5laA0V16iTsaSoKEzQEAKsG-8iNR2GmubN4",
+                "url": "https://www.linkedin.com/school/dniprotech/"
+            },
+            "degree_name": "Master's degree",
+            "description": null,
+            "field_of_study": "Economics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Principles of Reactive Programming",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1749081600&v=beta&t=uSsDtmGfE4Sechx_fC7fZmwsNP-6JnXP1De32oOjS-A",
+                "url": null
+            }
+        },
+        {
+            "name": "Functional Programming Principles in Scala",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/course/progfun",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1749081600&v=beta&t=uSsDtmGfE4Sechx_fC7fZmwsNP-6JnXP1De32oOjS-A",
+                "url": null
+            }
+        },
+        {
+            "name": "M101J: MongoDB for Java Developers",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "MongoDB",
+            "url": "https://s3.amazonaws.com/edu-cert.10gen.com/downloads/72556358a59f4033ac605e449496774a/Certificate.pdf",
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "MongoDB",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFKe8PwqzyHyA/company-logo_400_400/company-logo_400_400/0/1635171226992/mongodbinc_logo?e=1749081600&v=beta&t=R0GtmCIYP6cj9aG_CScLDjWbGAiGYliAZ_R9wDdUKzU",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "POE E-Commerce System",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Customer is well-known Canadian company who is specialize on online trading, sport goods and retail trading.\n\nResponsible for developing  mobile hybrid application (POS client) based on Android OS as single page application. Project role is design API/development/business logic implementation/code review/design architecture\n\nTechnologies and frameworks:MariaDB, Java 8, Maven, Liquibase, Tomcat, Spring 4, Hibernate 5, Hibernate Search, AngularJS, JavaScript, Gatling/Scala, JMS, Gerrit, Vagrant",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bohdan",
+                    "last_name": "Snisar",
+                    "name": null,
+                    "headline": "Building cool stuff  |  ex-Revolut, ex-Wix"
+                }
+            ]
+        },
+        {
+            "title": "Vespa services at Wix",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "description": "Contribute and develop search and recommendation engine based on http://vespa.ai Engine used for mission critical services of Wix for millions of users.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bohdan",
+                    "last_name": "Snisar",
+                    "name": null,
+                    "headline": "Building cool stuff  |  ex-Revolut, ex-Wix"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Gregory",
+                    "last_name": "Bondar",
+                    "name": null,
+                    "headline": "Sr. Director of Data Services at Wix.com"
+                }
+            ]
+        },
+        {
+            "title": "POS Ecommerce System",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "POS (Point Of Sale) E-Commerce System (Under NDA)\n\nCustomer is well-known Canadian company who is specialize on online trading, e-commerce and retailing. \n\nResponsible for developing REST-endpoint for mobile hybrid application (POS client) based on Android OS. Project role is design API/development/business logic implementation.\n\nTechnologies and frameworks:MySQL, Oracle, Java 8, Maven, Liquibase, Tomcat, Spring 4, Hibernate 5, Hibernate Search, AngularJS, JavaScript, Play",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bohdan",
+                    "last_name": "Snisar",
+                    "name": null,
+                    "headline": "Building cool stuff  |  ex-Revolut, ex-Wix"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Renat",
+                    "last_name": "Ibrahimov",
+                    "name": null,
+                    "headline": "Senior Android Developer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Victor",
+                    "last_name": "H.",
+                    "name": null,
+                    "headline": "Data Architect at Index Exchange"
+                }
+            ]
+        },
+        {
+            "title": "Application as components of SaaS platform",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "SaaS conponents application (under DNA)\n\nBig and distributed application as SaaS platform for managing and aggregation of ratings and reviews. Was reponsible for developting tasks, bug fixing and investigation of falures.\n\nTechnology stack: Spring, Hibernate, Mysql, Solr, AWS, JMS, ZooKeeper, ElasticSearch, Cassandra",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bohdan",
+                    "last_name": "Snisar",
+                    "name": null,
+                    "headline": "Building cool stuff  |  ex-Revolut, ex-Wix"
+                }
+            ]
+        },
+        {
+            "title": "Banck account application",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Banck account application. \n\nBanck application for managing bank's products sales. Was developed on JEE 6 stack of technology  and JBoss server.\n\nWas involved on ending phase of developments and was responsible for optimisation of performance, bug fixing and refactoring.\n\nTechnology: CDI, EJB, JSF, JPA, Oracle",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bohdan",
+                    "last_name": "Snisar",
+                    "name": null,
+                    "headline": "Building cool stuff  |  ex-Revolut, ex-Wix"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Sergey",
+                    "last_name": "Shiyka",
+                    "name": null,
+                    "headline": "Engineering Manager at LoopMe"
+                }
+            ]
+        },
+        {
+            "title": "Healthcare Application",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Helthcare Application (under DNA)\n\nCustomer is a big healthcare provider in stomatology in USA. This is pretty hugely big single html page application with REST-endpoints on server side.\nWas responible for developments functionality and optimisation of performence. \n\nServer side technology: Groovy, Grails, MS SQL",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Bohdan",
+                    "last_name": "Snisar",
+                    "name": null,
+                    "headline": "Building cool stuff  |  ex-Revolut, ex-Wix"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18583501,
+                "name": "Stealth Startup",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1749081600&v=beta&t=HdK9rAhohenNit4H2D0XKcK-Ggz-Qoos_bPVstE0H2Q",
+                "url": "https://www.linkedin.com/company/stealth-startup-careers/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2024
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Stealth Startup",
+                    "description": null,
+                    "title": "CTO / Technical Co-Founder",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 104489359,
+                "name": "Redress",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHckuwdhXOECA/company-logo_400_400/company-logo_400_400/0/1719587891396?e=1749081600&v=beta&t=f4ldWMzgVHRkkII-2TWpH9UvxFfAxwxsSWDFFXpmAeQ",
+                "url": "https://www.linkedin.com/company/redressspace/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2024
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2024
+                        }
+                    },
+                    "company": "Redress",
+                    "description": "1. Generative AI and LLMs powered fashion&clothes discovery  \n2. Search and retrieval for RAG \n3. Custom model/heuristics responsible for ranking\n4. Product / Tech / Strategy",
+                    "title": "Co-Founder & CTO",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Remote",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2024
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "- Building and scaling finance and trading  infrastructure responsible for all Revolut b2b tradable instruments and multi million portfolios. Delivered infrastructure that made significant \n (under NDA) impact on yearly goals of the company \n- introduced Quant-finances risk management toolkit",
+                    "title": "Senior Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 90773236,
+                "name": "Company name under NDA",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/nda-private-company/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Company name under NDA",
+                    "description": "• Researched solutions in the digital currency landscape, focusing on CBDC.\n• Developed a proposal for the NBU regarding central bank digital currency.\n• Collaborated with a startup team to drive innovation in the financial technology sector.",
+                    "title": "Interim CTO",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 97250,
+                "name": "Wix.com",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHTiqoaFoadyQ/company-logo_400_400/company-logo_400_400/0/1687355469486?e=1749081600&v=beta&t=nrXKtqFLqNebuYjxvGNAJt4557PtimP43A6--jYwZEw",
+                "url": "https://www.linkedin.com/company/wix-com/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Wix.com",
+                    "description": "responsible for (support/ops/R&D) the main search and recommendation system infra for DeviantArt  scale it for millions monthly unique visitors at DeviantArt. The system handled traffic from all user interactions where recommendations needed: \n— RAG system handles about 140k rpm throughput for overall systems with up to 100ms on 95p  based on Vespa vector-space search DB and ONNX Runtime inference.  \n-- Refactored a lifecycle and CI/CD pipelines,  incorporated services into Bazel build tool;\n-- Did a gradual improvement of latency of the services that reduced DeviantArt front page load by 25%;\n-- Collaborated with ML team to propose a solution based on hybrid text search via BERT embedding lookup and TF-IDF text lookup for a mission-critical component of Wix Ads Funnel. The solution won A/B test and was delivered into production and impact was in a  KPI growth of over 10%\n\nTech: Scala, Netty, gRPC, Vespa, AWS, PyTorch,  Docker, Prometheus, bazel, ML models including BERT",
+                    "title": "Lead Software Engineer | MLOps",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6549,
+                "name": "SoftServe",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGtV44Uyhqr1w/company-logo_400_400/company-logo_400_400/0/1689185073400/softserve_logo?e=1749081600&v=beta&t=RNG-_bBxf1RKxT-uARmWQ_HXuVldxLvSBh_4Wen1l84",
+                "url": "https://www.linkedin.com/company/softserve/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kiev Region, Ukraine",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "SoftServe",
+                    "description": "Worked as a \"BigData and Analytics\" Expert at SoftServe Enterprise Intelligence unit. \n-- Participated in the pre-sale activity for building a PoC ETL test project for SoftServe customers. Successfully delivered PoC and won the contract with a customer.  \n-- Take responsibility for migrating all big data pipelines based on Spark, Hadoop, Airflow, Druid technical stack to lift & shift from AWS to GCP cloud provider. Successfully deliver work and did the successful switchover.\n-- Split work and requested the allocation of additional devs in the process due to the deliverables forecast;\n      > Due to fluentd GCP lack of support for lzo, implemented support for in a fluentd;\n      > Contributed into Apache Druide due to issues in scope of migration;\n\n\nTech: Spark, Scala, Hadoop, AWS/Dataproc, GCP/EMR, Druid",
+                    "title": "Software Architect | Engineering Consulting",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 65215,
+                "name": "Qvantel",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGf9Q9dkhCcjA/company-logo_400_400/company-logo_400_400/0/1719824338125/qvantel_logo?e=1749081600&v=beta&t=WWK_3IcgiFm6LXoiyOwa8maq4kUWVtZenoMeQagrCAk",
+                "url": "https://www.linkedin.com/company/qvantel/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kiev Region, Ukraine",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Qvantel",
+                    "description": "Lead a team of 3 devs on the Ukrain R&D side, contributed to a full-stack development of customer care service in the BSS telecommunications solution. \nContribution and collaborative effort to deliver on time the fulfillment of major release commitments to the Qvantel's digital transformation project for a large European telecom operator.\nVoluntarily onboarding/mentoring newcomers due to lack of documentation and imperfect onboarding process built into R&D\n\nTechnology: Scala, Play framework, Akka, Angular, Kafka",
+                    "title": "Lead SW Engineer ",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9183,
+                "name": "Ciklum",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGNh_4pInYIIQ/company-logo_400_400/company-logo_400_400/0/1647617951142/ciklum_logo?e=1749081600&v=beta&t=joEXdE-C0mOMctsFRPdWCghz261Vg5bvk3rSVk2whcI",
+                "url": "https://www.linkedin.com/company/ciklum/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Dnipropetrovsk Region, Ukraine",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Ciklum",
+                    "description": "Made a design, architecture and DevOps orchestration of a new statistic subsystem for corporate video streaming solution. It helps to reduce internal traffic to the main server by 2.5 - 3 megabit/s and give the ability to aggregate user analitics.  \nRefactored CI/CD pipeline and migrate sources from legacy SVN to Git with GitFlow",
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4972,
+                "name": "EPAM Systems",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHBM1NmkFO9_g/company-logo_400_400/company-logo_400_400/0/1736349454702/epam_systems_logo?e=1749081600&v=beta&t=9CFCDjGB5hnBZyzcZqGF0TA8_w32eEUdSQpVjPD6MnA",
+                "url": "https://www.linkedin.com/company/epam-systems/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "EPAM Systems",
+                    "description": "Contributed to the development from the beginning to the launch of the PoS system for \"Canadian Tire\" business that scaled on 400 of-line stores. \nSuccessfully delivered integration with Moneris Gateway, which allowed to do a certification of a product with payment gateway in time. \nActed as a mentor during internal corporate trainings for interns.",
+                    "title": "Senior Java Developer",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "EPAM Systems",
+                    "description": null,
+                    "title": "Software Java Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6549,
+                "name": "SoftServe",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGtV44Uyhqr1w/company-logo_400_400/company-logo_400_400/0/1689185073400/softserve_logo?e=1749081600&v=beta&t=RNG-_bBxf1RKxT-uARmWQ_HXuVldxLvSBh_4Wen1l84",
+                "url": "https://www.linkedin.com/company/softserve/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Dnipropetrovsk",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "SoftServe",
+                    "description": "Customer: bazaarvoice\nDevelopment and support of SaaS product in scope of a DataPlatform team",
+                    "title": "Java Developer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Project Expert",
+            "company": {
+                "id": null,
+                "name": "Ukrainian Startup Fund",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFNHNTTEJfFCA/company-logo_400_400/company-logo_400_400/0/1738931867617?e=1749081600&v=beta&t=f-RZurl43Smz2_Tzg_eTO73ju-cYk9MakH9OnbEpAAY",
+                "url": "https://www.linkedin.com/company/ukrainian-startup-fund/"
+            },
+            "cause": "SCIENCE_AND_TECHNOLOGY",
+            "description": "-pre-selection of applications (including technical review of the pre-selection decision)\n-providing recommendations on financing, which are accepted by experts involved in the Competition Commission."
+        }
+    ],
+    "skills": [
+        "Web3",
+        "Blockchain",
+        "Cryptocurrency",
+        "Payments",
+        "Knowledge Sharing",
+        "Communication",
+        "Databases",
+        "Technology Management",
+        "Software Development",
+        "RAG",
+        "Google Cloud",
+        "Wix",
+        "Performance Motivation",
+        "Amazon Web Services (AWS)",
+        "Machine Learning",
+        "Solution Architecture",
+        "High Performance Computing (HPC)",
+        "System Development",
+        "System Architecture",
+        "Logics"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

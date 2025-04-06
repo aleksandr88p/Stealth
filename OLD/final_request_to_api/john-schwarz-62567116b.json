@@ -1,0 +1,307 @@
+{
+    "profile_id": "john-schwarz-62567116b",
+    "first_name": "John",
+    "last_name": "Schwarz",
+    "sub_title": "Building something new",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQFES8LVZ2_p1w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1685620790679?e=1749081600&v=beta&t=8aL3LORDBOI2QDTEt6TnMhLLzIGX216hdKD-S9TmsHA",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAACh_uT0BKHGeP0qpkTPxaMbAH9mEE2nCRAc",
+    "object_urn": 679459133,
+    "birth_date": null,
+    "summary": "If you are interested in opportunities in IT or would like to connect for the future, I’d love to hear from you.",
+    "location": {
+        "country": "Germany",
+        "short": "Berlin Metropolitan Area",
+        "city": null,
+        "state": null,
+        "default": "Berlin Metropolitan Area"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "University of Oxford",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1749081600&v=beta&t=3PXqCLF3xEIEVeTD-HWRHmjtdl-MDsj2cU1lC7R-uBY",
+                "url": "https://www.linkedin.com/school/oxforduni/"
+            },
+            "degree_name": "Master's degree",
+            "description": null,
+            "field_of_study": "Artificial Intelligence",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "University of Oxford",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1749081600&v=beta&t=3PXqCLF3xEIEVeTD-HWRHmjtdl-MDsj2cU1lC7R-uBY",
+                "url": "https://www.linkedin.com/school/oxforduni/"
+            },
+            "degree_name": "Bachelor's degree",
+            "description": null,
+            "field_of_study": "Computer Science",
+            "grade": "Distinction"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18583501,
+                "name": "Stealth Startup",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1749081600&v=beta&t=HdK9rAhohenNit4H2D0XKcK-Ggz-Qoos_bPVstE0H2Q",
+                "url": "https://www.linkedin.com/company/stealth-startup-careers/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin, Germany",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Stealth Startup",
+                    "description": null,
+                    "title": "Founder",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1441,
+                "name": "Google",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_400_400/company-logo_400_400/0/1631311446380?e=1749081600&v=beta&t=UHiqJy97JpW2ZtDn-dgO6hDCQCTjLVjYPbgDEE3Wi4Q",
+                "url": "https://www.linkedin.com/company/google/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Zurich, Switzerland",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Google",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin, Germany",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Senior Software Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Berlin, Germany",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1594050,
+                "name": "DeepMind",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_400_400/company-logo_400_400/0/1692960425188/googledeepmind_logo?e=1749081600&v=beta&t=YgHKXFLH34bB-M8frckSaSCMOgy8ue4lorLwbGtvuTo",
+                "url": "https://www.linkedin.com/company/googledeepmind/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "DeepMind",
+                    "description": null,
+                    "title": "Research Scientist Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Recruiting",
+        "Management",
+        "Human Resources Information Systems (HRIS)",
+        "Employee Relations",
+        "Communication"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

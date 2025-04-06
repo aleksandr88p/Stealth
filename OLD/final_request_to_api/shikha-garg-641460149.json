@@ -1,0 +1,235 @@
+{
+    "profile_id": "shikha-garg-641460149",
+    "first_name": "Shikha",
+    "last_name": "Garg",
+    "sub_title": "Full Stack Developer with 6+ years of experience - Worked with fortune 500 companies",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAACPXKZEBEDcg8_yAVfIB7VI8UU1e9YhUVXc",
+    "object_urn": 601303441,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": null,
+        "short": "United Kingdom",
+        "city": null,
+        "state": null,
+        "default": "United Kingdom"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Computer Software",
+    "education": [],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18583501,
+                "name": "Stealth Startup",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1749081600&v=beta&t=HdK9rAhohenNit4H2D0XKcK-Ggz-Qoos_bPVstE0H2Q",
+                "url": "https://www.linkedin.com/company/stealth-startup-careers/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Stealth Startup",
+                    "description": null,
+                    "title": "Founder",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 48248,
+                "name": "AirAsia",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQFLkQOEtcXpfg/company-logo_400_400/company-logo_400_400/0/1705289813148/airasia_logo?e=1749081600&v=beta&t=jx5DeQu6sRq2Q8qTpHq_pCdfm7UfyTpes_UaU6-_f1o",
+                "url": "https://www.linkedin.com/company/airasia/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "AirAsia",
+                    "description": null,
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1063,
+                "name": "Cisco",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHntSZQ9RWEng/company-logo_400_400/B56ZXuONwQHoAY-/0/1743458459248/cisco_logo?e=1749081600&v=beta&t=g9nhZrPouw0Vi96NLAQUrojU6YlM8olY5s-2k8IDb7M",
+                "url": "https://www.linkedin.com/company/cisco/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Cisco",
+                    "description": null,
+                    "title": "Software Engineering",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1033,
+                "name": "Accenture",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHDbmrSIZ2UdA/company-logo_400_400/company-logo_400_400/0/1723130689960/accenture_logo?e=1749081600&v=beta&t=yw2vnpac409hsASuRNmBkT4NFCjxK4HnrTx_qHVhRZc",
+                "url": "https://www.linkedin.com/company/accenture/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Accenture",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

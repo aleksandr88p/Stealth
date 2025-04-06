@@ -1,0 +1,121 @@
+{
+    "profile_id": "jameshaville",
+    "first_name": "James",
+    "last_name": "Haville",
+    "sub_title": "Founder",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQHigyZzQRk0ug/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1676294355711?e=1749081600&v=beta&t=ERMt3iAZYyOaRlzO7ok_6DicCeMwX_3y-Ft5dQU6JMs",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAUBALcBctEMDFi4OEvjVizf8qiJVJoOHkA",
+    "object_urn": 83951799,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "United Kingdom",
+        "short": "Greater London, England",
+        "city": "Greater London",
+        "state": "England",
+        "default": "Greater London, England, United Kingdom"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Financial Services",
+    "education": [],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": "Ten Labs Ltd",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Ten Labs Ltd",
+                    "description": null,
+                    "title": "Director",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "AngularJS",
+        "JavaScript",
+        "MongoDB",
+        "Node.js",
+        "Agile Methodologies",
+        "Unix",
+        "Java",
+        "Scrum",
+        "SQL",
+        "Hibernate",
+        "HTML5",
+        "Microsoft SQL Server",
+        "Databases",
+        "Perl",
+        "Shell Scripting",
+        "Solaris",
+        "JSP",
+        "Consultancy",
+        "Agile",
+        "Eclipse"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

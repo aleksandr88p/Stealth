@@ -1,0 +1,789 @@
+{
+    "profile_id": "anthonyvdp",
+    "first_name": "Anthony",
+    "last_name": "V.",
+    "sub_title": "Building Deblock 🛠",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C4D03AQETGJc2iGBbjQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1548708593587?e=1749081600&v=beta&t=jkVIux3FzsvgEPykYybF0BP5W8sKYRPyd-g_G566VBs",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAACHX4UEBXN4tDVGZSlYQTb6Kx6KHtjRCjeg",
+    "object_urn": 567796033,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "United Kingdom",
+        "short": "London, England",
+        "city": "London",
+        "state": "England",
+        "default": "London, England, United Kingdom"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Latin",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/company-logo_400_400/0/1670699852672?e=1749081600&v=beta&t=x_k7ExZg8flAkV9mlA5Z6CpOisRFtdkHSnHkEbGNSEk",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Masters in Control & Simulation",
+            "description": "Graduated: Cum Laude & Honors\n\nSpecialization in Control & Simulation\n\nMSc Thesis: \"Early Warning Signals for Loss of Control Prediction of Damaged Quadcopters\"",
+            "field_of_study": "Aerospace, Aeronautical and Astronautical Engineering",
+            "grade": "9.5/10"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/company-logo_400_400/0/1670699852672?e=1749081600&v=beta&t=x_k7ExZg8flAkV9mlA5Z6CpOisRFtdkHSnHkEbGNSEk",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "Bachelor's degree",
+            "description": "Graduated: Cum Laude & Honors\n\nMinor in Finance\n\nThesis Project: The development of autonomous pollination drone system",
+            "field_of_study": "Aerospace, Aeronautical and Astronautical Engineering",
+            "grade": "8/10"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Queen's University",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE7P2b1VHr6ig/company-logo_400_400/company-logo_400_400/0/1651082685160/queens_university_logo?e=1749081600&v=beta&t=cZ5c0U8H9d74u9tsoaMs1TvM2R-LpF1lU27FH_s8280",
+                "url": "https://www.linkedin.com/school/queen%27s-university/"
+            },
+            "degree_name": "Completed 1st year with distinction",
+            "description": null,
+            "field_of_study": "General Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Lycee Claudel",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "French Baccalaureat",
+            "description": null,
+            "field_of_study": null,
+            "grade": "Mention TB (17/20)"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Cum Laude",
+            "description": "A student can receive the designation “Cum Laude” for the Bachelor’s degree audit if the Board of\nExaminers decides to grant this distinction and the following requirements have been met:\n\n- The weighted average of the results of the courses in the BSc programme (150 ECTs) weighed on\nthe basis of the credits is at least 8.00, including the Bachelor Final project.\n\n- The student completed all requirements for the degree within a period of time not exceeding 42\nmonths. ",
+            "issuer": "TU Delft",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            }
+        },
+        {
+            "title": "Honours Student",
+            "description": "The Honours Programme accommodates students who have the ability and ambition to deliver an extra effort during their BSc study. The size of the programme is 20 EC, which is performed in addition to the common BSc-curriculum.\n\nStudents who completed their first year within 12 months with an average grade ≥ 8.0 will be invited to participate in the program.",
+            "issuer": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            }
+        },
+        {
+            "title": "Dean's Scholar",
+            "description": "Students who have obtained a weighted year average of 80.0% or more are eligible for becoming a Dean’s Scholar.",
+            "issuer": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2014
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Tocano market analysis",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Tocano is a start-up that has found an innovative way to print without ink. To get a preliminary understanding of what the opportunities are in the market, a market analysis and a business model were made for Tocano.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anthony",
+                    "last_name": "V.",
+                    "name": null,
+                    "headline": "Building Deblock 🛠"
+                }
+            ]
+        },
+        {
+            "title": "DSE Pollinator Drone",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "For the final bachelor project, an autonomous pollinator drone was designed to pollinate tomatoes in greenhouses. Focused on the autonomous behavior of the micro air vehicle. Finished as finalists in the final competition.\n\n- Presented the final project in front of the Jury\n- Presented the project at a \"Smart farming conference\"\n- Team leader in the final stages of the project",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Anthony",
+                    "last_name": "V.",
+                    "name": null,
+                    "headline": "Building Deblock 🛠"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Aerodynamics Sub- and Supersonic",
+            "number": "AE2130"
+        },
+        {
+            "name": "Aerospace Design and Construction",
+            "number": "AE1222"
+        },
+        {
+            "name": "Aerospace Flight Dynamics, SVV including Flight Test",
+            "number": "AE3212"
+        },
+        {
+            "name": "Aerospace Materials and Structures",
+            "number": "AE1108"
+        },
+        {
+            "name": "Aerospace Signals, Systems and Control",
+            "number": "AE2235"
+        },
+        {
+            "name": "Aerospace System Design",
+            "number": "AE2111"
+        },
+        {
+            "name": "Aerospace Systems Engineering, Design and Production",
+            "number": "AE3211"
+        },
+        {
+            "name": "Applied Numerical Analysis and Computational Modelling",
+            "number": "AE2220"
+        },
+        {
+            "name": "Calculus I",
+            "number": "WI1421LR"
+        },
+        {
+            "name": "Calculus II",
+            "number": "WI1402LR"
+        },
+        {
+            "name": "Chemistry and Materials",
+            "number": "APSC 131"
+        },
+        {
+            "name": "Climate City Campus lectures",
+            "number": "UD1012"
+        },
+        {
+            "name": "Current Issues in Finance",
+            "number": "WI3430TU"
+        },
+        {
+            "name": "Differential Equations, Probability Theory, and Statistics",
+            "number": "WI2180LR"
+        },
+        {
+            "name": "Earth Systems and Engineering",
+            "number": "APSC 151"
+        },
+        {
+            "name": "Electricity and Magnetism",
+            "number": "APSC 112"
+        },
+        {
+            "name": "Engineering Graphics",
+            "number": "APSC 161"
+        },
+        {
+            "name": "Engineering Mechanics",
+            "number": "AE1130"
+        },
+        {
+            "name": "Engineering Practice",
+            "number": "APSC 100"
+        },
+        {
+            "name": "Exploring Aerospace Engineering and Design",
+            "number": "AE1111"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 93306449,
+                "name": "Deblock",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHyFww-MOfibw/company-logo_400_400/company-logo_400_400/0/1719257500348/deblock_bank_logo?e=1749081600&v=beta&t=c-p8xRaldatkACE17tGTbdZScBKbOSsc_t_NZZbAXyo",
+                "url": "https://www.linkedin.com/company/deblock/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2025
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2025
+                        }
+                    },
+                    "company": "Deblock",
+                    "description": null,
+                    "title": "Head of Product",
+                    "employment_type": null
+                },
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2024
+                        }
+                    },
+                    "company": "Deblock",
+                    "description": null,
+                    "title": "Founder Associate",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Customer Ops and Strategy | FinCrime | FinTech",
+                    "title": "Strategy & Operations Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 71623953,
+                "name": "Metyis",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEtG5gG093_0g/company-logo_400_400/company-logo_400_400/0/1630646678580/metyis_logo?e=1749081600&v=beta&t=JCSb5TPDI6zcDEam_bsLPjHLd1k-bpdxwQpk2NDB2tY",
+                "url": "https://www.linkedin.com/company/metyis/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam, North Holland, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Metyis",
+                    "description": "Management & Digital Consulting | Big Data | E-Commerce | Technology | IoT & Design.",
+                    "title": "Strategy & Execution Analyst",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1271,
+                "name": "Shell",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGN30g7aSl4NA/company-logo_400_400/company-logo_400_400/0/1631303787196?e=1749081600&v=beta&t=24FZDrdPcly1Xqk1owKGoYxes_vzRgfe-DVirXHCCQM",
+                "url": "https://www.linkedin.com/company/shell/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bengaluru Area, India",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Shell",
+                    "description": "Analyzed the opportunities of a circular economy model with the goal of converting plastic waste to hydrocarbons in major cities across India.",
+                    "title": "Strategy Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166529,
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/company-logo_400_400/0/1670699852672?e=1749081600&v=beta&t=x_k7ExZg8flAkV9mlA5Z6CpOisRFtdkHSnHkEbGNSEk",
+                "url": "https://www.linkedin.com/school/tudelft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Delft University of Technology",
+                    "description": "Teacher Assistant of various Aerospace BSc. courses: Statics, Dynamics, Vibrations and first year wingbox design project. Responsibilities include:\n- Lead a weekly recap lecture with approximately 40 students\n- Assist lecturers with preparation of study material\n- Assist with grading and proctoring of exams",
+                    "title": "TA & Student Instructor",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 248081,
+                "name": "Stichting International Research Projects Delft",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuj1drtRjDeQ/company-logo_400_400/company-logo_400_400/0/1630651680216/stichting_international_research_projects_delft_logo?e=1749081600&v=beta&t=AzPe3sIz_VcxyLSDtiPWO66vW5WhCQIGwozaS2DJLYU",
+                "url": "https://www.linkedin.com/company/stichting-international-research-projects-delft/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Stichting International Research Projects Delft",
+                    "description": "The International Research Projects Delft Foundation (IRPdelft) is a team composed of selected multidisciplinary MSc students of the Delft University of Technology. Each year a challenging business project is carried out for companies in emerging markets around the world. The 2019 destination is India.\n \n- Provide companies with innovative technological and strategic solutions during a two month international summer internship. \n- Work on a non-profit basis with the expertise of Delft University of Technology",
+                    "title": "Member IRPdelft",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4465,
+                "name": "Qantas",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQE7L1ACjbNlKA/company-logo_400_400/B56ZVjgJ6FHQAY-/0/1741131128964/qantas_logo?e=1749081600&v=beta&t=394I7IR85Uw-LX22dRYRtEPJiaIl9n0Wb6I0DIT-a6w",
+                "url": "https://www.linkedin.com/company/qantas/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Sydney, Australia",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Qantas",
+                    "description": "Internship in the Revenue Optimisation department at Qantas.\n- Developed a model capable of predicting passenger luggage quantity on a given flight using Machine Learning techniques\n- Analyzed various airline passenger demand models in the context of willingness to pay.",
+                    "title": "Business Intelligence Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3818,
+                "name": "Air Liquide",
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQF6PhVyWbLl5Q/company-logo_400_400/company-logo_400_400/0/1631349851629?e=1749081600&v=beta&t=i-blj_LMTKwbjyDjNOSUn1IOPzqdIWR5kUcXbrhfcqI",
+                "url": "https://www.linkedin.com/company/airliquide/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Belgium",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Air Liquide",
+                    "description": "2x 2month internship (Jul-Aug 2015 and Jul-Aug 2016) at AirLiquide. \n- Studied the feasibility a dynamical pressure drop calculator for the gas networks of Air Liquide.\n- Reviewed the operational procedures at the OCC (Ops control center)",
+                    "title": "Summer Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Rideau Tennis Club",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ottawa, Canada Area",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Rideau Tennis Club",
+                    "description": "- Taught different levels of the Canadian Red Cross program to kids between the ages 6-12.\n- Pool maintenance and lifeguard duties were also done.",
+                    "title": "Lifeguard and Swimming Instructor",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Soccer Coach",
+            "company": {
+                "id": null,
+                "name": "Rockcliffe Park Lindenlea League Soccer",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": "Coach a football team in a recreational league. Players were between the ages 11-14"
+        }
+    ],
+    "skills": [
+        "Matlab",
+        "Python",
+        "Project Management",
+        "LaTeX",
+        "Presentation Skills",
+        "Microsoft Office",
+        "CATIA",
+        "R"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

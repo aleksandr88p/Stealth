@@ -1,0 +1,563 @@
+{
+    "profile_id": "alexander-bratz",
+    "first_name": "Alexander",
+    "last_name": "Bratz",
+    "sub_title": "Founder & FinTechie | Ex-Revolut | Ex-N26 |",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C4E03AQFdZbLs4vOLLA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1637056623072?e=1749081600&v=beta&t=lt2vbAfMktDs4pjRUAtLR5ul9ffhtm-Eblm3mfEi23c",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": true,
+    "entity_urn": "ACoAAAxPoOoB5B5xD7W1S5smLNw-nBgZEv0UkZY",
+    "object_urn": 206545130,
+    "birth_date": null,
+    "summary": "We provide a single trusted platform solution to solve your B2B cross-border payment needs in over 180 countries and 37 currencies. Get in touch!",
+    "location": {
+        "country": "Germany",
+        "short": "Constance, Baden-Württemberg",
+        "city": "Constance",
+        "state": "Baden-Württemberg",
+        "default": "Constance, Baden-Württemberg, Germany"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "DE",
+            "language": "de"
+        },
+        "supported_locales": [
+            {
+                "country": "DE",
+                "language": "de"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Deutsch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Englisch",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Französisch",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Italienisch",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "ESCP Business School",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF87vEqbDAstA/company-logo_400_400/company-logo_400_400/0/1730279804770/escp_business_school_logo?e=1749081600&v=beta&t=zopLsNPP26uKO6ADP_AOPGaZtOjYCHOJRe9hjlhcSBg",
+                "url": "https://www.linkedin.com/school/escp-business-school/"
+            },
+            "degree_name": "Master in European Business",
+            "description": null,
+            "field_of_study": "Finance and Business Strategy",
+            "grade": "1.0"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Frankfurt School of Finance & Management",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHLAjWxhrt2QA/company-logo_400_400/company-logo_400_400/0/1630573655211?e=1749081600&v=beta&t=7k0ovRpd9VexWZWvkaQe9SnQRyjgYGY9PMgLDV1q-Zg",
+                "url": "https://www.linkedin.com/school/frankfurtschool/"
+            },
+            "degree_name": "Certificate",
+            "description": null,
+            "field_of_study": "Regulatory Reporting Specialist",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Johannes Gutenberg University Mainz",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGEvod824Z81A/company-logo_400_400/company-logo_400_400/0/1631335043415?e=1749081600&v=beta&t=ir7sEq2FcP1N9K7kjLYCE4xk75STsIpOWJn3gSClxRg",
+                "url": "https://www.linkedin.com/school/unimainz/"
+            },
+            "degree_name": "Bachelor of Arts (B.A.)",
+            "description": null,
+            "field_of_study": "Politische Wissenschaft und Regierung",
+            "grade": "1.9"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "ESCP Europe \"Scholarship for the European managers of tomorrow\"",
+            "description": null,
+            "issuer": null,
+            "date": {
+                "month": 3,
+                "day": null,
+                "year": 2014
+            }
+        },
+        {
+            "title": "ESCP Europe Scholarship merit-based",
+            "description": null,
+            "issuer": null,
+            "date": {
+                "month": 11,
+                "day": null,
+                "year": 2013
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": "AGYT",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin, Deutschland",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "AGYT",
+                    "description": null,
+                    "title": "Co-Founder & Head of Sales and Business Development",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 560062,
+                "name": "CHECK24 Vergleichsportal",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGGDxO2gF2yCg/company-logo_400_400/company-logo_400_400/0/1630550743253/check24_vergleichsportal_gmbh_logo?e=1749081600&v=beta&t=JofSoH9H5hRQdb9EhmF8ivQ5exwEWfPYbY7miqP6dbQ",
+                "url": "https://www.linkedin.com/company/check24-vergleichsportal-gmbh/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "CHECK24 Vergleichsportal",
+                    "description": null,
+                    "title": "Head of Bank Partnerships International",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, Vereinigtes Königreich",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "- built a global finance, regulatory and compliance reporting function with highest degree of automation \n- grew and managed 3 teams (15 total) of most diverse and multicultural background (15 nationalities; python developers and functional bankers)\n- always delivered on KPIs",
+                    "title": "Director | Global Head of Reporting",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5325596,
+                "name": "Fidor Solutions",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH5BKOQxlS8KQ/company-logo_400_400/company-logo_400_400/0/1732190782274/fidorsolutions_logo?e=1749081600&v=beta&t=j8kLMddvw-PumzAUxIjHj-Tiv0PgVFhsjLEokZIweYg",
+                "url": "https://www.linkedin.com/company/fidorsolutions/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "München und Umgebung, Deutschland",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Fidor Solutions",
+                    "description": "- Lead OpenBanking initiatives at Fidor and Fidor Solutions’ clients\n- Introduced product innovation and developed product concepts for Fidor's retail & SME banking software solution\n- Lead adhoc strategic product R&D streams within Fidor and between Fidor and client/product partner\n- Responsible for execution of multiple business plans and product R&D projects\n- Refined, championed and executed product vision, strategy and roadmap of the responsible product streams\n- Managed product vendor and partner relationships\n- Advised internal and external C-level executives, commercial, product engineering, project delivery teams to ensure product success at every stage of the product life cycle",
+                    "title": "Senior Manager Product Strategy / Head of Partnership Management",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 12771,
+                "name": "zeb consulting",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFwEetVDOSBIQ/company-logo_400_400/company-logo_400_400/0/1719591252055/zebconsulting_logo?e=1749081600&v=beta&t=Dwi4kZDL7vSzYjnidrpm0hFaZU5Eaws47D4KyFZj42E",
+                "url": "https://www.linkedin.com/company/zebconsulting/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "zeb consulting",
+                    "description": "- Big Data Analytics: set up a groupwide Analytical Center of Excellence and training catalogue\n- Digital Banking: advised on analytical and predictive features\n- Mobile Banking: advised on in-app analytics in Group Digital Solution Program\n- GDPR Compliance: lead of DWH and finance stream in a group wide GDPR compliance program",
+                    "title": "Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3116425,
+                "name": "N26 Group",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHAHm6EVpvgAA/company-logo_400_400/B4EZVMGICmGYAY-/0/1740738429526/n26_logo?e=1749081600&v=beta&t=UV2IA-6m7IfTpa2889Fwf7DXDKevgkO76oISDW0-SFo",
+                "url": "https://www.linkedin.com/company/n26/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin und Umgebung, Deutschland",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "N26 Group",
+                    "description": "- Set up the whole regulatory reporting division of the newly founded bank \n- Implemented and customized the regulatory reporting processes and software, set up structure and processes, and assured compliance with European and German regulatory regimes and was first point of contact for Bundesbank \n- Project lead in introducing FATCA and CRS tax reporting schemes",
+                    "title": "Head of Financial & Regulatory Reporting",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 12771,
+                "name": "zeb consulting",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFwEetVDOSBIQ/company-logo_400_400/company-logo_400_400/0/1719591252055/zebconsulting_logo?e=1749081600&v=beta&t=Dwi4kZDL7vSzYjnidrpm0hFaZU5Eaws47D4KyFZj42E",
+                "url": "https://www.linkedin.com/company/zebconsulting/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "zeb consulting",
+                    "description": null,
+                    "title": "Senior Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1349,
+                "name": "BearingPoint",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGvpPaTBtv2Ig/company-logo_400_400/company-logo_400_400/0/1654010943794/bearingpoint_logo?e=1749081600&v=beta&t=hxWl5frhi95m4zYz4hsFceLTPQKxa92sigzwvuU2mB8",
+                "url": "https://www.linkedin.com/company/bearingpoint/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Frankfurt am Main und Umgebung, Deutschland",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "BearingPoint",
+                    "description": null,
+                    "title": "Business Analyst",
+                    "employment_type": null
+                },
+                {
+                    "location": "Frankfurt am Main und Umgebung, Deutschland",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "BearingPoint",
+                    "description": "\"Transactional Data in Banking Supervision: Benefits and Limitations\"",
+                    "title": "Master Student",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Business Development",
+        "Customer-Relationship-Management (CRM)",
+        "Unternehmensfinanzierung",
+        "Finanzmodelle",
+        "Corporate Finance",
+        "Microsoft Excel",
+        "Forschung",
+        "Mergers & Acquisitions",
+        "Unternehmensführung",
+        "Strategisches Management",
+        "Political Science",
+        "Political Communication",
+        "Investment Banking",
+        "M&A experience",
+        "Media Relations",
+        "Media Production",
+        "Fusionen und Übernahmen",
+        "Investmentbank",
+        "Englisch",
+        "Unternehmensplanung"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

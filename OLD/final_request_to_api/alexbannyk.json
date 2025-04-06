@@ -1,0 +1,578 @@
+{
+    "profile_id": "alexbannyk",
+    "first_name": "Oleksii",
+    "last_name": "Bannyk",
+    "sub_title": "Startup and VC Recruiter | 500 Global Alum, Ex-Sezzle, Ex-Revolut, Ex-Moss",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQEyGYuWHHRMvA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724160282905?e=1749081600&v=beta&t=Tls5gZS7FQsaeh8vFf_o-OXC5HiOKrMUP2UZ4k0AQBc",
+    "background_image": "https://media.licdn.com/dms/image/v2/D4D16AQEJK7xRt8PZxQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731919775745?e=1749081600&v=beta&t=sYH_5I4FxikQfYQ-EzY_RFNIYgvKvIoBTEF8Xqtn6b8",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAATuksMBlbpQp05Evcig7mq7em_CJGYuvfM",
+    "object_urn": 82744003,
+    "birth_date": null,
+    "summary": "I’m a proactive recruiter with over ten years of experience in talent acquisition, focusing on tech products, enterprises, agencies, and outsourcing/outstaffing businesses. I’ve led senior+ tech, non-tech (marketing, sales, finance, HR/recruitment), and C-level (CEO, CTO, CFO, COO, CMO etc) hiring projects across industries like SaaS, fintech, Digital, AI, ML, CRM, E-commerce, IoT, Medtech, research, healthcare, travel/booking, web3, telecom, and automotive. I build strong relationships with global stakeholders and candidates (EMEA, USA, LATAM, APAC), tailoring recruitment strategies to fit consulting needs, startups, hyper-grow scaleups, and enterprises.\n\nMy expertise includes strategic stakeholder engagement, AI-driven hiring, hyper-personalized outreach automation, and advanced sourcing techniques. I’m highly skilled in behavioural interviewing, AI screening, and assessment to reduce time-to-hire, improve candidate quality, and lower hiring costs. I leverage large language models and industry trends to deliver innovative talent acquisition solutions.\n\nKey Strengths:\nIndustry Expertise: Experience across consulting, fintech, healthcare, automotive, SaaS, digital, CRM, IoT, and more.\nGlobal Talent Pools: Sourcing talent from regions like Europe (Spain, Germany, Portugal, France, Italy, Austria, Hungary, Poland, Romania, Ukraine), USA, UK, Latin America, Mid East, Asia, Australia and beyond.\nData-Driven Recruitment: Utilizing data insights for market trends and strategic decision-making.\nAdvanced Sourcing: Mastery of Linkedin Rec, Boolean Strings composing (X-ray, file searches, pictures, etc), GitHub, Stack Overflow, Facebook, X and tools like Phantombooster and Quickli.\nATS Tools: Proficient in GreenHouse, Lever, Workable, and Recruitee for recruitment optimisation.\nAI & Automation: Leveraging GPT-based automation and tools like Source Whale, MixMax, and Bumerang.\nVideo Engagement: Using Loom and Vidyard to create engaging candidate experiences.\nSkill Assessment: Expertise in platforms like HackerRank, Codility, and Metaview.\nProject Management: Efficient recruitment operations with tools like Trello and Jira.\nOther: Proficient in GPT prompting and GPTs, Calendly, OctoHR, and GlossaryTech for streamlined processes.\n\nHybrid Office Availability: Open to hybrid office work in Barcelona, Valencia, and Zaragoza.\nWork Permit: Valid for Spain, available for B2B contracts.\nWork Formats: full-time hybrid, remote, part-time (hourly-based), or project-based work.\n\nLet’s connect. Reach out to me!",
+    "location": {
+        "country": null,
+        "short": "United States",
+        "city": null,
+        "state": null,
+        "default": "United States"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Ukrainian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Staffing & Recruiting",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Taras Shevchenko National University of Kyiv",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG0dwdA1TfNhQ/company-logo_400_400/company-logo_400_400/0/1631374969564/taras_shevchenko_national_university_of_kyiv_logo?e=1749081600&v=beta&t=jL3qrWKJIY2d7WuVwWm8YrfTg8nIC5_qSyk-mnHMLpw",
+                "url": "https://www.linkedin.com/school/taras-shevchenko-national-university-of-kyiv/"
+            },
+            "degree_name": "Master's degree",
+            "description": null,
+            "field_of_study": "Social work",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [
+        {
+            "name": "bannyk.com",
+            "position": "Talent Sourcer",
+            "date_start": {
+                "month": 3,
+                "day": null,
+                "year": 2015
+            },
+            "date_end": null
+        }
+    ],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 83053253,
+                "name": "Raised",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGefeg3DZNahA/company-logo_400_400/company-logo_400_400/0/1677706838986/raisednetworks_logo?e=1749081600&v=beta&t=JZUaR1pkK7qsnRs5eiVh7G1Lf6q15RKJZakeS7zQkdY",
+                "url": "https://www.linkedin.com/company/raisednetworks/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2024
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "United States",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Raised",
+                    "description": "Lead full-cycle hiring for AI/ML, SWE, GTM, Finance, Leadership and C-level roles, ensuring high-quality candidate matches.\nWork with AI/ML startups, VCs, and tech leaders to define hiring roadmaps and secure key talent.\nEngage and collaborate with founders, hiring managers, and key stakeholders to drive recruitment success.\nManage, coach, and mentor recruiters to optimise sourcing strategies and maximise hiring efficiency.\nContribute to the development and refinement of AI-powered recruitment tools.\nStreamline recruitment workflows, integrate automation, and improve data-driven decision-making.\nDrive business development by engaging new clients and advising on hiring strategies.\nAnalyze hiring trends, salary benchmarks, and talent market dynamics to refine hiring approaches.\nEnhance employer branding and refine outreach strategies to attract top AI/ML talent.\nAdvise clients on interview structuring, technical assessments, and offer negotiation to improve hiring success rates.\nCollaborate with product, engineering, and leadership teams to align hiring with company growth strategies.",
+                    "title": "Lead AI/ML Recruiter",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 91668973,
+                "name": "Perlentaucher",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHngpCGoMcrPg/company-logo_400_400/company-logo_400_400/0/1680733148905/perlentaucher_recruiting_logo?e=1749081600&v=beta&t=6P5bpaWRRKS7aWIIiJKbWHpbwbT2miu1HKmNCoJtT3Q",
+                "url": "https://www.linkedin.com/company/perlentaucher-ai/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin, Germany",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2024
+                        }
+                    },
+                    "company": "Perlentaucher",
+                    "description": "Perlentaucher is a technology-driven recruitment firm headquartered in Berlin, specializing in delivering an unparalleled candidate experience that serves as the foundation for lasting relationships with your organization’s future high-impact performers. Leveraging a team steeped in technological expertise, we go beyond conventional reach to identify and captivate the attention of high-calibre talent through tailor-made, creative outreach which is loved by talents. Our approach is further amplified by inventive performance recruiting campaigns, executed through data-driven programmatic and performance marketing strategies. We deliver where others don’t.\n Partner with businesses seeking transformative talent solutions. \n● Conduct detailed workshops to capture the essence of each role. \n● Craft magnetic job descriptions from deep client insights.\n● Utilise AI to identify standout candidates across industries.\n● Embed advanced tech into evolving recruitment practices.\n● Assess candidates against role-specific benchmarks for an optimal fit.\n● Maintain essential candidate data precisely through robust tracking systems. \n● Execute tailored, high-response communication campaigns.\n● Provide clients with real-time insights into recruitment milestones.\n● Influence company direction with frontline recruitment intelligence.",
+                    "title": "AI Recruiter",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 28895455,
+                "name": "Moss | All-in-one spend management",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG396GrRMT5yA/company-logo_400_400/company-logo_400_400/0/1726496034249/mosscredit_logo?e=1749081600&v=beta&t=Ut2jf6ZHIpiek6ZJBQhA7nhQyd0wEgtyS-m2_rM9fr8",
+                "url": "https://www.linkedin.com/company/moss-finance/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin, Germany",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Moss | All-in-one spend management",
+                    "description": "● Designed and executed talent acquisition strategies in key markets (Germany, Netherlands, UK, Spain, Lithuania)\n● Built strong talent pipelines using innovative approaches for tech and non-tech roles\n● Conducted end-to-end candidate interviews and reference checks with Hiring Managers\n● Implemented new sourcing channels and conducted sourcing training for the team\n● Partnered closely with engineering teams to find top talent\n● Led talent acquisition projects and process improvements, including ATS optimization\n\nAchievements: implemented strategies that reduced time to hire by 50%, from 55-60 days to 30-35 on average; assumed the role of sourcing lead for the department, overseeing all sourcing activities and providing guidance to the team; delivered training sessions for over 10 recruiters, resulting in a 30% increase in candidate pipeline quality; closed three critical engineering director roles for new departments, resulting in the successful launch of three new products and a 15% increase in overall revenue.\n\nClosed positions: 6 senior Java backend, 5 Senior React frontend, 3 Engineering Managers, Lead Data Engineer, SRE, Head of InfoSec, Product Managers, Salesforce engineers, Strategic Researcher, Payroll Spec.",
+                    "title": "Talent Acquisition Partner",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 7581873,
+                "name": "Sezzle",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEv2WrQrWZM-A/company-logo_400_400/company-logo_400_400/0/1630615785657/sezzle_logo?e=1749081600&v=beta&t=-dTW9deKeCli755D5-hF8Hn2IUWSXk6RHS4eB4ioH6o",
+                "url": "https://www.linkedin.com/company/sezzle/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin, Germany",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Sezzle",
+                    "description": "● Updated and designed recruiting procedures for Germany, France, Italy, Spain and the USA \n● Managed team's daily activity, KPIs, and goals\n● Tracked recruiting metrics (time-to-hire, cost-per-hire, etc.)\n● Coordinated all candidate interviews and provided feedback to interview teams\n● Supervised and reported on team performance\n● Implemented new sourcing methods and chose job advertising options\n● Advised hiring managers on interviewing techniques and improved employer branding \n● Forecasted future hiring needs and built the company's professional network\n\nAchievements: in collaboration with hiring managers implemented recruitment procedures that allowed to hire of high-quality (domain-experienced) candidates, and reduced the time to hire twice to 35-40 days.\n\nClosed positions: Senior Marketing Specialist, 2 Recruiters, Head of Customer Success, Head of HR, Senior DevOps (USA), Product Manager (USA) etc",
+                    "title": "Senior Recruiter",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London Area, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "● Recruit exceptional A-Players to join Revolut's rapidly growing team\n● Collaborate with hiring managers and stakeholders to create the ideal candidate profile\n● Develop and refine an interview process that enhances our assessment quality while\noptimizing the candidate experience\n● Be a trusted talent acquisition advisor with a strong understanding of the talent pool\n● Facilitate a pipeline of strong candidates for future needs\n● Screen CVs and interview qualified candidates; sell Revolut as an employer of choice\n● Drive the offer process and close candidates\n● Consistently ensure a fantastic candidate experience\n\nAchievements: implemented modern sourcing methods like Nurturing Email Campaigns and other Social Media outreach, resulting in a 33% increase in candidate engagement.\n\nClosed positions: 11 Senior Frontend, 13 Senior Backend, 8 Python, 5 Senior DevOps.",
+                    "title": "Senior Technical Recruiter",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11510599,
+                "name": "Autobooking.com",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHHq_-4wtWaPQ/company-logo_400_400/company-logo_400_400/0/1630568406656/autobookingcom_logo?e=1749081600&v=beta&t=_nM5kixlfJenCntT4NF08Ds9g_1WqkZa5u3459xINDU",
+                "url": "https://www.linkedin.com/company/autobookingcom/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kyiv Region, Ukraine",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Autobooking.com",
+                    "description": "NOW HIRING Middle Front-End developer with React.js for remote job, please check the full job description here:\nhttps://jobs.dou.ua/companies/career-art/vacancies/113049/",
+                    "title": "Talent Partner",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10616845,
+                "name": "Passion.io",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiVNBFYrBuaQ/company-logo_400_400/company-logo_400_400/0/1630536833472/passionio_logo?e=1749081600&v=beta&t=_uQR_g0hzZfLmp8C7p9epGzw1m41GouWfSNCxvotWCw",
+                "url": "https://www.linkedin.com/company/passion.io/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin Area, Germany",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Passion.io",
+                    "description": null,
+                    "title": "Technical Talent Acquisition",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2404362,
+                "name": "WowApp",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHte2p1ZYNjuA/company-logo_400_400/company-logo_400_400/0/1631304021114?e=1749081600&v=beta&t=87ikw835QONGrlvmgLuqPuUBgb4KcY5Lz2JCcZcBwYM",
+                "url": "https://www.linkedin.com/company/woow-international/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Romania",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "WowApp",
+                    "description": "Manage a high volume of requisitions at one time \nManage full-cycle recruiting process ensuring a smooth and positive candidate experience \nBuild a pipeline of top engineers through researching and sourcing candidates \nQualify candidates for a technical and cultural fit \nManaging relationships with candidates, hiring managers, and interviewers in a proactive and positive manner \nDrive offer process – including extending offers, closing candidates \nRepresent the company with integrity and professionalism",
+                    "title": "Technical Recruiter",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9334244,
+                "name": "Nobel Financial",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGu5GOyeQaouA/company-logo_400_400/company-logo_400_400/0/1631326755281?e=1749081600&v=beta&t=OtMB4NDDQdyWVXj8pKf-lHfGDS8-PZ6EJTfiuJiP4CE",
+                "url": "https://www.linkedin.com/company/nobel-financial/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bucharest, Romania",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Nobel Financial",
+                    "description": "Source and attract passive candidates through active sourcing technicques.\nManage candidate process and act as a candidate advocate. \nEvaluate skill level and work with the hiring managers on resume reviews and screening.\nImprove the candidate and hiring managers experience. \nFollow-up with clients to confirm that staffing priorities and candidate needs are met.",
+                    "title": "Senior Information Technology Recruiter",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 433691,
+                "name": "Nobel, Ltd",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGHcaEyWgE3KQ/company-logo_400_400/company-logo_400_400/0/1631306237715?e=1749081600&v=beta&t=8ILUnCnk_Lqxc3PiRn7paKxwBtxiiG-HM2hD_oXmP_0",
+                "url": "https://www.linkedin.com/company/nobel-ltd/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Bucharest, Romania",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Nobel, Ltd",
+                    "description": "● Develop and implement recruiting strategies to meet staffing needs\n● Source and attract passive candidates through active and passive sourcing techniques\n● Manage the candidate process, act as a candidate advocate, and improve their experience\n● Evaluate candidates' skill levels and work with hiring managers on screening and resume reviews\n● Create job ads and descriptions, and build a pipeline of top engineers through research and sourcing\n● Qualify candidates for technical and cultural fit\n● Manage a high volume of requisitions at one time and ensure a smooth and positive\ncandidate experience throughout the full recruiting cycle\n● Manage relationships with candidates, hiring managers, and interviewers\n● Drive the offer process, extend offers, and close candidates\n● Follow up with clients to ensure staffing priorities and candidate needs are met\n● Represent the company with integrity and professionalism\n\nClosed positions: 22 Senior Java Developers, 6 Senior Android, 4 Senior IOS, 2 Frontend, Erlang Engineers, 2 Senior Kotlin Engineers, Senior AQA, Senior SQL dev, Senior Telco engineers.",
+                    "title": "Technical Recruiter",
+                    "employment_type": "Contract"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Artificial Intelligence (AI)",
+        "Machine Learning",
+        "Candidate Experience",
+        "Client Relations",
+        "Stakeholder Management",
+        "Strategic Hiring Manager Engagement",
+        "AI Recruitment",
+        "Advanced Sourcing",
+        "Recruitment Automation",
+        "Compensation Strategies",
+        "Recruiting",
+        "Human Resources",
+        "Employer Branding",
+        "Interviews",
+        "Executive Search",
+        "HR Consulting",
+        "HR Policies",
+        "Employee Relations",
+        "Screening",
+        "Technical Recruiting"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

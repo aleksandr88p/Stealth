@@ -1,0 +1,511 @@
+{
+    "profile_id": "lexpolishchuk",
+    "first_name": "Alexander",
+    "last_name": "Polishchuk",
+    "sub_title": "Founding engineer at Neverless | ex Lead Software Engineer at Revolut",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C4D03AQH-7fJZywtKYw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1624831908145?e=1749081600&v=beta&t=McckLsuo10eLmnrBaQsM5fS88BCzwRRs6MuF8UbnXRQ",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAoK4ysBIumFrPlUGHOsAQeoyyQxYOmoG2c",
+    "object_urn": 168485675,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": null,
+        "short": "Singapore",
+        "city": null,
+        "state": null,
+        "default": "Singapore"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "RU",
+            "language": "ru"
+        },
+        "supported_locales": [
+            {
+                "country": "RU",
+                "language": "ru"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "Moscow State University of Instrument Engineering and Computer Sciences (MGUPI)",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQF_5_WVXFg9Ig/company-logo_400_400/company-logo_400_400/0/1630668329633/________logo?e=1749081600&v=beta&t=O-m7BqLmME2iHtJjkhqmaTPxjKdhKPt9x-iJQPa9Ztk",
+                "url": "https://www.linkedin.com/school/%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82-%D0%BF%D1%80%D0%B8%D0%B1%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8-%D0%BC%D0%B3%D1%83%D0%BF%D0%B8-/"
+            },
+            "degree_name": "Specialist degree",
+            "description": null,
+            "field_of_study": "Software for Computers and Automated Systems",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "Moscow State College of Computer Science and Сomputer Engineering",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Engineer's degree",
+            "description": null,
+            "field_of_study": "Software for Computers and Automated Systems",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Oracle Certified Professional, Java SE 6 Programmer",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Oracle",
+            "url": "https://www.youracclaim.com/badges/ee1b1745-a82d-4664-bef1-fc00c29bb15a/linked_in_profile",
+            "license_number": null,
+            "display_source": "youracclaim.com",
+            "company": {
+                "id": null,
+                "name": "Oracle",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_400_400/company-logo_400_400/0/1665755678957/oracle_logo?e=1749081600&v=beta&t=tpLQ5E1uhp4J9tn1mmImQAvR9I3OwjxRnvyqUFTxO7A",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 105253352,
+                "name": "Neverless",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHKPl5DjZlw_Q/company-logo_400_400/company-logo_400_400/0/1732807299611/neverlessapp_logo?e=1749081600&v=beta&t=7-D3gDkJgA7bkufjJnJ5X-sqkNYLpcAhuXP8NbXyCj8",
+                "url": "https://www.linkedin.com/company/neverlessapp/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Singapore, Singapore",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Neverless",
+                    "description": null,
+                    "title": " Founding Backend Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Singapore, Singapore",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Lead Software Engineer (Crypto)",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Lead Software Engineer (Scala)",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Senior Scala Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10099963,
+                "name": "ToBox Technology",
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQHoy0dKseBueQ/company-logo_400_400/company-logo_400_400/0/1631391306636?e=1749081600&v=beta&t=IvSQBLCV74UVNyAg0WibLke93pvW439BlYDohCyKWsE",
+                "url": "https://www.linkedin.com/company/tobox/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "ToBox Technology",
+                    "description": null,
+                    "title": "Senior Java Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5300,
+                "name": "Luxoft",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGEEw9HXvgGzA/company-logo_400_400/company-logo_400_400/0/1639383759204/luxoft_logo?e=1749081600&v=beta&t=9xft1qOpy8AMTqtxTUprAnJmh1fJoU6-HRZ2aQyl-qU",
+                "url": "https://www.linkedin.com/company/luxoft/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Luxoft",
+                    "description": "Deutsche Bank Project",
+                    "title": "Senior Java Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1619861,
+                "name": "Qtech",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGe9yrvKx7kEg/company-logo_400_400/company-logo_400_400/0/1631303131183?e=1749081600&v=beta&t=F7fDlBdixz07Zv2GJ5ISBLeF3qBhThdTtPA_YqwT72Q",
+                "url": "https://www.linkedin.com/company/qtech-2/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Qtech",
+                    "description": null,
+                    "title": "Senior Java Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "BIFIT",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "BIFIT",
+                    "description": null,
+                    "title": "Java Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Global PS",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Global PS",
+                    "description": null,
+                    "title": "QA Automation Engineer C#, Java",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Distributed Systems",
+        "Google Cloud Platform (GCP)",
+        "Aeron",
+        "Blockchain",
+        "Ethereum",
+        "Solana",
+        "Java",
+        "Scala",
+        "Akka",
+        "Algorithms",
+        "Design Patterns",
+        "TDD",
+        "Maven",
+        "JUnit",
+        "Spring Framework",
+        "Mssql",
+        "Hibernate",
+        "REST",
+        "Java Enterprise Edition",
+        "CQRS"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

@@ -1,0 +1,1257 @@
+{
+    "profile_id": "mattialandolfi",
+    "first_name": "Mattia",
+    "last_name": "Landolfi",
+    "sub_title": "---",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C4D03AQGFoqKVvfn2RA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1566065416129?e=1749081600&v=beta&t=o7ECkZx-iZSrP5hdZSjzum5xNNFTu6rQj0zU6rf8dV0",
+    "background_image": "https://media.licdn.com/dms/image/v2/C4D16AQFzYJBxqEfKeQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1552757748440?e=1749081600&v=beta&t=btWKc1QA1f-_Cx_DPzByeQ52ER62LBn5EyQXXGM9Dhg",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAABOEmI0B-8e6XMHYzncdxu37SvGYTub0twQ",
+    "object_urn": 327456909,
+    "birth_date": null,
+    "summary": "Technical expertise  -  Engineering background and Robotics Researcher experience (published author)\nOperation  -  Hired and Streamlined Processes for several departments of unicorn and conglomerate\nIndustry experience  -  worked in Automotive, Robotics, FMCG and FinTech\nLived and worked in Italy, USA, Brazil, UK and Poland",
+    "location": {
+        "country": "Poland",
+        "short": "Cracow, Małopolskie",
+        "city": "Cracow",
+        "state": "Małopolskie",
+        "default": "Cracow, Małopolskie, Poland"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "IT",
+            "language": "it"
+        },
+        "supported_locales": [
+            {
+                "country": "IT",
+                "language": "it"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Italian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Portuguese",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Politecnico di Torino",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGbyRTmgwi0uw/company-logo_400_400/company-logo_400_400/0/1630550785230/politecnico_di_torino_logo?e=1749081600&v=beta&t=myz0r_M4KRH5D4NS43AOWrkaczAUYV7vCEjUaQ7XeX4",
+                "url": "https://www.linkedin.com/school/politecnico-di-torino/"
+            },
+            "degree_name": "M.Sc.",
+            "description": "Extensive and broad-spectrum preparation with courses crossing over Electronics, Mechanics and Electrical machines, with stronger focus on Software Engineering and Automatic Control.",
+            "field_of_study": "Mechatronic Engineering",
+            "grade": "110/110 Cum Laude"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Politecnico di Milano",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGIdDa21xm3FA/company-logo_400_400/company-logo_400_400/0/1721737600038/polimi_logo?e=1749081600&v=beta&t=wILyqmb2WLHkqZpp0ds3K_4kj8hC_hYFzfLtDN_F0Wo",
+                "url": "https://www.linkedin.com/school/polimi/"
+            },
+            "degree_name": "M.Sc.",
+            "description": null,
+            "field_of_study": "Automation and Control Engineering",
+            "grade": "110/110 Cum Laude"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Collegio Carlo Alberto",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHF3AHQ9GqzEg/company-logo_400_400/company-logo_400_400/0/1736930590397/collegio_carlo_alberto_logo?e=1749081600&v=beta&t=S3sTKHQ5IePqmU3kaOBW0d_LcF6VVsCf_EDrIcd06fY",
+                "url": "https://www.linkedin.com/school/collegio-carlo-alberto/"
+            },
+            "degree_name": "M.A.",
+            "description": "Allievi Honors Program. Courses focused on Modern Economic theory and methods using Advanced Statistics and Mathematics.\n\nThesis: \"L1 Adaptive Control and Polynomial Trajectory Planning for Economic Applications\", it uses engineering tools from control theory re-adapted for economic purposes.",
+            "field_of_study": "Economics",
+            "grade": "GPA: A"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Alta Scuola Politecnica",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHXFTt0MkkIeg/company-logo_400_400/company-logo_400_400/0/1661181184833/alta_scuola_politecnica_logo?e=1749081600&v=beta&t=X8tmNOmM2HAh2o_5tVafeWycpxr9FZvsEiaI4_7y4Xk",
+                "url": "https://www.linkedin.com/school/alta-scuola-politecnica/"
+            },
+            "degree_name": "Excellence Programme in Business and Innovation",
+            "description": "Politecnico di Torino and Politecnico di Milano Honour College, restricted to the best 150 applicants to the M.Sc. in Engineering, Architecture and Design, coming from ~20 different countries.\n\nIt offers a 2-year training aimed at developing interdisciplinary, team-work and leadership skills.",
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "University of Genoa",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFl5hO1_eIbdQ/company-logo_400_400/company-logo_400_400/0/1673447303424/university_of_genoa_logo?e=1749081600&v=beta&t=z5q-6LGDnE678fTc745kVk8_hfPlg8mJ93jv1RuPZe4",
+                "url": "https://www.linkedin.com/school/university-of-genoa/"
+            },
+            "degree_name": "B.Sc.",
+            "description": "Courses based on the Electronics and Software Engineering degree plus some characteristics like bio-electronics, human physiology, biomedical instrumentation, signal processing and data analysis, bio-materials.",
+            "field_of_study": "Biomedical Engineering",
+            "grade": "110/110 Cum Laude"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "ISICT - University of Genoa",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Excellence Programme in ICT and Business",
+            "description": "University of Genoa Honour College, consortium between the University of Genoa and ICT companies. Restricted to the best 15 applicants to the B.Sc. in Engineering (Electronics, Software and Biomedical) and Computer Science. \n\nIt offers a 3-year training aimed at developing skills in corporate and organizational, socio-economic and scientific-technical areas.",
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "I.T.I.S. Gastaldi-Abba",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Technical H.S. Diploma",
+            "description": "Main subjects: Physical Chemistry, Chemical Analyses, Organic Chemistry, Industrial Chemical Technologies",
+            "field_of_study": "Chemical Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Ermanno Borio Prize",
+            "description": "Best Engineering Thesis among students living at the Collegio Einaudi in 2015–16.",
+            "issuer": "Collegio Einaudi",
+            "date": {
+                "month": 12,
+                "day": null,
+                "year": 2016
+            }
+        },
+        {
+            "title": "Ermanno Borio Scholarship",
+            "description": "Awarded to the four Best Engineering Students living at the Collegio Einaudi in 2014–15",
+            "issuer": "Collegio Einaudi",
+            "date": {
+                "month": 3,
+                "day": null,
+                "year": 2016
+            }
+        },
+        {
+            "title": "Collegio Carlo Alberto Scholarship",
+            "description": "as a member of the Allievi Honors Program",
+            "issuer": "Collegio Carlo Alberto",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            }
+        },
+        {
+            "title": "Pretto-Cassanello Foundation Scholarship",
+            "description": "Awarded to the six Best Students of the Faculty of Engineering - Academic Year 2011-12.",
+            "issuer": "Pretto-Cassanello Foundation",
+            "date": {
+                "month": 9,
+                "day": null,
+                "year": 2013
+            }
+        },
+        {
+            "title": "ASING Award",
+            "description": "Won for having been one of the ten Best First-year Engineering Students, 2011–12.",
+            "issuer": "University of Genoa",
+            "date": {
+                "month": 4,
+                "day": null,
+                "year": 2013
+            }
+        },
+        {
+            "title": "ISSUGE - ISICT Scholarship",
+            "description": "Awarded to the four Best ISICT Students.\nAwarded every year from 2012 to 2014.\n",
+            "issuer": "ISICT",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2012
+            }
+        },
+        {
+            "title": "Pretto-Cassanello Foundation Scholarship",
+            "description": "Awarded to the Best Students of all Technical Institutes in Genoa in 2009–10.",
+            "issuer": "Pretto-Cassanello Foundation",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2011
+            }
+        },
+        {
+            "title": "Second Classified at the Regional Olympics of Chemistry",
+            "description": null,
+            "issuer": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2010
+            }
+        },
+        {
+            "title": "Regional Olympics of Math",
+            "description": "Every year, for five years (2007-2011), I participated, after selection, in the regional olympics of math, always coming first out of my high school.",
+            "issuer": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2007
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Advanced Open Water Diver",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "PADI",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "PADI",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGt15EDpU4Jhg/company-logo_400_400/company-logo_400_400/0/1630478255591/padi_logo?e=1749081600&v=beta&t=dQ9Cg-lLsYFaJrZng9rgaqNynapBqWqfd8nWukmtv_M",
+                "url": null
+            }
+        },
+        {
+            "name": "IELTS",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "British Council",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "British Council",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEbgQMpvEqVNw/company-logo_400_400/company-logo_400_400/0/1630560502099/british_council_logo?e=1749081600&v=beta&t=QQVr3DVTZnedX-nJXjVT5nXM7nvGf-UIXPF6XH7q1mA",
+                "url": null
+            }
+        },
+        {
+            "name": "AUTONAVx: Autonomous Navigation for Flying Robots",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "edX",
+            "url": "https://verify.edx.org/cert/571654f5c093441599a0c8aca2a47898",
+            "license_number": null,
+            "display_source": "edx.org",
+            "company": {
+                "id": null,
+                "name": "edX",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFG13a41008Dg/company-logo_400_400/company-logo_400_400/0/1688142646299/edx_logo?e=1749081600&v=beta&t=H3HpLP1s9hRTEFYfYv-fI4I49J92-EAPLe4lA2L_PJA",
+                "url": null
+            }
+        },
+        {
+            "name": "Exploring Quantum Physics",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/course/eqp",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1749081600&v=beta&t=uSsDtmGfE4Sechx_fC7fZmwsNP-6JnXP1De32oOjS-A",
+                "url": null
+            }
+        },
+        {
+            "name": "Open Water Diver",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "PADI",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "PADI",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGt15EDpU4Jhg/company-logo_400_400/company-logo_400_400/0/1630478255591/padi_logo?e=1749081600&v=beta&t=dQ9Cg-lLsYFaJrZng9rgaqNynapBqWqfd8nWukmtv_M",
+                "url": null
+            }
+        },
+        {
+            "name": "ECDL (European Computer Driving License)",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "ECDL Foundation",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "ICDL Europe",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQE6wepHdNC4Vw/company-logo_400_400/company-logo_400_400/0/1630582989478/ecdl_foundation_logo?e=1749081600&v=beta&t=HuFE7DVGMDnHZG3WI0akVTp8MZVRlD9NO6Ix16XWs9U",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Smart Taillight for Automotive Applications",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "The goal of this Project was the development of a smart automotive taillight able to adjust light emission based on weather conditions, like night/day, fog and rain, enhancing driving safety in low visibility.\nThe main partner of the Project is OLSA Group.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mattia",
+                    "last_name": "Landolfi",
+                    "name": null,
+                    "headline": "---"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alessandro",
+                    "last_name": "Artoni",
+                    "name": null,
+                    "headline": "Renewable Energy Investments"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mario",
+                    "last_name": "Murari, PhD",
+                    "name": null,
+                    "headline": "Supply,  Strategy & Partner Operations"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Julien",
+                    "last_name": "Roux",
+                    "name": null,
+                    "headline": "Co-Founder at Nebuly | User Analytics for LLMs"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Pasqualone",
+                    "name": null,
+                    "headline": "People Solutions Project Leader @ Ahlstrom || ex-McKinsey || MBA @ Collège des Ingénieurs"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Iuliia",
+                    "last_name": "Timofeeva",
+                    "name": null,
+                    "headline": "Project Engineer presso Hera"
+                }
+            ]
+        },
+        {
+            "title": "Horizon 2016 - McKinsey & Company",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "One of the two Italian graduate students chosen among thousands to attend the 4-day International business technology workshop organized by McKinsey & Company in Barcelona.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mattia",
+                    "last_name": "Landolfi",
+                    "name": null,
+                    "headline": "---"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Giulia",
+                    "last_name": "Ladisa",
+                    "name": null,
+                    "headline": "Senior Program Manager"
+                }
+            ]
+        },
+        {
+            "title": "St.Gallen Business Game",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Three-day competition amongst master students from universities all across Europe to solve real-life case studies provided by leading Swiss and international companies.\nCorporate Partners: BMW, Swarovsky, Nespresso, BDO, Zurich Insurance.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mattia",
+                    "last_name": "Landolfi",
+                    "name": null,
+                    "headline": "---"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Riccardo",
+                    "last_name": "Fogliato",
+                    "name": null,
+                    "headline": "Applied Scientist, AWS"
+                }
+            ]
+        },
+        {
+            "title": "Silicon Valley Study Tour 2014",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "The ten-day Tour incorporates stimulating seminars taught by top executives from some of the Silicon Valley’s most cutting-edge startups, well established technology giants and venture capital firms.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mattia",
+                    "last_name": "Landolfi",
+                    "name": null,
+                    "headline": "---"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Riccardo",
+                    "last_name": "Daidone",
+                    "name": null,
+                    "headline": "Strategy Consultant @ Strategy&"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andrea",
+                    "last_name": "Pirollo",
+                    "name": null,
+                    "headline": "VMware Account Director at Broadcom"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Riccardo",
+                    "last_name": "Ongaro ✔",
+                    "name": null,
+                    "headline": "Venture Consultant | Venture Builder | Venture Capital - Surfing the blurred line between tech and business"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Michela",
+                    "last_name": "Cipollone",
+                    "name": null,
+                    "headline": "Finance Transformation Manager"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Benedetta",
+                    "last_name": "Magri",
+                    "name": null,
+                    "headline": "HR Manager: developing #teamlidl in Sardegna | moglie, mamma and distopic TV series fan"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Saverio",
+                    "last_name": "Murgia",
+                    "name": null,
+                    "headline": "Fractional CTO | Entrepreneur | Forbes 30U30 Europe"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luciano",
+                    "last_name": "Zoida",
+                    "name": null,
+                    "headline": "Senior Consutant | Solution Development | Automation & Low Code @ Minsait"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Leonardo",
+                    "last_name": "Grassi",
+                    "name": null,
+                    "headline": "Project Manager presso Italdesign"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alessio",
+                    "last_name": "Mereta",
+                    "name": null,
+                    "headline": "Software Engineer presso Google"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Giuseppe",
+                    "last_name": "Quagliata",
+                    "name": null,
+                    "headline": "Operations Manager @ Wash Out"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Nardelli",
+                    "name": null,
+                    "headline": "Founding Engineer @ Tribul, Partner @ Sungazer, Forbes 30 Under 30"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Marta",
+                    "last_name": "Giovannetti",
+                    "name": null,
+                    "headline": "Researcher @ UNIMC"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Davide",
+                    "last_name": "Gallotti",
+                    "name": null,
+                    "headline": "Healthcare Management | Strategy | Business Development | Digital Health | ex Gruppo San Donato - EY"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Elda",
+                    "last_name": "Cascino",
+                    "name": null,
+                    "headline": "Senior Manager Global IoT Go-To-Market & Sales Enablement - @Vodafone Business"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Roberto",
+                    "last_name": "Condipodero, PMP®",
+                    "name": null,
+                    "headline": "Group M&A Financial Services Analyst - International Talent Program at Intesa Sanpaolo"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Arianna",
+                    "last_name": "Baldasarri",
+                    "name": null,
+                    "headline": "Freelance Senior Consultant at CLeM Consulting"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Luca",
+                    "last_name": "Marturana",
+                    "name": null,
+                    "headline": "Software Engineer"
+                }
+            ]
+        },
+        {
+            "title": "Ensuring Train Integrity - Ansaldo STS",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Researching Innovative ways to Ensure Train Integrity in any Environmental Circumstance",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mattia",
+                    "last_name": "Landolfi",
+                    "name": null,
+                    "headline": "---"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Autonomous Guidance Navigation and Control for Agile Quadrotors Using Polynomial Trajectory Planning and L1 Adaptive Control",
+            "publisher": "IEEE Mediterranean Conference on Control and Automation (MED’17)",
+            "url": "http://ieeexplore.ieee.org/document/7984255/",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mattia",
+                    "last_name": "Landolfi",
+                    "name": null,
+                    "headline": "---"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Saptarshi Bandyopadhyay",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Jean-Pierre de la Croix",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Amir Rahmani",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "International Symposium on Automotive Lightning 2015, Darmstadt, Germany",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18583501,
+                "name": "Stealth Startup",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1749081600&v=beta&t=HdK9rAhohenNit4H2D0XKcK-Ggz-Qoos_bPVstE0H2Q",
+                "url": "https://www.linkedin.com/company/stealth-startup-careers/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Stealth Startup",
+                    "description": null,
+                    "title": "---",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "worked in Revolut for Business Product across FinCrime (AML), Compliance (Transaction Monitoring and KYB) and Business Customer Support departments",
+                    "title": "Product & Operations Manager, Revolut for Business - Product & Operations",
+                    "employment_type": null
+                },
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Joined when headcount of ~500 employees, ~3M retail customers and ~3K business customers.\nDirect reporting to the CEO, involved in different tasks tackled with SQL Data Analysis:\n\n- set KPIs, KRIs and build dashboards\n\n- define / improve Internal Processes and procedures\n\n- restructure departments for Business Expansion\n\n- Hire for key positions \n\n\nResponsibilities in the following areas: \n- Support departments (Retail, Business, Complaints, KYC, Tech, Transfer Investigation)\n- Retail Product teams\n- HR department\n\nHired for: \nHead of Retail Product, Head of Finance, Head of Business Sales, Executive Associates, Business Analysts, Recruiters\n\nOther, actively involved in:\n- team performance evaluation of the entire company\n- internal audits for retail support and retail product departments",
+                    "title": "Founder Associate - Strategy & Operations",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 33258450,
+                "name": "ABC Aurora",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGcBiCJ2LE_bA/company-logo_400_400-alternative/company-logo_400_400-alternative/0/1630563114940/abcaurora_logo?e=1749081600&v=beta&t=5lTbhuBxA6-gymC-dFPPHsPDLPFl6iq-QNbmGSYncXE",
+                "url": "https://www.linkedin.com/company/abcaurora/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "São Paulo Area, Brazil",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "ABC Aurora",
+                    "description": "AIESEC Global Volunteer project (https://aiesec.org/). \nVideo Editing for an NGO that promotes classes and socio-educational activities for hundreds of children and adolescents living in the favelas.",
+                    "title": "Volunteer - Marketing",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1116,
+                "name": "Procter & Gamble",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGGCd-fMXfRWw/company-logo_400_400/company-logo_400_400/0/1661448432247/procter_and_gamble_logo?e=1749081600&v=beta&t=-k-V7pICTSzueQPORi_nA9DZf_SEFwEFgqML0uQuJro",
+                "url": "https://www.linkedin.com/company/procter-and-gamble/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Reggio Emilia (RE), Italia",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Procter & Gamble",
+                    "description": "•  Managed Primary Quality Factors identification and Digital Transformation projects achieving $40k scrap cut/year, 30% quality checks time reduction and 15% less finish product holds.\n\n•  Renovated the quality failure Analysis and Reporting Systems and involved in the development of the new Quality Management System.\n\n•  Performed and Coordinated quality failure Root Cause Analysis through the entire Supply Chain",
+                    "title": "Quality Manager - Manufacturing Operations",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2004,
+                "name": "NASA Jet Propulsion Laboratory",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFru17MYnHlaQ/company-logo_400_400/company-logo_400_400/0/1631325414149?e=1749081600&v=beta&t=1yO7ycfbESR3xEU9_UfKDya4YXWk_oasbZKFDdFXj_s",
+                "url": "https://www.linkedin.com/company/jet-propulsion-laboratory/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Pasadena (CA), USA",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "NASA Jet Propulsion Laboratory",
+                    "description": "•  Designed an Innovative Autonomous Autopilot for Agile Aircraft (trajectory planning and control), published the article (in publication section) as first author, speaker at the IEEE Mediterranean Conference on Control and Automation (MED’17)\n\n•  Worked on the UI and Electronics of an Autonomous Ground Robot to take part into the 2016 Intuitive Robotic Operator Control of Autonomous Behaviors (IROC-A) Challenge (Dr. A. Stoica and Dr. J.P. de la Croix).",
+                    "title": "Visiting Researcher - Robotics",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5076909,
+                "name": "OLSA Group",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEYntM48MgmkA/company-logo_400_400/company-logo_400_400/0/1631322741786?e=1749081600&v=beta&t=3uhkJuHOtD0QGeiL0g2GigtoPOulTFsxwMiF2Z8Udlg",
+                "url": "https://www.linkedin.com/company/olsa-group---olsa-germany/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rivoli (TO), Italia",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "OLSA Group",
+                    "description": "Smart Light Project. Main responsible for Software Development and involved in the Electronic scheme design for an Innovative Automotive Smart Taillight based on LED technology, 6-Engineer team.",
+                    "title": "R&D Software Engineer - Automotive",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "MACLAB",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "University of Genoa, Genoa (GE), Italy",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "MACLAB",
+                    "description": "Study of Digital Control Techniques for Brushless motors on an Experimental Platform.\nElectronics Tests, Control Algorithm Implementation and Microcontroller Programming.",
+                    "title": "Software Engineer Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10466118,
+                "name": "MultiEvents - communications partner",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFmGDgyhS1qWQ/company-logo_400_400/company-logo_400_400/0/1631337008784?e=1749081600&v=beta&t=jTxX6abt6fYIwOSnYR3rYIWgKZU0wTXgg99OLi_H-KI",
+                "url": "https://www.linkedin.com/company/multievents---communications-partner/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Genoa (GE), Italy",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "MultiEvents - communications partner",
+                    "description": null,
+                    "title": "Marketing Promoter",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11139825,
+                "name": "Arpal - Agenzia regionale per la protezione dell'ambiente ligure",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFw3mXTZ7bYtQ/company-logo_400_400/company-logo_400_400/0/1631333867559?e=1749081600&v=beta&t=qMJIKTmMNBVK0nvg1YEC6kISc9J5M4yZw9xD99eeQOg",
+                "url": "https://www.linkedin.com/company/arpal-agenziaregionaleperl-ambienteligure/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Genoa (GE), Italy",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Arpal - Agenzia regionale per la protezione dell'ambiente ligure",
+                    "description": "Chemical-Physical and Microbiological analysis of drinking water and industrial wastewater.",
+                    "title": "Chemist Intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Team Leadership",
+        "SQL",
+        "Problem Solving",
+        "Data Analysis",
+        "Research",
+        "Information Technology",
+        "Software Development",
+        "Start-ups",
+        "Strategy",
+        "Business Strategy",
+        "Customer Experience",
+        "Operations Management",
+        "Product Management",
+        "Project Management",
+        "Quality Management",
+        "ISO 9001",
+        "Digital Technology",
+        "Microsoft Office",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

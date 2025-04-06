@@ -1,0 +1,428 @@
+{
+    "profile_id": "chmilevfa",
+    "first_name": "Fedor",
+    "last_name": "C.",
+    "sub_title": "Co-Founder | ex-Revolut | Tech in finance",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C5603AQHqvaebZzHfaA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516895388818?e=1749081600&v=beta&t=2rRrFshLfINR99LXXT39maESE7-8bsTUAsdTdPMrhLI",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAABkscG0BhOwmu5lVboogr9N6g1RIVlEot5s",
+    "object_urn": 422342765,
+    "birth_date": null,
+    "summary": "Experienced software engineer with 10+ years practical experience.\n\nSupportive and enthusiastic team player with a can-do attitude, time management skills, and a strong user needs focus.",
+    "location": {
+        "country": null,
+        "short": "United Kingdom",
+        "city": null,
+        "state": null,
+        "default": "United Kingdom"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Polish",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Moscow Power Engineering Institute (Technical University)",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Master's degree",
+            "description": "Programming and Mathematics\nArtificial Neural Networks and Problems handwriting recognition",
+            "field_of_study": "Information Technology",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Advanced Java Programming",
+            "number": null
+        },
+        {
+            "name": "Algorithms and data structures",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 97878319,
+                "name": "Resolv Labs",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEksLQ0ZfaODA/company-logo_400_400/company-logo_400_400/0/1732727708965/resolvlabs_logo?e=1749081600&v=beta&t=mX8E9PkGgKJiI85OEsSR1g7H0n7KQfHyAtTA8AAuFMQ",
+                "url": "https://www.linkedin.com/company/resolvlabs/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Resolv Labs",
+                    "description": null,
+                    "title": "Co-Founder",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18583501,
+                "name": "Stealth Startup",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1749081600&v=beta&t=HdK9rAhohenNit4H2D0XKcK-Ggz-Qoos_bPVstE0H2Q",
+                "url": "https://www.linkedin.com/company/stealth-startup-careers/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Stealth Startup",
+                    "description": null,
+                    "title": "Co-Founder",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kraków Area, Poland",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Crypto team:\n- Making and leading one of the most ambitious Revolut crypto products\nWealth&Trading team: \n- Developing and managing stocks, crypto and commodities related products and features\n- Making and leading customer faced features such as analysts price targets and estimations, news, collections and some type of analytics (top movers, most popular assets etc.)\n- Product and tech scoping and ownership\nCore payments team (till mid of 2020):\n- Bank transfers integrations: SWIFT, iDEAL, Direct Debits, SEPA etc.",
+                    "title": "Software and Product Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "EPAM Systems at Google",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kraków Area, Poland",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "EPAM Systems at Google",
+                    "description": "Google's Java stack (Java 8, Guice, Bazel, Guava, protobuf)",
+                    "title": "Senior Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10718,
+                "name": "Yandex",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQExT729lfsbuA/company-logo_400_400/company-logo_400_400/0/1630655185029/yandex_logo?e=1749081600&v=beta&t=k8tW5pX450f0Mi9_rzZ68OHGNnEjbisaCUcrI0Vlrh8",
+                "url": "https://www.linkedin.com/company/yandex/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russia",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Yandex",
+                    "description": "Developing of various backend Yandex.Market (market.yandex.ru) modules.\n- Internal products logic implementation (Java, SQL)\n- Architecture and database design\n- Integration with the different components\n- Writing tests (JUnit)\n- Participating in interviewing of job applicants\n- Being active in spreading knowledge about new technologies and features\n- Some experience with Hadoop/Hive and also with Yandex' implementation of MapReduce\nMain tools and technologies: Java SE 8, SQL, Git, Gradle, Spring DI, Spring JDBC and others.",
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "BIFIT",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "BIFIT",
+                    "description": "I participated in developing of integration platform working with different banking systems and with the main company product.\nMy main responsibilities:\n- Design and development of the platform internal mechanisms as well as clients business logic (Java SE 8)\n- Worked with client's databases (MySQL, Oracle, Postgres)\n- Making simple tests (JUnit)\n- GUI modification (JSF, JS)\n- Communication with developers, QA and analysts.\n\nMost frequently used tools and technologies: Java SE 8, SQL, Git, Maven, Spring DI",
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3737660,
+                "name": "RZD International",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG4vNx3DBTrtA/company-logo_400_400/company-logo_400_400/0/1631339127791?e=1749081600&v=beta&t=zB4oCgf6OEpAtYFtUKnc_cIJ5Xnym2UlsVhS1dXEEvw",
+                "url": "https://www.linkedin.com/company/rzd-international/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "RZD International",
+                    "description": "My responsibilities included:\n- Architecture design\n- Database design\n- Taking part in GUI design and development\n- Internal logic development\n- Developing of data processing algorithms and DB communication (Java, SQL)\n- Taking key design decisions that could arise during the development process\n\nTechnologies I used:\nJava SE, SQL, IBM - DB2, ActionScript (Flex)",
+                    "title": "Java Programmer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Java",
+        "Algorithms",
+        "Multithreading",
+        "Mathematics",
+        "System Design",
+        "Spring Framework",
+        "SQL",
+        "Databases",
+        "Linux",
+        "Concurrency",
+        "Artificial Neural Networks"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

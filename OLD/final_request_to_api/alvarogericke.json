@@ -1,0 +1,802 @@
+{
+    "profile_id": "alvarogericke",
+    "first_name": "Alvaro",
+    "last_name": "Gericke",
+    "sub_title": "Building something new | Ex-Revolut",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C4D03AQHtE_Tn7lqr6Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1606908659835?e=1749081600&v=beta&t=Pjmw00p5zoc8QwqJlkRWS8gPqGszv5R3Rulw0KK9hO0",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAB42QVwBxthcqVFqMokAnNmC7FKudcjdgSI",
+    "object_urn": 506872156,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "United Kingdom",
+        "short": "London, England",
+        "city": "London",
+        "state": "England",
+        "default": "London, England, United Kingdom"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "ES",
+            "language": "es"
+        },
+        "supported_locales": [
+            {
+                "country": "ES",
+                "language": "es"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Illinois Institute of Technology",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEd6wnmQCCIHw/company-logo_400_400/company-logo_400_400/0/1630559679535/illinois_institute_of_technology_logo?e=1749081600&v=beta&t=Vs6pOHADS53fPRBMIgzkYDOPXK__nQ5eDaBR494WW_k",
+                "url": "https://www.linkedin.com/school/illinois-tech/"
+            },
+            "degree_name": "Master's degree",
+            "description": null,
+            "field_of_study": "Computer Science",
+            "grade": "GPA: 3.8/4.0"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Universidad Pontificia Comillas",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE5Lb4a81x5Sw/company-logo_400_400/company-logo_400_400/0/1679050784911/ucomillas_logo?e=1749081600&v=beta&t=tnD9qNqNJwqlS4ZbLHqqNNq_RReQzC5nhjF_k2HR5C8",
+                "url": "https://www.linkedin.com/school/ucomillas/"
+            },
+            "degree_name": "Master of Business Administration - MBA",
+            "description": "- Double Degree program.\n- Dean’s List: “Finance and Investment in Industry and Technology”.",
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Universidad Pontificia Comillas",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE5Lb4a81x5Sw/company-logo_400_400/company-logo_400_400/0/1679050784911/ucomillas_logo?e=1749081600&v=beta&t=tnD9qNqNJwqlS4ZbLHqqNNq_RReQzC5nhjF_k2HR5C8",
+                "url": "https://www.linkedin.com/school/ucomillas/"
+            },
+            "degree_name": "Master of Engineering - MEng",
+            "description": "- Double Degree program.\n- Master's Thesis done with Alastria (World’s 1st and Largest Public Permissioned Blockchain Network).",
+            "field_of_study": "Telecommunications Engineering",
+            "grade": "Graduated Top 3"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Universidad Politécnica de Madrid",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHJPlcA68PA2Q/company-logo_400_400/company-logo_400_400/0/1686904766811/universidad_politecnica_de_madrid_logo?e=1749081600&v=beta&t=qnQncdZYeyAGMWWES3vFLUxNlV1sA8s2CZJQgGtBUrg",
+                "url": "https://www.linkedin.com/school/universidad-politecnica-de-madrid/"
+            },
+            "degree_name": "Grado en Ingeniería",
+            "description": null,
+            "field_of_study": "Ingeniería de telecomunicaciones",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Honors Graduate in College",
+            "description": "Obtained an overall A+.",
+            "issuer": "Colegio Everest Monteclaro",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            }
+        },
+        {
+            "title": "Honors Certificate",
+            "description": "Obtaines a 10/10 in Mathematics in CDI's report.",
+            "issuer": "Comunidad de Madrid",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2011
+            }
+        },
+        {
+            "title": "6x Grant for Academic Record",
+            "description": "2013 - 2018",
+            "issuer": "BME - Spanish Stock Exchange",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Data Science with Tableau",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Tableau Software",
+            "url": "https://verify.skilljar.com/c/bt5cqdvyhpo2",
+            "license_number": null,
+            "display_source": "skilljar.com",
+            "company": {
+                "id": null,
+                "name": "Tableau",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGbNutqXFCq8g/company-logo_400_400/company-logo_400_400/0/1630636446931/tableau_software_logo?e=1749081600&v=beta&t=wXYnyuROtFp0nxEXU4bGcuZFGwEOaYMUllzeRo5Cvck",
+                "url": null
+            }
+        },
+        {
+            "name": "Tableau Desktop III: Advanced",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Tableau Software",
+            "url": "https://verify.skilljar.com/c/bp5gjfvbckxc",
+            "license_number": null,
+            "display_source": "skilljar.com",
+            "company": {
+                "id": null,
+                "name": "Tableau",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGbNutqXFCq8g/company-logo_400_400/company-logo_400_400/0/1630636446931/tableau_software_logo?e=1749081600&v=beta&t=wXYnyuROtFp0nxEXU4bGcuZFGwEOaYMUllzeRo5Cvck",
+                "url": null
+            }
+        },
+        {
+            "name": "Machine Learning",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Stanford University",
+            "url": "https://coursera.org/share/4a51f97482ecc5dd8429dcfc7b13c69a",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Stanford University",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_400_400/company-logo_400_400/0/1635534378870/stanford_university_logo?e=1749081600&v=beta&t=NJKPZT78dwFr7po5QRniDghxVNv8hAFC5tfHv0cZmG4",
+                "url": null
+            }
+        },
+        {
+            "name": "Emprendimiento YUZZ | Banco Santander",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "CISE | Centro Internacional Santander Emprendimiento",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Santander International Entrepreneurship Center | CISE",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG0_KSOxji_dg/company-logo_400_400/company-logo_400_400/0/1698222507595/cise_centro_internacional_santander_emprendimiento_logo?e=1749081600&v=beta&t=2MieeNihYn_1d1qJnYSR8tJXf8PJhASBROJxi0vDYrQ",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "DESIGN AND IMPLEMENTATION OF A SOFTWARE SOLUTION USING BLOCKCHAIN TECHNOLOGY FOR DECENTRALIZING A BOOKING PLATFORM BY IMPLEMENTING SMART CONTRACTS COMPLIANCE WITH ETHEREUM STANDARDS. DEVELOPMENT OF A DAPP FOR TESTING A REAL CASE STUDY.",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "description": "Development and deployment of Smart Contracts for migrating a booking platform logic to an architecture based iin Blockchain technology.\nDevelopment of a Renting Dapp as a proof of concept of the solution.\nSmart Contracts compliance with Ethereum and Smart Contracts standards such as ERC-721 for providing an interoperable infrastructure.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alvaro",
+                    "last_name": "Gericke",
+                    "name": null,
+                    "headline": "Building something new | Ex-Revolut"
+                }
+            ]
+        },
+        {
+            "title": "DESIGN AND IMPLEMENTATION OF A SOCIAL MARKETPLACE FOR A STARTUP BASED ON A CONTENT MANAGEMENT SYSTEM. APPLICATION OF SENTIMENT AND EMOTION ANALYSIS FOR SENSING CUSTOMER FEEDBACK.",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Development and implementation of a sports equipment rental marketplace using Wordpress.\nDevelopment of a Wordpress plugin for enabling emotions and sentiments analysis on customers comments for sensing customer feedback.\nDevelopment of a visualization dashboard for shops showing financial statistics as well as graphics about emotions and sentiments expressed within their customers' comments.\n",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Alvaro",
+                    "last_name": "Gericke",
+                    "name": null,
+                    "headline": "Building something new | Ex-Revolut"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "COMPUTER NETWORKS II",
+            "number": "CS-544"
+        },
+        {
+            "name": "DATA INTENSIVE COMPUTING",
+            "number": "CS-554"
+        },
+        {
+            "name": "DATA PREPARATION AND ANALYSIS",
+            "number": "CSP-571"
+        },
+        {
+            "name": "IT ENTREPRENEURSHIP",
+            "number": "ITMM-581"
+        },
+        {
+            "name": "NATURAL LANGUAGE PROCESSING",
+            "number": "CS-585"
+        },
+        {
+            "name": "ONLINE SOCIAL NETWORK ANALYSIS",
+            "number": "CS-579"
+        },
+        {
+            "name": "OPERATING SYSTEM DESING AND IMPLEMENTATION",
+            "number": "CS-551"
+        },
+        {
+            "name": "SCIENCE OF PROGRAMMING",
+            "number": "CS-536"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 93306449,
+                "name": "Deblock",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHyFww-MOfibw/company-logo_400_400/company-logo_400_400/0/1719257500348/deblock_bank_logo?e=1749081600&v=beta&t=c-p8xRaldatkACE17tGTbdZScBKbOSsc_t_NZZbAXyo",
+                "url": "https://www.linkedin.com/company/deblock/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Deblock",
+                    "description": null,
+                    "title": "Lead Operations Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9509,
+                "name": "Nova Talent",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG2Az4sSx_0ng/company-logo_400_400/company-logo_400_400/0/1642067675945/nova_logo?e=1749081600&v=beta&t=tF7nJtmtq72hAPRZN_XlJRWV9CjYjvBAHdAQFSEYwvo",
+                "url": "https://www.linkedin.com/company/nova/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Nova Talent",
+                    "description": null,
+                    "title": "Member",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Operating Principal (CEO Office)",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Senior Operations Manager",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Stays, Vaults, Core Accounts, Budgeting & Analytics, Open Banking & Donations Product Ops",
+                    "title": "Operations Manager",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London Area, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Open Banking, Budgeting & Analytics and Donations Product Ops",
+                    "title": "Junior Operations Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6328,
+                "name": "Illinois Institute of Technology",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEd6wnmQCCIHw/company-logo_400_400/company-logo_400_400/0/1630559679535/illinois_institute_of_technology_logo?e=1749081600&v=beta&t=Vs6pOHADS53fPRBMIgzkYDOPXK__nQ5eDaBR494WW_k",
+                "url": "https://www.linkedin.com/school/illinois-tech/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Chicago, Illinois, United States",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Illinois Institute of Technology",
+                    "description": "- Developed image-recognition ML model for identifying objectionable frames in a video in python.\n- Built light JS playback editor for streaming video with categorized content skipping features.\n- Designed and developed product landing page.",
+                    "title": "Researcher, Software Engineering",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 166613,
+                "name": "Universidad Autónoma de Madrid",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEvmivAb4xnSA/company-logo_400_400/company-logo_400_400/0/1630504989947/universidad_autonoma_de_madrid_logo?e=1749081600&v=beta&t=ot-_Q5mH2jPq-oOXTLvOFqQcsQElqJWwvbX9WESceg4",
+                "url": "https://www.linkedin.com/school/universidad-autonoma-de-madrid/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid Area, Spain",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Universidad Autónoma de Madrid",
+                    "description": "- Built a Client-Side solution for tracking Financial Assets on Ethereum. \n- Development of a database system similar to those used in Financial contexts that gathers ERC20 tokens contained on the Blockchain.\n- Designed ETL process for structuring data in a SQL database from Ethereum's and EDGAR's fillings raw data. \n- Worked within an interdisciplinary team of Finance and Computer Science developing a research solution for ICOs.\n- Instructed Finance researches in Smart Contracts and Ethereum Blockchain.\n- Closed a collaboration deal with a world-renown Ethereum programmer.",
+                    "title": "Researcher, Data Engineer - Blockchain & Investment Crowdfunding ",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10832469,
+                "name": "Kibiwoo",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE2Tmr-VVmRUw/company-logo_400_400/company-logo_400_400/0/1631341807132?e=1749081600&v=beta&t=p3hLW5i6NuWtYogFa9HVB_OvQCANOKo15JTXbSDsyTI",
+                "url": "https://www.linkedin.com/company/kibiwoo/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid y alrededores, España",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Kibiwoo",
+                    "description": "- Renting Marketplace of Ski, surf and bycicle sporting equipment.\n- At Kibiwoo.com we empower renting shops to deliver superior value to their clients thorugh digital transformation and provide with a unique simple renting platform where customers can compare all the available shops, obtain unique discounts and enjoy a prime experience.\n- Generated Business model and product portofolio. Developed business strategy and created financial model for analyzing business profitability.\n- Developed Marketplace using Worpress and own PHP Wordpress plugins.\n- Acquired 150+ customers from business and private sectors.\n- Implemented Agile and Lean Startup Methodolology (pivoted 3 times).",
+                    "title": "CEO & Co-Founder",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4993582,
+                "name": "CISE | Centro Internacional Santander Emprendimiento",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG0_KSOxji_dg/company-logo_400_400/company-logo_400_400/0/1698222507595/cise_centro_internacional_santander_emprendimiento_logo?e=1749081600&v=beta&t=2MieeNihYn_1d1qJnYSR8tJXf8PJhASBROJxi0vDYrQ",
+                "url": "https://www.linkedin.com/company/cise-centro-internacional-santander-emprendimiento/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Campus de Somosaguas, universidad Complutense de Madrid",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "CISE | Centro Internacional Santander Emprendimiento",
+                    "description": "- Entrepreneurship program Santander Bank YUZZ \"Jóvenes con ideas\".\n- Finalist project within UAM center.\n- Selected among 5K+ projects.",
+                    "title": "YUZZer 2017",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "S.I.E. Uruguay S.A. | Grupo Edifiza",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Uruguay",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "S.I.E. Uruguay S.A. | Grupo Edifiza",
+                    "description": "- Infraestructure Industry. 250 employees.\n- Won public tender of $1M+. Evaluated and generated offers for public tenders of $10M+.\n- Increased operational efficiency by 10% by conducting a resource re-distribution and construction plan.\n- Implementation of financial and profitability analysis of multiple constructions by running financial models.\n- Planning and monitoring of works in the electrical sector (medium and low voltage) and telecommunications (fiber optic).\n- Installed and configured a satellite tracking system for all trucks and cranes owned by the company.",
+                    "title": "Management Consultant - Internship",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Machine Learning",
+        "Python",
+        "Software Development",
+        "Gestión de proyectos",
+        "Estrategia de mercadotecnia",
+        "Planificación estratégica",
+        "Empresas de nueva creación",
+        "Programación orientada a objetos (OOP)",
+        "Aplicaciones web",
+        "Desarrollo empresarial",
+        "Ingeniería de telecomunicaciones",
+        "Análisis de datos",
+        "Ciencia de datos",
+        "Estrategia empresarial",
+        "Agile Methodologies",
+        "Entrepreneurship",
+        "Bash",
+        "Unix",
+        "WordPress",
+        "PHP"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

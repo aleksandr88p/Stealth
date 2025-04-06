@@ -1,0 +1,768 @@
+{
+    "profile_id": "andrictham",
+    "first_name": "Andric",
+    "last_name": "Tham",
+    "sub_title": "Software product designer and developer.\nBootstrapping promptbible.ai",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQGwYRCrHralrQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1697028133394?e=1749081600&v=beta&t=n9rAtJltzso7Na1PFxwEWrabg-Sv7EsQC-O6cMce9kw",
+    "background_image": "https://media.licdn.com/dms/image/v2/D5616AQHRVjjsXCiN8A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722142229741?e=1749081600&v=beta&t=1tW4Sl103VfbYCm94A1Ir2Mp6wnYvFohpwMiNrn5WgA",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAdgifEBT3juNnOWD5Yld0UfW8_w1wH7iHA",
+    "object_urn": 123767281,
+    "birth_date": null,
+    "summary": "In my teens, I built and ran a video games news site with hundreds of daily readers.\n\nSince then, I’ve been professionally designing mobile & web UIs. \n\nI’ve held “designer” & “product manager” roles across agencies and tech startups since 2010, working on websites and apps seen and used by millions around the world.\n\nI’m also a self-taught coder and tinker with web dev and self-hosting for fun. \n\nCurrently, I’m building Prompt Bible (promptbible.ai), an AI prompt manager built for teams and power users.\n\n—\n\nMy expertise is centered around mobile UX and B2C product management.\n\nI’ve worked in international teams across 3 regions: Asia-Pacific, Western Europe, and North America.\n\nHighlights:\n- Product Management at several consumer FinTechs including Revolut\n- UX Research & Design for various clients including PayPal\n- Graphic & Web Design for various clients including Nokia",
+    "location": {
+        "country": null,
+        "short": "Singapore",
+        "city": null,
+        "state": null,
+        "default": "Singapore"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Ngee Ann Polytechnic",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEc-IoUGeW79Q/company-logo_400_400/company-logo_400_400/0/1697524879652/ngee_ann_polytechnic_logo?e=1749081600&v=beta&t=tBIuf918itIaQN1j3Wrgz0KtuBGo1EOCkWZXaiEjHNo",
+                "url": "https://www.linkedin.com/school/ngee-ann-polytechnic/"
+            },
+            "degree_name": "Diploma",
+            "description": null,
+            "field_of_study": "Mass Communication",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "Udacity",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_400_400/company-logo_400_400/0/1656621848677/udacity_logo?e=1749081600&v=beta&t=vlWLrPnOCtY7dhLqljLbSyG3vd6yERnSIJOxo5d3CLE",
+                "url": "https://www.linkedin.com/school/udacity/"
+            },
+            "degree_name": "Nanodegree",
+            "description": "In this course, I built three apps to demonstrate my knowledge in UI engineering:\n\n• MyReads, an online bookshelf which lets you track books you’re currently reading, want to read, and have read\n\n• Readable, a web forum similar to Hacker News which lets you share posts and vote on other people’s posts\n\n• Flashcards, an iOS and Android app that lets you create flashcards and quiz yourself on topics you’re studying",
+            "field_of_study": "React",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Series 65 – Uniform Investment Adviser Law Exam",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "NASAA",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "NASAA",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH3-BaE1k9fAQ/company-logo_400_400/company-logo_400_400/0/1630610401716/nasaa_logo?e=1749081600&v=beta&t=kAHOgTQqLC-VtvGBye6DAwcgR63VBwia2sB39_LtE7M",
+                "url": null
+            }
+        },
+        {
+            "name": "React Nanodegree",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Udacity",
+            "url": "https://confirm.udacity.com/PLL3AKTT",
+            "license_number": null,
+            "display_source": "udacity.com",
+            "company": {
+                "id": null,
+                "name": "Udacity",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHiNYfm0YHKrg/company-logo_400_400/company-logo_400_400/0/1656621848677/udacity_logo?e=1749081600&v=beta&t=vlWLrPnOCtY7dhLqljLbSyG3vd6yERnSIJOxo5d3CLE",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "DISPLACEMENTS Community Arts Exhibition (at 13 Wilkie Terrace)",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Set in an old house soon to make way for urban redevelopment, DISPLACEMENTS is a community arts project organized by creative people for creative people. \n\nAs its official catalogue sponsor, ARTOS produced the show’s 40-page catalogue featuring 16 artists and accompanying editorial.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andric",
+                    "last_name": "Tham",
+                    "name": null,
+                    "headline": "Software product designer and developer.\nBootstrapping promptbible.ai"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "S",
+                    "last_name": "C.",
+                    "name": null,
+                    "headline": "Banking & Expansion Lead @ Wise • ex-Revolut • International Market Expansion, Product, Operations, Regulatory Authorisations for FinTechs • Asia FinTech 30U30 • UK TechNation Global Talent • ex-Military"
+                }
+            ]
+        },
+        {
+            "title": "Worlds Apart Art Fair 2013",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Worlds Apart Fair is the first Hotel Art Fair in Singapore showcasing emerging artists. From 25th to 27th January 2013, held at the Conrad Centennial Singapore, it is a key fair during the Singapore Art Week fully supported by the Singapore Tourism Board.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andric",
+                    "last_name": "Tham",
+                    "name": null,
+                    "headline": "Software product designer and developer.\nBootstrapping promptbible.ai"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "S",
+                    "last_name": "C.",
+                    "name": null,
+                    "headline": "Banking & Expansion Lead @ Wise • ex-Revolut • International Market Expansion, Product, Operations, Regulatory Authorisations for FinTechs • Asia FinTech 30U30 • UK TechNation Global Talent • ex-Military"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "The New “Creative Professional”",
+            "publisher": "Medium",
+            "url": "https://medium.com/re-design/the-new-creative-professional-dc0af708f532#.5csousd2j",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andric",
+                    "last_name": "Tham",
+                    "name": null,
+                    "headline": "Software product designer and developer.\nBootstrapping promptbible.ai"
+                }
+            ]
+        },
+        {
+            "name": "Content isn’t Culture",
+            "publisher": "Medium",
+            "url": "https://medium.com/re-design/content-isnt-culture-21130557ab51#.9pxdvb1q8",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2015
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andric",
+                    "last_name": "Tham",
+                    "name": null,
+                    "headline": "Software product designer and developer.\nBootstrapping promptbible.ai"
+                }
+            ]
+        },
+        {
+            "name": "Surf Pop: Apple’s Stylistic Return to California",
+            "publisher": "Medium",
+            "url": "https://medium.com/design-ux/235adb58ce40",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Andric",
+                    "last_name": "Tham",
+                    "name": null,
+                    "headline": "Software product designer and developer.\nBootstrapping promptbible.ai"
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Introduction to Python – General Assembly",
+            "number": null
+        },
+        {
+            "name": "Programming for Non Programmers – General Assembly",
+            "number": null
+        },
+        {
+            "name": "Rapid Experimentation for Product Success – MindTheProduct",
+            "number": null
+        },
+        {
+            "name": "UX Research and Testing Bootcamp – General Assembly",
+            "number": null
+        },
+        {
+            "name": "Usability Testing – Nielsen Norman",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 104104427,
+                "name": "Paragraph Labs",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQFdf1NqzPlcoA/company-logo_400_400/company-logo_400_400/0/1722140405020?e=1749081600&v=beta&t=1Ty_8dtvgWTGTFZz3s4U9OgKIp8k5nNCw8zNz_XrAbs",
+                "url": "https://www.linkedin.com/company/paragraph-labs/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Paragraph Labs",
+                    "description": "Bootstrapping Prompt Bible — a better way to design, manage, and use prompts for chatbots like ChatGPT, Claude, and Gemini",
+                    "title": "Founder",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18004030,
+                "name": "Hustle Fund",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGbiyStzEqXaw/company-logo_400_400/company-logo_400_400/0/1669921777228/hustle_fund_logo?e=1749081600&v=beta&t=Sm4Pmcjm7paLc3GpiX4rQjLKT0mna0Yvsu1B-8YwZm4",
+                "url": "https://www.linkedin.com/company/hustlefund/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Hustle Fund",
+                    "description": "Invested small checks (US$1–10k) as an angel investor alongside Hustle Fund. \n\nPast investments span B2B SaaS, Dev Tools, and FinTech, from Seed to Series D.",
+                    "title": "Angel Investor",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Led product efforts supporting Revolut’s eventual path to profitability in 2021, by making cryptocurrency accessible to more customers globally.\n\nI managed the team that owns the end-to-end experience for customers buying and selling cryptocurrencies with Revolut.\n\nSome of the things I’ve worked on:\n\n• Expanding our crypto trading functionality to be the best cash to crypto on-ramp. Doing customer research to inform product design and value proposition\n\n• Redesigned our crypto trading experience to be an integrated alternative to crypto exchanges. With Revolut, cryptocurrency trading is now integrated seamlessly with other parts of your financial life such as your daily spend, savings, and other investments\n\n• Launched Revolut’s Crypto trading to our customers in the USA and Australia",
+                    "title": "Senior Product Owner",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "GoBear",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Singapore",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "GoBear",
+                    "description": "GoBear was a marketplace website that connected retail customers with financial products, such as insurance policies.\n\nI helped kickstart a nascent product team responsible for developing a new mobile product.\n\nIn the wider company, I was involved in coaching other product teams.",
+                    "title": "Senior Product Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 15263799,
+                "name": "TenX",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQE7R5z9a1GjCg/company-logo_400_400/company-logo_400_400/0/1630669015824/mimocapital_logo?e=1749081600&v=beta&t=s6Z-wDk3Ma_A_u41xTUz-7ZA1VJmIpRjZNxB77Hdc1k",
+                "url": "https://www.linkedin.com/company/mimocapital/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Singapore",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "TenX",
+                    "description": "TenX was a debit card that let you spend your cryptocurrency balance from a linked wallet.\n\nI was the first product management hire at TenX, leading development efforts on their mobile wallet app.\n\nIn 2018, I led key initiatives to support a relaunch of the TenX Card in Singapore, Australia, and New Zealand. \n\nWorking with a cross-functional team of designers and engineers, I redesigned key user flows to solve critical funnel drop-offs, and unified our mobile codebase in React Native. \n\nAs a result, the app’s usage stabilized with a flattening retention curve, whereas previously many users would stop using the app after their first session because it was buggy and unfriendly to use.\n\nWe released multiple iterations throughout the course of a year, and managed to make key improvements across several flows: onboarding, authentication, account verification, as well as card ordering and fulfillment. In that process, we also sunset many small features in order to focus on the core user value. \n\nI also worked with Product Design to run a month-long diary study on consumer behaviors around personal finance, and helped facilitate user interviews and usability tests.",
+                    "title": "Product Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3861577,
+                "name": "Product School",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGODY7RuiroaA/company-logo_400_400/company-logo_400_400/0/1688233590665?e=1749081600&v=beta&t=sZoN9YoYLRXqNwQ49MuVzXuyFsT0wNMgVvslPXbf5IY",
+                "url": "https://www.linkedin.com/school/product-school/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Singapore",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Product School",
+                    "description": "In April 2019, I spoke at a Product School meetup in Singapore to an audience of aspiring and current Product Managers, on the topic of managing an app rewrite initiative.",
+                    "title": "Featured Speaker",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1021605,
+                "name": "Favorite Medium",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEIG0sx1QDGpQ/company-logo_400_400/company-logo_400_400/0/1630625908226/favorite_medium_logo?e=1749081600&v=beta&t=Klm17DxSpXIdIUGsnI2LrRj3G8xvw0rX5MdgeaDSBag",
+                "url": "https://www.linkedin.com/company/favorite-medium/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Singapore",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Favorite Medium",
+                    "description": "I led UX work in the Asia Pacific region, partnering with clients in the region on several customer discovery, usability optimization, and digital transformation initiatives.\n\nI worked mostly on usability optimization projects for PayPal’s Asia Pacific websites, serving as an external researcher to evaluate and improve top-of-the-funnel flows. \n\nTo improve the usability of PayPal’s websites, I helped run summative remote usability studies in Australia, Hong Kong and Southeast Asia, employing a mix of qualitative and quantitative methods. \n\nI also led efforts to prototype and launch a mobile-first redesign for PayPal India’s website, as well as redesigned information architecture for PayPal Australia.\n\nI also worked on several customer discovery initiatives for startups, one of which involved a retail investing platform in Japan. I led the planning and execution of a week-long research sprint in Tokyo to learn about how retail investors make investment decisions.\n\nFinally, I worked with the digital transformation team at National Gallery of Singapore to redesign their poorly-performing Gallery Explorer app, employing methods such as ethnographic field research and customer interviews to improve the overall experience for museum visitors.",
+                    "title": "User Experience Designer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6593015,
+                "name": "Qanvast",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQESto-4kgIB8g/company-logo_400_400/company-logo_400_400/0/1631350706682?e=1749081600&v=beta&t=HBm0Qmt7oEBHbMN09DvayWugIc1uumULQcuzxbzeMv8",
+                "url": "https://www.linkedin.com/company/qanvast-pte-ltd/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Singapore",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Qanvast",
+                    "description": "Qanvast is a web and mobile marketplace, connecting homeowners to interior designers and contractors.\n\nI joined Qanvast in early 2016 to help redesign their existing mobile app offering, as well as to help research and prototype a new online-to-offline web-based service (which was later shelved for business reasons unknown to me). \n\nAs part of my stint there, I led a customer discovery initiative for the new web-based service, conducting interviews and exploratory card sorting studies with existing customers. Based on findings from those research studies, I then prototyped a new product offering, utilizing a hand-coded web prototype, as well as service blueprint.\n\nAs part of my role as a Product Designer, I also collaborated with a mobile engineer to redesign several flows in the iOS and Android app, to accommodate new product features.",
+                    "title": "Product Designer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3631959,
+                "name": "JUMPTHECUT",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGIqwgFW_GqGQ/company-logo_400_400/company-logo_400_400/0/1631330481493?e=1749081600&v=beta&t=Qiglh2TTcKwmKRAOMJHn6fmB19ctOX6URrSb8YTHugY",
+                "url": "https://www.linkedin.com/company/jumpthecut/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "JUMPTHECUT",
+                    "description": "JUMPTHECUT is an online short film festival with a twist – your personality shapes the films it shows you. \n\nWe featured 40 independent short films curated in an innovative “short list” – a smart playlist that let audience binge watch films based on their personality.\n\nFilms are shown one at a time, and viewers can choose to like or skip it. The playlist molds to their personality as you watch.\n\nI worked with a full-stack web developer to ship a production app based in React, node.js, Express, and Couchbase.\n\nI also led the marketing and operations of the product, attracting 800 viewers and 100+ film submissions with a modest profit of about $1,000 USD.",
+                    "title": "Founder",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 7572396,
+                "name": "VHQ Media",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHPrPH5yCx7pA/company-logo_400_400/company-logo_400_400/0/1631355277600?e=1749081600&v=beta&t=213TjZQyujMgK6A_kNL9NVqYHkomM2D4qcAuhH3Vm6w",
+                "url": "https://www.linkedin.com/company/vhq-media/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Singapore",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "VHQ Media",
+                    "description": "Designed a large-scale multimedia stage display, synchronizing a multi-channel video sequence to a live performance.",
+                    "title": "Junior Art Director",
+                    "employment_type": "Contract"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Interaction Design",
+        "User Experience",
+        "Web Design",
+        "Product Management",
+        "JavaScript",
+        "React.js",
+        "CSS",
+        "User Interface Design",
+        "User Research",
+        "Graphic Design",
+        "Logo Design",
+        "Data Modeling",
+        "Continuous Integration and Continuous Delivery (CI/CD)",
+        "Agile Methodologies",
+        "React Native",
+        "Git",
+        "Angel Investing",
+        "Video Editing",
+        "Adobe Photoshop",
+        "Public Speaking"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

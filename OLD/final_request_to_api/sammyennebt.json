@@ -1,0 +1,650 @@
+{
+    "profile_id": "sammyennebt",
+    "first_name": "Sammy",
+    "last_name": "Ennebt",
+    "sub_title": "Stealth in Saudi Arabia | Built digital banks & start-ups across 3 continents🚀 | Ex Wio-Bank, Ex-Revolut",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQG26-tCsqga5A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1698490594719?e=1749081600&v=beta&t=f7k79aiSbYlGYbYunAni4kC_WjQIAvu2ZeW4VyD6XgI",
+    "background_image": "https://media.licdn.com/dms/image/v2/C5616AQElzNk-Ao_mRA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1646920996174?e=1749081600&v=beta&t=_uvHFmSIJarl_dn-DH2y6_F0cn8GZCzlFfCmI7qHmeo",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAQ2Kk8BZxe4FDqc3BH4jkoTjhx9kzDwhtI",
+    "object_urn": 70658639,
+    "birth_date": null,
+    "summary": "Passionate about using technology to make things better. I want to beat the big banks and challenge the status quo whilst having some fun along the way. Adaptability, humility and trust are areas I now value more and I continue to enjoy speaking to a wide range of people and learning something from everyone. \n\nA bank Treasurer at 24yrs old with the GFC in full force, I thought I was well prepared for the covid crisis, very wrong. Have learnt a lot in the last 6 years taking businesses to market during uncertain times and now bring a unique blend of start up rigour and experience across strategy, product, change transformation, risk experience and balance sheet management. ​\n\nI have advised and side hustled in a UK Venture Studio, an Escrow business in Dubai, a property development in Sydney, a restaurant in Gold Coast and a social media platform in Abu Dhabi.",
+    "location": {
+        "country": "Saudi Arabia",
+        "short": "Riyadh",
+        "city": null,
+        "state": null,
+        "default": "Riyadh, Saudi Arabia"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Yale University",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGGJUjGgSYcWQ/company-logo_400_400/company-logo_400_400/0/1631385636084?e=1749081600&v=beta&t=BJwqaeO3pveOGW7hd3ls_lDa4wo7W745hSj7q7Day68",
+                "url": "https://www.linkedin.com/school/yale-university/"
+            },
+            "degree_name": "Open Yale Courses",
+            "description": null,
+            "field_of_study": "Ancient Studies/Civilizations",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2001
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "school": {
+                "name": "University of New England (AU)",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHwHy6_9lHlFg/company-logo_400_400/company-logo_400_400/0/1709871265782/uninewengland_logo?e=1749081600&v=beta&t=hIOlM2aC2dgMqsuznGg0_rpuUHOqV6Stgm2eFVXI2rM",
+                "url": "https://www.linkedin.com/school/uninewengland/"
+            },
+            "degree_name": "LLB - BCOM",
+            "description": null,
+            "field_of_study": "Finance, Economics, Law",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "University of Technology Sydney",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHW5Zk21s3IBA/company-logo_400_400/company-logo_400_400/0/1631330781753?e=1749081600&v=beta&t=eDNYXikp1i71BzL0F6FMxs5QmspoMT6W4BC9zVr2CmI",
+                "url": "https://www.linkedin.com/school/university-of-technology-sydney/"
+            },
+            "degree_name": "Financial Modelling ",
+            "description": null,
+            "field_of_study": "Finance",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Australian Securitisation Forum",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "description": null,
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "FINSIA",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": null,
+            "description": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": "Stealth Mode in Saudi Arabia",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Riyadh, Saudi Arabia",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Stealth Mode in Saudi Arabia",
+                    "description": null,
+                    "title": "Digital Banking CFO, Treasury, Fundraising and Product",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 37237046,
+                "name": "Thriday",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGrbNYC4WLBEA/company-logo_400_400/company-logo_400_400/0/1630650258373/plusthrive_logo?e=1749081600&v=beta&t=A6n8pp1ZMLc2B-VZUzX5k-7KhZy-1yETk7ARtgsl8U4",
+                "url": "https://www.linkedin.com/company/thriday/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Thriday",
+                    "description": "We save businesses time and money by automating banking, accounting, tax and lending. Proudly built in Australia.  Thrive is an Australian-owned digital business account for sole traders and small businesses.  Thrive was created by a team of business owners who got fed up with the amount of time and money spent on doing financial admin.",
+                    "title": "Founding Team | Fractional CFO/CRO | Advisor",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 79313117,
+                "name": "Wio Bank",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHq_EGw3wp8Eg/company-logo_400_400/company-logo_400_400/0/1730960824956/wiobank_logo?e=1749081600&v=beta&t=mA0TDfCLYvEceeeXa7KMQhumgqcYWanIvGI_yL4WySY",
+                "url": "https://www.linkedin.com/company/wiobank/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Abu Dhabi, United Arab Emirates",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Wio Bank",
+                    "description": "Built and launched a Bank in the GCC to support the digitisation of the UAE Banking sector and reboot banking in the region. Our platform is here to reboot personal and business banking in the digital age. Our personalised features and seamlessly integrated services are built around your needs, helping you spend, save, and plan for your future.",
+                    "title": "Treasurer | Wio Bank Founding Team",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Revolut started as a mobile app that lets you send and receive money in multiple currencies. Over time, it has added an array of financial services and has grown to employ 2,500 staff, raise US$836m and have over 15 million customers as it strives to change the way banking is done.",
+                    "title": "Licensing & Global Expansion",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 13713521,
+                "name": "volt bank",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHNUg1gFB0dzA/company-logo_400_400/company-logo_400_400/0/1630612609595/volt_bank_logo?e=1749081600&v=beta&t=Too343SJsP78cFf0Xlo_2ZX9WrUJGDBzqi-SD57VcWQ",
+                "url": "https://www.linkedin.com/company/volt-corp-ltd/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Sydney, Australia",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "volt bank",
+                    "description": "Treasurer of the first retail challenger bank to receive and ADI licence since the early 2000s. Volt is looking to leverage technology and data analytics to support customers on their financial journeys in a way not seen before and in doing so forever change how Australians bank. Volt Bank believes everyone deserves a fairer and better way to bank.",
+                    "title": "Treasurer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6624103,
+                "name": "G&C Mutual Bank",
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQEVEnutDAX7bQ/company-logo_400_400/company-logo_400_400/0/1631353369444?e=1749081600&v=beta&t=S7VqUiwsXyPkCFzMb0D3zXSmh_PM9NfttfAnpx388kA",
+                "url": "https://www.linkedin.com/company/g&c-mutual-bank/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Sydney",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "G&C Mutual Bank",
+                    "description": "In operation since 1959, I worked closely with the CEO and Board to not only build and manage the Treasury function including policies, committees and governance, but to also turn around a struggling organisation to a bank that is highly rated amongst its peers and loved by its customers. \n\nI was responsible to 'think outside the box' and do deals to restructure the balance sheet whilst also getting into the detail to operationalise. \n\nI helped change the DNA of the bank, achieve best practice from a regulatory perspective whilst driving growth and improving customer outcomes. Experienced as a project manager, project sponsor, project implementer, project analyst and someone who gets things done with no fuss across a wide range of related projects such as debt/capital market transactions, securitisation, technology systems, BASEL 3 implementation for liquidity/market risk, M&A,  I am outcome driven whilst always thinking of new ways to improve all parts of the business.\n\nAchievements\n- Obtained two first time public credit datings, enhanced secured funding tools and built presence in financial markets\n- Increased net income on Investment Portfolio by 191% over 3 years by improving position management and expanding products\n- Compliance with Basel 3 regulatory ratios together with further advancement of liquidity risk and ICAAP framework to include coverage/funding, volatility, duration and maturity ratios\n- Advancement of Market Risk include FTP, EaR, non maturing deposits, prepayment risk, dynamic modelling, client behaviour and stress testing \n- Implemented Treasury Management System/ALM systems including integration into GL and Bloomberg,\n- Diversified balance sheet by setting up strategic relationships and operational procedures for asset financing, clean energy financing and peer to peer lending.",
+                    "title": "Treasurer / Chief of Staff to CFO",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 741893,
+                "name": "IMB Ltd",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_b757mglaAA/company-logo_400_400/company-logo_400_400/0/1630633092198/imb_ltd_logo?e=1749081600&v=beta&t=MflRnfcmOnCcRLlrBf4T8H3WhUteR775YYWQtQK-Gmo",
+                "url": "https://www.linkedin.com/company/imb-ltd/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Australia",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "IMB Ltd",
+                    "description": "Advancement of the ALM framework and took a holistic approach to the balance sheet encompassing liquidity, market risk, earnings sensitivity, interest rate risk, cashflow forecasting and scenario analysis, capital management, credit analysis. Engage with stakeholders at all levels to optimise the balance sheet.",
+                    "title": "Treasury Risk and ALM",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Regional Australia Bank",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Sydney",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Regional Australia Bank",
+                    "description": "Extensive experience managing the balance sheet during the GFC whilst the business undertook significant M&A activity. Subject matter expert in multiple treasury and risk management fields including: Balance Sheet Management, IRRBB, Liquidity, Funding and the HQLA portfolio.",
+                    "title": "Treasurer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2024
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Chairman",
+            "company": {
+                "id": null,
+                "name": "Easy Escrow",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Board Member",
+            "company": {
+                "id": null,
+                "name": "St George Accomodation for the Youth",
+                "logo": null,
+                "url": null
+            },
+            "cause": "SOCIAL_SERVICES",
+            "description": "St George Accomdation for the Youth provides accomodation and support services for young people from Aboriginal backgrounds or/and are from cultural or linguistically diverse backgrounds. St George Accomodation for the Youth is a social housing provider and offer a transitional supported housing service which means we provide early intervention, temporary, safe, medium to long term accommodation and post crisis support."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Advisor",
+            "company": {
+                "id": null,
+                "name": "Remembering Refugees",
+                "logo": null,
+                "url": null
+            },
+            "cause": "POVERTY_ALLEVIATION",
+            "description": "The goal is to raise awareness about the current issues that refugees around the world are experiencing and remember the forgotten refugees who haven't been home for over 20 years.\n\nWe support charities & governments services to provide assistance to refugees for a temporary settlement and provide them with a safer return to their homeland.\n"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "role": "Volunteer",
+            "company": {
+                "id": null,
+                "name": "House Of Welcome",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEAXHVl7mvOPA/company-logo_400_400/company-logo_400_400/0/1720005677409/house_of_welcome_logo?e=1749081600&v=beta&t=fGIV7W2EUTRKJbvgkvUvKTNMh0cx2QZyGai5Emq8TaQ",
+                "url": "https://www.linkedin.com/company/house-of-welcome/"
+            },
+            "cause": "POVERTY_ALLEVIATION",
+            "description": "House of Welcome an independent organization provided extraordinary social services for asylum seekers and refugees regardless of their age, gender, sexuality, nationality or religion. "
+        }
+    ],
+    "skills": [
+        "Risk Management",
+        "Treasury",
+        "ALM",
+        "Capital Markets",
+        "Mergers & Acquisitions",
+        "Funding",
+        "Securitization",
+        "Liquidity Risk",
+        "Fixed Income",
+        "Financial Markets",
+        "Economics",
+        "Capital Management",
+        "Management",
+        "Portfolio Management",
+        "Treasury Management",
+        "Financial Services",
+        "Funds Transfer Pricing",
+        "Credit",
+        "Strategy",
+        "Financial Risk"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

@@ -1,0 +1,467 @@
+{
+    "profile_id": "alexander-shchekoldin-9aa5326a",
+    "first_name": "Alexander",
+    "last_name": "Shchekoldin",
+    "sub_title": "Working on something new, ex-Revolut, ex-Yandex",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C5603AQG0NTu7z5J_Mw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517450485502?e=1749081600&v=beta&t=Qeu48dsg96_ym7TleWqGic6OMAUdgfEbta5zgdcaH74",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAA6sIhIB0DjSexUXcLxfUN2kaNh7Dkx0RGY",
+    "object_urn": 246161938,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "United Arab Emirates",
+        "short": "Dubai",
+        "city": null,
+        "state": null,
+        "default": "Dubai, United Arab Emirates"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "Saint Petersburg State Polytechnical University",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Master, Computer Science (Diploma with Honors)",
+            "description": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Managing Your Time, Money, and Career: MBA Insights for Undergraduates",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/course/managingmoney",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1749081600&v=beta&t=uSsDtmGfE4Sechx_fC7fZmwsNP-6JnXP1De32oOjS-A",
+                "url": null
+            }
+        },
+        {
+            "name": "An Introduction to Interactive Programming in Python",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/course/interactivepython",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1749081600&v=beta&t=uSsDtmGfE4Sechx_fC7fZmwsNP-6JnXP1De32oOjS-A",
+                "url": null
+            }
+        },
+        {
+            "name": "Machine Learning",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/course/ml",
+            "license_number": null,
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1749081600&v=beta&t=uSsDtmGfE4Sechx_fC7fZmwsNP-6JnXP1De32oOjS-A",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 83057059,
+                "name": "Working on Something New",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHtRmT8ioIqTw/company-logo_400_400/company-logo_400_400/0/1660336897900?e=1749081600&v=beta&t=Q46dPa9MA_AgcDllmEn4Ljp-kXSA3Q1cYktDbBzyTlI",
+                "url": "https://www.linkedin.com/company/workingonsomethingnew/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Working on Something New",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Working as a front-end software developer:\n- TypeScript / React\n- Kotlin / Javalin / Flyway\n- Python\nIn charge of Web Function (processes and technology).\n\nProjects:\n- Working on Trading Terminal (Stocks and Crypto) project.\n- Watchmen – internal “watchmen” management system.\n- Validating System Design documents.\n- Maintaining company wide processes for web engineers\n(onboarding/hiring/promotions/performance reviews/salary reviews).\n- Supervising company wide web development stack and coding standards.",
+                    "title": "Head of Web Function",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Projects:\n- Retail Web Application (https://app.revolut.com/) – Revolut Retail web-site.\n- Watchmen – internal “watchmen” management system.\n- Maintaining company wide hiring process for web engineers.",
+                    "title": "Lead Frontend Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Moscow, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Projects:\n- BackOffice Suspicious Activity module (FinCrime) – a Revolut internal BackOffice subsystem that helps to prepare and manage suspicious activity reports.",
+                    "title": "Senior Frontend Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10718,
+                "name": "Yandex",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQExT729lfsbuA/company-logo_400_400/company-logo_400_400/0/1630655185029/yandex_logo?e=1749081600&v=beta&t=k8tW5pX450f0Mi9_rzZ68OHGNnEjbisaCUcrI0Vlrh8",
+                "url": "https://www.linkedin.com/company/yandex/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Yandex",
+                    "description": "Supervised department web development and was busy as a Python developer/SRE:\n- TypeScript / React / Redux / Webpack / Node.js / BEM / XML / XSLT\n- Python / SQLAlchemy / Flask / uWSGI / CORBA / Liquibase\n- Salt / Ansible\n\nAlso was in charge of all the infrastructure related automations (for the whole Billing department) and hiring/managing Billing Frontend Development team. Has passed PCI DSS certification test.\n\nProjects:\n- Balance (https://balance.yandex.ru) – Yandex billing system core project.\n- Card payments (https://trust.yandex.ru) – Card payments system reused by\nall other Yandex services (PCI DSS certified).\n- Developer dashboard (https://developer.tech.yandex.ru) – A place for a\ndeveloper to manager all his/her Yandex services API keys.",
+                    "title": "Head Of Billing Frontend Development Team",
+                    "employment_type": null
+                },
+                {
+                    "location": "Moscow, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Yandex",
+                    "description": "Projects:\n- Balance (https://balance.yandex.ru) – Yandex billing system core project.",
+                    "title": "Frontend Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Brand System",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Brand System",
+                    "description": "Worked as a fullstack software/iOS developer:\n- Vanilla JavaScript / CoffeeScript / Angular / Backbone / CKEditor / Fabric.js /\nYUI / Bower\n- Java EE / / JBoss Seam / Hibernate / OpenCV (via JNI)\n- Objective C / Three20 / Nimbus / Objection\n- PHP / Symphony / Doctrine ORM / CodeIgniter / Composer\n\nProjects:\n- McDonald's Q&A – web-site where people can ask McDonald's any question they are interested in and view popular questions and answers.\n- BUMP (http://bump.ru/) – web-site for person to brand (and vice versa) communications.\n- BUMP Messenger – iOS application for the BUMP platform.\n- The Euro is just around the corner! – Promo web-site for KIA, dedicated to\nEURO 2012 (the most interesting part of this project is built-in browser photo\neditor).\n- KIA football simulator – Flash game with the opportunity to win prizes from\nKIA (I was managing this project).\n- RedBull events map – Yandex.Maps with event labels. It was also necessary\nto mark the path traveled by RedBull promo cars on the map.",
+                    "title": "Senior Software Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Alan Point",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Cherepovets, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2006
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Alan Point",
+                    "description": "Worked as a fullstack software developer:\n- Vanilla JavaScript / jQuery\n- Java EE / JBoss Seam / Hibernate / GWT\n- Ruby (RoR)\n\nProjects:\n- Cherepovets city official web-site (http://www.cherinfo.ru/) – CMS built from scratch.\n- Web-site for organizing conferences in Russia (supported by LSE) – a tool for organizing conferences that allows you to: create an agenda, register speakers and participants, and inform about changes in conferences.\n- Online store Mageric 2.0 – designed for the sale of a wide range of products of the \"Mageric\" company.",
+                    "title": "Software Developer",
+                    "employment_type": "Part-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Python",
+        "React",
+        "Unix Operating Systems",
+        "Virtualization",
+        "Agile Methodologies",
+        "Java",
+        "CSS",
+        "jQuery",
+        "Hibernate",
+        "AngularJS",
+        "iOS",
+        "PHP",
+        "Spring Framework",
+        "Ruby",
+        "Ansible",
+        "CoffeeScript",
+        "Salt",
+        "TeamCity",
+        "Pure JavaScript",
+        "HTML5 API"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

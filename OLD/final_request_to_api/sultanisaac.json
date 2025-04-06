@@ -1,0 +1,558 @@
+{
+    "profile_id": "sultanisaac",
+    "first_name": "Isaac",
+    "last_name": "Sultan",
+    "sub_title": "Building something new | ex-Revolut",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQHikzogGW9dHA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1698154855261?e=1749081600&v=beta&t=ueeaBLqS4k9k0Jw3_DqpXTNQTmXo3vHICcl4KkVKCt8",
+    "background_image": "https://media.licdn.com/dms/image/v2/D4E16AQHm1y4YRmWpbA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727959091884?e=1749081600&v=beta&t=2R1rJAZYLZe0rxRtBkPPIFk1R5mM0UiIWAotjCxFRHQ",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAABbI0OYBpI-K4kumlUUDQH6VPJr-87nmD2k",
+    "object_urn": 382259430,
+    "birth_date": null,
+    "summary": "https://meetciao.com",
+    "location": {
+        "country": "United Kingdom",
+        "short": "London, England",
+        "city": "London",
+        "state": "England",
+        "default": "London, England, United Kingdom"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "McGill University",
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQFvv1npMZWzKA/company-logo_400_400/company-logo_400_400/0/1631348310705?e=1749081600&v=beta&t=CWEPZmshhO7ovT-xBS0_BQku7S4KXOAExBNhewGHwZc",
+                "url": "https://www.linkedin.com/school/mcgill-university/"
+            },
+            "degree_name": "Bachelor’s Degree",
+            "description": null,
+            "field_of_study": "Computer Science",
+            "grade": "3.6 GPA"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Mila - Quebec Artificial Intelligence Institute",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEP8b2_w8o_gA/company-logo_400_400/company-logo_400_400/0/1684269698852/mila_quebec_logo?e=1749081600&v=beta&t=IEyJvopdq3mgjxEfSiV0ju0OBYF70fmV-yp9tPH6AAc",
+                "url": "https://www.linkedin.com/school/mila-quebec/"
+            },
+            "degree_name": "Postgraduate Courses",
+            "description": "Representation Learning - IFT 6135 - Dr. Aaron Courville\nApplied Machine Learning - COMP 551 - Dr. Joelle Pineau\nNatural Language Processing - COMP 550 - Dr. Jackie Cheung",
+            "field_of_study": "Computer Science",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Build Wireframes and Low-Fidelity Prototypes",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/HRC759Y43MHF",
+            "license_number": "HRC759Y43MHF",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1749081600&v=beta&t=uSsDtmGfE4Sechx_fC7fZmwsNP-6JnXP1De32oOjS-A",
+                "url": null
+            }
+        },
+        {
+            "name": "Foundations of User Experience (UX) Design",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/QS4MWQ7322BX",
+            "license_number": "QS4MWQ7322BX",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1749081600&v=beta&t=uSsDtmGfE4Sechx_fC7fZmwsNP-6JnXP1De32oOjS-A",
+                "url": null
+            }
+        },
+        {
+            "name": "Domain-Driven Design Fundamentals",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Pluralsight",
+            "url": "https://app.pluralsight.com/learner/user/courses/domain-driven-design-fundamentals/certificate",
+            "license_number": "4127",
+            "display_source": "pluralsight.com",
+            "company": {
+                "id": null,
+                "name": "Pluralsight",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEYBHOk17_kKQ/company-logo_400_400/company-logo_400_400/0/1719848211637/pluralsight_logo?e=1749081600&v=beta&t=BVKhYxPEcMaC8x8wiTvV4DB7JIXPUyj5Nq4Ss7_fM5g",
+                "url": null
+            }
+        },
+        {
+            "name": "Architecting with Google Compute Engine Specialization",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera",
+            "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/GEG3SH299ZJ8",
+            "license_number": "GEG3SH299ZJ8",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_400_400/company-logo_400_400/0/1630530042036/coursera_logo?e=1749081600&v=beta&t=uSsDtmGfE4Sechx_fC7fZmwsNP-6JnXP1De32oOjS-A",
+                "url": null
+            }
+        },
+        {
+            "name": "Financial Markets",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Yale University",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Yale University",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGGJUjGgSYcWQ/company-logo_400_400/company-logo_400_400/0/1631385636084?e=1749081600&v=beta&t=BJwqaeO3pveOGW7hd3ls_lDa4wo7W745hSj7q7Day68",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [
+        {
+            "name": "Sigma Alpha Epsilon (Quebec Alpha)",
+            "position": "VP Social Media & Marketing ",
+            "date_start": {
+                "month": 9,
+                "day": null,
+                "year": 2018
+            },
+            "date_end": {
+                "month": 9,
+                "day": null,
+                "year": 2019
+            }
+        },
+        {
+            "name": "London Blockchain Labs",
+            "position": "Head of Developer Training",
+            "date_start": {
+                "month": 9,
+                "day": null,
+                "year": 2018
+            },
+            "date_end": {
+                "month": 3,
+                "day": null,
+                "year": 2019
+            }
+        },
+        {
+            "name": "Students' Society of McGill University (SSMU)",
+            "position": "VP Finance - First Year Council ",
+            "date_start": {
+                "month": 9,
+                "day": null,
+                "year": 2015
+            },
+            "date_end": {
+                "month": 9,
+                "day": null,
+                "year": 2016
+            }
+        }
+    ],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 104557730,
+                "name": "Ciao",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHVt9uMh2LB4A/company-logo_400_400/company-logo_400_400/0/1727957382533/meetciao_logo?e=1749081600&v=beta&t=GonR-s9V8VQauxSbkAmXFzsGsY8fBnJMeO-dBNkHad0",
+                "url": "https://www.linkedin.com/company/meetciao/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Ciao",
+                    "description": null,
+                    "title": "Co-Founder & CPO",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 82589199,
+                "name": "Nilus",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFMLjfNrznA1g/company-logo_400_400/company-logo_400_400/0/1671023523396/nilus_finance_logo?e=1749081600&v=beta&t=mTEVmHMw3hcNO07euvHKO51w3vByxX8mwloq2hWr6s8",
+                "url": "https://www.linkedin.com/company/nilus-finance/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Nilus",
+                    "description": "Nilus is a seed stage startup backed by top investors, including Bessemer Venture Partners. \n\nI was one of the earliest hires, and led a very successful pivot towards cash management.",
+                    "title": "Senior Product Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Revolut is building a global financial ”super-app”. It was fastest growing company in Europe. During this period of hypergrowth, it scaled from 1200 to 5800 employees, ∼$200M to ∼$900M revenue.\n\nHaving previously worked on technical products in Finance, I wanted to deepen my UI/UX skills.\n\nI joined credit and launched a brand new user onboarding journey - it was the first time we sold a Revolut product to a non-Revolut customer. This challenging project required a massive overhaul of the sign up flow, as well as our underwriting and financial crime stack.",
+                    "title": "Senior Product Owner - Credit",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "I started my career at Revolut as an associate product manager in Finance department, and left the department as the Head of Product.\n\nI was responsible for product management and engineering across all finance and treasury teams. I built high performing teams, and systems that handled massive transactional volume and sensitive money flows. This allowed Revolut to scale to dozens of new markets, and 10X customers while still maintaining financial integrity.",
+                    "title": "Head of Product - Finance",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Product Owner",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Product Associate",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 14040193,
+                "name": "Partial f",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFB-pvkJJrSnQ/company-logo_400_400/company-logo_400_400/0/1630560106696?e=1749081600&v=beta&t=5p9KlOTO0HZU4qeyGp0duToKK8HQbLLgtj8csuJWySw",
+                "url": "https://www.linkedin.com/company/partial-f/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Partial f",
+                    "description": "Partial f was a decentralized finance protocol. We were one of the earliest players, and received offers for investment from top Silicon Valley VCs. \n\nWe built a token that provides short or leveraged long exposure to any asset with a price feed. I developed the smart contract code here https://github.com/isaacsultan/core.",
+                    "title": "Co-Founder",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2661236,
+                "name": "Ubisoft Montréal",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF3JegTQfQLnQ/company-logo_400_400/company-logo_400_400/0/1712757901130/ubisoft_montreal_logo?e=1749081600&v=beta&t=bOZe9ZY2bSywIg2v8ferlXBC4pHyLBjWXlfwVAw9o90",
+                "url": "https://www.linkedin.com/company/ubisoft-montreal/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Montreal, Canada",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Ubisoft Montréal",
+                    "description": "Ubisoft La Forge is the most prominent research lab in the games industry.\n\nI built a massive dataset and trained a machine learning model to render shadows.",
+                    "title": "Generalist Programmer - Machine Learning R&D",
+                    "employment_type": "Internship"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Product Management",
+        "Programming",
+        "Computer Science",
+        "Product Design"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

@@ -1,0 +1,470 @@
+{
+    "profile_id": "adergachev",
+    "first_name": "Arsenii",
+    "last_name": "Dergachev",
+    "sub_title": "Building the future of living",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQGBpv3lf_U44Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1697458449251?e=1749081600&v=beta&t=A3_TxvdW6RE0g19J1DOM4LlaG5KeNih8J5gjA_FE0x8",
+    "background_image": "https://media.licdn.com/dms/image/v2/D4E16AQHws2c-vNhPUg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727958937072?e=1749081600&v=beta&t=I89ssaAC9v1cD2-fcC2kcco5qBpDMMjc1B0o0GrX_aY",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAABzkoxgBaJifvHfCElxk3ZtJnrSvOxoHOSE",
+    "object_urn": 484746008,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "United Kingdom",
+        "short": "London, England",
+        "city": "London",
+        "state": "England",
+        "default": "London, England, United Kingdom"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "RU",
+            "language": "ru"
+        },
+        "supported_locales": [
+            {
+                "country": "RU",
+                "language": "ru"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "EDHEC Business School",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQF1ngruhy7YXQ/company-logo_400_400/company-logo_400_400/0/1631339131671?e=1749081600&v=beta&t=fNoddUpIYUkLW4ajW4lyy7bje4NQe4fLMrCD0_71n7c",
+                "url": "https://www.linkedin.com/school/edhec-business-school/"
+            },
+            "degree_name": "MS",
+            "description": null,
+            "field_of_study": "Finance",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Ural State Technical University",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGuSobJ-lhuWA/company-logo_400_400/company-logo_400_400/0/1630598681693/____logo?e=1749081600&v=beta&t=Mb_tN3l7lPlwap-cg6eKGcEQesi5ZyLPO2ZAU3BjviE",
+                "url": "https://www.linkedin.com/school/%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82/"
+            },
+            "degree_name": "BSc",
+            "description": null,
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Higher School of Economics",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHDo8XEE9QeLQ/company-logo_400_400/company-logo_400_400/0/1720781289843/___logo?e=1749081600&v=beta&t=r33I27O-V6QDc5OUZCBmOUuGMYYHOvz2DVDA1CTk2pQ",
+                "url": "https://www.linkedin.com/school/%D0%B2%D1%8B%D1%81%D1%88%D0%B0%D1%8F-%D1%88%D0%BA%D0%BE%D0%BB%D0%B0-%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B8/"
+            },
+            "degree_name": "BSc (Exchange year)",
+            "description": null,
+            "field_of_study": "Economics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "UK Global Talent (Exceptional Talent)",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Tech Nation",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Tech Nation",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEkhKyk6wjTqA/company-logo_400_400/company-logo_400_400/0/1698164160075/technationhq_logo?e=1749081600&v=beta&t=YzPI2udaawwK3RXArwjZY75HEKdYqxZ8bKbbr32vlP4",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 104557730,
+                "name": "Ciao",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHVt9uMh2LB4A/company-logo_400_400/company-logo_400_400/0/1727957382533/meetciao_logo?e=1749081600&v=beta&t=GonR-s9V8VQauxSbkAmXFzsGsY8fBnJMeO-dBNkHad0",
+                "url": "https://www.linkedin.com/company/meetciao/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Ciao",
+                    "description": null,
+                    "title": "Co-Founder and CEO",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Head of Revolut Lite | Retail Revenue",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Special Projects Senior Manager | Crypto",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Special Projects Manager | Authorisations & Tax",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Junior Operations Manager | Card Payments",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2558717,
+                "name": "DHL Consulting",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGBn_MjIkGlKw/company-logo_400_400/company-logo_400_400/0/1708333275936/dhlconsulting_logo?e=1749081600&v=beta&t=Sxssb6PjDRrFixfqFz1D2w-UfbQhheWkNs884vhVtkc",
+                "url": "https://www.linkedin.com/company/dhlconsulting/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "DHL Consulting",
+                    "description": null,
+                    "title": "Consultant",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "DHL Consulting",
+                    "description": null,
+                    "title": "Associate",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1115,
+                "name": "SAP",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_400_400/company-logo_400_400/0/1723034255614/sap_logo?e=1749081600&v=beta&t=-Cd4jwNWjh6rsnP_3gTcM3B8xHdWSsgCkL9QSEs_H6A",
+                "url": "https://www.linkedin.com/company/sap/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "SAP",
+                    "description": null,
+                    "title": "Associate",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "ARSTEM EnergoTrade",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "ARSTEM EnergoTrade",
+                    "description": null,
+                    "title": "Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Problem Solving",
+        "P&L Optimisation",
+        "SQL",
+        "Microsoft Visual Basic for Applications (VBA)"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

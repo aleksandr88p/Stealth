@@ -1,0 +1,581 @@
+{
+    "profile_id": "tagir-a",
+    "first_name": "Tagir",
+    "last_name": "A.",
+    "sub_title": "Building something new in the social network space | Ex-Revolut | Ex-Delivery Hero",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/v2/D5616AQH-Lwp0YCB3Zg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1687899976399?e=1749081600&v=beta&t=yGdlN54uNeYf3T3G0u14QwTUIMEIVCWX9yLNGsJQUfk",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAB7g2tIBJOabFk5ZUADz6KJZqmIT7jqKQAY",
+    "object_urn": 518052562,
+    "birth_date": null,
+    "summary": "I'm a software developer, who can solve business problems with tech and code.\nStrong team, pragmatism and good work attitude can overcome any obstacle in the world.\n\n6+ years doing modern software development working in cross-functional teams and dealing with any challenge that comes my way.\n\n4+ years in FinTech delivering software with the highest level of robustness and quality.",
+    "location": {
+        "country": "Germany",
+        "short": "Berlin Metropolitan Area",
+        "city": null,
+        "state": null,
+        "default": "Berlin Metropolitan Area"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            },
+            {
+                "country": "RU",
+                "language": "ru"
+            },
+            {
+                "country": "DE",
+                "language": "de"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dargwa",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Ossetic",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Persian",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Moscow State Linguistic University",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFCrFNNJc6x_Q/company-logo_400_400/company-logo_400_400/0/1630586935215/______logo?e=1749081600&v=beta&t=SOm68Cod7GQvAz7TvkHPwbI6mU-AASU2NEj_Vv8WMdo",
+                "url": "https://www.linkedin.com/school/%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82-%D0%BC%D0%B3%D0%BB%D1%83-/"
+            },
+            "degree_name": "Bachelor's degree",
+            "description": null,
+            "field_of_study": "Language Interpretation and Translation",
+            "grade": "4.8 of 5"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Hacktoberfest 2017 participant",
+            "description": "Hacktoberfest is a month-long celebration of all things open source. \nIt is open to everyone in global community.\nOne should make PRs to open GitHub repositories to earn this award.",
+            "issuer": "Digital Ocean",
+            "date": {
+                "month": 10,
+                "day": null,
+                "year": 2017
+            }
+        },
+        {
+            "title": "EY Forensic Case Battle 2016 Winner",
+            "description": "First place at EY Forensic Case championship. ",
+            "issuer": "EY",
+            "date": {
+                "month": 10,
+                "day": null,
+                "year": 2016
+            }
+        },
+        {
+            "title": "High Quality 25% Award",
+            "description": "This award goes to those, who presented a high-quality bussiness-case solution in the first round of tournament. It means that the solution was among TOP 25%.",
+            "issuer": "Changellenge >>",
+            "date": {
+                "month": 4,
+                "day": null,
+                "year": 2016
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "EF Standardised English Test:  C2 Proficient (87/100)",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "EF Education First",
+            "url": "https://www.efset.org/",
+            "license_number": null,
+            "display_source": "efset.org",
+            "company": {
+                "id": null,
+                "name": "EF Education First",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF3QaWfBzdZBQ/company-logo_400_400/company-logo_400_400/0/1727533371139/ef_education_first_logo?e=1749081600&v=beta&t=X-afPv0dkdNg9_aYT8lQNj6ecqnKtS4wyyoDx2waQnc",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "Хроники сражающегося города",
+            "publisher": "ФГБОУ ВО МГЛУ, Москва",
+            "url": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tagir",
+                    "last_name": "A.",
+                    "name": null,
+                    "headline": "Building something new in the social network space | Ex-Revolut | Ex-Delivery Hero"
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "name": "Business of Games and Entrepreneurship",
+            "number": null
+        },
+        {
+            "name": "Frontend Development",
+            "number": null
+        },
+        {
+            "name": "HTML & CSS",
+            "number": null
+        },
+        {
+            "name": "Introduction to Game Development",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18583501,
+                "name": "Stealth Startup",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1749081600&v=beta&t=HdK9rAhohenNit4H2D0XKcK-Ggz-Qoos_bPVstE0H2Q",
+                "url": "https://www.linkedin.com/company/stealth-startup-careers/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin, Germany",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Stealth Startup",
+                    "description": null,
+                    "title": "Co-Founder, CTO",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin, Germany",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Web Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9216347,
+                "name": "JustWatch",
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQHtykqP9VSLuQ/company-logo_400_400/company-logo_400_400/0/1631386761954?e=1749081600&v=beta&t=4vQp00X5CwM5Mu9iOZ3ymhvS4EEpEaEI-fGhY0y2ruk",
+                "url": "https://www.linkedin.com/company/justwatch/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin, Germany",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "JustWatch",
+                    "description": null,
+                    "title": "Senior Frontend Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2393200,
+                "name": "Delivery Hero SE",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFOZbu6XEJUAw/company-logo_400_400/company-logo_400_400/0/1688740737160/delivery_hero_se_logo?e=1749081600&v=beta&t=LWmejL6R-7OhZJyiIVPmCJ6uj_B630ujWFKpG6-sN88",
+                "url": "https://www.linkedin.com/company/delivery-hero-se/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Delivery Hero SE",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 8368,
+                "name": "Alfa-Bank",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGtaNDEUk4FSQ/company-logo_400_400/company-logo_400_400/0/1630556941344/alfa_bank_logo?e=1749081600&v=beta&t=-FTQRCTS2F5PDTuXmIWfXMnaiP-qWdWep7cYOo3jRc4",
+                "url": "https://www.linkedin.com/company/alfa-bank/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Alfa-Bank",
+                    "description": null,
+                    "title": "Javascript Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3606218,
+                "name": "HTML Academy",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEV3Ersjs7rKA/company-logo_400_400/company-logo_400_400/0/1646681607614/html_academy_logo?e=1749081600&v=beta&t=UH7JtbmefP_JincuNQCs7o0ySg1m1HyHfrwfb-vjtj4",
+                "url": "https://www.linkedin.com/company/htmlacademy/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "HTML Academy",
+                    "description": null,
+                    "title": "Javascript Mentor",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Freelance",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Remote",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Freelance",
+                    "description": null,
+                    "title": "Freelance Developer",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10304346,
+                "name": "Clickavia & Travelab",
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQH-4t6FX80TiQ/company-logo_400_400/company-logo_400_400/0/1631438852354?e=1749081600&v=beta&t=Phr4TkL1A-WpMJwRhcaboDjNH8oFH9PCXj4upjLbicc",
+                "url": "https://www.linkedin.com/company/clickavia-&-travelab/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Clickavia & Travelab",
+                    "description": "Created stateless React components\nAlso a bit of QA (looking for bugs, code restructure)",
+                    "title": "Component developer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Google Cloud Platform (GCP)",
+        "TypeScript",
+        "Front-end Development",
+        "React.js",
+        "JavaScript",
+        "HTML",
+        "Cascading Style Sheets (CSS)",
+        "Web Development",
+        "Translation",
+        "Redux",
+        "React Native",
+        "Node.js",
+        "Serverless Computing",
+        "Firebase"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

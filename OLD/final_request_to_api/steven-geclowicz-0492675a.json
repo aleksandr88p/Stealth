@@ -1,0 +1,305 @@
+{
+    "profile_id": "steven-geclowicz-0492675a",
+    "first_name": "Steven",
+    "last_name": "Geclowicz",
+    "sub_title": "Building a Brand",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C5603AQEII6z2yBwDwA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1626950033673?e=1749081600&v=beta&t=PGaTfBTTeCrTRxBYQ7dvndWNMzteVObrBRUd0oKz5Is",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAx_DXkB9Mq01SM25HOCJIcNw9zYJgSHMKI",
+    "object_urn": 209653113,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "Belgium",
+        "short": "Brussels Metropolitan Area",
+        "city": null,
+        "state": null,
+        "default": "Brussels Metropolitan Area"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Hebrew",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Cass Business School",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEtSx3kUEJbfA/company-logo_400_400/company-logo_400_400/0/1633442947173/cass_business_school_logo?e=1749081600&v=beta&t=FxfNE5OGy7JcfY1jK5gaBRT9EpryrL8U7rJvWSbkCg4",
+                "url": "https://www.linkedin.com/school/cass-business-school/"
+            },
+            "degree_name": "Bachelor's degree ",
+            "description": "Thesis: Low-cost Airline Development in Sub- Saharan Africa",
+            "field_of_study": "Business Administration and Management, General",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "The University of Hong Kong",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEubCTgcfA2sQ/company-logo_400_400/company-logo_400_400/0/1631325687808?e=1749081600&v=beta&t=QfnAdr9Rf56lkND7z1NxNvJF77ZfF48Jm7bBPO2i_zU",
+                "url": "https://www.linkedin.com/school/universityofhongkong/"
+            },
+            "degree_name": "Bachelor of Business Administration - BBA",
+            "description": "Exchange Year",
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": "Boëna ",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Antwerp, Belgium",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Boëna ",
+                    "description": null,
+                    "title": "Owner",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 37871650,
+                "name": "aion",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGfySIGcZKlvg/company-logo_400_400/company-logo_400_400/0/1630559082758/aion_bank_logo?e=1749081600&v=beta&t=l1H4tATd2cRA5Oz88TSr9CtekNAxZFnGqVfuDrfIf4U",
+                "url": "https://www.linkedin.com/company/aion-bank/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "aion",
+                    "description": null,
+                    "title": "Growing Aion in Europe ",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Belgium",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Country Manager Belgium",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2837535,
+                "name": "Deliveroo",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHIgRVMCL9wqA/company-logo_400_400/company-logo_400_400/0/1663666898712/deliveroo_logo?e=1749081600&v=beta&t=_o7BXejBCYIXwG4htEUqyEiXeiwsI88Tf9R2ylj7n-M",
+                "url": "https://www.linkedin.com/company/deliveroo/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Antwerp Area, Belgium",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Deliveroo",
+                    "description": "•\tLaunch and development of Deliveroo in multiple cities including Antwerp, Leuven and Mechelen  \n•\tManaged the sales process from initial pitch through to day-to-day account management.\n•\tResponsible for the sales and relationship management of Key accounts of Deliveroo.",
+                    "title": "Business Development Manager",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Microsoft Office",
+        "Microsoft Excel",
+        "Social Media",
+        "English",
+        "Microsoft Word"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

@@ -1,0 +1,1383 @@
+{
+    "profile_id": "maxbeech",
+    "first_name": "Max",
+    "last_name": "Beech",
+    "sub_title": "Building something new | ex-Yahoo, ex-Revolut",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C4E03AQGpe9n8_I48dg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516699357423?e=1749081600&v=beta&t=fuGcRLzBokPIM37f9mJdizwTsRWWpejbmtBlX2cl7jI",
+    "background_image": "https://media.licdn.com/dms/image/v2/C4D16AQGlHrgJqGiBqQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1539776012658?e=1749081600&v=beta&t=ogqInhe2BcykY0NQHoeiJ3glzWZw3IcORfl3dXNlOA0",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAABC-Y6QBHhYcsICr716RetOAURD7rg8SZ0A",
+    "object_urn": 280912804,
+    "birth_date": null,
+    "summary": "More about me: maxbeech.com\n\nI aspire to have a material impact on the world around us by building innovative products that use data in new ways.\n\nI have a first class degree in computer science and am currently building a startup.\n\nOutside of work, I have built projects including a political outcomes predictor (willthishappen.com), a university module advisor (gradehack.com) and a new way to manage tasks (thetoday.app). I currently volunteer as the business advisor for a Young Enterprise company.",
+    "location": {
+        "country": "United Kingdom",
+        "short": "Guildford, England",
+        "city": "Guildford",
+        "state": "England",
+        "default": "Guildford, England, United Kingdom"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "University of Exeter",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFaqA3xUyurLQ/company-logo_400_400/company-logo_400_400/0/1719821579475/university_of_exeter_logo?e=1749081600&v=beta&t=4ce5o8dXjlTrffFNy5LGkl77ruv2jnyQasR4zHKiliA",
+                "url": "https://www.linkedin.com/school/university-of-exeter/"
+            },
+            "degree_name": "Bachelor’s Degree",
+            "description": "Awarded prize for highest dissertation result of any Computer Science student\n\nAwarded prize for launching and leading free coding classes to over 300 students\n\nDeveloped proficient skills in Java, Python, Swift, Javascript, Node.js, C++, PHP, HTML, CSS and SQL\n\nIncluding the modules:\n\n - Dissertation project (82%) - Android app designed to rapidly speed up connecting with new people\n\n - Programming for the Web (81%) - HTML, CSS, Javascript, SQL, AJAX, PHP used to create web app\n\n - Software Engineering (72%) - Java, Software Development Lifecycle, Testing, Agile Development\n\n - Mobile & Ubiquitous Computing (70%) - Mobile User Interfaces, Designing & Developing For Android\n\n - Data Structures & Algorithms (73%) - Stacks, Queues, Abstract Data Types, Trees, Lists, Searching\n\n - Social and Professional Issues of the Information Age (78%) - Software Security, Reliability\n\n - Frontiers of Computer Science (79%) - Essay-based research",
+            "field_of_study": "Computer Science",
+            "grade": "BSc (Hons) First Class"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Royal Grammar School Guildford",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEXaCpSUEqLEA/company-logo_400_400/company-logo_400_400/0/1712752074856/royal_grammar_school_guildford_logo?e=1749081600&v=beta&t=XFGtwaCE_uG8f1iXR2B2OOkC9_Vycz9-zlpJYQPr_qc",
+                "url": "https://www.linkedin.com/school/royal-grammar-school-guildford/"
+            },
+            "degree_name": "High School",
+            "description": "Awarded the Advanced Level Prize for Product Design, following the complete design and development of a unique automatic cat food dispenser.",
+            "field_of_study": null,
+            "grade": "3 A Levels (Maths, Physics and Design & Technology), 4 AS Levels, 10 GCSEs"
+        }
+    ],
+    "patents": [
+        {
+            "inventors": [
+                {
+                    "first_name": "Max",
+                    "last_name": "Beech",
+                    "headline": "Building something new | ex-Yahoo, ex-Revolut",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/C4E03AQGpe9n8_I48dg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516699357423?e=1749081600&v=beta&t=fuGcRLzBokPIM37f9mJdizwTsRWWpejbmtBlX2cl7jI"
+                },
+                {
+                    "first_name": "Shaunak",
+                    "last_name": "Mishra",
+                    "headline": "Agentic AI for shopping @ Amazon | HIRING",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/C4E03AQFl-kh1Wm0GUQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1560724956282?e=1749081600&v=beta&t=gCo-g3nk5WI3hLhRUqRzA1z5hDK3Gyb456FWmu9micY"
+                },
+                {
+                    "first_name": "Kevin",
+                    "last_name": "Yen",
+                    "headline": "Senior Principal Research Engineer at Yahoo",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/C5103AQG0bB7zYQ-ylg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517366439663?e=1749081600&v=beta&t=OodlGW4PP8oGeIa87GcMVZzj0okjWqAS0Pqmv7974bI"
+                },
+                {
+                    "first_name": "Manisha",
+                    "last_name": "verma",
+                    "headline": "Executive Director AI/ML @ JP Morgan ",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/C4D03AQH4FVtNUCfg2A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1601069937227?e=1749081600&v=beta&t=-mWfV7aHByZk12ByA-1PNC45uN2PgesVOu37XvTBSFI"
+                },
+                {
+                    "first_name": "Yifan",
+                    "last_name": "Hu",
+                    "headline": "Professor of Practice at Northeastern University",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/C4D03AQHf9hpUg6ficQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517499958992?e=1749081600&v=beta&t=iaLLpuZYLfQxQAMS_zFEKj-vN6nYCFf8a27lqwV_6n4"
+                },
+                {
+                    "first_name": "Avinash",
+                    "last_name": "Chukka",
+                    "headline": "VP of Product",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/C5603AQFBPXfmepvWJQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1617337671780?e=1749081600&v=beta&t=LyUK0_ft9FhyECbgZschMkatczsLZWLdzcZnNerDcAo"
+                },
+                {
+                    "first_name": "Hua-Ying",
+                    "last_name": "Tsai",
+                    "headline": "Software Engineer",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/C4E03AQEyLH8C0P0XKw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516490892054?e=1749081600&v=beta&t=UetFhQ7rO97qVIDvt8kq5PgzoRKlLu7HK0aDeqTkS6A"
+                },
+                {
+                    "first_name": "Kamil",
+                    "last_name": "Zasadzinski",
+                    "headline": "Sr. Software Engineer w Yahoo",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/C5103AQEYCzQ-JoiLrQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516582813422?e=1749081600&v=beta&t=BO-YkMxnROTbJjlpW8D-_AduOUUXerHQaLRKOceZJaw"
+                },
+                {
+                    "first_name": "Iris",
+                    "last_name": "Tian",
+                    "headline": "UX Designer at AWS",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/C4E03AQEpZHfoWpizSw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1564969831392?e=1749081600&v=beta&t=lSfTg2KY8r7LY_QMqugua84N99PCQyyrXNJHvx92VDw"
+                },
+                {
+                    "first_name": "Maxim",
+                    "last_name": "Sviridenko",
+                    "headline": "VP, Head of Data Science (Supply Side)",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/C4E03AQEwfDwNn1ACTg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517453613319?e=1749081600&v=beta&t=wYse_eT9E_xH5JbTNoSBggvTuoVBazhORJlPRm3D_L8"
+                },
+                {
+                    "first_name": "Changwei",
+                    "last_name": "Hu",
+                    "headline": "Senior Applied Scientist@Amazon & NJ Realtor®",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/C5603AQFOxEBvMIamHg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1635260372359?e=1749081600&v=beta&t=7SKEZkzmS9tiRObybbHCv018akW1L4G9NF29ZHN-W8Q"
+                }
+            ],
+            "patent_number": "11886478",
+            "title": "Performance Metric Prediction and Content Item Text Suggestion Based Upon Content Item Text",
+            "issuer": "US",
+            "date": {
+                "month": 1,
+                "day": 30,
+                "year": 2024
+            },
+            "application_number": "11886478"
+        },
+        {
+            "inventors": [
+                {
+                    "first_name": "Max",
+                    "last_name": "Beech",
+                    "headline": "Building something new | ex-Yahoo, ex-Revolut",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/C4E03AQGpe9n8_I48dg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516699357423?e=1749081600&v=beta&t=fuGcRLzBokPIM37f9mJdizwTsRWWpejbmtBlX2cl7jI"
+                },
+                {
+                    "first_name": "Eric",
+                    "last_name": "Bax",
+                    "headline": "Scientist/Manager -- Data Science, Marketplace Design, Optimization, Monetization, Statistics",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/D5603AQEPHFVghcW2Tg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1668645792983?e=1749081600&v=beta&t=oipa0RwkaWhdVF0wzMSuisb_8mtcw8JMkCH47bpjEFE"
+                }
+            ],
+            "patent_number": null,
+            "title": "Method and System for Determining Alpha and Beta Values of a Candidate Relative to a Class",
+            "issuer": "18335353",
+            "date": null,
+            "application_number": null
+        }
+    ],
+    "awards": [
+        {
+            "title": "College Commendation – Contribution to the College",
+            "description": "Awarded prize for launching and leading free coding classes to over 300 students\n",
+            "issuer": "Exeter University",
+            "date": {
+                "month": 7,
+                "day": null,
+                "year": 2018
+            }
+        },
+        {
+            "title": "Computer Science Final Year Project Prize",
+            "description": "Awarded prize for highest dissertation result of any Computer Science student",
+            "issuer": "Exeter University",
+            "date": {
+                "month": 7,
+                "day": null,
+                "year": 2018
+            }
+        },
+        {
+            "title": "1st Place In Hackathon",
+            "description": " - Won first prize in Exeter University’s largest hackathon, EXHACK.\n\n - Created the fresh food delivery service bitebox over three days.\n\n - Single-handedly created website for company from scratch.",
+            "issuer": "Exeter University’s Largest Hackathon, EXHACK",
+            "date": {
+                "month": 2,
+                "day": null,
+                "year": 2016
+            }
+        },
+        {
+            "title": "Gold Duke of Edinburgh Award",
+            "description": " - Completed the Gold Duke of Edinburgh Award, along with the Silver and Bronze certificates previously\n\n - Lead a group of five over the course of the four day Gold trek",
+            "issuer": "Duke of Edinburgh",
+            "date": {
+                "month": 8,
+                "day": null,
+                "year": 2015
+            }
+        },
+        {
+            "title": "Flying Scholarship",
+            "description": " - Received an RAF Flying Scholarship in 2014 with the aid of my Silver Wings award and application process\n\n - After a two week intensive course, achieved the highest level\n\n - As a result was given permission to complete a solo circuit around a live commercial airport",
+            "issuer": "Royal Air Force Cadets",
+            "date": {
+                "month": 7,
+                "day": null,
+                "year": 2014
+            }
+        },
+        {
+            "title": "Best Promotional Advert",
+            "description": "A 15 second advert created for the Young Enterprise's regional competition the 'Y Factor' (28th January 2014). This then won the award for the best advert at the regional Young Enterprise competition.",
+            "issuer": "Young Enterprise",
+            "date": {
+                "month": 1,
+                "day": null,
+                "year": 2014
+            }
+        },
+        {
+            "title": "Best Business Plan",
+            "description": "The company Allumez, won the best business plan award at a competition held in Guildford.",
+            "issuer": "Young Enterprise",
+            "date": {
+                "month": 11,
+                "day": null,
+                "year": 2013
+            }
+        },
+        {
+            "title": "Gliding Scholarship",
+            "description": "Received an RAF Gliding Scholarship in 2013 via an application process, and during the week-long course was awarded Silver Wings, the highest level, by flying a solo circuit.",
+            "issuer": "Royal Air Force Cadets",
+            "date": {
+                "month": 3,
+                "day": null,
+                "year": 2013
+            }
+        },
+        {
+            "title": "Award for short film I created, entitled: 'How 9/11 Changed The World'",
+            "description": "In 2012, I won a trip to New York for the five minute film I created, entitled: 'How 9/11 Changed the World'.",
+            "issuer": "Since 9/11",
+            "date": {
+                "month": 9,
+                "day": null,
+                "year": 2012
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Website Modifications",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Numerous feature and design updates to independent trading company.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Max",
+                    "last_name": "Beech",
+                    "name": null,
+                    "headline": "Building something new | ex-Yahoo, ex-Revolut"
+                }
+            ]
+        },
+        {
+            "title": "Website Development",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "Developed display site for communications company.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Max",
+                    "last_name": "Beech",
+                    "name": null,
+                    "headline": "Building something new | ex-Yahoo, ex-Revolut"
+                }
+            ]
+        },
+        {
+            "title": "Website creation",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Developed and created a leading orchestra's website. Analysed and recorded my development using a prezi here: http://bit.ly/1u0JNvq",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Max",
+                    "last_name": "Beech",
+                    "name": null,
+                    "headline": "Building something new | ex-Yahoo, ex-Revolut"
+                }
+            ]
+        },
+        {
+            "title": "Award-winning promotional Advert for Allumez",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "A 15 second advert created for the Young Enterprise's regional competition the 'Y Factor' (28th January 2014). This then won the award for the best advert at the regional Young Enterprise competition.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Max",
+                    "last_name": "Beech",
+                    "name": null,
+                    "headline": "Building something new | ex-Yahoo, ex-Revolut"
+                }
+            ]
+        },
+        {
+            "title": "Website Refresh",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "Improved both frontend and backend usability and design for a multi-award winning acapella group.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Max",
+                    "last_name": "Beech",
+                    "name": null,
+                    "headline": "Building something new | ex-Yahoo, ex-Revolut"
+                }
+            ]
+        },
+        {
+            "title": "EU Referendum website work",
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "description": "Worked in a small team to develop the concept and structure for an independent, impartial voter support website for the EU referendum. Went on to develop initial graphical designs for the site.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Max",
+                    "last_name": "Beech",
+                    "name": null,
+                    "headline": "Building something new | ex-Yahoo, ex-Revolut"
+                }
+            ]
+        },
+        {
+            "title": "Website creation",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "I completely overhauled the internet presence of one of the most popular tennis clubs in the south-east. This cumulated in a brand new site that featured a powerful CMS backend, beautiful full width background videos, that change depending on current weather conditions at the club, and a complete online application process.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Max",
+                    "last_name": "Beech",
+                    "name": null,
+                    "headline": "Building something new | ex-Yahoo, ex-Revolut"
+                }
+            ]
+        },
+        {
+            "title": "Magazine Design",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "Designed and developed a 64 page professionally printed magazine using Adobe InDesign.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Max",
+                    "last_name": "Beech",
+                    "name": null,
+                    "headline": "Building something new | ex-Yahoo, ex-Revolut"
+                }
+            ]
+        },
+        {
+            "title": "Allumez Website",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "description": "Allumez, a startup Young Enterprise Company, focuses on providing high quality, personalised and designed clothing that you want. Check out our latest products on the site, where you can purchase them securely through our store.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Max",
+                    "last_name": "Beech",
+                    "name": null,
+                    "headline": "Building something new | ex-Yahoo, ex-Revolut"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18583501,
+                "name": "Stealth Startup",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1749081600&v=beta&t=HdK9rAhohenNit4H2D0XKcK-Ggz-Qoos_bPVstE0H2Q",
+                "url": "https://www.linkedin.com/company/stealth-startup-careers/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Stealth Startup",
+                    "description": "The future of e-commerce 🔜",
+                    "title": "Founder",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1288,
+                "name": "Yahoo",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHZRIvlF1NvZA/company-logo_400_400/company-logo_400_400/0/1734629033465/yahoo_logo?e=1749081600&v=beta&t=CLEmv4JkYK9_OQmIi0hnqisSEC8l_0gzST0-eDdBNGk",
+                "url": "https://www.linkedin.com/company/yahoo/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Yahoo",
+                    "description": "- Promoted to Senior Product Manager, where I worked strategically to develop and successfully execute my vision and strategy for the Android and iOS apps\n\n- Launched one of Finance’s most successful features ever by ideating, designing and launching a brand new symbol discovery experience\n\n- Selected to lead a special project which was so successful I presented it to Yahoo’s 10,000 employees. The work saw me lead a team of 45 people where we took a highly innovative product from zero to one\n\n- In total led over 70 separate initiatives over two years for 24 engineers, including supporting a second patent submission",
+                    "title": "Senior Product Manager",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Yahoo",
+                    "description": "- Promoted to Associate Product Manager II, where I joined the Yahoo Finance team leading Yahoo Finance's Android app\n\n- Promoted to become the sole product manager for Yahoo Finance's Android app, where in 3.5 months I increased its Play Store rating from 3.5 to 4.3 by rigorously focusing on the user, ultimately reaching an all-time high rating of 4.7\n\n- Ideated and launched a series of highly successful symbol screen improvements, including a new like bar experience, a financial literacy feature and an entirely redesigned information architecture\n\n- Significantly optimised performance and cost-effectiveness",
+                    "title": "Associate Product Manager II",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Yahoo",
+                    "description": "- One of six selected to join Yahoo's prestigious APM program (0.3% acceptance rate), which offers the unique opportunity to drive the product vision, strategy, and roadmap for high-impact products across the company\n\n- Secured >$150k of advertiser spend by leading the effort to launch a new DSP ad format via defining the strategy, pitching to advertisers, guiding internal teams and managing external partner relationships\n\n - Led the rollout of an industry-first, patent-pending product, an ad text strength indicator, by determining its direction as well as leading UX, development and research teams. The feature resulted in a 27% CTR lift for advertisers and has been prominently featured by AdAge and MediaPost\n\n - Led the effort to launch a brand new ad format by defining the strategy, guiding internal teams, coordinating with fellow internal stakeholders and managing external partner relationships",
+                    "title": "Associate Product Manager I",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 14832796,
+                "name": "Beech",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHTUMysj_zeBw/company-logo_400_400/company-logo_400_400/0/1630565986876?e=1749081600&v=beta&t=7fRWM9QzRmmiwSwIz9lbdoLgoJn58gSRAIOYb1hrJaQ",
+                "url": "https://www.linkedin.com/company/maxbeech/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Beech",
+                    "description": "- Ideated, designed and built Today (thetoday.app), a free iOS & Android app which helps you to build habits from your to-dos through unique, timed tasks\n\n- Received over 500 Product Hunt upvotes, including an endorsement by Product Hunt's founder, Ryan Hoover",
+                    "title": "Today Founder",
+                    "employment_type": null
+                },
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Beech (freelance)",
+                    "description": "- Developed code and designed UX for Node.js and AWS-powered app in three days\n\n - The web app uses unique Artificial Intelligence (AI) algorithms to combine a wide range of factors, like betting odds and people's online reaction to events, to build a picture of how probability is changing\n\n - A Twitter bot I built then selects the most interesting trends and tweets about them at @WillThisHappen",
+                    "title": "Will This Happen Founder",
+                    "employment_type": null
+                },
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Beech (freelance)",
+                    "description": "- Used by 15% of the campus in the first month after launch with an advertising budget of £20\n\n - It was built from scratch by myself over just one day\n\n - The web app continues to be an invaluable tool for students looking to compare university module results",
+                    "title": "Gradehack Founder",
+                    "employment_type": null
+                },
+                {
+                    "location": "Guildford, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Beech (freelance)",
+                    "description": "- Worked with various clients to refresh their websites’ user interfaces utilising wireframe sketching, Adobe Illustrator, testing the user experience with InVision and HTML5, CSS3, jQuery and PHP\n\n - Designed and developed a 64 page professionally printed magazine using Adobe InDesign",
+                    "title": "Freelance Coder & Designer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "- Product Manager for the B2C website of Revolut, one of the fastest growing fintech companies in the world\n\n- Ensured the team consistently achieved its KPIs by balancing its tasks with requests from other teams, whilst also reporting the team’s progress every week to the CEO and CTO\n\n- Significantly grew the number of new users through executing on a thorough SEO plan as well as improving conversion across all of the most viewed pages, including a 133% increase of the most visited page through ideating and executing on a series of structural and design improvements \n\n- Setup a comprehensive AB testing strategy which did not previously exist, through encouraging a bias towards testing, alongside developing and integrating testing tools to support teams across the company\n\n- Scoped out and executed on a major website rebrand by developing a vision for what the website should achieve, supporting the new design in Figma, planning the development work and analysing its success",
+                    "title": "Product",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11715284,
+                "name": "Intro",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFTOBq9FcxRNg/company-logo_400_400/company-logo_400_400/0/1630554356241/getintroapp_logo?e=1749081600&v=beta&t=sX_4q-OupJcYsU5Nk6dWWQo5RKQIKOnITBjGIjaTxvc",
+                "url": "https://www.linkedin.com/company/getintroapp/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Southampton, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Intro",
+                    "description": "- Co-founded startup that improves how businesses with a physical space understand & engage customers\n\n - Used by over 150 businesses, following pitches I conducted across the UK & at CES 2019\n\n - Built JS React Native app before hiring and managing a team to help further develop and market Intro\n\n - Secured investment and grant funding valuing the startup at over $500,000 prior to launch\n\n------\n\nIntro bridges the gap between networking in person and then staying connected online, changing the game for event organisers and attendees alike.\n\nFor a fee, we provide event organisers access to our GDPR-compliant app, allowing attendees to seamlessly stay connected, whilst also passing connection information directly back to their own event app.",
+                    "title": "Co-Founder",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 167872,
+                "name": "Y Combinator",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1749081600&v=beta&t=Rxn8GTmgUFbEClMwqfDwsy9mrFoWNENUfpY3XzoJV9k",
+                "url": "https://www.linkedin.com/school/y-combinator/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Y Combinator",
+                    "description": "Completed Y Combinator Startup School's 10-week course by consistently attending lectures, communicating with other founders and completing frequent company updates\n\nSpoke with YC partners Kevin Hale, Adora Cheung and Eric Migicovsky (Pebble founder) during the course's London meet-up",
+                    "title": "Startup School Member",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3724781,
+                "name": "Web Wise Media",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE4oOYffweK4w/company-logo_400_400/company-logo_400_400/0/1631339410394?e=1749081600&v=beta&t=V5vSZTYDc2VwNf-_-Y6glT5dN46mN9FQl1GNeYf2EIQ",
+                "url": "https://www.linkedin.com/company/webwisemedia/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Exeter, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Web Wise Media",
+                    "description": "- Alongside university studies, progressed to Lead Software Engineer of the website development agency \n\n- Took the lead in training new developers, whilst maintaining hands-on development role",
+                    "title": "Lead Software Engineer",
+                    "employment_type": null
+                },
+                {
+                    "location": "Exeter, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Web Wise Media",
+                    "description": "- Created a wide range of websites with HTML, CSS, Javascript & PHP whilst also undertaking advanced graphic design work for clients using Adobe Photoshop, Adobe Illustrator & Sketch\n\n- Constantly liaised with clients whilst also working extensively with Wordpress and Shopify platforms",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11188671,
+                "name": "Exeter Entrepreneurs",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFHpyC6KkY6-A/company-logo_400_400/company-logo_400_400/0/1630513861330/exeterentrepreneurs_logo?e=1749081600&v=beta&t=NLsRTMxjd_yZTyb3XbmwjCTL3AVgzs2T7rzVwzixOa4",
+                "url": "https://www.linkedin.com/company/exeterentrepreneurs/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Exeter, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Exeter Entrepreneurs",
+                    "description": "- Having been elected, ran the second largest society on campus by bringing in over 1000 new members\n\n - Planned and led 15 tech and business events, including our largest hackathon which attracted applications from 7 countries, by co-ordinating a multifaceted marketing campaign and managing a 12-strong team",
+                    "title": "President",
+                    "employment_type": null
+                },
+                {
+                    "location": "University of Exeter",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Exeter Entrepreneurs",
+                    "description": "- Having been elected, I co-ordinated the organisation’s events, product development and marketing by nurturing and enhancing internal communication whilst directing the resolution of an internal conflict\n\n - Developed exeterentrepreneurs.com from scratch & designed many online & print marketing material\n\n - Designed and led programming courses for other students",
+                    "title": "Head of Operations",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 14831517,
+                "name": "EXCODE",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGOe_BNbNqoPA/company-logo_400_400/company-logo_400_400/0/1630526073555?e=1749081600&v=beta&t=mWPzEUkjQug_y28es5wPypupPQEYbw3_ED1GTwT8F00",
+                "url": "https://www.linkedin.com/company/excode/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Exeter, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "EXCODE",
+                    "description": "- Received two academic awards and led the teaching of over 300 students by running free coding courses alongside my university studies, in Python and website development (HTML, CSS and Javascript)\n\n - Initially led the teaching of numerous Code First: Girls courses, whilst also managing a team of instructors\n\n - Then branched out into my own “Excode” courses, which I single-handedly designed and developed by building up and nurturing a 15-strong team of instructors and marketers, which are still successfully running",
+                    "title": "Coding Course Founder & Project Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 14831513,
+                "name": "International Competitive Sailing (ICS)",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQElawFAdKpWNQ/company-logo_400_400/company-logo_400_400/0/1630508534345?e=1749081600&v=beta&t=eI3cpH0kfEX4img_5gKqagY1niU3KJLAhM4UMh1ycGI",
+                "url": "https://www.linkedin.com/company/icscourses/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ripley, Surrey",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "International Competitive Sailing (ICS)",
+                    "description": "- Progressed to lead the instruction of children alongside managing the other instructors by consistently impressing employers and achieving numerous certifications",
+                    "title": "Chief Instructor",
+                    "employment_type": null
+                },
+                {
+                    "location": "Surrey, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "International Competitive Sailing (ICS)",
+                    "description": "- Led the teaching of a class, whilst managing an assistant instructor",
+                    "title": "Group Instructor",
+                    "employment_type": null
+                },
+                {
+                    "location": "Ripley, Surrey",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "International Competitive Sailing (ICS)",
+                    "description": "Coached a range of group levels at one of the most renowned sailing courses in the country over many years.",
+                    "title": "Assistant Instructor",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Business Advisor",
+            "company": {
+                "id": null,
+                "name": "Young Enterprise UK",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHF05xSR4ExgQ/company-logo_400_400/company-logo_400_400/0/1732200463576/young_enterprise_uk_logo?e=1749081600&v=beta&t=O59eSfcXYPVotpmnGnHUQ0obweSd0DGkf05wWTsQRcA",
+                "url": "https://www.linkedin.com/school/young-enterprise-uk/"
+            },
+            "cause": "EDUCATION",
+            "description": "- Supported three sets of A-Level student teams from RGS Guildford, all of which went on to win numerous national and regional awards\n\n - Firefly (firefly-technology.co.uk) launched two highly successful and innovative work-from-home products from scratch in under three months, winning a series of awards which accumulated in them beating over 1000 teams to win the UK-wide finals. It was the first time in at least 17 years that a Surrey team did this, the first-ever time that a team from RGS Guildford had been triumphant and meant they then represented the UK in the European finals\n\n- ShowerSmart built an ingenious smart shower head designed to limit and track water usage. The team also reached the UK finals where they won the prestigious UK Innovation award, marking the first time a school from Surrey have reached the UK finals in three consecutive years\n\n- Exo (exo-ye.com) designed and built stunning, innovative 3D printed decorations such as Christmas baubles. The team won numerous awards for their extremely popular products, accumulating in them winning the South East Digital Skills award"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "role": "Membership Secretary (Junior Players)",
+            "company": {
+                "id": null,
+                "name": "Pit Farm Tennis Club",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFLsHmxu2GTeQ/company-logo_400_400/company-logo_400_400/0/1630539611193?e=1749081600&v=beta&t=9vmDz2zn0NkoaSGNaR8LC9QMBkmomOujd-Ce6dV6WvE",
+                "url": "https://www.linkedin.com/company/pitfarmtennis/"
+            },
+            "cause": "CHILDREN",
+            "description": " - Grew mini and junior memberships by over 30% for Pit Farm Tennis Club through building relationships with prospective members\n\n - Collaborated with others on the team as well as external partners to ensure the continued growth of the 200+ junior section"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "role": "Volunteer maths and rugby teacher in remote Fijian school",
+            "company": {
+                "id": null,
+                "name": "Think Pacific",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHGXYtXUQLlGw/company-logo_400_400/company-logo_400_400/0/1630605677581/think_pacific_logo?e=1749081600&v=beta&t=rJJZvcvav0khHTvLNVpoUDwampzrvFuZO5ytiE2RyUU",
+                "url": "https://www.linkedin.com/company/think-pacific/"
+            },
+            "cause": "EDUCATION",
+            "description": " - Taught maths to primary and secondary school children for three weeks. Included 1-to-1s, small group learning and teaching to the entire class\n\n - Coached rugby to secondary school children"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "role": "Volunteer Coding Teacher",
+            "company": {
+                "id": null,
+                "name": "Code First Girls",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHhQSG8oilpTA/company-logo_400_400/company-logo_400_400/0/1657038239557/code_first_girls_logo?e=1749081600&v=beta&t=j4FLsW5vCCvDm-XwoYILz5ji22G4DgzQow_sC4Z0cfM",
+                "url": "https://www.linkedin.com/company/code-first-girls/"
+            },
+            "cause": "EDUCATION",
+            "description": " - Received two academic awards and taught over 100 fellow University students website design and the coding languages HTML, CSS and Javascript, whilst also managing a team of assistant instructors\n\n - Worked for an organisation whose aim is to get more females into the Technology sector"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "role": "Deputy Commander",
+            "company": {
+                "id": null,
+                "name": "Royal Air Force Air Cadets",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE72IogCCE48w/company-logo_400_400/company-logo_400_400/0/1699866508403?e=1749081600&v=beta&t=D9MiYVv5zSv5RNJpgajNq6ee5laCpIThQkn9p7hwnfQ",
+                "url": "https://www.linkedin.com/company/rafac/"
+            },
+            "cause": "EDUCATION",
+            "description": " - Taught the CCF RAF syllabus course, including Part 1 and 2, to the Puma 2 CCF RAF group, consisting of 14-16 year olds\n\n - Went on to the senior leadership position of being 2nd in command of the section, where I managed and led teachers, taking a hands-on approach where necessary\n\n - Awarded RAF flying and gliding scholarships, where I achieved the highest levels in both by flying solo circuits"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "role": "Volunteer Design and Technology teacher",
+            "company": {
+                "id": null,
+                "name": "Schools Without Walls & Primary School Project",
+                "logo": null,
+                "url": null
+            },
+            "cause": "EDUCATION",
+            "description": " - Through the Schools Without Walls programme and Primary School Project (Saturdays)\n\n - Taught primary school children fundamental aspects of design and technology"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Volunteer teacher in remote Cambodian schools",
+            "company": {
+                "id": null,
+                "name": "UWS",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFUeCwrAK7duQ/company-logo_400_400/company-logo_400_400/0/1685010587976/uws_educate_the_future_logo?e=1749081600&v=beta&t=-1YQ6DNRiSrcohfnw7f3YvhTi6S3FrPyBEb_QtUqo-M",
+                "url": "https://www.linkedin.com/company/uws-educate-the-future/"
+            },
+            "cause": "EDUCATION",
+            "description": " - Volunteer teacher in two isolated schools in NE Cambodia in 2013\n\n - Taught fundamental aspects of logic to children aged 3-18 who were little educated, couldn’t read or write, and spoke the local language Khmer only"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "role": "Volunteer Sailing Instructor",
+            "company": {
+                "id": null,
+                "name": "Papercourt Sailing Club",
+                "logo": null,
+                "url": null
+            },
+            "cause": "EDUCATION",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "role": "Assistant Leader",
+            "company": {
+                "id": null,
+                "name": "Scouts UK",
+                "logo": null,
+                "url": null
+            },
+            "cause": "CHILDREN",
+            "description": null
+        }
+    ],
+    "skills": [
+        "Product Management",
+        "Team Leadership",
+        "Entrepreneurship",
+        "Software Engineering",
+        "Strategy",
+        "Social Media",
+        "Software Development",
+        "Product Design",
+        "Product Development",
+        "UI",
+        "Programming",
+        "Start-ups",
+        "Algorithms",
+        "Project Management",
+        "Graphic Design",
+        "Marketing",
+        "Video Production",
+        "Branding",
+        "Front-End Development",
+        "Data Structures"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

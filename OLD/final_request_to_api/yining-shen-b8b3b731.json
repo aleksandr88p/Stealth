@@ -1,0 +1,635 @@
+{
+    "profile_id": "yining-shen-b8b3b731",
+    "first_name": "Yining",
+    "last_name": "Shen",
+    "sub_title": "Entrepreneur & Investor | AI • CleanTech • FinTech",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/v2/D5616AQGIUgpt9v4SIQ/profile-displaybackgroundimage-shrink_350_1400/B56ZXjaIYQGcAY-/0/1743277037672?e=1749081600&v=beta&t=xZ3M9SkJldM-0anIVOAnxP0yOMEltD6jMPj9-ysXn_0",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAak5NsBTiDNvvfk8XUBEM8lVyls32GA-Js",
+    "object_urn": 111469787,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": null,
+        "short": "United Kingdom",
+        "city": null,
+        "state": null,
+        "default": "United Kingdom"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Chinese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": null
+            },
+            {
+                "name": "Korean",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Shanghainese",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Renewables & Environment",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "UCL",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEkPpD2CJSBpQ/company-logo_400_400/company-logo_400_400/0/1663656692926/university_college_london_logo?e=1749081600&v=beta&t=qvtp1ljJ-Rc1VaB6j3Zc6uw3WmyurK6INpxpckata1I",
+                "url": "https://www.linkedin.com/school/university-college-london/"
+            },
+            "degree_name": "Master's degree",
+            "description": "UCL Computer Science App Award in June 2014.\nThe course comprises both Computational Finance (algorithmic trading, risk management, market simulation and portfolio optimisation) and Financial IT (financial software engineering, cloud computing).",
+            "field_of_study": "Financial Computing",
+            "grade": "Distinction"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "University of Nottingham",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHO2SMiN1HSMA/company-logo_400_400/company-logo_400_400/0/1675599021016/university_of_nottingham_logo?e=1749081600&v=beta&t=LyKB-Llrrw_BBQ0QhfOM3RmamgWhD7IIUHTbfKjBl3E",
+                "url": "https://www.linkedin.com/school/university-of-nottingham/"
+            },
+            "degree_name": "Bachelor's degree",
+            "description": "Nottingham University Outstanding Graduate 2013\nProvost Scholarship & Dean's Scholarship - top 1%\nTop 7 Project of Nottingham Social Entrepreneurship Competition, Team leader\nRunner-up in SIFE World Cup in USA, Project Member",
+            "field_of_study": "Accounting and Finance",
+            "grade": "First Class"
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "ICA Advanced Certificate in Anti Money Laundering",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "International Compliance Association",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "International Compliance Association",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF0p7cGLrrMBw/company-logo_400_400/company-logo_400_400/0/1654100903883/intcompassoc_logo?e=1749081600&v=beta&t=EgG25QeqAABu71QCDDNd4yTe4mJHtSG7NehAmrWppfo",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 105919208,
+                "name": "ProMaterial",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEFKkbKuTEVkg/company-logo_400_400/B56ZUdJ1DJGoAY-/0/1739950871853/promaterialai_logo?e=1749081600&v=beta&t=iXa2MATQLnbjPyffKBeQuZ2qgeGaLKcuz-bX0_BX6pE",
+                "url": "https://www.linkedin.com/company/promaterialai/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2024
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Neath Port Talbot, Wales, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "ProMaterial",
+                    "description": null,
+                    "title": "Founder",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 103009474,
+                "name": "Innocare Group",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEt4jmzeKScng/company-logo_400_400/company-logo_400_400/0/1719256827102?e=1749081600&v=beta&t=rVLXWIwQF7gnxX3L2U0n-qGjRFsUVPr0hydFHUYqNAI",
+                "url": "https://www.linkedin.com/company/innocare-group/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London Area, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Innocare Group",
+                    "description": null,
+                    "title": "Managing Director",
+                    "employment_type": "Part-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Senior Product Owner",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1262,
+                "name": "Deutsche Bank",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHPxOQjSTf63Q/company-logo_400_400/company-logo_400_400/0/1733126326977?e=1749081600&v=beta&t=dgxQkXZuBqpB2JyznhDvVfYqgdD2gvmxUWcXgtdzL8c",
+                "url": "https://www.linkedin.com/company/deutsche-bank/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Deutsche Bank",
+                    "description": null,
+                    "title": "Digital Product Owner",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Deutsche Bank",
+                    "description": "IT Product Owner of GTB IT Portfolio Management System, Message Tracker POC, working closely with stakeholders and vendors throughout the software development lifecycle;\nAssisted solution architecture design for PSD2 corporate payment;\nAutomated the architecture governance process by delivering the architecture repository ecosystem and adopting the systems bank-wide;\nDrove the platform simplification practice to the GTB portfolio of over 200 programmes, aligned to over 500 applications;\nData architecture analyst for client data reference project.",
+                    "title": "Associate Engineer/Architect, Global Transaction Banking",
+                    "employment_type": null
+                },
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Deutsche Bank",
+                    "description": "Project Management Analyst for Securities Technology Team, Global Transaction Bank.\n\nBusiness Analyst for Global Equity Derivative trading systems, covering Europe, Asia, the US.",
+                    "title": "Graduate Analyst",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 854181,
+                "name": "Satalia",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHPMGbhBvXw8A/company-logo_400_400/company-logo_400_400/0/1727797290031/satalia_logo?e=1749081600&v=beta&t=TxuXE1GBmjhpexFVpumINsVmyPDmHndmh6Ieye-kPHA",
+                "url": "https://www.linkedin.com/company/satalia/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Satalia",
+                    "description": "Provided trading advisor solutions for hedge fund clients.\nAssisted to analyse unstructured data from internal industrial reports and emails using machine learning techniques, e.g. NLP, and sentiment analysis. \nVisualised the analysis results using D-3 models.",
+                    "title": "Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 721353,
+                "name": "RSM Tenon now RSM UK",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHUwv1I_z7-Mg/company-logo_400_400/company-logo_400_400/0/1631315728365?e=1749081600&v=beta&t=6MzTAUymZEwKD_OJF9hckH3LCrwLF13CL5v4QuD7280",
+                "url": "https://www.linkedin.com/company/rsm-tenon/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Shanghai, China",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "RSM Tenon now RSM UK",
+                    "description": null,
+                    "title": "Intern, Auditing Department",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 624154,
+                "name": "New Oriental Education & Technology Group",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG7ayI8vmrdug/company-logo_400_400/company-logo_400_400/0/1631340283296?e=1749081600&v=beta&t=v3_sC-eaqwXt7mUUFEmg478rrEjCoPanIqIVkw-g1mw",
+                "url": "https://www.linkedin.com/company/new-oriental-education-&-technology-group-china/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ningbo, Zhejiang, China",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "New Oriental Education & Technology Group",
+                    "description": null,
+                    "title": "Teacher, VIP Department",
+                    "employment_type": "Part-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Vice President of Digital Marketing, London, UK",
+            "company": {
+                "id": null,
+                "name": "宁诺英国校友会NAAN UK",
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQH3a6Vv6vUP1g/company-logo_400_400/company-logo_400_400/0/1630610062401/naan_uk_logo?e=1749081600&v=beta&t=2wx3YYrz151-qU2ZmIspCEV1lCILlE_kmwg4Xw_9vJc",
+                "url": "https://www.linkedin.com/company/naan-uk/"
+            },
+            "cause": "EDUCATION",
+            "description": "https://www.naanuk.org/"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "role": "Vice President of Education, London, UK",
+            "company": {
+                "id": null,
+                "name": "Toastmasters International UK & Ireland",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEXc2sWaOmPeQ/company-logo_400_400/company-logo_400_400/0/1689639922153/toastmasters_international_uk__ireland_logo?e=1749081600&v=beta&t=km5AIDkQwTvkjFGzK5-xS5hN-gLHBoRkn8iBkgy28Mk",
+                "url": "https://www.linkedin.com/company/toastmasters-international-uk-&-ireland/"
+            },
+            "cause": null,
+            "description": "Co-founder of Deutsche Bank ToastMasters club London."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "role": "Global Community Development Programme Intern, Kiev, Ukraine",
+            "company": {
+                "id": null,
+                "name": "AIESEC",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFNIFKL5h461A/company-logo_400_400-alternative/company-logo_400_400-alternative/0/1630645686879/aiesec_logo?e=1749081600&v=beta&t=LAp63rZ_IE2sUvkc8Xc9CJG_awfWGKTQn0dbDg5QBf4",
+                "url": "https://www.linkedin.com/company/aiesec/"
+            },
+            "cause": "EDUCATION",
+            "description": "Organized lessons and games, showing variety of world's cultures to the young in campus\nAttended conference by local committee, working with interns from over 20 countries"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "role": "Director of Operation, Ningbo, China",
+            "company": {
+                "id": null,
+                "name": "Enactus",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGJi9chtdt_Jg/company-logo_400_400/company-logo_400_400/0/1630613586866/enactus_logo?e=1749081600&v=beta&t=OvWjCkcQxiWmQD64H865-L3El2GrqPXWkTqFAjQrBrA",
+                "url": "https://www.linkedin.com/company/enactus/"
+            },
+            "cause": "SOCIAL_SERVICES",
+            "description": "Directed the department of 12 to organize daily operations for the 114-member organization \nPublished 32 newsletters and 8 E-magazines about organization operation\nCultivated strategic thinking by connecting closely to 6 departments and 8 project teams"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "role": "Volunteer, Bureau of Shanghai World Expo, Shanghai, China",
+            "company": {
+                "id": null,
+                "name": "Bureau International des Expositions (BIE)",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH4F5sdwXPy2w/company-logo_400_400/company-logo_400_400/0/1631312364772?e=1749081600&v=beta&t=cyI3pcFXuQXuEPDyRepvp_rI4RJtBPdUNre3Fei7MsQ",
+                "url": "https://www.linkedin.com/company/bureau-international-des-expositions/"
+            },
+            "cause": "ARTS_AND_CULTURE",
+            "description": "Assisted VIP guests with schedule arrangement and forum interpretation\nReceived trainings including etiquette and first aid"
+        }
+    ],
+    "skills": [
+        "Software Development",
+        "Development Projects",
+        "Customer Satisfaction",
+        "Jira",
+        "Communication",
+        "Agile Software Development",
+        "Agile Project Management",
+        "Product Strategies",
+        "Product Road Mapping",
+        "Product Management",
+        "Product Development",
+        "Financial Services",
+        "FinTech",
+        "Training",
+        "Chinese",
+        "Newsletters",
+        "Leadership",
+        "Public Relations",
+        "Teamwork",
+        "Public Speaking"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

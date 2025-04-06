@@ -1,0 +1,452 @@
+{
+    "profile_id": "wilhelmz",
+    "first_name": "Wilhelm",
+    "last_name": "Zhao",
+    "sub_title": "Scaling climate finance at Terraspect | ex-Revolut",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAABmXWTMBsyXkdgLPMIMkVnqzoYNqsBbpfPI",
+    "object_urn": 429349171,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "United Kingdom",
+        "short": "London, England",
+        "city": "London",
+        "state": "England",
+        "default": "London, England, United Kingdom"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Chinese",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Norwegian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Environmental Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "The University of Edinburgh",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFSi1nlisxTcg/company-logo_400_400/company-logo_400_400/0/1631312234132?e=1749081600&v=beta&t=LQcJDzGBGGekVtwZZ7gy9vnCwk3KBAZDIa_gDpbmW_A",
+                "url": "https://www.linkedin.com/school/university-of-edinburgh/"
+            },
+            "degree_name": "Bachelor of Science (BSc Hons.)",
+            "description": "Accolades:\n•   The Edinburgh Award",
+            "field_of_study": "Computer Science",
+            "grade": "First Class Honours"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Nanjing University of Aeronautics and Astronautics",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGN6oSOcdXdFQ/company-logo_400_400/company-logo_400_400/0/1631370536094?e=1749081600&v=beta&t=jaFaOed3SScxRP2uu5c919sORpklTBZDfqZ-Zilpw38",
+                "url": "https://www.linkedin.com/school/nanjing-university-of-aeronautics-and-astronautics/"
+            },
+            "degree_name": null,
+            "description": null,
+            "field_of_study": "Manufacturing Technology, Chinese Language & Culture",
+            "grade": "95%"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "The Edinburgh Award",
+            "description": null,
+            "issuer": "The University of Edinburgh",
+            "date": {
+                "month": 8,
+                "day": null,
+                "year": 2017
+            }
+        },
+        {
+            "title": "The Dixon Carphone Prize",
+            "description": null,
+            "issuer": "Smart Data Hackathon",
+            "date": {
+                "month": 2,
+                "day": null,
+                "year": 2016
+            }
+        },
+        {
+            "title": "EUTIC Awards",
+            "description": "   •   Best Performing Sector, TMT (2017)\n   •   Rising Star Award (2016)\n   •   Best Member, TMT Sector (2016)\n   •   Best Research Report, Siauliu Bankas (2016) \n   •   Best Pitch, Yahoo (2015)",
+            "issuer": "Edinburgh University Trading and Investment Club",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            }
+        },
+        {
+            "title": "Skagerak Academic Achievement Awards",
+            "description": "   •   Creativity Action and Service Award\n   •   Excellence in Academic Achievements in Physics\n   •   Excellence in Academic Achievements in French\n   •   Outstanding Efforts and Improvements in Economics\n   •   Outstanding Efforts and Improvements in Norwegian",
+            "issuer": "Skagerak International School",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 103432445,
+                "name": "Terraspect",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGoqsIW-zk9Ag/company-logo_400_400/company-logo_400_400/0/1721339218418/ts_earth_logo?e=1749081600&v=beta&t=P-xkWv1qnwjG-tmDpzSazY6yXM5WagLOK_6SUNEk6fo",
+                "url": "https://www.linkedin.com/company/ts-earth/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Terraspect",
+                    "description": "Scaling transparent climate finance",
+                    "title": "Co-Founder, CTO",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Building and scaling:\n- Alternative payment methods, digital wallet, and last-mile payment methods\n- International payments (remittances)\n- New decentralised products",
+                    "title": "Senior Product Owner (Technical)",
+                    "employment_type": null
+                },
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Building and scaling:\n- Bank payments (instant, local UK systems)\n- International payment (SWIFT)",
+                    "title": "Operations Manager (Payments)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1382,
+                "name": "Goldman Sachs",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9L7InIQVZrQ/company-logo_400_400/company-logo_400_400/0/1722506756452/goldman_sachs_logo?e=1749081600&v=beta&t=kO18zcGSJ_rZqpSrXpfL8SNKOIHkoJAp1zNjKXBO3kk",
+                "url": "https://www.linkedin.com/company/goldman-sachs/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Goldman Sachs",
+                    "description": null,
+                    "title": "Technology Analyst",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 162636,
+                "name": "Bank of England",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFppeWgQ3c69w/company-logo_400_400/company-logo_400_400/0/1663669383173/bank_of_england_logo?e=1749081600&v=beta&t=eTrUVifipHQ9kkK_VlA8ER2F6Rk3nepwQjDnSk59yws",
+                "url": "https://www.linkedin.com/company/bank-of-england/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Bank of England",
+                    "description": null,
+                    "title": "Data Analyst",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Member",
+            "company": {
+                "id": null,
+                "name": "Nova",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG2Az4sSx_0ng/company-logo_400_400/company-logo_400_400/0/1642067675945/nova_logo?e=1749081600&v=beta&t=tF7nJtmtq72hAPRZN_XlJRWV9CjYjvBAHdAQFSEYwvo",
+                "url": "https://www.linkedin.com/company/nova/"
+            },
+            "cause": "EDUCATION",
+            "description": "Nova is the by-invitation-only top talent network, for students and young professionals, with members across 72 countries and +8500 members. \n\nNova is a unique trusted community of top talent dedicated to creating real and positive value for the organisations and the world we live in. The membership criteria include a combination of strong academic qualifications (AQ), social skills and a humble image (EQ) and solid work experience and high drive (BQ). Only 7% of the applicants are accepted into the network."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Ones to Watch ",
+            "company": {
+                "id": null,
+                "name": "Freshminds",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEpSEzWwP_k4w/company-logo_400_400/company-logo_400_400/0/1630536333351/freshminds_logo?e=1749081600&v=beta&t=EChlsOGAbF5TL26xoctTHn4oMBTBXbSnnMVcGy-_XpQ",
+                "url": "https://www.linkedin.com/company/freshminds/"
+            },
+            "cause": "EDUCATION",
+            "description": "Selected amongst the top 100 peer-nominated graduates from top leading universities in the UK on the basis of outstanding academic and extracurricular achievements, including being commercially aware, self-starting and ambitious."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "role": "Director of Technology",
+            "company": {
+                "id": null,
+                "name": "Edinburgh University Trading and Investment Club",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEAOLfZ7DS0sQ/company-logo_400_400/company-logo_400_400/0/1630602738111/edinburgh_university_trading_and_investment_club_logo?e=1749081600&v=beta&t=9vb5Ph_cAahoF-vPky1mkok12Qm6zZpGDuNuIvsmcqw",
+                "url": "https://www.linkedin.com/company/edinburgh-university-trading-and-investment-club/"
+            },
+            "cause": "ECONOMIC_EMPOWERMENT",
+            "description": "•   Largest student-run real money investment fund in the UK with over 500 members managing in excess of £52,000.\n\nAccolades:\n•   Best Performing Sector Award\n•   Best Pitch and Best Research Report\n•   Best TMT Member Award\n•   One to Watch Award"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "role": "Chairman",
+            "company": {
+                "id": null,
+                "name": "Edinburgh Finance Conference",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEY-duNKmaaRg/company-logo_400_400/company-logo_400_400/0/1630591736361?e=1749081600&v=beta&t=1mT7gwVc0mMxTZCfcDWy8HfJaEv13wolUJLHeXERHCQ",
+                "url": "https://www.linkedin.com/company/edinburgh-finance-conference/"
+            },
+            "cause": "ECONOMIC_EMPOWERMENT",
+            "description": "• Arranged UK’s largest student-led finance conference."
+        }
+    ],
+    "skills": [
+        "Teamwork",
+        "Research",
+        "Management",
+        "Java",
+        "Python",
+        "SQL",
+        "Go"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

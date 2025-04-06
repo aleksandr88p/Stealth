@@ -1,0 +1,992 @@
+{
+    "profile_id": "eliskah",
+    "first_name": "Eliška",
+    "last_name": "H.",
+    "sub_title": "Growth Advisor | ex Revolut, Amazon, VC | Social Impact",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/v2/D5616AQHZaBe4l2Ma0Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1684945561979?e=1749081600&v=beta&t=rblIzsFuVyvSE7jCdP4il07-VCslB6Rz3iJxxRZgcss",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAf6qhkBTYbeCLpBYJhdG3fsPk7nDhaV7A4",
+    "object_urn": 133868057,
+    "birth_date": null,
+    "summary": "Advising startups on Growth, GTM, Strategy, Operations & Fundraising. Interim and contract. Corporate Innovation with large companies building new businesses and strategy.\nExperience as VP Growth at B2B SaaS. ODF17 Founder\n\nPreviously Revolut Growth and Fintech VC Investor/ exited startup founder / Amazon Operations / Morgan Stanley TMT Equities / Consultant at European Space Agency\n\nStrategy & operations leader with experience optimising business processes, operations, organisational structure, communication and strategy. Previously at Revolut building the Growth/Marketing/Comms departments and chief of staff to VP Comms & Public Affairs and VP Growth. Prior to Revolut, co-founded and exited mobility startup Sherpa. \n\nMBA from London Business School during which worked at Amazon operations on complex projects, consulted for businesses including the European Space Agency.\n\nBackground as a financial equity analyst at Morgan Stanley and lead analyst of several European tech, media, internet stocks, working on tech IPOs.",
+    "location": {
+        "country": "United Kingdom",
+        "short": "London, England",
+        "city": "London",
+        "state": "England",
+        "default": "London, England, United Kingdom"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:7137379045054283777",
+            "title": "Meet HERmesa's December \"Member of the Month\" Eliška Hookham! \"My…",
+            "description": "Without the intention I have found myself gravitating towards B2B investments and particularly in fintech, climate, impact.",
+            "image": "https://media.licdn.com/dms/image/sync/v2/D5622AQHiUzDn6ShZCw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1701683768412?e=1746662400&v=beta&t=hDcA14SkGB4zcB-Qy1wKcu63pSS2NO5N_FtVOWtB2d4"
+        },
+        {
+            "url": "https://sifted.eu/articles/should-startups-raise-salaries-inflation/",
+            "title": "Should startups raise salaries in line with rising inflation?",
+            "description": "Eliška Mallickova, VP growth at Juno: Companies are having to think dynamically on a lot of fronts right now: how to attract staff in a tight labour market, how to retain and engage current teams, and how to ensure you support them — financially, culturally and emotionally — in a way that reflects the economic landscape.",
+            "image": "https://media.licdn.com/dms/image/v2/D562DAQFLomRadHHxYg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1684945300447?e=1744495200&v=beta&t=7yMyn8KNWMaDGALn35_b-4O9ZcnRG6uGJXglSy1XW_o"
+        },
+        {
+            "url": "https://www.london.edu/news/deliveroo-co-founder-talks-tech-and-takeaways-1654",
+            "title": "Deliveroo founder talks tech and takeaways with Eliska Mallickova | London Business School",
+            "description": "In a fireside chat with club co-president and Sherpa co-founder Eliska Mallickova (MBA19), Shu said the key to early entrepreneurial success is to start a business that aligns with your interests and to be ready to deal with setbacks. He outlined his analysis of how food consumption has changed and grown",
+            "image": "https://media.licdn.com/dms/image/v2/D562DAQFKD9OTLJypbg/profile-treasury-image-shrink_8192_8192/profile-treasury-image-shrink_8192_8192/0/1684945082734?e=1744495200&v=beta&t=17UPKpB0yhJmUqXqsyX77gQoWZ7cHOfAPw_Ac8oV67o"
+        },
+        {
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6896824208022749184",
+            "title": "Eliska Mallickova on Hyper Crunch: Podcast on Growth, Fintech and Investing",
+            "description": "Certainly one of the most insightful chats that i had on the show!! It was great to have you on the show Eliska M.! Great story of a successful founder...",
+            "image": "https://media.licdn.com/dms/image/sync/v2/C5605AQGum-LkWXbK_A/feedshare-thumbnail_720_1280/feedshare-thumbnail_720_1280/0/1644331008449?e=1744495200&v=beta&t=ZCxXsVwrjuvU3uRopCKD3oD7GlXhCNRzhD42YGXriwQ"
+        },
+        {
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6871433130813751296",
+            "title": "Fidelity International on LinkedIn: #WomenInInvestmentAwards #WomenInFinanceAwards #DiversityAndInclusion",
+            "description": "And congratulations to Anne Richards and Eliska Mallickova who were shortlisted at the #WomenInFinanceAwards too.",
+            "image": "https://media.licdn.com/dms/image/sync/v2/C4D22AQH4kFhJ99Xweg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1638277323019?e=1746662400&v=beta&t=9bFazVXoCkqyTvXTUNecrnrZGSszow0kdOrykiSpd0Q"
+        },
+        {
+            "url": "https://www.linkedin.com/feed/update/urn:li:activity:6856257781893210112",
+            "title": "She Conquers Capital on LinkedIn: Eliska Mallickova, Fidelity International Strategic Ventures, Supporting",
+            "description": "The unique journey of women in finance and venture, plus the experiences that help us come together. Meet Eliska Mallickova of Fidelity International...",
+            "image": "https://media.licdn.com/dms/image/sync/v2/C4D27AQEnwyozfG3RWw/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1711683357071?e=1744495200&v=beta&t=g0vmSIxGnAPJq4RQ2-70VdGoS7PTaGtG9IBYDc_0Y5U"
+        },
+        {
+            "url": "https://blog.huckletree.com/alpha-weekly-6-update-introducing-eliska-mallickova-sherpa",
+            "title": "Huckletree Accelerator: Introducing Eliska Mallickova, Sherpa Co-founder",
+            "description": "Find out how Sherpa Founder Eliska Mallickova is turning holiday admin from a schlep to a breeze and how they're making the most of our Alpha accelerator.",
+            "image": null
+        },
+        {
+            "url": "https://podcasts.bcast.fm/e/48957xy8",
+            "title": "E026: Eliska Mallickova: Fidelity International Strategic Ventures : Female VC Lab",
+            "description": "FISV invests in early stage businesses redefining wealth and asset management globally and that are strategic to Fidelity International.",
+            "image": "https://media.licdn.com/dms/image/sync/v2/C4D27AQG709CMS5PnsQ/articleshare-shrink_800/articleshare-shrink_800/0/1644835218541?e=1744495200&v=beta&t=acKKdYeZIPKJL5uA_VJGv0LjPq3bBgQtlA5noETHt3c"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "German",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Slovak",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "London Business School",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFaz63lNcEmCw/company-logo_400_400/company-logo_400_400/0/1719817387429/london_business_school_logo?e=1749081600&v=beta&t=wTWEWd95qDj07Mj16VKs-Ah-zNOH2va1herFQUDeBtg",
+                "url": "https://www.linkedin.com/school/london-business-school/"
+            },
+            "degree_name": "Master of Business Administration - MBA",
+            "description": "Student Association Senior Sponsorship Officer,\nStream Career Representative,  Alexa Skills Hackathon organiser - LBS for London Volunteering Week,  Women's Touch Rugby club member,  Mentor of early stage career students,",
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "University of Nottingham",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHO2SMiN1HSMA/company-logo_400_400/company-logo_400_400/0/1675599021016/university_of_nottingham_logo?e=1749081600&v=beta&t=LyKB-Llrrw_BBQ0QhfOM3RmamgWhD7IIUHTbfKjBl3E",
+                "url": "https://www.linkedin.com/school/university-of-nottingham/"
+            },
+            "degree_name": "Bachelor of Science (BSc)",
+            "description": "Dissertation in International Trade and Statistics studying the natural resource curse in conjunction with the Mongolian mining industry",
+            "field_of_study": "Economics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "UX Design",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "General Assembly",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "General Assembly",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEwAxD22k-HBw/company-logo_400_400/company-logo_400_400/0/1630655071297/generalassembly_logo?e=1749081600&v=beta&t=NxRscN1MA38KIiweCtXE774R0sb0yoWbalaUfzM7Y84",
+                "url": null
+            }
+        },
+        {
+            "name": "Front-end web development - HTML, CSS, Javascript",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Code First Girls",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Code First Girls",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHhQSG8oilpTA/company-logo_400_400/company-logo_400_400/0/1657038239557/code_first_girls_logo?e=1749081600&v=beta&t=j4FLsW5vCCvDm-XwoYILz5ji22G4DgzQow_sC4Z0cfM",
+                "url": null
+            }
+        },
+        {
+            "name": "CFA Level 2",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "CFA Institute",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "CFA Institute",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE5jvhn27Jclw/company-logo_400_400/company-logo_400_400/0/1696447613296/cfainstitute_logo?e=1749081600&v=beta&t=dCPpFDTtwuxVLJifKKzpl8l6_e0Txw0a76Qfq2_4xWI",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 14109,
+                "name": "Tatra banka",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFGRSxEbMA_dw/company-logo_400_400/company-logo_400_400/0/1630469008012/tatra_banka_logo?e=1749081600&v=beta&t=bluRwPrER_FnH6ibglsk2latE_GNJ_GtSl_lgdAIBZc",
+                "url": "https://www.linkedin.com/company/tatra-banka/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2024
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Tatra banka",
+                    "description": "Advising on build out of Fintech innovation venture scouting and investing initiative",
+                    "title": "Venture Partner",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1347312,
+                "name": "Raiffeisen Bank International AG",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFSnkIhpwrq8g/company-logo_400_400/company-logo_400_400/0/1683526896500/raiffeisen_bank_international_logo?e=1749081600&v=beta&t=4koQBHlGmjg_B54o1yyX3DTsDre4ncOZH3eNRMNTJtQ",
+                "url": "https://www.linkedin.com/company/raiffeisen-bank-international/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2024
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Raiffeisen Bank International AG",
+                    "description": null,
+                    "title": "Fintech Innovation Advisor",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11533715,
+                "name": "Startups",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHTflifKJyM4A/company-logo_400_400/company-logo_400_400/0/1631368548108?e=1749081600&v=beta&t=M_Iz-GbXi8AkeBqe9qZ947JMnLcdj2LLRj3X9aQ59IY",
+                "url": "https://www.linkedin.com/company/london-startup-network/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London Area, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Startups",
+                    "description": "Working with high growth startups leading commercial growth and strategy, US/UK expansion, advising on fundraising and GTM strategy. Building corporate innovation strategy with large businesses.\n\nIncluding fractional:\n- Board advisor \n-Director of Growth at impact edtech/ nonprofit\n- VP Growth health tech B2B SaaS\n- GTM strategy for mobility startup\n- VP Growth at Juno, B2B SaaS and marketplace startup in the HR and employee benefits space. Led the growth department - sales, marketing and account management, customer success.\nBuilt out B2B marketing team and digital/paid strategy.\nDesigned and Implemented company wide KPIs, lead gen growth engine and grew ARR significantly",
+                    "title": "Growth & Innovation Advisor",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18109317,
+                "name": "Re:Coded",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_3cgylmFDzw/company-logo_400_400/company-logo_400_400/0/1630654764813/re_coded_logo?e=1749081600&v=beta&t=RIPEzvZbDN8fe7QazUleORjkCmQwe4TXjLqYz29Mii8",
+                "url": "https://www.linkedin.com/school/re-coded/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Los Angeles, California, United States",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Re:Coded",
+                    "description": "Re-coded changes lives by helping unemployed and underserved talent to reskill and build sustainable careers in the digital economy.",
+                    "title": "Advisory Board Member",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2024
+                        }
+                    },
+                    "company": "Re:Coded",
+                    "description": null,
+                    "title": "Director of Growth (Fractional)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18776174,
+                "name": "On Deck",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFIB4x9n1R9FQ/company-logo_400_400/company-logo_400_400/0/1675897483043/beondeck_logo?e=1749081600&v=beta&t=A6apAo3IquEIHddWqHcKbb4M18rQcbaGUMGPfC7jU4I",
+                "url": "https://www.linkedin.com/company/%27odf%27/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Francisco Bay Area",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "On Deck",
+                    "description": "ODF17",
+                    "title": "Entrepreneur in Residence",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 67245105,
+                "name": "Fidelity International Strategic Ventures",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHyC55MNcsaTQ/company-logo_400_400/company-logo_400_400/0/1710949020980/fidelity_international_strategic_ventures_logo?e=1749081600&v=beta&t=zEUGwbbv6pFef4UJRBDiXwNvz-0l9A-_oyhFIWkMXwg",
+                "url": "https://www.linkedin.com/company/fidelity-international-strategic-ventures/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Fidelity International Strategic Ventures",
+                    "description": "Fidelity’s strategic venture capital firm investing in fintech founders re-defining wealth and asset management globally. \nBoard observer at Conquest Planning, Canadian financial advice B2B SaaS business.\nPortfolio includes Moneybox, Capdesk, PrimaryBid, Moonfare, DriveWealth, Conquest.",
+                    "title": "VC Investor",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greater London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Senior manager scaling growth, marketing, communications and corporate functions, building company-wide processes and leading department strategy & operations",
+                    "title": "Lead Growth Strategy & Operations",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 19002438,
+                "name": "Sherpa (now My Bag Check)",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGdQPWUbYtTnQ/company-logo_400_400/company-logo_400_400/0/1630598763941/getsherpa_logo?e=1749081600&v=beta&t=a_nX__ZbHqKwixsaWarJdFjDazEFikMvHR2xymfH5mU",
+                "url": "https://www.linkedin.com/company/getsherpa/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Sherpa (now My Bag Check)",
+                    "description": "Exited to New York-based operator. Co-founder of Sherpa, a logistics and travel mobility startup. Strategic Growth Advisor post acquisition and integration\nGoogle for Startups and Huckletree Accelerator Alpha 6 Cohort\nFeatured in The Points Guy - https://thepointsguy.co.uk/reviews/sherpa-bag-delivery/\nLed product management, operations, finance, marketing and hiring",
+                    "title": "Co-Founder",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1586,
+                "name": "Amazon",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_400_400/company-logo_400_400/0/1630640869849/amazon_logo?e=1749081600&v=beta&t=q5naXkE0LUSxLGxESloF4IYnupyXdNWtQje37S1Z8LI",
+                "url": "https://www.linkedin.com/company/amazon/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Amazon",
+                    "description": "During the MBA. Based in the first UK robotics site, LTN4, designed a new capacity optimisation system for Amazon Robotics to improve efficiency, save cost and damages during peak. Ran shifts and managed associates in inbound.",
+                    "title": "Operations Manager, Amazon Robotics",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4901,
+                "name": "European Space Agency - ESA",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGVBc7i78sDWA/company-logo_400_400/company-logo_400_400/0/1736179459147/european_space_agency_logo?e=1749081600&v=beta&t=hAXrlgiUyK-IoZEohuY6dkainKhy8jAzlwPYKL6VwZ0",
+                "url": "https://www.linkedin.com/company/european-space-agency/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "European Space Agency - ESA",
+                    "description": "During the MBA. Analysed investment opportunities in the European space tech sector, proposed innovative programs to nurture the European space tech startups after interviewing VC and PE investors",
+                    "title": "Consultant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "role": "Los Angeles Chapter Leadership",
+            "company": {
+                "id": null,
+                "name": "Ellevate Network",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFs_93UmjqPVA/company-logo_400_400/company-logo_400_400/0/1711461218208/ellevatenetwork_logo?e=1749081600&v=beta&t=HrnvRpHMkBe12gJ1Us40fiEVmgbTgk7nyzXOZLAJ-84",
+                "url": "https://www.linkedin.com/company/ellevatenetwork/"
+            },
+            "cause": null,
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Business Mentor",
+            "company": {
+                "id": null,
+                "name": "London & Partners",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGyyXGyTBzqWg/company-logo_400_400/company-logo_400_400/0/1701256097103/london__partners_logo?e=1749081600&v=beta&t=p0prnbZvg1q8tL_nLqnxZ2MN0ocW1vmGsIoj05P1CAM",
+                "url": "https://www.linkedin.com/company/london-&-partners/"
+            },
+            "cause": null,
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "role": "Tech Peer Leader Coach & Mentor",
+            "company": {
+                "id": null,
+                "name": "London Business School",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFaz63lNcEmCw/company-logo_400_400/company-logo_400_400/0/1719817387429/london_business_school_logo?e=1749081600&v=beta&t=wTWEWd95qDj07Mj16VKs-Ah-zNOH2va1herFQUDeBtg",
+                "url": "https://www.linkedin.com/school/london-business-school/"
+            },
+            "cause": null,
+            "description": "Career Mentor holding regular group and 1-1 sessions with students advising on the technology sector\n\nMentor of early careers students; helping them navigate jobs in financing, prepare for interviews, with both eventually securing offers in bulge bracket banks.\n\nBuddy for women admitted to the MBA programme through the scheme of collaborating with the Women in Business club to connect admitted women with current MBA students to help LBS get the best calibre students to accept their offer at London Business School and work towards gender balance in the MBA class."
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "role": "Tech & Media Club Co-president",
+            "company": {
+                "id": null,
+                "name": "London Business School",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFaz63lNcEmCw/company-logo_400_400/company-logo_400_400/0/1719817387429/london_business_school_logo?e=1749081600&v=beta&t=wTWEWd95qDj07Mj16VKs-Ah-zNOH2va1herFQUDeBtg",
+                "url": "https://www.linkedin.com/school/london-business-school/"
+            },
+            "cause": "EDUCATION",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "role": "English Second Language Teacher",
+            "company": {
+                "id": null,
+                "name": "Big Brother Mouse",
+                "logo": null,
+                "url": null
+            },
+            "cause": null,
+            "description": "Taught English to disadvantaged children in Cambodia from ages 4-18. Practiced English conversation with young Monks in Luang Prabang, Laos\nEnglish Schools: Big Brother Mouse Laos, Hope Agency Cambodia"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "role": "Mentor",
+            "company": {
+                "id": null,
+                "name": "Career Ready",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFb-9nhuPsMyQ/company-logo_400_400/company-logo_400_400/0/1630535349924/careerreadyuk_logo?e=1749081600&v=beta&t=dj7uhT85EXuiBd2ibKpHAamVL8ozKiw0ZPuQzb7CTco",
+                "url": "https://www.linkedin.com/school/careerreadyuk/"
+            },
+            "cause": null,
+            "description": "Mentor of a 16 year old girl from a marginalised community preparing for university and work applications"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "role": "Step In Step Up Programme Mentor",
+            "company": {
+                "id": null,
+                "name": "Morgan Stanley",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_400_400/company-logo_400_400/0/1677778128461/morgan_stanley_logo?e=1749081600&v=beta&t=L7whSo6xPufRPHf5nMPyJXleysM3zbXbxtHgjqiUvU0",
+                "url": "https://www.linkedin.com/company/morgan-stanley/"
+            },
+            "cause": null,
+            "description": "Mentor to first year female university students deciding about their careers, helping them with the decision of pursuing finance and their application process "
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "role": "Women in Tech Volunteer",
+            "company": {
+                "id": null,
+                "name": "Web Summit",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGEwmvhu0iN1A/company-logo_400_400/company-logo_400_400/0/1726488385362/web_summit_logo?e=1749081600&v=beta&t=e1dUhSQj0eFwSmY2J81b3i2o8bTT4QuuQo0EeQdmryA",
+                "url": "https://www.linkedin.com/company/web-summit/"
+            },
+            "cause": null,
+            "description": "Women in Tech volunteer helping oversee other volunteers, ensuring smooth operation of the lounge, coordinating mentorship hours, answering attendee queries "
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "role": "Mentor",
+            "company": {
+                "id": null,
+                "name": "Morgan Stanley",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFtDpMvYgbIwA/company-logo_400_400/company-logo_400_400/0/1677778128461/morgan_stanley_logo?e=1749081600&v=beta&t=L7whSo6xPufRPHf5nMPyJXleysM3zbXbxtHgjqiUvU0",
+                "url": "https://www.linkedin.com/company/morgan-stanley/"
+            },
+            "cause": null,
+            "description": "Buddy and mentor to interns and new graduates in equity research; career coaching and guidance on technical aspects of the job"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "role": "Event Leader",
+            "company": {
+                "id": null,
+                "name": "The King's Trust International",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGv5kbSlY2bpw/company-logo_400_400/company-logo_400_400/0/1729102597619/kingstrustinternational_logo?e=1749081600&v=beta&t=Cz9SxbWqmLHOZCYxJs-f1Bkr7tp8djZF-mNaleipIt0",
+                "url": "https://www.linkedin.com/company/kingstrustinternational/"
+            },
+            "cause": null,
+            "description": "Led a team of colleagues for two fundraising events for the Prince's Trust charity- a stall selling baked products in Canary Wharf and a cross-department wide annual charity quiz raising a record breaking amount through innovate crowd sourcing methods"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "role": "Fundraising Manager & Event Organiser",
+            "company": {
+                "id": null,
+                "name": "Asha for Education",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGnjattInX-Jg/company-logo_400_400/company-logo_400_400/0/1630588544427/asha_for_education_logo?e=1749081600&v=beta&t=v8oWfPlFuy2WieSvvALI50rUg6YaEdW3kCix72ukHsg",
+                "url": "https://www.linkedin.com/company/asha-for-education/"
+            },
+            "cause": null,
+            "description": "Led a team to organise an inaugural charity festival to raise money and awareness to fund school supplies for 40 children in Northern India, feature interview on CNN World Report.\nhttp://ashanet.org/project/?pid=941 "
+        }
+    ],
+    "skills": [
+        "Strategy",
+        "Valuation",
+        "Operations Management",
+        "Equity Research",
+        "Equities",
+        "Economics",
+        "Financial Analysis",
+        "Consulting",
+        "Investments",
+        "Data Analysis",
+        "Statistical Data Analysis",
+        "Business Administration",
+        "Writing",
+        "Product Management",
+        "Investor Relations",
+        "Project Management",
+        "Market Research",
+        "Marketing Strategy",
+        "Business Strategy",
+        "Business Development"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

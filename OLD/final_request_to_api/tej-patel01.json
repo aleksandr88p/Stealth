@@ -1,0 +1,422 @@
+{
+    "profile_id": "tej-patel01",
+    "first_name": "Tej",
+    "last_name": "Patel",
+    "sub_title": "Cleantech | Ex Revolut | Ex McKinsey",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C4D03AQGizKHB1vuXpQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1559389988823?e=1749081600&v=beta&t=iAem3otyBtNCkQE_wbf243aZlS3Y91ti0gpEkR7rrRc",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAmE5scBbY5mCQ4c0xkTx2PTnEUqUzS5nzY",
+    "object_urn": 159704775,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": null,
+        "short": "United Kingdom",
+        "city": null,
+        "state": null,
+        "default": "United Kingdom"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "University of Warwick",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG9hDwupIsQTQ/company-logo_400_400/company-logo_400_400/0/1692973897545/uniofwarwick_logo?e=1749081600&v=beta&t=bfTLze0JQqGNDL3_LjWd1D6yMJCGN7l8O2_TLuZ2X6M",
+                "url": "https://www.linkedin.com/school/uniofwarwick/"
+            },
+            "degree_name": "Master of Engineering (MEng)",
+            "description": null,
+            "field_of_study": "Mechanical Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "CEng",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Institution of Mechanical Engineers (IMechE)",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 104220711,
+                "name": "Renbee",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFrb7OhxlxgIQ/company-logo_400_400/company-logo_400_400/0/1718884498936/renbee_logo?e=1749081600&v=beta&t=KahVf6DgmXKo7ovIRHQzVnHEyiNb9fy-V6zomL5kVPI",
+                "url": "https://www.linkedin.com/company/renbee/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London Area, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Renbee",
+                    "description": null,
+                    "title": "Co-Founder",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "General Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1371,
+                "name": "McKinsey & Company",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQFTxAlpCMGXuw/company-logo_400_400/B56ZVR8QEtHQAc-/0/1740836504187/mckinsey_logo?e=1749081600&v=beta&t=_uc765tJSFs18vcimoFth-dcXPxvuMe2e1JoN9ILT2E",
+                "url": "https://www.linkedin.com/company/mckinsey/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "McKinsey & Company",
+                    "description": null,
+                    "title": "Associate Partner",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, Greater London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "McKinsey & Company",
+                    "description": null,
+                    "title": "Engagement Manager",
+                    "employment_type": null
+                },
+                {
+                    "location": "London, Greater London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "McKinsey & Company",
+                    "description": null,
+                    "title": "Associate",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 164668,
+                "name": "Laing O'Rourke",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFbbZGE4sFYyw/company-logo_400_400/company-logo_400_400/0/1663672270986/laingorourke_logo?e=1749081600&v=beta&t=2oJTnQxP-z-W7oBREi3Z4_ZL-LyagxmFUt4fBtxBHtQ",
+                "url": "https://www.linkedin.com/company/laingorourke/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Laing O'Rourke",
+                    "description": null,
+                    "title": "Innovation and Strategy Lead",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3871,
+                "name": "Rolls-Royce",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG026Y0w2F9ZA/company-logo_400_400/company-logo_400_400/0/1688142449677/rolls_royce_logo?e=1749081600&v=beta&t=Vafw-3ZMQGrauukbY5btN4M4x2R7Om0QgbD1OtEWV2w",
+                "url": "https://www.linkedin.com/company/rolls-royce/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Derby, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Rolls-Royce",
+                    "description": null,
+                    "title": "Manager",
+                    "employment_type": null
+                },
+                {
+                    "location": "Derby, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Rolls-Royce",
+                    "description": null,
+                    "title": "Team Leader",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2009
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Rolls-Royce",
+                    "description": null,
+                    "title": "Mechanical Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Aerospace",
+        "Manufacturing",
+        "Root Cause Analysis",
+        "Gas Turbines",
+        "Lean Manufacturing",
+        "Continuous Improvement",
+        "Six Sigma",
+        "Engineering Management",
+        "Innovation Management",
+        "Nuclear",
+        "Project Delivery",
+        "Engineering",
+        "Project Management",
+        "Manufacturing Engineering",
+        "Mechanical Engineering",
+        "Project Planning",
+        "Change Management",
+        "Value Stream Mapping",
+        "Operations Management",
+        "Product Development"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

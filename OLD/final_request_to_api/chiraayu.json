@@ -1,0 +1,548 @@
+{
+    "profile_id": "chiraayu",
+    "first_name": "Chiraayu",
+    "last_name": "Sethi",
+    "sub_title": "Founder | ex-PM @Revolut @Citymapper",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C4D03AQFgMxJEEz-D7w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1581358088404?e=1749081600&v=beta&t=OSMiJGqAw5p6w-1yRn4lI-9skd_De8FkXjmZ54nqK9A",
+    "background_image": "https://media.licdn.com/dms/image/v2/D4D16AQGC-S5alH8n7Q/profile-displaybackgroundimage-shrink_350_1400/B4DZXxsxihH4AY-/0/1743516803346?e=1749081600&v=beta&t=7o72mbj0zEBhaqKGR5c-ko95ZPQb4SHiUawRHFZf7UM",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAEd0UQBC7BHf08trftJKv3nIFtRA9ulM8k",
+    "object_urn": 18731332,
+    "birth_date": null,
+    "summary": "I have founded & helped build multiple startups.\nI enjoy working on challenging problems that impact a lot of people. \nI have also worked in strategy consulting, banking & construction.",
+    "location": {
+        "country": "United Kingdom",
+        "short": "London, England",
+        "city": "London",
+        "state": "England",
+        "default": "London, England, United Kingdom"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Carnegie Mellon University",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQH0rMqWuDcNzA/company-logo_400_400/company-logo_400_400/0/1656670432790/carnegie_mellon_university_logo?e=1749081600&v=beta&t=el2vAsV20u0O-6pbZGc5RhwDiNT704rYthGm1LQcrTQ",
+                "url": "https://www.linkedin.com/school/carnegie-mellon-university/"
+            },
+            "degree_name": "B.S.",
+            "description": "Dean's List",
+            "field_of_study": "Engineering, Minor Photography",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "school": {
+                "name": "Dhirubhai Ambani International School",
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQEOQ0CWzeKyFA/company-logo_400_400/company-logo_400_400/0/1631328160028?e=1749081600&v=beta&t=n5wKbEzfVVDAcVu0jnumMeulC2YRJHZ4KJWjPc9Dyf0",
+                "url": "https://www.linkedin.com/school/dhirubhai-ambani-international-school/"
+            },
+            "degree_name": "International Baccalaureate",
+            "description": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Best New Associate & Best Engagement Team, 2014",
+            "description": null,
+            "issuer": "Universal Consulting",
+            "date": {
+                "month": 6,
+                "day": null,
+                "year": 2014
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [
+        {
+            "name": "YPO Next Generation (YNG) - Mumbai",
+            "position": "Education Chair",
+            "date_start": {
+                "month": null,
+                "day": null,
+                "year": 2016
+            },
+            "date_end": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            }
+        }
+    ],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 105168283,
+                "name": "RAO",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFwkewefm6h1w/company-logo_400_400/B4DZXxmXMzHwAY-/0/1743515120981/rao_ai_logo?e=1749081600&v=beta&t=C1xdLjtc-h8LFQB0EzVPQCBQ0je7wwecf398R_xytIw",
+                "url": "https://www.linkedin.com/company/rao-ai/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2024
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London Area, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "RAO",
+                    "description": "RAO is the compliance platform for fintechs",
+                    "title": "Founder & CEO",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18583501,
+                "name": "Stealth Startup",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1749081600&v=beta&t=HdK9rAhohenNit4H2D0XKcK-Ggz-Qoos_bPVstE0H2Q",
+                "url": "https://www.linkedin.com/company/stealth-startup-careers/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2024
+                        }
+                    },
+                    "company": "Stealth Startup",
+                    "description": "Ran many experiments\nSpoke to hundreds of interesting people\nLearnt a lot about things that do & don't work in business and for me",
+                    "title": "Founder",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 76090617,
+                "name": "BVNK",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHIy3doS-hXOw/company-logo_400_400/company-logo_400_400/0/1679404460887/bvnk_logo?e=1749081600&v=beta&t=CsgZsjDIbsiRMZJBHZBXb0277X3J9QxN_2W2wZRN0kU",
+                "url": "https://www.linkedin.com/company/bvnk/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London Area, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "BVNK",
+                    "description": "Building new Blockchain Products.\nManaged cross border payments, £2Bn+ volume/year\n\nBacked by Tiger Global, Nordstar, Raba and more",
+                    "title": "Staff Product Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London Area, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Building new Products 0 to 1. Promoted in one year. \nHelped launch Insurance department 0 to 1.\n\nProducts I have helped build:\n- Insurance, first PM in new department\n- Built our first standalone insurance product from 0 to 1\n- Managed embedded insurance products (travel, device, purchase protection)\n- Premium, paid subscription plans\n\n40 million + users globally\nBacked by Balderton, Index, Ribbit Capital, TCV, DST Global +",
+                    "title": "Senior Product Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2378462,
+                "name": "Citymapper",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFzdj53g88kqg/company-logo_400_400/company-logo_400_400/0/1631382892675?e=1749081600&v=beta&t=-yDHMwUMzHSaGYLA4-KdCdCOOj-BHmucKIWN14tcX60",
+                "url": "https://www.linkedin.com/company/citymapper/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England Metropolitan Area",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Citymapper",
+                    "description": "Leading Pass, the key revenue generating Product\n\nCitymapper is a mobility app in 50+ cities, millions of DAUs\nBacked by Connect, Index, Balderton, Benchmark +\n[Acquired 2023]",
+                    "title": "Product Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Clippings (Acquired)",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Clippings (Acquired)",
+                    "description": "Promoted in three months\n\nB2B interiors marketplace startup. \nSeries B with over $21 million raised to date - C4 Ventures, AVP.\n[Acquired 2021]",
+                    "title": "Chief Of Staff, Strategic Projects Director",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 13178235,
+                "name": "ItnaEasy",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQH1WOWpyPFflQ/company-logo_400_400/company-logo_400_400/0/1631358993058?e=1749081600&v=beta&t=gLjOuIX86yn-oXYNbplImwL1h4Ra_vCdVrmH1jUOk_I",
+                "url": "https://www.linkedin.com/company/itnaeasy/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Mumbai, India",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "ItnaEasy",
+                    "description": "At home, 1:1 technology training subscription for 50+ year olds. \nOur experts enable clients to get the most from their smartphones, computers & apps!",
+                    "title": "Founder & CEO",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10061365,
+                "name": "KrunchMunch",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE9bgJ4xVPkEQ/company-logo_400_400/company-logo_400_400/0/1631347474833?e=1749081600&v=beta&t=HDDqjjo_B0ifI5b45jlFBIMLiAT_YyN5-cGko1U8Sn0",
+                "url": "https://www.linkedin.com/company/krunchmunch/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Mumbai, India",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "KrunchMunch",
+                    "description": "Marketplace for home-made snacks, acquisition channel & logistics partner for home chefs",
+                    "title": "Co-Founder",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Multiple",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Multiple",
+                    "description": "Startups, strategy consulting & finance",
+                    "title": "Multiple",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Entrepreneurship",
+        "Start-ups",
+        "Strategy",
+        "Business Strategy",
+        "Management",
+        "Strategic Planning",
+        "Business Development",
+        "Management Consulting",
+        "Marketing Strategy",
+        "Microsoft Office",
+        "Research",
+        "Financial Modeling",
+        "Market Research",
+        "Product Management"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

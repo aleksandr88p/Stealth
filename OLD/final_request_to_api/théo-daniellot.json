@@ -1,0 +1,808 @@
+{
+    "profile_id": "théo-daniellot",
+    "first_name": "Théo",
+    "last_name": "Daniellot",
+    "sub_title": "Working on something new in the cybersecurity space",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQF2GvG-Q0FiQg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1701247458227?e=1749081600&v=beta&t=mZZD0nbGW4WP6VVVZ-tI-UvnYOGUi7JczGUiIsU72hw",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAifIFkBWKhG-5LipuAwoOCiACGbBbGQb1c",
+    "object_urn": 144646233,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": null,
+        "short": "France",
+        "city": null,
+        "state": null,
+        "default": "France"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "FR",
+            "language": "fr"
+        },
+        "supported_locales": [
+            {
+                "country": "FR",
+                "language": "fr"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "ESCP Business School",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF87vEqbDAstA/company-logo_400_400/company-logo_400_400/0/1730279804770/escp_business_school_logo?e=1749081600&v=beta&t=zopLsNPP26uKO6ADP_AOPGaZtOjYCHOJRe9hjlhcSBg",
+                "url": "https://www.linkedin.com/school/escp-business-school/"
+            },
+            "degree_name": "Specialized Master in Finance",
+            "description": "First created in 1987, the ESCP Europe Specialised Master in Finance is now a benchmark reference for finance education in Europe (ranked 3 WW by FT 2015)\n\n \n\n",
+            "field_of_study": "Corporate and Investment Banking",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "NEOMA Business School",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGkpW2bgM79Og/company-logo_400_400/company-logo_400_400/0/1630615356340/neoma_business_school_logo?e=1749081600&v=beta&t=YLWP0_PIzjtrtps5LZXXQaMjjlXu5O2cK69RslqnNcA",
+                "url": "https://www.linkedin.com/school/neoma-business-school/"
+            },
+            "degree_name": null,
+            "description": "Majors: Corporate Finance & Financial Markets",
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Universidad Pontificia Comillas",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE5Lb4a81x5Sw/company-logo_400_400/company-logo_400_400/0/1679050784911/ucomillas_logo?e=1749081600&v=beta&t=tnD9qNqNJwqlS4ZbLHqqNNq_RReQzC5nhjF_k2HR5C8",
+                "url": "https://www.linkedin.com/school/ucomillas/"
+            },
+            "degree_name": "Administracion y Direccion de Empresas con mencion Internacional (E4)",
+            "description": null,
+            "field_of_study": "Finance, général",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Bureau des élèves Vitamine",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "Trésorier Bureau Des Élèves 2013/2014",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Théo",
+                    "last_name": "Daniellot",
+                    "name": null,
+                    "headline": "Working on something new in the cybersecurity space"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Nathaniel",
+                    "last_name": "Kempster",
+                    "name": null,
+                    "headline": "Global Network Manager"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jean-Baptiste",
+                    "last_name": "de Saligny",
+                    "name": null,
+                    "headline": "Head of Grocery & Retail at Uber Eats Belgium"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "François-Xavier",
+                    "last_name": "Picard",
+                    "name": null,
+                    "headline": "Account Executive - ESG and Sustainability solutions - Helping companies on their Net Zero journey"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Tabea",
+                    "last_name": "Mantel",
+                    "name": null,
+                    "headline": "Account Director | Discounter Channel at Procter & Gamble"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Lucas",
+                    "last_name": "GILLES DE LA LONDE",
+                    "name": null,
+                    "headline": "Senior Consultant at Square Mgmt / Ops Project Manager at FDJ Group"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Laurianne",
+                    "last_name": "Bizon",
+                    "name": null,
+                    "headline": "Specialist of the FMCG Industry  | Quadrilingual profile"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Ronan",
+                    "last_name": "Paillon",
+                    "name": null,
+                    "headline": "Product Manager"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Chloé",
+                    "last_name": "Delerue-Simon",
+                    "name": null,
+                    "headline": "Responsable Marketing & Communication"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Maximiliane",
+                    "last_name": "Siegrist",
+                    "name": null,
+                    "headline": "Associate Director at Colour One"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Guillaume",
+                    "last_name": "Bernard",
+                    "name": null,
+                    "headline": "In charge of Innovation & Beauty Tech @YSL Beauté (L'Oréal)"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Justine",
+                    "last_name": "Roche",
+                    "name": null,
+                    "headline": "Fragrance Group Manager - PRADA BEAUTY at L'Oréal"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Charlyne",
+                    "last_name": "DEMOUGIN",
+                    "name": null,
+                    "headline": "Responsable Marketing Switzerland - ETAM"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Claire Jolyot",
+                    "headline": null
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Maud",
+                    "last_name": "MUSCAT",
+                    "name": null,
+                    "headline": "Customer Engagement senior consultant"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Fabio",
+                    "last_name": "Malfitano",
+                    "name": null,
+                    "headline": "Executive Director at Morgan Stanley"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Manon",
+                    "last_name": "Catherine",
+                    "name": null,
+                    "headline": "Product Manager | Noé & ESSEC | PSPO I | Ex-Senior Customer Success @ Skeepers"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Constantin",
+                    "last_name": "Pahl",
+                    "name": null,
+                    "headline": "Mid-Market Account Executive DACH @GitLab"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Elena Ducay de la Riva",
+                    "headline": null
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Amaury Avenet",
+                    "headline": null
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18583501,
+                "name": "Stealth Startup",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1749081600&v=beta&t=HdK9rAhohenNit4H2D0XKcK-Ggz-Qoos_bPVstE0H2Q",
+                "url": "https://www.linkedin.com/company/stealth-startup-careers/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2024
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Stealth Startup",
+                    "description": null,
+                    "title": "Entrepreneur",
+                    "employment_type": "Permanent"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5389345,
+                "name": "Ledger",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHAluT8nznk4g/company-logo_400_400/company-logo_400_400/0/1636383337809/ledgerhq_logo?e=1749081600&v=beta&t=DvdR9ly4J9Sie_YMUuF5nXkoJ3dYs_j-fn-rr5cxIVE",
+                "url": "https://www.linkedin.com/company/ledgerhq/",
+                "employees": {
+                    "start": 501,
+                    "end": 1000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ville de Paris, Île-de-France, France",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2024
+                        }
+                    },
+                    "company": "Ledger",
+                    "description": null,
+                    "title": "Strategy & M&A",
+                    "employment_type": "Permanent"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Londres, Angleterre, Royaume-Uni",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Senior Corporate Development Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2235,
+                "name": "Standard Chartered Bank",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFIXBBXX9EX-Q/company-logo_400_400/company-logo_400_400/0/1656579432276/standardchartered_logo?e=1749081600&v=beta&t=WGJRQ16kJ1r18bP6U3wMCK98YQdW9C_rJfUf_i0bA3o",
+                "url": "https://www.linkedin.com/company/standardchartered/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, Royaume-Uni",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Standard Chartered Bank",
+                    "description": null,
+                    "title": "Associate Director - Group Corporate Development",
+                    "employment_type": null
+                },
+                {
+                    "location": "London, Royaume-Uni",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Standard Chartered Bank",
+                    "description": null,
+                    "title": "Associate - Group Corporate Development",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1800,
+                "name": "RBC Capital Markets",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHK2HGRDqVETA/company-logo_400_400/company-logo_400_400/0/1719859855575/rbc_capital_markets_logo?e=1749081600&v=beta&t=FFyJKLnsHi88h234RPsXipDyjc3FeiEaXBFOclzmShQ",
+                "url": "https://www.linkedin.com/company/rbc-capital-markets/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, Royaume-Uni",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "RBC Capital Markets",
+                    "description": "ECM\n\nRBC Capital Markets is a premier investment bank that provides a focused set of products and services to corporations, institutional investors, and governments around the world. With over 6,500 professionals, RBC operates out of 70 offices in 15 countries across North America, the U.K., Europe, and Asia-Pacific.",
+                    "title": "Investment Banking Analyst - Graduate Program",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 232526,
+                "name": "BDO Spain",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHtD6vKCCV1ZA/company-logo_400_400/company-logo_400_400/0/1630567101305/bdo_spain_logo?e=1749081600&v=beta&t=P_g6BH0Ze5IePd0eb-0QXBNfLSQJoZowJnPOIxmWTDU",
+                "url": "https://www.linkedin.com/company/bdo-spain/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Région de Madrid, Espagne",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "BDO Spain",
+                    "description": "Consumer & Healthcare M&A\n\nBDO is a global accounting firm ranked 5th advisory firm in the middle market M&A according to Thomson Reuters.",
+                    "title": "M&A intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1800,
+                "name": "RBC Capital Markets",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHK2HGRDqVETA/company-logo_400_400/company-logo_400_400/0/1719859855575/rbc_capital_markets_logo?e=1749081600&v=beta&t=FFyJKLnsHi88h234RPsXipDyjc3FeiEaXBFOclzmShQ",
+                "url": "https://www.linkedin.com/company/rbc-capital-markets/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "RBC Capital Markets",
+                    "description": "European Healthcare Investment Banking\n\nRBC Capital Markets is a premier investment bank that provides a focused set of products and services to corporations, institutional investors, and governments around the world. With over 6,500 professionals, RBC operates out of 70 offices in 15 countries across North America, the U.K., Europe, and Asia-Pacific.",
+                    "title": "Summer Intern - Global Investment Banking",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 232526,
+                "name": "BDO Spain",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHtD6vKCCV1ZA/company-logo_400_400/company-logo_400_400/0/1630567101305/bdo_spain_logo?e=1749081600&v=beta&t=P_g6BH0Ze5IePd0eb-0QXBNfLSQJoZowJnPOIxmWTDU",
+                "url": "https://www.linkedin.com/company/bdo-spain/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Région de Madrid, Espagne",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "BDO Spain",
+                    "description": "Consumer & Healthcare M&A\n\nBDO is a global accounting firm ranked 5th advisory firm in the middle market M&A according to Thomson Reuters.",
+                    "title": "M&A intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 79376776,
+                "name": "Natixis",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGKfadjVxGF-Q/company-logo_400_400/company-logo_400_400/0/1718875513847/natixis_corporate_investment_banking_logo?e=1749081600&v=beta&t=ury0fa-DhNKpmqMOn19gb7C8A4ho0zoGKtplKUj9FBE",
+                "url": "https://www.linkedin.com/company/natixis-corporate-investment-banking/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Région de Paris, France",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Natixis",
+                    "description": "Corporate Banking\n\nNatixis is the corporate, investment and financial services arm of Group BPCE, France second largest banking player. The Corporate Coverage division aims at building up strategic dialogue with French and International large corporate to anticipate their needs, furnish advisory services and deliver Natixis’ comprehensive array of products and services.",
+                    "title": "Junior Relationship Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4860,
+                "name": "Grupo BBVA",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG9ZJGTicE4ug/company-logo_400_400/company-logo_400_400/0/1736322553440/bbva_logo?e=1749081600&v=beta&t=E3UvdOiJWGfSXWSOau__WgFqjtIv1UUj5pm0NYsT9-o",
+                "url": "https://www.linkedin.com/company/bbva/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Région de Madrid, Espagne",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Grupo BBVA",
+                    "description": "Financial Analysis\n\nBBVA is a global financial services group founded in 1857. The Group has a solid leadership position in Spain, is the largest financial institution in Mexico and has leading franchises in South America and in the Sunbelt Region of the United States.",
+                    "title": "Finance & Strategy intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "role": "Volunteer",
+            "company": {
+                "id": null,
+                "name": "Action Against Hunger",
+                "logo": null,
+                "url": null
+            },
+            "cause": "HUMANITARIAN_RELIEF",
+            "description": null
+        }
+    ],
+    "skills": [
+        "Corporate Finance",
+        "French",
+        "Investment Banking",
+        "Spanish",
+        "Financial Analysis",
+        "Business Strategy",
+        "English",
+        "Bloomberg",
+        "Financial Modeling",
+        "Banking",
+        "Market Research",
+        "Finance",
+        "Strategy",
+        "Finance d'entreprise",
+        "Analyse financière",
+        "Anglais",
+        "Banque d'investissement"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

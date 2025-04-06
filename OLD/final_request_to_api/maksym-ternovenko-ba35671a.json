@@ -1,0 +1,644 @@
+{
+    "profile_id": "maksym-ternovenko-ba35671a",
+    "first_name": "Maksym",
+    "last_name": "Ternovenko",
+    "sub_title": "Building better web3 experience, ex: Revolut",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQHZ-nESO2EW2A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1716369642202?e=1749081600&v=beta&t=E6far2RX-qf2B_RYjDoNFh4OitLpE_uXk-WwL24pmyM",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAP_d-sBSxc2Ec_AIqhE16lnroOkDztByfs",
+    "object_urn": 67074027,
+    "birth_date": null,
+    "summary": "My passion is to find an answers on how to deliver huge complex products reliably under time constraints \n\nstack :: Web (JS, TS, Elm, React), Node",
+    "location": {
+        "country": "Poland",
+        "short": "Cracow, Małopolskie",
+        "city": "Cracow",
+        "state": "Małopolskie",
+        "default": "Cracow, Małopolskie, Poland"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "school": {
+                "name": "Moscow Institute of Physics and Technology",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Master",
+            "description": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "﴾MCITP﴿ Enterprise Administrator on Windows Server® 2008",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": null,
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "Citrix Certified Administrator for Citrix XenApp 5 for Windows Server 2008",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Citrix",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "MCTS: Windows 7 and Office 2010, Deployment",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": null,
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "TS: Windows Server 2008 Applications Infrastructure, Configuring",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": null,
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "Windows Server® 2008 Active Directory, Configuration",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": null,
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "Windows Server® 2008 Network   Infrastructure, Configuration",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": null,
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [
+        {
+            "name": "PMP",
+            "number": null
+        },
+        {
+            "name": "Scrum",
+            "number": null
+        },
+        {
+            "name": "Team Managment",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 87213896,
+                "name": "Zeal",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQECzh0PR5RkkQ/company-logo_400_400/company-logo_400_400/0/1682512034262/with_zeal_logo?e=1749081600&v=beta&t=20GPHZZ4pHQoQCjanUxPGoKYhCY6hn77P_-i8qdXGFY",
+                "url": "https://www.linkedin.com/company/with-zeal/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kraków Old Town, Małopolskie, Poland",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Zeal",
+                    "description": "building Zeal - an all-in-one crypto wallet",
+                    "title": "Lead Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Krakow Metropolitan Area",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Lead Developer in the Business department (40+ developers )\n\nDelivered products \n* FXFoward\n* Direct Debit and Subscriptions\n* Topup\n* 2FA\n\nDelivered projects\n* US & AU launch\n* migration to Unified Design System\n\nTech projects\n* Functional Tests\n* Project structure based on Product Domains (DDD)",
+                    "title": "Lead Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10910222,
+                "name": "Chatfuel",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQG65BS0QlacLA/company-logo_400_400/company-logo_400_400/0/1691086025789/chatfuel_logo?e=1749081600&v=beta&t=fHcuGCVjyjaQVEd_QkoD8gOQ_fb7UzcjWx9Xd_gulQ4",
+                "url": "https://www.linkedin.com/company/chatfuel/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Moscow City, Russia",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Chatfuel",
+                    "description": "Products: \n\n* People tab\n* Live chat \n* Bot templates\n\nTech Project\n* Functional tests\n* Migration from angular 1.6 to React",
+                    "title": "Lead Developer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 43907385,
+                "name": "Wobot",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/united-states-wobote-company-china-office/",
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Moscow City, Russia",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Wobot",
+                    "description": "Chat bot development for the clients\n\nProject delivered to such clients:\n\n* Budweiser\n* ComedyClub\n* Lancome\n* Unilever",
+                    "title": "CTO & Co-Founder",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Пятнашки",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kiev",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Пятнашки",
+                    "description": "\"Пятнашки\" is a startup. We create a mobile application for nutrition tracking without counting calories. App includes food plan for 2 week, photo food diary which you can share and discuss with your friends who also using Пятнашки. Also company site was created for blog and arranging of online trainings about health life, nutrition and fitness\n\nI am responsible for scope creation, hiring and managing developers, budget management, investments searching, marketing and business plans creation.",
+                    "title": "Co-founder ",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Zetek Solutions",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kiev",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Zetek Solutions",
+                    "description": "Take full responsibility over series of projects to develop new secure communication suite for enterprise including mobile VOIP communicator, IM client, web mail.\n\nManaging projects from the initiation state and budget creation, scope negotiation, finding and managing vendors, monitoring and reporting on a project to sponsors till the project acceptance.\n\nOn all project we successfully implement agile frameworks ( scrum or kanban depending on a project)",
+                    "title": "PM",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 8642,
+                "name": "Infopulse",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFC28K2DVxrvA/company-logo_400_400/company-logo_400_400/0/1718272080814/infopulse_logo?e=1749081600&v=beta&t=LO0_PkRciRmE7-Or9RywJID-AF9cUT3TMYU39qnfKRU",
+                "url": "https://www.linkedin.com/company/infopulse/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kiev",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Infopulse",
+                    "description": "Working with a customer to complete number of projects including business process manager (web & mobile), local enterprise social network for employee communication, few games. I was responsible for project estimation, scope negotiation, project execution and monitoring.\n \nManaging teams ( sometimes working with 3 teams at the same time) up to 20ppl.\n\nAs a Group Leader - managing up to 25ppl including performance appraisals, competence development plan creation & execution, conflict management, bonus and salary negotiation.",
+                    "title": "Project Manager \\ Group leader in Mobile Development Team",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4684,
+                "name": "EDB Business Partner",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQE6HqNQPg6NTA/company-logo_400_400/company-logo_400_400/0/1631348698054?e=1749081600&v=beta&t=29jzGVefNYSYG0wLRhh5S8x-SUz5JwTr9lx8pP7ZcSg",
+                "url": "https://www.linkedin.com/company/edb-business-partner/",
+                "employees": {
+                    "start": 0,
+                    "end": 1
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kiev",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "EDB Business Partner",
+                    "description": "As team leader for monitoring team (17 ppl working 24\\7) I was responsible for establishing continuous operation process and high level of response from a team. It was achieved by creating and improving business process in the team and improving collaboration with other departments. Also a lot of efforts was invested in to team building and development process.\n\nAs a Project Manager I was responsible for project which goal was to increase reliability of the service while cutting the costs of the operation. It was achieved by creating second monitoring center in Zhitomir city. It was classical infrastructure project with waterfall planning. Monitoring should have 24\\7    availability with a 15 min SLA on response so Zhitomir office require a lot of changes to meet availability, security and other requirements.",
+                    "title": "Team Lead \\ Project Manager in Monitoring team",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 8642,
+                "name": "Infopulse",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFC28K2DVxrvA/company-logo_400_400/company-logo_400_400/0/1718272080814/infopulse_logo?e=1749081600&v=beta&t=LO0_PkRciRmE7-Or9RywJID-AF9cUT3TMYU39qnfKRU",
+                "url": "https://www.linkedin.com/company/infopulse/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kiev\\Oslo",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "Infopulse",
+                    "description": "Implementation of the Citrix PS\\XenApp servers. >2000 servers.",
+                    "title": "Senior System Administrator",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "PMP",
+        "iOS",
+        "Agile Methodolgy",
+        "iPhone",
+        "iPhone Application Development",
+        "Citrix Certified Administrator",
+        "opalis",
+        "orchestrator",
+        "itil",
+        "XenApp",
+        "XenDesktop",
+        "PM",
+        "Software Project Management",
+        "DNS",
+        "Project Management",
+        "ITIL",
+        "Citrix Metaframe",
+        "Citrix",
+        "Orchestration",
+        "Servers"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

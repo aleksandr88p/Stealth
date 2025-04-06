@@ -1,0 +1,388 @@
+{
+    "profile_id": "kalpeshnawandar",
+    "first_name": "Kalpesh",
+    "last_name": "Nawandar",
+    "sub_title": "Building VouchrIt | Ex-Revolut | Ex-Abbott | IIT Bombay",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C4E03AQGnSwgsYu4fwA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1640375488358?e=1749081600&v=beta&t=Sl3HcX6tlcGgDteGtwIsSvsqBA5BNW1N6pcmZppUJUU",
+    "background_image": "https://media.licdn.com/dms/image/v2/C5616AQEgkr0Hkoi97w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1621250491212?e=1749081600&v=beta&t=PrtYWZ7rTxrbNt1xfWqJ0quIMITbMEY5V2XEaVwaP24",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAtywawB4NQTLZ9Cdykzvle1Swj2bUKQiHk",
+    "object_urn": 192070060,
+    "birth_date": null,
+    "summary": "Problem solver with a passion for value creation - proven track record in product and project management, strategy, analytics and consumer insighting. \n\n\nProduct Strategy at Revolut | Strategy and Insights at Abbott (3 years) | Management Consulting at IQVIA (2 years) | Graduated from IIT Bombay in 2016.",
+    "location": {
+        "country": "India",
+        "short": "Mumbai, Maharashtra",
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "default": "Mumbai, Maharashtra, India"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Marathi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "Indian Institute of Technology, Bombay",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGmDoDCx_FYpA/company-logo_400_400/company-logo_400_400/0/1660636307357/indian_institute_of_technology_bombay_logo?e=1749081600&v=beta&t=Zdah2GuRDq_tkHO9mDCc65VRxWbk8u0XyROjUoSDk1Y",
+                "url": "https://www.linkedin.com/school/indian-institute-of-technology-bombay/"
+            },
+            "degree_name": "Dual Degree (B. Tech + M. Tech)",
+            "description": null,
+            "field_of_study": "Energy Science and Engineering",
+            "grade": "8.5/10"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Institute and Faculty of Actuaries, United Kingdom",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Actuary",
+            "description": "Certifications:\nCT1 - Financial Mathematics\nCT3 - Probability and Statistics\nCT6 - Statistical Methods\nCT7 - Business Economics\n",
+            "field_of_study": "Actuarial Science",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "PricewaterhouseCoopers Diamond Consulting Case Competition",
+            "description": "National level consulting case competition held by PWC Diamond at top-tier institutes. Adjudged as the overall national winner for the proposed go-to-market strategy as part of the client deliverable. Awarded a cash prize of INR 1 lakh.",
+            "issuer": "PricewaterhouseCoopers",
+            "date": {
+                "month": 9,
+                "day": null,
+                "year": 2014
+            }
+        },
+        {
+            "title": "Advanced Performer - Data Analysis and Interpretation",
+            "description": "The only student to be awarded an AP (Exceptional performance) in Data Analysis and Interpretation (Statistics) out of 895 registered students",
+            "issuer": "IIT Bombay",
+            "date": {
+                "month": 4,
+                "day": null,
+                "year": 2012
+            }
+        },
+        {
+            "title": "National Talent Search Scholar - Govt. of India",
+            "description": "National Talent Search Scholarship is one of the most prestigious national level scholarships in India. The scholarship is awarded by the Govt. of India to only 500 students across India every year.",
+            "issuer": "NCERT, Govt. of India",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2007
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [
+        {
+            "name": "Capacity Expansion of Power Plants using Dynamic Energy Analyses",
+            "publisher": "Springer Publication",
+            "url": "https://rdcu.be/cc1bo",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2021
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Kalpesh",
+                    "last_name": "Nawandar",
+                    "name": null,
+                    "headline": "Building VouchrIt | Ex-Revolut | Ex-Abbott | IIT Bombay"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Manish",
+                    "last_name": "Pyakurel",
+                    "name": null,
+                    "headline": "Electrical Engineer"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Santanu",
+                    "last_name": "Bandyopadhyay",
+                    "name": null,
+                    "headline": "Professor at Indian Institute of Technology, Bombay"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Venkat",
+                    "last_name": "Ramadesigan",
+                    "name": null,
+                    "headline": "IIT Bombay"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 101493318,
+                "name": "VouchrIt",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHAiTwBkX_Nzg/company-logo_400_400/company-logo_400_400/0/1728141577158/vouchrit_logo?e=1749081600&v=beta&t=UZMdrBjyj_rCwylS623XvuNhX_ExfJ2viTacx_sLx64",
+                "url": "https://www.linkedin.com/company/vouchrit/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Mumbai, Maharashtra, India",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "VouchrIt",
+                    "description": null,
+                    "title": "Founder and CEO",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "India",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Part of the early stage team who laid down the foundation for building India business\no Strategized the India launch roadmap by assessing market landscape, regulatory requirements and internal strengths\no Pioneered the development of an innovative cross-border remittance solution, targeting a $5BN+ market opportunity\no Project managed a diverse 10+ member team during product implementation, fostering collaboration and synergy",
+                    "title": "Manager - Strategy and Product",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1612,
+                "name": "Abbott",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGpGXPy6iJfsw/company-logo_400_400/company-logo_400_400/0/1657315785276/abbott__logo?e=1749081600&v=beta&t=NoTLJoK37gDxzViRZfZdIVDIHvUhOgieNVWrOTq2TMc",
+                "url": "https://www.linkedin.com/company/abbott-/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Mumbai Area, India",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Abbott",
+                    "description": "1. Brand and commercial strategy support for 15+ arrowhead brands, providing strategic support to MD and leadership in identifying business opportunities/ threats. Worked on different strategy projects including division restructuring, new product opportunities, brand growth strategy\n\n2. Lead consumer insights vertical at Abbott Primary Care - saw 2X increase in insights investments, significant reduction in costs while ideating and executing newer consumer insighting initiatives",
+                    "title": "Manager - Commercial Excellence",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4057,
+                "name": "IQVIA",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFW8oSPns4-Cw/company-logo_400_400/company-logo_400_400/0/1678802429368/iqvia_logo?e=1749081600&v=beta&t=KGjl91iFhZmLM6pyyuz89A45rWXT8691ahK1_bU-fHU",
+                "url": "https://www.linkedin.com/company/iqvia/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Mumbai Area, India",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "IQVIA",
+                    "description": "Client engagements included projects across Division Launch, Brand Growth, Sales Force Effectiveness, Commercial Due Diligence among others.\n\nEngaged blue-chip clients across Pharma and FMCG industry\n\nWas the first fresher undergraduate hire at IMS Consulting Group.",
+                    "title": "Management Consultant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Management Consulting",
+        "Problem Solving",
+        "Customer Insight",
+        "Product Development",
+        "Stakeholder Management",
+        "Product Management",
+        "Project Management",
+        "Business Strategy",
+        "Consulting",
+        "Data Analysis",
+        "Market Research",
+        "Teamwork",
+        "Renewable Energy",
+        "Energy Modelling",
+        "PowerPoint",
+        "Microsoft Office",
+        "Actuarial Science",
+        "Microsoft Excel",
+        "Strategy",
+        "Microsoft Word"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

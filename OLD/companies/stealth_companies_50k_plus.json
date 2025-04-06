@@ -1,0 +1,89 @@
+{
+  "pagination": {
+    "page": 1,
+    "total_pages": 1,
+    "per_page": 20
+  },
+  "data": [
+    {
+      "name": "Stealth Startup",
+      "tagline": null,
+      "website": "en.wikipedia.org",
+      "postal_code": null,
+      "location_city": "mountain view",
+      "location_country": "us",
+      "location_geo_area": "wy",
+      "industries": [
+        "Software Development"
+      ],
+      "specialities": [],
+      "type": "Privately Held",
+      "profile_id": "18583501",
+      "logo_url": "https://media.licdn.com/dms/image/v2/C560BAQH03e0VowA5sQ/company-logo_400_400/company-logo_400_400/0/1631438990121?e=1732752000&v=beta&t=1BHzRjoCfYo6YZMHD1aI6j7zWH99LkfxwWMHjtPF2MM",
+      "description": "A stealth startup is a startup company that operates in stealth mode, i.e. that avoids public attention. This may be done to hide information from competitors, or — as part of a marketing strategy — to manage public image. The phenomenon is well known in the venture capital (VC) community. Normally a company would only operate in stealth mode for the first couple of years. As investors may have to disclose funding a stealth startup, their names are made public, but often only a general summary description is known about the company. \"Most entrepreneurs say they are in stealth because they are worried about competitors stealing their ideas. This can be a risk if you have such a simple idea that just by hearing it, someone can replicate it.\"​",
+      "followers": 912055,
+      "staff_count": 21631,
+      "li_url": "https://www.linkedin.com/company/18583501/"
+    },
+    {
+      "name": "Stealth",
+      "tagline": "",
+      "website": "warmstealth.xyz",
+      "postal_code": "94901",
+      "location_city": "los angeles",
+      "location_country": "us",
+      "location_geo_area": "california",
+      "industries": [
+        "Software Development"
+      ],
+      "specialities": [],
+      "type": "Privately Held",
+      "profile_id": "91313799",
+      "logo_url": "https://media.licdn.com/dms/image/v2/D4D0BAQHGEIyhghfgwQ/company-logo_400_400/company-logo_400_400/0/1689624249740/warmstealth_logo?e=1732752000&v=beta&t=aCarsc16a-kcBwYVfcp8p86m-WMEntt9EB2exRcYpT0",
+      "description": "In stealth",
+      "followers": 197754,
+      "staff_count": 4148,
+      "li_url": "https://www.linkedin.com/company/91313799/"
+    },
+    {
+      "name": "Stealth Mode",
+      "tagline": null,
+      "website": null,
+      "postal_code": null,
+      "location_city": null,
+      "location_country": null,
+      "location_geo_area": null,
+      "industries": [
+        "Software Development"
+      ],
+      "specialities": [],
+      "type": "Public Company",
+      "profile_id": "18016269",
+      "logo_url": "https://media.licdn.com/dms/image/v2/C4D0BAQE0rsd2g6jl7A/company-logo_400_400/company-logo_400_400/0/1631348439336?e=1732752000&v=beta&t=YPMu8ZKC76k5TBmppe1oTSZx3tI4wuGMUH7sarE-E9g",
+      "description": "Currently working on something new and very exciting",
+      "followers": 70904,
+      "staff_count": 4334,
+      "li_url": "https://www.linkedin.com/company/18016269/"
+    },
+    {
+      "name": "Stealth",
+      "tagline": null,
+      "website": "stealthstartup.com",
+      "postal_code": "94114",
+      "location_city": "san francisco",
+      "location_country": "us",
+      "location_geo_area": "ca",
+      "industries": [
+        "Computer Software"
+      ],
+      "specialities": [],
+      "type": "Privately Held",
+      "profile_id": "18454116",
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHk8xUWzgUI-g/company-logo_400_400/0/1519952073073?e=1694044800&v=beta&t=YOLe-sJ4K52rGZd9hYwF3NEFbPbb9tVkjuHUQ_0sRsY",
+      "description": "Stealth Company.",
+      "followers": 163912,
+      "staff_count": 3951,
+      "li_url": "https://www.linkedin.com/company/18454116/"
+    }
+  ]
+}

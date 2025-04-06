@@ -1,0 +1,403 @@
+{
+    "profile_id": "andriiseliverstov",
+    "first_name": "Andrii",
+    "last_name": "Seliverstov",
+    "sub_title": "Working on something new 😉",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C5603AQFbzmrSHx9ijQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1655721283393?e=1749081600&v=beta&t=xBZgmKpAj0zZSCqysqFffjuCyAunLx9ztuAQ09oHLxo",
+    "background_image": "https://media.licdn.com/dms/image/v2/C5616AQGte_XhcJBX3A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1655721600378?e=1749081600&v=beta&t=wcFpk8MLk0JmmSGoOZBALk0ppKcGYNWkga45rAToIlg",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAABa3eo4BtibwOpdlNFArjUaHmeqJevY2cfk",
+    "object_urn": 381123214,
+    "birth_date": null,
+    "summary": "Results-oriented and highly skilled software engineer with over 8 years of experience in e-commerce and fintech projects. Proven expertise in designing, implementing, testing, and maintaining software applications. Adept at collaborating with cross-functional teams to deliver high-quality solutions.\nSeeking a challenging software engineering position where I can leverage my skills.",
+    "location": {
+        "country": "United Kingdom",
+        "short": "London Area, United Kingdom",
+        "city": "London Area",
+        "state": "United Kingdom",
+        "default": "London Area, United Kingdom"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Polish",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Ukrainian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Kyiv National Economics University",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHfeXAPs0TyKg/company-logo_400_400/company-logo_400_400/0/1630602609304/kyiv_national_economics_university_logo?e=1749081600&v=beta&t=5fzMO5SfdvHuC6xmjNHtZh0GVZVStBaT_X_talTMDkY",
+                "url": "https://www.linkedin.com/school/kyiv-national-economics-university/"
+            },
+            "degree_name": "Master's degree",
+            "description": null,
+            "field_of_study": "International Business Management",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Kyiv National Economics University",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHfeXAPs0TyKg/company-logo_400_400/company-logo_400_400/0/1630602609304/kyiv_national_economics_university_logo?e=1749081600&v=beta&t=5fzMO5SfdvHuC6xmjNHtZh0GVZVStBaT_X_talTMDkY",
+                "url": "https://www.linkedin.com/school/kyiv-national-economics-university/"
+            },
+            "degree_name": "Bachelor's degree",
+            "description": null,
+            "field_of_study": "International Economics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "SAP Hybris Commerce 6.0 Developer",
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "SAP",
+            "url": "https://training.sap.com/shop/certification/p_hycd_60-sap-certified-development-professional---sap-hybris-commerce-60-developer-g/",
+            "license_number": "P_HYCD_60",
+            "display_source": "sap.com",
+            "company": {
+                "id": null,
+                "name": "SAP",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_400_400/company-logo_400_400/0/1723034255614/sap_logo?e=1749081600&v=beta&t=-Cd4jwNWjh6rsnP_3gTcM3B8xHdWSsgCkL9QSEs_H6A",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2024
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London Area, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Senior Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 105253352,
+                "name": "Neverless",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHKPl5DjZlw_Q/company-logo_400_400/company-logo_400_400/0/1732807299611/neverlessapp_logo?e=1749081600&v=beta&t=7-D3gDkJgA7bkufjJnJ5X-sqkNYLpcAhuXP8NbXyCj8",
+                "url": "https://www.linkedin.com/company/neverlessapp/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2024
+                        }
+                    },
+                    "company": "Neverless",
+                    "description": "* Joined as a founding member and played a pivotal role in building the core functionality and essential tools for the company.\n* Designed and delivered the majority of customer-facing functionality, covering areas such as authentication, KYC, ledger, and more\n* Contributed significantly to creating a seamless and user-friendly experience for customers.\n* Introduced blockchain submission capabilities, including aggregation of function calls to EVM-compatible chains.\n* Developed delta-neutral trading strategies specifically tailored for Avalanche and Arbitrum chains.",
+                    "title": "Founding Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Krakow, Poland / London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "* Successfully contributed to Revolut's transition from a start-up to a fintech giant. Thrived in an ever-changing environment during the company's growth phase.\n* Worked collaboratively in various teams, including issuing logistics, top-ups, chargeback, and push-to-card teams.\n* Designed, led, and delivered the push-to-card product. Introduced a multi-million profits business opportunity and expanded money transfer capabilities to both existing and new markets customers.\n* Re-envisioned and improved Revolut cards lifecycle and its management capabilities.\n* Integrated courier solutions, reducing the cost of card issuance and delivery, leading to a significant departmental profit boost.\n* Introduced reconciliation processes for card payment services.\n* Enhanced ledger functionality to facilitate transactions between different entities, contributing to improved financial operations.\n* Conducted interviewer's training and actively participated in other interviewing processes, showcasing leadership and involvement in talent acquisition.",
+                    "title": "Senior Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4972,
+                "name": "EPAM Systems",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHBM1NmkFO9_g/company-logo_400_400/company-logo_400_400/0/1736349454702/epam_systems_logo?e=1749081600&v=beta&t=9CFCDjGB5hnBZyzcZqGF0TA8_w32eEUdSQpVjPD6MnA",
+                "url": "https://www.linkedin.com/company/epam-systems/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Kraków Area, Poland",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "EPAM Systems",
+                    "description": "E-commerce solution for a large electronics retailer.\n\n* Developed whole new checkout flow according to provided requirements and mockups.\n* Implemented the product locator feature which allows verifying product stocks in different stores.\n* Proposed and introduced a number of complicated cronjobs to clean up outdated data to free system resources on the production environment.\n* Took part in a migration process to a new Hybris version.\n\nTechnologies: Java, Hybris, Spring, JS, CSS\nTools: Intellij Idea, jRebel, Notepadqq, Git, Postman, MSSQL",
+                    "title": "Senior Software Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Kraków Area, Poland",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "EPAM Systems",
+                    "description": "Development of an e-commerce solution for a large sports and style caps retailer\n\n* Developed integrations with 3rd party systems (OMS, stocks update, sales info, predictive marketing)\n* Single-handedly swapped Worldpay/Paypal (payment systems) integration to Braintree\n* Developed most part of fulfillment flow, as well as order cancellation and order returns.\n* Developed storefront for my-account and checkout flows.\n* Developed cronjob for cleaning up outdated media\n* Covered implemented logic with unit and integration tests\n\nTechnologies: Java, Hybris, Spring, JS, Cucumber\nTools: IntelliJ Idea, Git, Atom, Z Shell, jRebel, MySQL",
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Kraków Area, Poland",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "EPAM Systems",
+                    "description": "Development of an e-commerce solution for a large health&beaty retailer \n\n* Introduced visibility restrictions for product and categories depending data from a 3rd-party system\n* Developed dynamic management of product quantities depending on stocks/limits/etc\n* Enhanced product search logic\n* Enlarged test coverage using Spock\n\nTechnologies: Hybris, Spock, Hystrix, Solr\nTools: IntelliJ Idea, Git, Tortoise Git, Notepad++, MySQL",
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Kyiv City, Ukraine",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "EPAM Systems",
+                    "description": "Development of an e-commerce solution for a large health&care retailer.\n\n* As a production tickets stream developer I have fixed numerous bugs and developed a number of change requests provided by the product owner.\n* As a new multi-site e-commerce solution stream developer, I took a part in the developing of vital parts of the project (account, checkout, etc.).\n\nMy day-to-day technical activities imply: \n- Participating in meetings according to scrum.\n- Designing and developing viable solutions.\n- Helping and reviewing the code of my colleagues. \n\nTechnologies: Hybris, Java, JSP, JMS, Spring, XML, HTML, JS\nTools: IntelliJ Idea, Ant, SVN, TortoiseSVN, Jira, SoapUI, NewRelic, OracleSQL",
+                    "title": "Junior/Regular Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Core Java",
+        "Servlets",
+        "Hibernate",
+        "Design Patterns",
+        "SQL",
+        "HTML",
+        "XML",
+        "Subversion",
+        "Git",
+        "JPA",
+        "Eclipse",
+        "IntelliJ IDEA",
+        "JavaFX",
+        "JSF",
+        "JSP",
+        "HTML5",
+        "CSS",
+        "JavaScript",
+        "Tomcat",
+        "JavaBeans"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

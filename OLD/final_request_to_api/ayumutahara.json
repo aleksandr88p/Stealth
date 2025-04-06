@@ -1,0 +1,459 @@
+{
+    "profile_id": "ayumutahara",
+    "first_name": "Ayumu",
+    "last_name": "Tahara",
+    "sub_title": "Building the world’s first cancer protection system",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAALIuRwBBHtUPlynKc3zJoJJRG3iYhu-pkM",
+    "object_urn": 46709020,
+    "birth_date": null,
+    "summary": "Experienced multicultural professional with a demonstrated history of working in the ride-sharing and internet industries. Launched Uber's food delivery service (Uber Eats) in Tokyo and brought Uber Tokyo's premium transportation business (UberBLACK) to profitability. Skilled in strategic planning, financial modelling, SQL, advanced Excel and funnel analysis. Working knowledge of performance marketing and statistical analysis.",
+    "location": {
+        "country": "Japan",
+        "short": "Tokyo",
+        "city": null,
+        "state": null,
+        "default": "Tokyo, Japan"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            },
+            {
+                "country": "JP",
+                "language": "ja"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Japanese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "ELEMENTARY"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "school": {
+                "name": "University of Chicago",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHbp_dv8CAlpQ/company-logo_400_400/company-logo_400_400/0/1630577480920/uchicago_logo?e=1749081600&v=beta&t=eN0h28lrNEZC1n7G9KZKc2qK5CoXpnK5jNfvltb1gME",
+                "url": "https://www.linkedin.com/school/uchicago/"
+            },
+            "degree_name": "Bachelor of Arts (BA)",
+            "description": null,
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "school": {
+                "name": "Auckland International College",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "International Baccalaureate",
+            "description": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "国内旅行業務取扱管理者",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "一般社団法人全国旅行業協会",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 1308460,
+                "name": "Need",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFnnS99e_9ahA/company-logo_400_400/company-logo_400_400/0/1655175987018/need_logo?e=1749081600&v=beta&t=1yb7JCiITjA9q2DMIZCA2YC39KJj23s6oKF_1e65w0o",
+                "url": "https://www.linkedin.com/company/need/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Tokyo, Japan",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Need",
+                    "description": "Building partnerships with insurers and medical institutions",
+                    "title": "General Manager, Japan & Taiwan",
+                    "employment_type": "Permanent"
+                },
+                {
+                    "location": "Tokyo, Japan",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Need",
+                    "description": null,
+                    "title": "General Manager, Japan",
+                    "employment_type": "Permanent"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Stealth startup",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Tokyo, Japan",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Stealth startup",
+                    "description": null,
+                    "title": "Operations Lead",
+                    "employment_type": "Permanent"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Within 23 wards, Tokyo, Japan",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Heading the operations team at Revolut Japan.\n\n--\nRevolut is the fastest European FinTech start-up to have reached unicorn status in just three years. We now have over ten million customers in Europe, and we have recently received our licence from JFSA to operate in Japan.",
+                    "title": "Senior Operations Manager",
+                    "employment_type": "Permanent"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1815218,
+                "name": "Uber",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_400_400/company-logo_400_400/0/1630552741617/uber_com_logo?e=1749081600&v=beta&t=g7YcgJEwPE0aUrp8p5Jh7xTUfxjF1SBtRvemEOx3xGo",
+                "url": "https://www.linkedin.com/company/uber-com/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Japan",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Uber",
+                    "description": "Managed new city launch projects for Uber Eats in Japan. Launched Osaka, Kyoto, Kobe, Nagoya and Fukuoka.",
+                    "title": "New City Launch - Uber Eats Japan",
+                    "employment_type": null
+                },
+                {
+                    "location": "Mexico City",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Uber",
+                    "description": "Secondment to Mexico. Was part of the Querétaro launch team.",
+                    "title": "Delivery Operations Manager - Uber Eats México ",
+                    "employment_type": null
+                },
+                {
+                    "location": "Within 23 wards, Tokyo, Japan",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Uber",
+                    "description": "Managing Uber Eats delivery operations in Tokyo",
+                    "title": "Delivery Operations Manager - Uber Eats Japan",
+                    "employment_type": null
+                },
+                {
+                    "location": "Within 23 wards, Tokyo, Japan",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Uber",
+                    "description": "Managed Uber's premium transportation service to profitability",
+                    "title": "Operations Manager - UberBLACK Tokyo",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 36229,
+                "name": "Indeed.com",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGRyD6gjS54VA/company-logo_400_400/company-logo_400_400/0/1658856556669/indeed_com_logo?e=1749081600&v=beta&t=E23GQRN3hPdKgrAyMS2HfIwa4zZ1BOct0skMNAM4v9g",
+                "url": "https://www.linkedin.com/company/indeed-com/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Austin, Texas Area",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Indeed.com",
+                    "description": null,
+                    "title": "Japan Country Operations Manager",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Online Marketing",
+        "Market Research",
+        "Japanese",
+        "SEO",
+        "SEM",
+        "Web Marketing",
+        "SQL",
+        "Vertica",
+        "PostgreSQL",
+        "Funnel Optimization",
+        "Research",
+        "Management",
+        "Project Management",
+        "Project Planning",
+        "Stakeholder Management",
+        "English",
+        "Microsoft Excel"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

@@ -1,0 +1,318 @@
+{
+    "profile_id": "francesriddington",
+    "first_name": "Frances",
+    "last_name": "Riddington",
+    "sub_title": "Head of Sales Enablement EMEA/APACx at Stealth Mode Startup",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEBtX0ca4A0xA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1684599743302?e=1749081600&v=beta&t=9rtQwOQea82dcFJrFbKfpcPwVl4wN7gvDPE-9v7MsoY",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAACtRW18BQoavqdpGJ0wsQhoE8Cnk3u3mnWE",
+    "object_urn": 726752095,
+    "birth_date": null,
+    "summary": "I am an energetic, ambitious Graduate of Business Administration from Barcelona with experience in customer service, sales and digital marketing. My 2 years of industry experience, strong academic background and international exposure have enabled me to become an exceptional communicator, proactive sales professional and collaborative entrepreneur.",
+    "location": {
+        "country": "United Kingdom",
+        "short": "London, England",
+        "city": "London",
+        "state": "England",
+        "default": "London, England, United Kingdom"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Food & Beverages",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "school": {
+                "name": "EU Business School",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFi5rQd_Lyx4A/company-logo_400_400/company-logo_400_400/0/1704808426823/eu_business_school_logo?e=1749081600&v=beta&t=Kedti5DYc6nJwqytakhXE74x0aIQHmKNABXNXOAXG8U",
+                "url": "https://www.linkedin.com/school/eu-business-school/"
+            },
+            "degree_name": "Bachelor of Business Administration - BBA",
+            "description": null,
+            "field_of_study": "Business Administration and Management, General",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18583501,
+                "name": "Stealth Startup",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1749081600&v=beta&t=HdK9rAhohenNit4H2D0XKcK-Ggz-Qoos_bPVstE0H2Q",
+                "url": "https://www.linkedin.com/company/stealth-startup-careers/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London Area, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Stealth Startup",
+                    "description": null,
+                    "title": "Head of Sales Enablement, EMEA/APACx",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2024
+                        }
+                    },
+                    "company": "Stealth Startup",
+                    "description": null,
+                    "title": "Head of Sales Enablement EMEA",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Stealth Startup",
+                    "description": null,
+                    "title": "Account Executive",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Account Executive",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Phoenix Platinum Global",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Barcelona, Catalonia, Spain",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Phoenix Platinum Global",
+                    "description": null,
+                    "title": "International Broker for European Markets",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "La Avenida Global",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Barcelona Area, Spain",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "La Avenida Global",
+                    "description": null,
+                    "title": "Marketing and Branding Assistant ",
+                    "employment_type": "Part-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Notion Productivity Software",
+        "Performance Metrics",
+        "New Hire Training",
+        "SOP Development",
+        "Sales Process Optimization",
+        "Time Management",
+        "Business Strategy",
+        "Collaborative Problem Solving",
+        "Communication",
+        "Internal Audits",
+        "Sales Operations",
+        "Team Leadership",
+        "Stakeholder Management",
+        "Content Development",
+        "Sales Enablement",
+        "Training",
+        "Interpersonal Skills",
+        "Contract Negotiation",
+        "Management",
+        "Strategic Planning"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

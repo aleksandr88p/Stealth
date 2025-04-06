@@ -1,0 +1,1057 @@
+{
+    "profile_id": "stijnpieper",
+    "first_name": "Stijn",
+    "last_name": "Pieper",
+    "sub_title": "Founder, Scaling Digital Businesses 🚀",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C5603AQHv8Cn4VzWujQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1553786346515?e=1749081600&v=beta&t=qr1WzN_tBYoSoskM4YQOaJLh-cnuZxZZ0npTX2on0qU",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAXoQLIBDV7mQDba90hzLp12Df9xMex3zl8",
+    "object_urn": 99106994,
+    "birth_date": null,
+    "summary": "👨🏻‍💻 Product Executive and Entrepreneur. Building my next venture, helping start-ups 🚀\n➣ Founder and CPO at Advanon. Built a novel credit algorithm that funded over 400m EUR to 1k+ businesses \n➣ Product Lead at Revolut. Designed and built the Super App experience that attracted 500k+ businesses\n➣ EVP of Product at Uncapped. Built the next generation of banking and funding\n➣ Background in Engineering & Management from ETH Zürich & TU Delft \n➣ Gained Engineering and Product Management experience at numerous start-ups and corporates such as ING, DNB and Google",
+    "location": {
+        "country": "United Kingdom",
+        "short": "London, England",
+        "city": "London",
+        "state": "England",
+        "default": "London, England, United Kingdom"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Dutch",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "German",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Internet",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "ETH Zürich",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHpkHDwYhEoiQ/company-logo_400_400/company-logo_400_400/0/1630570736781/eth_zurich_logo?e=1749081600&v=beta&t=aESX-B3YDvtV78UeUlQ7LBg9zXqbW4kCEaDXy5b8VIQ",
+                "url": "https://www.linkedin.com/school/eth-zurich/"
+            },
+            "degree_name": "MSc. Specialisation",
+            "description": "➣ Specialisation in IT Management and Business\n➣ Highly competitive university - Top 10 of the world (THE & QS ranking, 2015)",
+            "field_of_study": "Management of Information Systems",
+            "grade": "GPA 5.5/6"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/company-logo_400_400/0/1670699852672?e=1749081600&v=beta&t=x_k7ExZg8flAkV9mlA5Z6CpOisRFtdkHSnHkEbGNSEk",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "MSc.",
+            "description": "➣ Track: Information Architecture (see http://ia.msc.tudelft.nl/)\n➣ Participant Honours Programme (top 5%)",
+            "field_of_study": "Systems Engineering, Policy Analysis and Management",
+            "grade": "GPA 8.3/10"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Delft University of Technology",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFwaGpwaod9mQ/company-logo_400_400/company-logo_400_400/0/1670699852672?e=1749081600&v=beta&t=x_k7ExZg8flAkV9mlA5Z6CpOisRFtdkHSnHkEbGNSEk",
+                "url": "https://www.linkedin.com/school/tudelft/"
+            },
+            "degree_name": "BSc.",
+            "description": null,
+            "field_of_study": "Systems, Policy and Management",
+            "grade": "GPA: 7.5/10, Thesis: 9/10"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "school": {
+                "name": "Stedelijk Gymnasium 's-Hertogenbosch",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Gymnasium, VWO",
+            "description": null,
+            "field_of_study": "Nature & Technology (N&T), Economics, IT",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Dutch Business Person of the Year",
+            "description": "https://twitter.com/Advanon/status/927478912745078784",
+            "issuer": "Dutch Business Round Table Switzerland",
+            "date": {
+                "month": 11,
+                "day": null,
+                "year": 2017
+            }
+        },
+        {
+            "title": "TU Delft Honours Programme",
+            "description": "Participant of the Master Honours Programme\nhttp://honours.tudelft.nl/",
+            "issuer": null,
+            "date": {
+                "month": null,
+                "day": null,
+                "year": null
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Kinderlehrer Anwärter",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Kärntner Skischulverband (KSSV)",
+            "url": "http://www.kssv.at/",
+            "license_number": null,
+            "display_source": "kssv.at",
+            "company": null
+        }
+    ],
+    "organizations": [
+        {
+            "name": "Dutch Business Round Table Switzerland",
+            "position": "Member",
+            "date_start": {
+                "month": 10,
+                "day": null,
+                "year": 2015
+            },
+            "date_end": null
+        }
+    ],
+    "projects": [
+        {
+            "title": "CrowdStudy",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "➣ We developed an online platform for students to practice old exams available \n➣ Currently running a pilot to explore its potential and therefore only available for students participating ➣ In collaboration with the Faculty of Technology, Policy and Management (TPM) and Electrical Engineering, Mathematics and Computer Science (EEMCS)\n\nMore information on www.crowdstudy.nl",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stijn",
+                    "last_name": "Pieper",
+                    "name": null,
+                    "headline": "Founder, Scaling Digital Businesses 🚀"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Lars",
+                    "last_name": "Reeker",
+                    "name": null,
+                    "headline": "Customer Success Lead @ ValueBlue"
+                },
+                {
+                    "type": "nonStandardizedContributor",
+                    "first_name": null,
+                    "last_name": null,
+                    "name": "Henk Kant",
+                    "headline": null
+                }
+            ]
+        },
+        {
+            "title": "All Energy Day 2013",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "➣ Organised a second and successful edition of the All Energy Day, with a board of 9 students\n➣ I was head of IT & Marketing, responsible for online communication and media solutions\n➣ Tried to inspire and nudge people into a more innovative energy transition \n\nAn impression: http://youtu.be/I_Od_NuG918",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stijn",
+                    "last_name": "Pieper",
+                    "name": null,
+                    "headline": "Founder, Scaling Digital Businesses 🚀"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Mark",
+                    "last_name": "de Grunt",
+                    "name": null,
+                    "headline": "Strategy & Transformation Director"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Guus",
+                    "last_name": "Versantvoort",
+                    "name": null,
+                    "headline": "Manager Customer Service Export & Customs"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Maree",
+                    "last_name": "Weltevreden-Govaarts",
+                    "name": null,
+                    "headline": "Workcell Leader Field Services & Overhauls"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jolanda",
+                    "last_name": "Koot",
+                    "name": null,
+                    "headline": "Renewable Power  @ Savion LLC"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Maichel",
+                    "last_name": "van Nauta Lemke",
+                    "name": null,
+                    "headline": "Operations Area Manager Europe & Africa bij Ampelmann Operations"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rob",
+                    "last_name": "van Waas",
+                    "name": null,
+                    "headline": "Applied Researcher at TNO"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Isabel",
+                    "last_name": "Welten",
+                    "name": null,
+                    "headline": "Advocate for positive change in sustainability, the environment and the energy transition ♻️💚"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Minke",
+                    "last_name": "van der Kleij",
+                    "name": null,
+                    "headline": "Programmamanager Supply Chain bij PostNL"
+                }
+            ]
+        },
+        {
+            "title": "StrICTly for Business Competition at the Dutch Central Bank",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "description": "➣ Attended the StrICTly for Business university competition of the CIO platform of the Netherlands\n➣ Proposed a solution to the process of exchanging confidential information with external parties\n➣ Won the sports price :-)",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stijn",
+                    "last_name": "Pieper",
+                    "name": null,
+                    "headline": "Founder, Scaling Digital Businesses 🚀"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Lars",
+                    "last_name": "Reeker",
+                    "name": null,
+                    "headline": "Customer Success Lead @ ValueBlue"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jakar",
+                    "last_name": "Westerbeek",
+                    "name": null,
+                    "headline": "Coach, Wiskunde docent, ZZP-er"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Katrien",
+                    "last_name": "Meijdam",
+                    "name": null,
+                    "headline": "Manager UX and UX Research"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Rick",
+                    "last_name": "Slangen",
+                    "name": null,
+                    "headline": "Data Science Manager at Nubank"
+                }
+            ]
+        },
+        {
+            "title": "Started a Dreamteam in Serious Gaming at TU Delft",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": null,
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stijn",
+                    "last_name": "Pieper",
+                    "name": null,
+                    "headline": "Founder, Scaling Digital Businesses 🚀"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Big Data Informatics (ETH)",
+            "number": null
+        },
+        {
+            "name": "Business IT Alignment (ETH)",
+            "number": null
+        },
+        {
+            "name": "Corporate Development and IT (ETH)",
+            "number": null
+        },
+        {
+            "name": "Critical Reflection on Technology",
+            "number": "WM0355HT"
+        },
+        {
+            "name": "Experience Entrepreneurship",
+            "number": "WM4002TU"
+        },
+        {
+            "name": "ICT Infrastructures Architectures",
+            "number": "SPM4430"
+        },
+        {
+            "name": "Information Retrieval",
+            "number": "IN4325"
+        },
+        {
+            "name": "Management Information Systems (ETH)",
+            "number": null
+        },
+        {
+            "name": "Multi Actor Systems Design",
+            "number": "SPM4142"
+        },
+        {
+            "name": "Software Architecture",
+            "number": "IN4315"
+        },
+        {
+            "name": "Strategic Management of Large Engineering Projects",
+            "number": "SPM4416"
+        },
+        {
+            "name": "Technology Entrepreneurship (ETH)",
+            "number": null
+        },
+        {
+            "name": "Technology Transfer (ETH)",
+            "number": null
+        },
+        {
+            "name": "Web Data Management",
+            "number": "IN4331"
+        },
+        {
+            "name": "Web Science & Engineering",
+            "number": "IN4252"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18583501,
+                "name": "Stealth Startup",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1749081600&v=beta&t=HdK9rAhohenNit4H2D0XKcK-Ggz-Qoos_bPVstE0H2Q",
+                "url": "https://www.linkedin.com/company/stealth-startup-careers/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Stealth Startup",
+                    "description": null,
+                    "title": "Building new stuff",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 66937543,
+                "name": "Trendt.me",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHDJ3Djzz-_ew/company-logo_400_400/company-logo_400_400/0/1630580676119?e=1749081600&v=beta&t=RxtENhkY66-SXnT2yUTdjjeUlTxvLc3hJ7B7sww9SVk",
+                "url": "https://www.linkedin.com/company/trendt-me/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Trendt.me",
+                    "description": "➣ Trendt is a growth partner solving growth challenges for online businesses \n➣ Turning startups into market leaders",
+                    "title": "Founding Partner",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 20491819,
+                "name": "Uncapped",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFBugR1kU0bsA/company-logo_400_400/company-logo_400_400/0/1648827897214/weareuncapped_logo?e=1749081600&v=beta&t=w52NxR92Ij0g3k9-98Edh_oRhHkpsROcOq09-69IBok",
+                "url": "https://www.linkedin.com/company/weareuncapped/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Uncapped",
+                    "description": "➣ Built the most founder-friendly financial products for digital entrepreneurs who want to scale (Ecommerce, SAAS and Technology)\n➣ Delivered the end-to-end customer experience: providing access the capital and tools they need to grow big with the least friction and highest transparency possible\n➣ Responsible for Strategy and P&L, achieved profitability within 5 months\n➣ Leading 4 full-stack product teams (45+ FTE)",
+                    "title": "Executive Vice President Product",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Uncapped",
+                    "description": "➣ Launched a competitive banking product for digital entrepreneurs in the USA in less than 3 months\n➣ From 0 to 2.5k+ new B2B banking customers in less than 6 months\n➣ Built out the product department from 20 to 56 A-players in less than 9 months",
+                    "title": "Head of Product",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "➣ Designed and built the global Super App experience, including its system design, integrations and technological architecture, leading to 5X growth to half a million business customers across 39 markets\n➣ Led all API programmes and partnership strategy across Retail and Business. Including all Open Banking APIs. Handled AISP and PISP licenses with the UK Financial Conduct Authority (FCA) and Bank of Lithuania (BOL) regulators and compliance teams.\n➣ Set up all full-stack teams & led the Integrations, Payroll, Invoices, Insurance product teams. Full P&L responsibility over 3M GBP. Directed the product strategy, product development and quality assurance.\n➣ More tools, led to 28% more engagement, 3x more customers connecting their accounts to third party services and 5x increased revenue after repricing the plans and growth of the number of weekly active businesses",
+                    "title": "Lead Product Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10449348,
+                "name": "Advanon",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFGvSvjH3s2nw/company-logo_400_400/company-logo_400_400/0/1630500649217/creditgate24_logo?e=1749081600&v=beta&t=G9KTNcOELfEQWT-hOlHJYw5OwzK6KZ4dbWzJp8N2MuE",
+                "url": "https://www.linkedin.com/company/cg24group/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Zürich Area, Switzerland",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Advanon",
+                    "description": "➣ Acquired by CreditGate24 \n➣ Advanon was the leading peer-to-peer financing platform for businesses in Switzerland\n➣ I led 3 financing rounds and raised over CHF 10 million (±10M USD)\n➣ Founded together with my two Google colleagues and an amazing international team of 35+ people",
+                    "title": "Founder & Board Member",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Zurich, Switzerland",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Advanon",
+                    "description": "➣ Delivered an awarded product for businesses and investors. Awarded Top 3 FinTech of Swiss Top 100 Startups in 2017, Top 9 Swiss Startup in 2018 & 2019\n➣ Grew customer base to thousands of investors and businesses. Over EUR 100 million financed over the platform.\n➣ Co-led the successful closing and operations of partnerships with prominent financial institutions (AXA, UBS, Deutsche Bank, BLKB, HBL, etc.), accounting software (bexio, Sage, etc.) and governmental institutions (Innosuisse)\n➣ Led 3 product teams (engineers, designers, product owners)",
+                    "title": "Chief Product Officer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1441,
+                "name": "Google",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_400_400/company-logo_400_400/0/1631311446380?e=1749081600&v=beta&t=UHiqJy97JpW2ZtDn-dgO6hDCQCTjLVjYPbgDEE3Wi4Q",
+                "url": "https://www.linkedin.com/company/google/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Dublin",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Google",
+                    "description": "➣ Full-time internship for SMB Services \n➣ Performed a Data Analytics project to improve operational performance of the service",
+                    "title": "Data Analytics Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 388777,
+                "name": "De Nederlandsche Bank / Dutch Central Bank",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGp-vsOUrt6QQ/company-logo_400_400/company-logo_400_400/0/1659945570524/de_nederlandsche_bank_logo?e=1749081600&v=beta&t=sewtH7a7Cn6NxphmHtT-3iR8TKQ4lg3iSuoDBwQuqRI",
+                "url": "https://www.linkedin.com/company/de-nederlandsche-bank/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "De Nederlandsche Bank / Dutch Central Bank",
+                    "description": "➣ Investigated IT strategy for specific information requests for a university competition\n➣ Presented our solution for the CIO Platform Netherlands (IT Directors)",
+                    "title": "Research Intern",
+                    "employment_type": "Internship"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2585562,
+                "name": "Magnet.me",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF9ChgA8CnFoQ/company-logo_400_400/company-logo_400_400/0/1630518363244/magnet_me_logo?e=1749081600&v=beta&t=6M0CKbRRg4H_fLI01CpSa_EcsI65iowPxlbW1cNB0pQ",
+                "url": "https://www.linkedin.com/company/magnet-me/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Rotterdam",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Magnet.me",
+                    "description": "➣ First technical employee. Setup the engineering department at start-up phase\n➣ Worked on the Magnet.me application itself and led the new development process\n➣ Now the web development of Magnet.me is fully internal and operational",
+                    "title": "Lead Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2594164,
+                "name": "ING",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFtKZ0GgYZcbQ/company-logo_400_400/company-logo_400_400/0/1721305788771/ing_logo?e=1749081600&v=beta&t=4-JDc6jQII5Mn1J3v_URCgoF_RjVhrfmnxZgfPlYgGU",
+                "url": "https://www.linkedin.com/company/ing/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Amsterdam",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "ING",
+                    "description": "➣ Gained experience in the field of Operational Excellence Consulting\n➣ Developed a data mining model for the department mortgage arrears \n➣ Awarded with the grade 9/10 for my BSc-thesis at the TU Delft (top 2%)",
+                    "title": "Data Analytics Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 614280,
+                "name": "Study association S.V.T.B. Curius",
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQGNcgHcbszUIA/company-logo_400_400/company-logo_400_400/0/1631305957486?e=1749081600&v=beta&t=TkSGhNPYXsGbvGWYlEorIEg95oRXaHpwCQLFVdR5DF0",
+                "url": "https://www.linkedin.com/company/svtbcurius/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delft Area, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Study association S.V.T.B. Curius",
+                    "description": "➣ Managed association with ~1000 members focussed on lectures, study trips and career events\n➣ As president, I led a full-time board consisting of 6 students and ~100 committee members\n➣ Responsible for general representation, planning and the long term policy\n➣ Accredited with a 12 month subsidiary scholarship",
+                    "title": "President of the board",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Coach",
+            "company": {
+                "id": null,
+                "name": "Techstars Startup Weekend",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF3L8PdelY3xg/company-logo_400_400/company-logo_400_400/0/1630534702805/techstarsstartupweekend_logo?e=1749081600&v=beta&t=u_bn4grirqiS5xlB4esgNzOxSGwaBux-bMLoGEhCqYc",
+                "url": "https://www.linkedin.com/company/techstarsstartupweekend/"
+            },
+            "cause": "EDUCATION",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "role": "Coach",
+            "company": {
+                "id": null,
+                "name": "Founder Institute",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHvHnd5W_EHwQ/company-logo_400_400/company-logo_400_400/0/1630586437144/the_founder_institute_logo?e=1749081600&v=beta&t=yayMfdlilNaXrGOQzc4jqjXlgtgzxkCYbooKlswDCf4",
+                "url": "https://www.linkedin.com/school/the-founder-institute/"
+            },
+            "cause": null,
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Founder",
+            "company": {
+                "id": null,
+                "name": "GCM Club",
+                "logo": null,
+                "url": null
+            },
+            "cause": "ECONOMIC_EMPOWERMENT",
+            "description": null
+        }
+    ],
+    "skills": [
+        "IT Strategy",
+        "Analytics",
+        "Entrepreneurship",
+        "Teamwork",
+        "Critical Thinking",
+        "Web Development",
+        "Management",
+        "Strategy",
+        "Data Analysis",
+        "Information Architecture",
+        "Problem Solving",
+        "Ruby on Rails",
+        "SPSS",
+        "Operational Excellence",
+        "Information Management",
+        "Systems Engineering",
+        "Knowledge Management",
+        "Project Management",
+        "Information Retrieval",
+        "Prediction"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

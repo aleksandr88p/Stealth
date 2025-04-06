@@ -1,0 +1,723 @@
+{
+    "profile_id": "julio-rodrigues-boidi",
+    "first_name": "Julio",
+    "last_name": "Rodrigues Boidi",
+    "sub_title": "web3",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C4E03AQHtvgRovq9ahw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1656508411990?e=1749081600&v=beta&t=fkMX4Ro0X47JzIvmNx18HcuEPoOx2ZtLA3d5bTs-kIY",
+    "background_image": "https://media.licdn.com/dms/image/v2/D4D16AQHwTq_FnZaoZQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1693232170166?e=1749081600&v=beta&t=l8f6ChhU0ydIJ-b15JJELPdOtDPpCn04bVLmxxtQm_I",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAACWQW3MB2TUfrjOt98ykusuy-Lx-ufknXds",
+    "object_urn": 630217587,
+    "birth_date": null,
+    "summary": "“The people who are crazy enough to think they can change the world are the ones who do.” \n\nSteve Jobs.",
+    "location": {
+        "country": "Spain",
+        "short": "Madrid, Community of Madrid",
+        "city": "Madrid",
+        "state": "Community of Madrid",
+        "default": "Madrid, Community of Madrid, Spain"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "ES",
+            "language": "es"
+        },
+        "supported_locales": [
+            {
+                "country": "ES",
+                "language": "es"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Español",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Inglés",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Portugués",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Universidad Nueva Esparta",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHrLYmapq_FuQ/company-logo_400_400/company-logo_400_400/0/1630575882069/universidad_nueva_esparta_logo?e=1749081600&v=beta&t=jTSjEVG8a_0-bS5FCycc6DOXnVbzEHSA6-2IDa8Nn6o",
+                "url": "https://www.linkedin.com/school/universidad-nueva-esparta/"
+            },
+            "degree_name": "Bachelor of Business Administration - BBA",
+            "description": null,
+            "field_of_study": null,
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "school": {
+                "name": "EF Language Abroad",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEaZTEMTXUcXg/company-logo_400_400/company-logo_400_400/0/1707299032732/ef_language_schools_for_professionals_logo?e=1749081600&v=beta&t=zKa8nHmDgLBzpETcXLY-PT-W7KLtUP9CIw7aAqxXdUo",
+                "url": "https://www.linkedin.com/school/ef-language-schools-for-professionals/"
+            },
+            "degree_name": "EF Brighton, UK",
+            "description": null,
+            "field_of_study": "1 Semester Program ",
+            "grade": "CEFR: C1"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "school": {
+                "name": "Colegio Santo Tomas de Villanueva",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Bachelor of Science - BS",
+            "description": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Sales Representative",
+            "description": "- Best Seller Hipotecario Seguros (2017)",
+            "issuer": "Banco Hipotecario",
+            "date": {
+                "month": 12,
+                "day": null,
+                "year": 2017
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Blockchain Technologies",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Blockchain Council",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Blockchain Council",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEcbFmuHDrFqw/company-logo_400_400/company-logo_400_400/0/1659438140511?e=1749081600&v=beta&t=iPgCSvnylQMxcvkgJF6AIYKWgr7GAZutheajMBbUmEM",
+                "url": null
+            }
+        },
+        {
+            "name": "DeFi Expert",
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Blockchain Council",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Blockchain Council",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEcbFmuHDrFqw/company-logo_400_400/company-logo_400_400/0/1659438140511?e=1749081600&v=beta&t=iPgCSvnylQMxcvkgJF6AIYKWgr7GAZutheajMBbUmEM",
+                "url": null
+            }
+        },
+        {
+            "name": "Financial Markets",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Yale University",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Yale University",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGGJUjGgSYcWQ/company-logo_400_400/company-logo_400_400/0/1631385636084?e=1749081600&v=beta&t=BJwqaeO3pveOGW7hd3ls_lDa4wo7W745hSj7q7Day68",
+                "url": null
+            }
+        },
+        {
+            "name": "Digital Citizenship ",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Facebook",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Meta",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFdNatYGiBelg/company-logo_400_400/company-logo_400_400/0/1636138754252/facebook_logo?e=1749081600&v=beta&t=fnMeUvUcKkTbsLvYJAfuWeg12ycRuD3-o5YTmAGgAoM",
+                "url": null
+            }
+        },
+        {
+            "name": "Personal Productivity",
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Google Actívate",
+            "url": "https://sites.google.com/view/productividad-personal/",
+            "license_number": null,
+            "display_source": "google.com",
+            "company": {
+                "id": null,
+                "name": "Google Actívate",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGlBBVXCfSVag/company-logo_400_400/company-logo_400_400/0/1630481085080/activatecongoogle_logo?e=1749081600&v=beta&t=Mi7oeXJd5PRlz536lP0bqG9ay2CwQjZBiz3LzNlrzZk",
+                "url": null
+            }
+        },
+        {
+            "name": "Certified Web Professional - E-Commerce Specialist (CWP)",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Escuela de Organización Industrial",
+            "url": "https://sites.google.com/a/learning.eoi.es/mooc-ecommerce/",
+            "license_number": null,
+            "display_source": "google.com",
+            "company": {
+                "id": null,
+                "name": "EOI Business School",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQERfKvso9dnrA/company-logo_400_400/B4DZWFPeQdGcAc-/0/1741697181141/eoi_logo?e=1749081600&v=beta&t=ZA1zJCAxX8esMr1vZ0BziwL77VZXYFuYK_Jivdz52Ww",
+                "url": null
+            }
+        },
+        {
+            "name": "Cambridge English: Advanced (CAE) – CEFR level C1",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Cambridge Assessment",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Cambridge University Press & Assessment",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHzAFzG6umH9g/company-logo_400_400/company-logo_400_400/0/1630574057001/cambridge_assessment_logo?e=1749081600&v=beta&t=t6Hs7vasuopXn-YXk3I6H267i3qo64bqfg6uV8mKdNM",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 74070676,
+                "name": "Fungi Protocol",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGpQL5g55rqMA/company-logo_400_400/company-logo_400_400/0/1707762009055/fungiapp_logo?e=1749081600&v=beta&t=4FPiotZpJ66Kbm63rUzoCCHo5XYkz5tZwoBfx5V8_m8",
+                "url": "https://www.linkedin.com/company/fungiagent/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid, Community of Madrid, Spain",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Fungi Protocol",
+                    "description": null,
+                    "title": "Angel Investor",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 51648548,
+                "name": "Phemex ",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGYRbT-bHVMRQ/company-logo_400_400/company-logo_400_400/0/1706096967283/phemex_logo?e=1749081600&v=beta&t=jCYnRSSEK9ypN1252O3XkCNOcqkqVF2YA5W1kIU8SLs",
+                "url": "https://www.linkedin.com/company/phemex/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid, Community of Madrid, Spain",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2024
+                        }
+                    },
+                    "company": "Phemex ",
+                    "description": null,
+                    "title": "Senior Business Development Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 69884978,
+                "name": "Bitget",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEKMyXLZsQAtQ/company-logo_400_400/company-logo_400_400/0/1728925629057/bitget_global_logo?e=1749081600&v=beta&t=P1C1oLZ0wbFQVgvkgWr-5NS67A-rNQPniWrdHrpC5MU",
+                "url": "https://www.linkedin.com/company/bitget-global/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid, Community of Madrid, Spain",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Bitget",
+                    "description": "Global cryptocurrency exchange chosen by over 2 million users in about 50 countries around the world. We provide a fast and easy trading experience with safer technology.",
+                    "title": "Senior Business Development Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut Business",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid, Community of Madrid, Spain",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut Business",
+                    "description": null,
+                    "title": "Corporate Business Development Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 20792,
+                "name": "Hult International Business School",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEmmEZQyrX1gQ/company-logo_400_400/company-logo_400_400/0/1687872567525/hult_logo?e=1749081600&v=beta&t=6Ot3b5cjF88SkIXwk5s31SWd0UQK6Jrp2pARNpbtZmo",
+                "url": "https://www.linkedin.com/school/hult/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Hult International Business School",
+                    "description": "Helping candidates in the enrollment process for our Live Online MBA.\n\nLooking for a part-time online MBA with a difference?\n\nWe’ve developed online education to the highest standard, delivering an immersive, interactive experience that our students tell us is a great way to learn. Attend live online classroom sessions over a four-day weekend each month, learn from internationally renowned professors, and work across borders with teams of forward-thinking professionals to solve the business challenges of today.",
+                    "title": "Associate Director of Enrollment for Live Online MBA",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Madrid Area, Spain",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Hult International Business School",
+                    "description": "Enrollment process for the One-Year Master Programs at Hult International Business School.\n\nHult is accredited by the three largest and most influential business school accreditation associations: (AACSB, AMBA, and EQUIS) and is the only American business school to be accredited in the United States, the United Kingdom, and the European Union.\n\nClick on the link below for Hult Masters Brochure: \n\nCampuses in Boston, San Francisco, London, Dubai, Shanghai, and New York.",
+                    "title": "Enrollment Advisor",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4856,
+                "name": "EF Education First",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF3QaWfBzdZBQ/company-logo_400_400/company-logo_400_400/0/1727533371139/ef_education_first_logo?e=1749081600&v=beta&t=X-afPv0dkdNg9_aYT8lQNj6ecqnKtS4wyyoDx2waQnc",
+                "url": "https://www.linkedin.com/company/ef-education-first/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greater Buenos Aires, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "EF Education First",
+                    "description": "- Responsible for the generation of sales and growth for the group travel segment in the Argentinian market.\n\n- Event planning to create brand positioning and increase customer interest. Management of limited budgets, organization of communication and reaching sales goals.\n\n- Institutional Marketing: search for partnerships / agreements with schools, language institutes and tourism agencies . Trips to the interior of the country to develop and maintain these relationships or agreements.",
+                    "title": "Business Development Manager",
+                    "employment_type": null
+                },
+                {
+                    "location": "Gran Buenos Aires, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "EF Education First",
+                    "description": "- Advisor and sales coordinator of international exchange programs.\n\n- Contact with large amounts of leads through various means (call, mail, whatsapp, visits) Identify the profile of the future student and based on that know how to recommend which is best suited to this.\n\n- Achieving weekly, monthly and other KPI goals. The achievement of objectives made me strategic and intelligent when interpreting the data of each lead and also develop several speeches that are adapted to the different types of targets. (Focus on university students, young professionals and executives)\n\n- Fluent communication in English with superiors of the head office (Zurich) and on international visits of sales managers and product presidents (regional and global)\n\n- Institutional Marketing: search for partnerships / agreements with universities, language institutes, tourism agencies and companies. Trips to the interior of the country to develop and maintain these relationships or agreements.\n\n- After-sales service: deal with cases, complaints and contact school staff when necessary. Customer retention strategies.",
+                    "title": "Business Development Specialist",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 162627,
+                "name": "Banco Hipotecario",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGTKgZ9XlnGYg/company-logo_400_400/company-logo_400_400/0/1698860078538/banco_hipotecario_logo?e=1749081600&v=beta&t=dWDM-L_2CRoKzWJYGavfsyjrEWWywzhcGlA_DDfa8IY",
+                "url": "https://www.linkedin.com/company/banco-hipotecario/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greater Buenos Aires, Argentina",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Banco Hipotecario",
+                    "description": null,
+                    "title": "Business Development Specialist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "role": "Volunteer",
+            "company": {
+                "id": null,
+                "name": "FundaBolivar",
+                "logo": null,
+                "url": null
+            },
+            "cause": "ANIMAL_RIGHTS",
+            "description": null
+        }
+    ],
+    "skills": [
+        "New Business Development",
+        "BDM",
+        "Strategic Business Development",
+        "National Sales Management",
+        "Marketing Management",
+        "Operations Management",
+        "Project Management",
+        "Microsoft Office",
+        "Capacidad de análisis",
+        "Gestión de ventas",
+        "Proceso de ventas",
+        "Liderazgo",
+        "Orientación a objetivos",
+        "Sales",
+        "Customer Service",
+        "Sales & Marketing",
+        "Telemarketing",
+        "Negotiation",
+        "Marketing Strategy",
+        "Atención al cliente"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

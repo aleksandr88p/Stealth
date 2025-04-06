@@ -1,0 +1,399 @@
+{
+    "profile_id": "bazrao",
+    "first_name": "Bhasker",
+    "last_name": "R.",
+    "sub_title": "Chief Risk Officer - Ex-Revolut | Ex-Square | Ex-Amex",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAIzaXUBEMg3-p63urh1IpjeF3SOG95WInk",
+    "object_urn": 36923765,
+    "birth_date": null,
+    "summary": "Risk Management / Fraud Management / Business Management / Business Strategy / Business Consultation / Business Development / Business Analysis / Six Sigma / Lean Management / SEO and SEM / E-Commerce / Online Marketing / Marketing / SME for all consumer risk-related matters in EMEA and JAPA.",
+    "location": {
+        "country": "United Kingdom",
+        "short": "London, England",
+        "city": "London",
+        "state": "England",
+        "default": "London, England, United Kingdom"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            },
+            {
+                "country": "DE",
+                "language": "de"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": null
+            },
+            {
+                "name": "German",
+                "proficiency": null
+            },
+            {
+                "name": "Hindi",
+                "proficiency": null
+            },
+            {
+                "name": "Urdu",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Banking",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "ACFE",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Certified Fraud Examiner",
+            "description": null,
+            "field_of_study": "Financial Forensics and Fraud Investigation",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "school": {
+                "name": "Monash University",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEp8cQSkbCXRw/company-logo_400_400/company-logo_400_400/0/1704403791312/monash_university_logo?e=1749081600&v=beta&t=GX17J4pLt7jkedKAbgq4J5tN6D3H-WERbn5FOt_MPtY",
+                "url": "https://www.linkedin.com/school/monash-university/"
+            },
+            "degree_name": "BBusCom",
+            "description": null,
+            "field_of_study": "International Business and Management",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [
+        {
+            "name": "Compply",
+            "position": "Director",
+            "date_start": {
+                "month": 1,
+                "day": null,
+                "year": 2024
+            },
+            "date_end": null
+        }
+    ],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18583501,
+                "name": "Stealth Startup",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1749081600&v=beta&t=HdK9rAhohenNit4H2D0XKcK-Ggz-Qoos_bPVstE0H2Q",
+                "url": "https://www.linkedin.com/company/stealth-startup-careers/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Stealth Startup",
+                    "description": null,
+                    "title": "Building something new",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Ownership of the risk framework including policy and procedure development for a global acquiring product launch and additional business products.\n\nLaunched the Revolut Pay payments scheme to scaled clients to accept 25m Revolut retail users via seamless credit transfer instead of card payments. Created compliant buyer protection and seller protection policies for a global audience.\n\nEstablished RevolutPro and successfully rolled out a business grade product for freelancers from ideation to execution. Ownership from internal testing all the way to public launch.\n\nBuilding all key functions including credit, fraud and regulatory and scheme compliance and a full operational risk service team to support all these disciplines. \n\nBuilding the entire risk data science and engineering function to support all risk product development (internal and external facing).\n\nWorking closely with vendors, payments networks and regulators to ensure a successful delivery of an acquiring product to market with a fully functioning risk organisation.\n\nProviding extensive consultation to the wider organisation and product owners on all things to execute a successful launch and iterations of the product.\n\nStrategically supporting business planning and horizon scanning to ensure competitive product delivery.",
+                    "title": "Head of Acquiring Risk",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 675562,
+                "name": "Square",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHikN6EXPd23Q/company-logo_400_400/company-logo_400_400/0/1630646872203/joinsquare_logo?e=1749081600&v=beta&t=ItvzYkGsqRMWg2F-1S_VPh55LN4YyS--_cxbyadFcPU",
+                "url": "https://www.linkedin.com/company/joinsquare/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Melbourne, Australia",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Square",
+                    "description": "Managing all aspects of Risk Operations for Square in Australia, Canada, Japan and the UK.\nManaging all relationships with internal and external stakeholders including  networks, acquirers across EMEA and APAC.  \nSupport changes and new risk introductions into international market and ensuring products and changes are launched in new markets within risk appetite and building all risk frameworks to execute safely on deployment including the monitoring of performance.\nInvestigate all losses to Square and implement methods of reducing and eliminating risk loss to Square via machine learned models, heuristics or analyst education.\nRegularly and adhoc updating of board, country leadership and risk leadership on risk landscape and performance in international markets.\nWorking closely with data science and risk engineering to maintain risk models and heuristics within performance levels of desired risk appetite and tuning levers to take more or less risk as needed.\nManaging risk analyst teams in various global locations to ensure that risk loss is maintain within goals and that teams develop according to the current and desired future state.",
+                    "title": "Risk Lead | International Markets",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1277,
+                "name": "American Express",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGRhsociEn4gQ/company-logo_400_400/company-logo_400_400/0/1631367875582?e=1749081600&v=beta&t=RqAetRKIvNw_x1ZASQ5jo4Zb9s1g9Jq7mtg3L-p6Lvg",
+                "url": "https://www.linkedin.com/company/american-express/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2011
+                        }
+                    },
+                    "company": "American Express",
+                    "description": "Partnering with wholesale and retail customers over the lifecycle of the financial products (which included non-cash payment products amongst others), including ordering the product, delivery of the product, and purchasing and encashment of the product. \nManaging day to day operations in respect of the Amex financial product offering (including non-cash payment products) across EMEA and JAPA risk operations. \nOverseeing all aspects of fraud and risk operations with primary goal to ensure minimal financial and reputational loss to American Express. \nLiaising with clients to provide advice on operation of the non-cash payment products, fraud prevention techniques, product related fraud and loss prevention training and advice. \nTelephone discussions with retail customers and wholesale customers on a daily basis. This included approvals for any encashments of over $50,000 with our wholesale customers and dealing with all retail customer escalations within my jurisdiction. \nWorking in a team to oversee the compliance aspects of the preparation of marketing materials (eg to make sure that the general advice statements did not encroach into personal advice). \nEnsuring all statement of an advisory nature in print material is compliant with financial services laws and in line with risk policy. \nAdvising clients on selecting suitable non-cash payment products in respect of American Express Prepaid Services’ deposit products including Amex Prepaid Travel Card and Travellers Cheques\nApproving, with assistance from legal, customer facing content, including letters, emails and faxes to ensure adherence to financial services regulatory laws (in particular in respect of general advice), brand standard and compliance with risk framework.",
+                    "title": "Team Leader, Global Prepaid Consumer Risk Operation JAPA",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "American Express",
+                    "description": "As a risk analyst at American Express I was responsible for dealing directly with wholesale and retail clients around the globe who utilised financial, travel and related insurance products. The extent of the role expanded into the investigation of the legitimacy of transactions and claims under the insurance provided with the said products.\nWorking closely with investigations teams, law enforcements and general counsel to finalise and provide timely resolutions to our stakeholders. \nWorking closely with wholesalers around the globe to provide authorisation where the automated process determined the transactions to be suspicious based on a series of heuristics and  \nFiling Suspicious Matter Reports (SMR) on accounts where we determined potential for fraud or criminal behaviour to AUSTRAC.",
+                    "title": "Risk Analyst, Global Prepaid Consumer Risk Operations EMEA and India",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2437,
+                "name": "ANZ",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEECWx-aseqAw/company-logo_400_400/company-logo_400_400/0/1713248286913/anz_logo?e=1749081600&v=beta&t=39ss8MDMUzxVIHyEbBXX2STPA3SgZ4OCsxPAP51vxKw",
+                "url": "https://www.linkedin.com/company/anz/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2005
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2005
+                        }
+                    },
+                    "company": "ANZ",
+                    "description": "Transformation of the ANZ Indonesia business and strategic alliance with Panin Bank.",
+                    "title": "FX Analyst and Project Lead Assistant",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Lean Initiatives",
+        "Business Strategy",
+        "New Business Development",
+        "Risk",
+        "Risk Management",
+        "Product Development",
+        "Strategic Planning",
+        "Start-ups",
+        "Financial Risk",
+        "Business Analysis",
+        "Change Management",
+        "Lean Manufacturing",
+        "Operations Management",
+        "Sales",
+        "Leadership",
+        "Management",
+        "Analysis",
+        "Negotiation",
+        "Online Marketing",
+        "Business Development"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

@@ -1,0 +1,793 @@
+{
+    "profile_id": "tuckerstephen",
+    "first_name": "Stephen",
+    "last_name": "Tucker",
+    "sub_title": "Operations at DoorDash, ANZ",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C5603AQG8wQDQt2olOg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516627214585?e=1749081600&v=beta&t=Ca2IOOXfNy8H0mxMpxBqpGNFt8iYEpXh5NDE4PhfCC0",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAeI4nUBLfxD8U5XlY6cYduC2a6_YnpUDp4",
+    "object_urn": 126411381,
+    "birth_date": null,
+    "summary": ". ",
+    "location": {
+        "country": "Australia",
+        "short": "Melbourne, Victoria",
+        "city": "Melbourne",
+        "state": "Victoria",
+        "default": "Melbourne, Victoria, Australia"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Deakin University",
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQF6gLLzLAOGoA/company-logo_400_400/company-logo_400_400/0/1631343032488?e=1749081600&v=beta&t=uHwvNCOF3EIWDHNGg7eDsq3qp6aCxbrCa1J2-bsjISw",
+                "url": "https://www.linkedin.com/school/deakin-university/"
+            },
+            "degree_name": "Bachelor of Laws (LL.B.)(Hons)",
+            "description": null,
+            "field_of_study": "Law",
+            "grade": "Second Class Honours"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "school": {
+                "name": "University of New England (AU)",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHwHy6_9lHlFg/company-logo_400_400/company-logo_400_400/0/1709871265782/uninewengland_logo?e=1749081600&v=beta&t=hIOlM2aC2dgMqsuznGg0_rpuUHOqV6Stgm2eFVXI2rM",
+                "url": "https://www.linkedin.com/school/uninewengland/"
+            },
+            "degree_name": "Master of Computer Science",
+            "description": null,
+            "field_of_study": "Focus on Databases, Data Mining and Analytics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "school": {
+                "name": "Deakin University",
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQF6gLLzLAOGoA/company-logo_400_400/company-logo_400_400/0/1631343032488?e=1749081600&v=beta&t=uHwvNCOF3EIWDHNGg7eDsq3qp6aCxbrCa1J2-bsjISw",
+                "url": "https://www.linkedin.com/school/deakin-university/"
+            },
+            "degree_name": "Bachelor of Commerce (BCom)",
+            "description": null,
+            "field_of_study": "Information Systems, International Business",
+            "grade": "Distinction"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Harvard Business School Executive Education",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGw3lEi1BX9Ag/company-logo_400_400/company-logo_400_400/0/1640033511567/harvard_business_school_executive_education_logo?e=1749081600&v=beta&t=d7lFMZ9Uw_9qdA__Xe2FErS9phmxUYAn4VrkHx216FY",
+                "url": "https://www.linkedin.com/school/harvard-business-school-executive-education/"
+            },
+            "degree_name": "Leadership",
+            "description": null,
+            "field_of_study": null,
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Exploratory Data Analysis",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Verified Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/DYGXS6Z63U",
+            "license_number": "DYGXS6Z63U",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQG24u4DKpQ5dQ/company-logo_400_400/company-logo_400_400/0/1631343250640?e=1749081600&v=beta&t=Cq8rEFf-AiYZEim1t-tMxOJHIVNxDXkTIF1JpoT2l0I",
+                "url": null
+            }
+        },
+        {
+            "name": "Statistical Inference",
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/KRRBRP4D66",
+            "license_number": "KRRBRP4D66",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQG24u4DKpQ5dQ/company-logo_400_400/company-logo_400_400/0/1631343250640?e=1749081600&v=beta&t=Cq8rEFf-AiYZEim1t-tMxOJHIVNxDXkTIF1JpoT2l0I",
+                "url": null
+            }
+        },
+        {
+            "name": "Getting and Cleaning Data",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Verified Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/UA9M54NR9C",
+            "license_number": "UA9M54NR9C",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQG24u4DKpQ5dQ/company-logo_400_400/company-logo_400_400/0/1631343250640?e=1749081600&v=beta&t=Cq8rEFf-AiYZEim1t-tMxOJHIVNxDXkTIF1JpoT2l0I",
+                "url": null
+            }
+        },
+        {
+            "name": "R Programming",
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Verified Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/UKQ29KBZUV",
+            "license_number": "UKQ29KBZUV",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQG24u4DKpQ5dQ/company-logo_400_400/company-logo_400_400/0/1631343250640?e=1749081600&v=beta&t=Cq8rEFf-AiYZEim1t-tMxOJHIVNxDXkTIF1JpoT2l0I",
+                "url": null
+            }
+        },
+        {
+            "name": "The Data Scientist’s Toolbox",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Verified Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/verify/BQTGFVSTR8",
+            "license_number": "BQTGFVSTR8",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQG24u4DKpQ5dQ/company-logo_400_400/company-logo_400_400/0/1631343250640?e=1749081600&v=beta&t=Cq8rEFf-AiYZEim1t-tMxOJHIVNxDXkTIF1JpoT2l0I",
+                "url": null
+            }
+        },
+        {
+            "name": "ITIL V3 - Foundation",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": null,
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": null
+        },
+        {
+            "name": "Machine Learning Foundations: A Case Study Approach",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Coursera Course Certificates",
+            "url": "https://www.coursera.org/account/accomplishments/certificate/2QRMY9UQP7KZ",
+            "license_number": "2QRMY9UQP7KZ",
+            "display_source": "coursera.org",
+            "company": {
+                "id": null,
+                "name": "Coursera Course Certificates",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQG24u4DKpQ5dQ/company-logo_400_400/company-logo_400_400/0/1631343250640?e=1749081600&v=beta&t=Cq8rEFf-AiYZEim1t-tMxOJHIVNxDXkTIF1JpoT2l0I",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "Halo - PwC Global Analytics Platform",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "description": "PwC's Global Analytics Platform, Halo, aims to provide better insight into client data for the purposes of insight and audit effectiveness and efficiency.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Stephen",
+                    "last_name": "Tucker",
+                    "name": null,
+                    "headline": "Operations at DoorDash, ANZ"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Information Systems Analysis and Design",
+            "number": "MSC228"
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 3205573,
+                "name": "DoorDash",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFif47AalnTdA/company-logo_400_400/company-logo_400_400/0/1630668066078/doordash_logo?e=1749081600&v=beta&t=x8e0BD_1bbfU1NqBa7JOt4luk9FJGybnxslRv71h9F0",
+                "url": "https://www.linkedin.com/company/doordash/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2024
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "DoorDash",
+                    "description": null,
+                    "title": "Operations",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 76183719,
+                "name": "klikit",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGUiKJJbRlFEg/company-logo_400_400/company-logo_400_400/0/1692846749235/klikit_logo?e=1749081600&v=beta&t=WGM3S7eiqM-yiihFyC0-TCJLvwTUMY_kTBHkcBjPVIo",
+                "url": "https://www.linkedin.com/company/klikit/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Melbourne, Victoria, Australia",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2024
+                        }
+                    },
+                    "company": "klikit",
+                    "description": "We help restaurants across Southeast Asia grow their business with more efficient food delivery and extra revenue from virtual food brands. In our 1st seven months, klikit has serviced over US$2.8 million in food delivery orders across 150 brands in Singapore, the Philippines, Malaysia, Indonesia, Taiwan, Australia — and we’ve partnered with 3 of SEA’s biggest celebrities.",
+                    "title": "Chief Operating Officer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 26188811,
+                "name": "Wayflyer",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQE8ebxEBqAx9Q/company-logo_400_400/company-logo_400_400/0/1707227344161/wayflyer_logo?e=1749081600&v=beta&t=1RwqxscXcUWfDM9cE39BBnK1V0Tvh8sTSDiXeaW96gw",
+                "url": "https://www.linkedin.com/company/wayflyer/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Australia",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Wayflyer",
+                    "description": null,
+                    "title": "Product Owner",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10168251,
+                "name": "A Cloud Guru",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHG2P0ZHuzpsw/company-logo_400_400/company-logo_400_400/0/1665610060829/a_cloud_guru_logo?e=1749081600&v=beta&t=I0sKdBPHnBOcyr7nnOd7rVC7KZzrUC_rDXVnM4satHc",
+                "url": "https://www.linkedin.com/company/a-cloud-guru/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Melbourne, Victoria, Australia",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "A Cloud Guru",
+                    "description": null,
+                    "title": "Product Analytics",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Melbourne, Victoria, Australia",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Head Of Operations, APAC",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Melbourne, Victoria, Australia",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Head Of Operations, Australia",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1815218,
+                "name": "Uber",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_400_400/company-logo_400_400/0/1630552741617/uber_com_logo?e=1749081600&v=beta&t=g7YcgJEwPE0aUrp8p5Jh7xTUfxjF1SBtRvemEOx3xGo",
+                "url": "https://www.linkedin.com/company/uber-com/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Francisco Bay Area",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Uber",
+                    "description": null,
+                    "title": "Product | Analytics Manager",
+                    "employment_type": null
+                },
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Uber",
+                    "description": null,
+                    "title": "Strategy and Operations Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1044,
+                "name": "PwC",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnGELqq6HXHw/company-logo_400_400/company-logo_400_400/0/1720517867022/pwc_logo?e=1749081600&v=beta&t=Etf3US9kT4X2inXkVY4oR5s9Ju5y26JIkN6k5nonVa4",
+                "url": "https://www.linkedin.com/company/pwc/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Melbourne, Australia",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "PwC",
+                    "description": "Senior Consultant within PwC's National Data Analytics team with a focus on internal and external audit improvement, payroll compliance and working with audit teams to design innovative audit approaches for improved efficiency, quality and value.",
+                    "title": "Senior Consultant",
+                    "employment_type": null
+                },
+                {
+                    "location": "Perth/Melbourne, Australia",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "PwC",
+                    "description": "IT strategy consultant and business analyst for systems implementation and implementation review for a large international oil and gas company, an engineering service provider, a number of healthcare industry clients and educational institutions.\n\nOther specific experience included:\n- Requirements gathering and analysis for a document management system for an international mining company;\n- Development of an EIM and ECM strategy for an international mining company;\n- End to end business process mapping and improvement for a large engineering services provider in Perth; and\n- Software selection for an ERP software and project management of an ERP specification, selection and implementation project for a large engineering services provider in Perth.",
+                    "title": "Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3268526,
+                "name": "PwC UK",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE_wDikYdHoug/company-logo_400_400/company-logo_400_400/0/1727257397665/pwc_uk_logo?e=1749081600&v=beta&t=-5mBiQt9hcldSwzACPfPMN06i7-VFBnZ7XmWJsGjlSE",
+                "url": "https://www.linkedin.com/company/pwc-uk/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "PwC UK",
+                    "description": "Secondment to PwC London to help build PwC's Global Analytics Platform - Halo\n\nResponsibilities included technical development, process design and strategy work for the global project. \n- Implemented an Off-Shore service delivery model for data transformation in 3 off-shore data centres, servicing 9 countries and trained the delivery centre.\n- Designed and developed data transformation tools (ACL, SQL, Python, Qlik) for transitioning bespoke client system data into a common data model for testing, in addition to developing CAATs, other testing scripts and analytic procedures for the automation of Audit insight.\n- Managed delivery and developed data products for PwC’s Halo programme to support global roll-out, implementation and testing.",
+                    "title": "Senior Associate | Secondment",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Customer Service",
+        "Microsoft Excel",
+        "Time Management",
+        "Analysis",
+        "Microsoft Office",
+        "Troubleshooting",
+        "Teamwork",
+        "Critical Thinking",
+        "Research",
+        "Technical Support",
+        "Microsoft Word",
+        "PowerPoint",
+        "T-SQL",
+        "Microsoft SQL Server",
+        "SQL Server Management Studio",
+        "QlikView",
+        "QlikView Development",
+        "Data Analysis",
+        "Data Mining",
+        "Data Visualization"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

@@ -1,0 +1,466 @@
+{
+    "profile_id": "samml",
+    "first_name": "Sam",
+    "last_name": "Miller-Little",
+    "sub_title": "CEO & Co-Founder",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/v2/D4E16AQHZCpM3t7HkQQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1696541184244?e=1749081600&v=beta&t=K6YRRZ1uttLD3_u3C8MkE1g2RLXkT2xbwfePTQ8TcDg",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAO0N00BIol3hl4oN7XCaXh15NcuZ8fkano",
+    "object_urn": 62142285,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "United States",
+        "short": "New York City Metropolitan Area",
+        "city": null,
+        "state": null,
+        "default": "New York City Metropolitan Area"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Information Technology & Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Cornell University",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQE8SOXGRyv7LA/company-logo_400_400/company-logo_400_400/0/1631339899678?e=1749081600&v=beta&t=JnT10siYF6JHpcTQpXepSC0yntSlnO8mQTU7rX6f7LU",
+                "url": "https://www.linkedin.com/school/cornell-university/"
+            },
+            "degree_name": "BA",
+            "description": null,
+            "field_of_study": "History and Economics",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [
+        {
+            "name": "Echoing Green",
+            "position": "Co-Chair of Bay Area Social Investment Council",
+            "date_start": {
+                "month": 10,
+                "day": null,
+                "year": 2012
+            },
+            "date_end": null
+        }
+    ],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 93478296,
+                "name": "COASTAL EYE SURGERY CENTER LLC",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/coastal-eye-surgery-center-llc/",
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ellsworth, Maine, United States",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "COASTAL EYE SURGERY CENTER LLC",
+                    "description": null,
+                    "title": "RCM Innovation",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18583501,
+                "name": "Stealth Startup",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1749081600&v=beta&t=HdK9rAhohenNit4H2D0XKcK-Ggz-Qoos_bPVstE0H2Q",
+                "url": "https://www.linkedin.com/company/stealth-startup-careers/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "New York City Metropolitan Area",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Stealth Startup",
+                    "description": null,
+                    "title": "CEO and Co-Founder",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "New York City Metropolitan Area",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Deputy CFO, US",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1068,
+                "name": "JPMorgan Chase & Co.",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_400_400/company-logo_400_400/0/1718711710850/jpmorganchase_logo?e=1749081600&v=beta&t=tETktQ9fdgcpwFhWF8D9OBoAoDFBLMAV3cf0i0mcF3o",
+                "url": "https://www.linkedin.com/company/jpmorganchase/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greater New York City Area",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "JPMorgan Chase & Co.",
+                    "description": "Onyx is a new business unit by J.P. Morgan focused on re-imagining and re-architecting the ways in which payments can be made on a global scale.  Our public initiatives include JPM Coin, Liink, Intraday Repo, and Project Ubin.",
+                    "title": "CFO, Head of Strategy - Onyx by J.P. Morgan",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1815218,
+                "name": "Uber",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFiYnR1Mbtxdg/company-logo_400_400/company-logo_400_400/0/1630552741617/uber_com_logo?e=1749081600&v=beta&t=g7YcgJEwPE0aUrp8p5Jh7xTUfxjF1SBtRvemEOx3xGo",
+                "url": "https://www.linkedin.com/company/uber-com/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Francisco Bay Area",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Uber",
+                    "description": "I helped build and scale Uber's first consumer finance offering, flexible leases to drivers, across the country through market launches and partnerships.",
+                    "title": "Strategic Operations - Growth Lead",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 944086,
+                "name": "Apartment List",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHTXZNfl2bL5g/company-logo_400_400/B56ZW5P7yKGsAY-/0/1742569717119/apartment_list_logo?e=1749081600&v=beta&t=lFwfKzcP8HK8mcs8m7Bu35duiQ6e0FJlIIUwUL99lnw",
+                "url": "https://www.linkedin.com/company/apartment-list/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Francisco Bay Area",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Apartment List",
+                    "description": "I built and scaled a standalone business unit (Housing List) and then led the carve out and sale to a strategic acquirer.",
+                    "title": "Director of User Acquisition (Growth) --> GM Housing List (Acquired)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2454,
+                "name": "Oliver Wyman",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFQOIemLSdfwQ/company-logo_400_400/company-logo_400_400/0/1719938465409/oliver_wyman_logo?e=1749081600&v=beta&t=dECnCrSyJXQKVICCn6iGQNGS2A_yC-TnGs4Q5XSqu80",
+                "url": "https://www.linkedin.com/company/oliver-wyman/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greater New York City Area",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Oliver Wyman",
+                    "description": null,
+                    "title": "Consultant",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1178,
+                "name": "Bank of America Merrill Lynch",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHuxyyOkAMjzg/company-logo_400_400/company-logo_400_400/0/1630619994464/merrilllynch_logo?e=1749081600&v=beta&t=VFsWDx5gk2hMb9y-0ZlrxCFGWAP8he_57X10Bw5-fMw",
+                "url": "https://www.linkedin.com/company/merrilllynch/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "NYC and Johannesburg, South Africa",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2009
+                        }
+                    },
+                    "company": "Bank of America Merrill Lynch",
+                    "description": null,
+                    "title": "Investment Banking Analyst Rotation",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Management Consulting",
+        "Private Equity",
+        "Investment Banking",
+        "Financial Services",
+        "Sales",
+        "Financial Modeling",
+        "Equity Research",
+        "Strategy",
+        "Analytics",
+        "Corporate Development",
+        "Venture Capital",
+        "Competitive Analysis",
+        "Business Strategy",
+        "Start-ups",
+        "Due Diligence"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

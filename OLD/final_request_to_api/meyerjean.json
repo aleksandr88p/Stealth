@@ -1,0 +1,680 @@
+{
+    "profile_id": "meyerjean",
+    "first_name": "Jean",
+    "last_name": "Meyer",
+    "sub_title": "🧱🤝🙇 #Building #HeadsDown",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQHnCiLeNQAWnQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1716219513555?e=1749081600&v=beta&t=Kn1NdvfnB0rucsjYu3f75XStvIMsS4PQuEF35yO4p0s",
+    "background_image": "https://media.licdn.com/dms/image/v2/D4E16AQE1vBBuksuiRw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713256163745?e=1749081600&v=beta&t=vuFvaM9vGQWbEa7lqR4aHnFrseHk5whx6BZT87N2tic",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAT-DtwBt-pnzrYhPBrgfhNqPgJn7SpihuA",
+    "object_urn": 83758812,
+    "birth_date": null,
+    "summary": "I am an entrepreneur with a drive for innovation, design and computer sciences. \n\nI take pride in hard work and delivering the best possible product. \n\nCore skills: Management, Product Design, IT Architecture, Scalability, Customer focus, Technical Innovation",
+    "location": {
+        "country": "United Kingdom",
+        "short": "London, England",
+        "city": "London",
+        "state": "England",
+        "default": "London, England, United Kingdom"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": null
+            },
+            {
+                "name": "French",
+                "proficiency": null
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2009
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2011
+                }
+            },
+            "school": {
+                "name": "Columbia Business School",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFuv0h5ca1E_g/company-logo_400_400/company-logo_400_400/0/1630639656847/columbia_business_school_logo?e=1749081600&v=beta&t=A1Uyxo4GOp4zui9YOrytCl0JiCE3hHJ5X8HwiqG1BI0",
+                "url": "https://www.linkedin.com/school/columbia-business-school/"
+            },
+            "degree_name": "Master of Business Administration (MBA)",
+            "description": null,
+            "field_of_study": "Business Administration and Management, General",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "school": {
+                "name": "Université de Technologie",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Master of Engineering (M.Eng.)",
+            "description": null,
+            "field_of_study": "Computer Science",
+            "grade": null
+        }
+    ],
+    "patents": [
+        {
+            "inventors": [
+                {
+                    "first_name": "Jean",
+                    "last_name": "Meyer",
+                    "headline": "🧱🤝🙇 #Building #HeadsDown",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQHnCiLeNQAWnQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1716219513555?e=1749081600&v=beta&t=Kn1NdvfnB0rucsjYu3f75XStvIMsS4PQuEF35yO4p0s"
+                },
+                {
+                    "first_name": "Balazs",
+                    "last_name": "Alexa",
+                    "headline": "Ops & Quality @ Revolut  |  3x founder, x-McKinsey, Forbes 30u30",
+                    "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQHCJdHOyndZtw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1714085894028?e=1749081600&v=beta&t=uMcsTPOoGZTrBXJn9lc-fGjgYt4aoTZq7KEkxkNwBaA"
+                }
+            ],
+            "patent_number": "US20130117374",
+            "title": "Social Network with Blocked Network Users and Accessible Network Users",
+            "issuer": "us",
+            "date": {
+                "month": 5,
+                "day": 9,
+                "year": 2013
+            },
+            "application_number": null
+        }
+    ],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [
+        {
+            "title": "DateMySchool",
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "description": "DMS is on its way to become the standard relationship search engine for university students and alumni, which is already reality in schools such as Columbia, NYU, MIT, Harvard, Boston College, Cornell, Stanford, Carnegie Mellon, Upenn, Tufts and many more institutions.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jean",
+                    "last_name": "Meyer",
+                    "name": null,
+                    "headline": "🧱🤝🙇 #Building #HeadsDown"
+                }
+            ]
+        }
+    ],
+    "publications": [
+        {
+            "name": "Social Network with Blocked Network Users and Accessible Network Users",
+            "publisher": null,
+            "url": "http://www.google.com/patents/US20130117374",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2013
+            },
+            "authors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Jean",
+                    "last_name": "Meyer",
+                    "name": null,
+                    "headline": "🧱🤝🙇 #Building #HeadsDown"
+                },
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Balazs",
+                    "last_name": "Alexa",
+                    "name": null,
+                    "headline": "Ops & Quality @ Revolut  |  3x founder, x-McKinsey, Forbes 30u30"
+                }
+            ]
+        }
+    ],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 93306449,
+                "name": "Deblock",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHyFww-MOfibw/company-logo_400_400/company-logo_400_400/0/1719257500348/deblock_bank_logo?e=1749081600&v=beta&t=c-p8xRaldatkACE17tGTbdZScBKbOSsc_t_NZZbAXyo",
+                "url": "https://www.linkedin.com/company/deblock/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Deblock",
+                    "description": null,
+                    "title": "Co-Founder & CEO",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Head of Crypto",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Product Lead",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Wanted",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "New York, United States",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Wanted",
+                    "description": "We started Wanted to make sure people get paid what they deserve, regardless of gender, race, or how well someone negotiates. \n\nIt's the first platform designed to poach the best talent at their desired salary. \nDemo: https://demo.getwanted.com\n\n- Beta clients: Facebook, Lodestone, Cembra among others\n- $2m Pre-seed from Hoxton, Partech & Kima\n- 100k+ vetted talent @ CPA under $3",
+                    "title": "Founder & CEO (acquired by Revolut)",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 9325835,
+                "name": "Once Dating",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFUXPV5S9wgqg/company-logo_400_400/company-logo_400_400/0/1691137122760/once_dating_logo?e=1749081600&v=beta&t=ZpBQKVrVo-Ab6SaTixYwS7h84bRARrs8rhrX4Iu2E4Q",
+                "url": "https://www.linkedin.com/company/once-perfect-match/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Once Dating",
+                    "description": "- #1 serious dating app in Europe for 3 consecutive years\n- $20m+ ARR\n- 15m downloads\n- Acquired in Dec'20\n\n- Also Founder & Creator of Pickable, Once Again, Once Places",
+                    "title": "Founder & CEO (acquired by SDV)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5115215,
+                "name": "Context Labs - Facefeed",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHGCjD8UlEVIw/company-logo_400_400/company-logo_400_400/0/1631332540697?e=1749081600&v=beta&t=Bbg-viVAsmF7un7vBFEBgYxxzYS0BVe4_sbA2st9xUc",
+                "url": "https://www.linkedin.com/company/facefeed/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greater New York City Area",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Context Labs - Facefeed",
+                    "description": "- In charge of the product's architecture\n- Scalability // ACID-compliant\n- Agile methodology \n- ML (Cluster analysis)",
+                    "title": "VP Engineering",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1977175,
+                "name": "datemyschool",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHlXnxopr-LJg/company-logo_400_400/company-logo_400_400/0/1631302884918?e=1749081600&v=beta&t=d8iU2VPs2WwuEBw227cvMxB8xBuGOFsgzD7WNKvhu50",
+                "url": "https://www.linkedin.com/company/datemyschool/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Brooklyn, NY",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "datemyschool",
+                    "description": "- 1m US college students\n- #1 dating site for us college students in 2011 & 2012\n- Developed the entire product and managed a 12 people product team\n- Co-Author of the Reverse Social Network patent (pub no US20130117374 A1).",
+                    "title": "Founder & CPO",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3027,
+                "name": "Elsevier",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHMEQhVVniNJw/company-logo_400_400/company-logo_400_400/0/1719831554052/elsevier_logo?e=1749081600&v=beta&t=yFm6Mtl1Qo2uZ3VTSfLswAAhJceDK7ZdWXYXyeP3h2U",
+                "url": "https://www.linkedin.com/company/elsevier/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greater New York City Area",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Elsevier",
+                    "description": "- Management Leadership program\n- Developed the 5-year strategy plan of Cell Press (2012-2017)",
+                    "title": "Management Associate",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Bankexam",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2008
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Paris Area, France",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2008
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "Bankexam",
+                    "description": "- Winner of “Graines de Boss” (#1 out of 6000 participants - innovation reward -)\n- 4 million hits a day \n- Acquired in Dec'09 by Studyrama",
+                    "title": "Founder & CTO (acquired by Studyrama)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1508,
+                "name": "BNP Paribas",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGaPfduOoKCJA/company-logo_400_400/company-logo_400_400/0/1669711365932/bnp_paribas_logo?e=1749081600&v=beta&t=hiV0WtyYzj9cnttnmkmp3op7UyZ-iTqXJRqAbVw5KF8",
+                "url": "https://www.linkedin.com/company/bnp-paribas/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2008
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greater Philadelphia Area",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2008
+                        }
+                    },
+                    "company": "BNP Paribas",
+                    "description": "- Responsible for pricing multiple derivatives product\n- In charge of the hedge fund admin support\n- Created and developed a series of tools that reconciled & managed billions of trades.",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2221,
+                "name": "AXA Group Solutions",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHeXioeuXu7-w/company-logo_400_400/company-logo_400_400/0/1714640236991/axa_logo?e=1749081600&v=beta&t=_Y_Zc6FIP05ukD0RaO694GqVt8SctvNK9IWlcoLatPw",
+                "url": "https://www.linkedin.com/company/axa/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2006
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Paris Area, France",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2006
+                        }
+                    },
+                    "company": "AXA Group Solutions",
+                    "description": "",
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Entrepreneurship",
+        "Social Media",
+        "Strategy",
+        "Start-ups",
+        "Management",
+        "DevOps",
+        "Lean Startup",
+        "Online Marketing",
+        "Ruby on Rails",
+        "Analytics",
+        "Scalable Web Applications",
+        "Marketing Strategy",
+        "Competitive Analysis",
+        "Cloud Computing",
+        "Business Strategy",
+        "Web Crawling",
+        "OAuth",
+        "Social Software",
+        "IT Management",
+        "Financial Modeling"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

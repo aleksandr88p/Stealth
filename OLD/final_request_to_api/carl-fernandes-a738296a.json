@@ -1,0 +1,551 @@
+{
+    "profile_id": "carl-fernandes-a738296a",
+    "first_name": "Carl",
+    "last_name": "Fernandes",
+    "sub_title": "Building something new | ex-Revolut, Lyft, YC S20",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C5603AQGBePIHFIl4aw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1611864004215?e=1749081600&v=beta&t=BzhikRNWsuEffmlsVPxH9fab4urZUf-TFPw3MFlZJOY",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAA63ZLcBSiGj_DUMlOsyfWo5GKc0BQJwQYc",
+    "object_urn": 246899895,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "United States",
+        "short": "Boston, Massachusetts",
+        "city": "Boston",
+        "state": "Massachusetts",
+        "default": "Boston, Massachusetts, United States"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ]
+    },
+    "industry": "Internet",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Harvard University",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_400_400/company-logo_400_400/0/1631318058235?e=1749081600&v=beta&t=7yhi4gdc5h-x5QdNRMfsbU61vQKUGSBwjVbYBTdeOHQ",
+                "url": "https://www.linkedin.com/school/harvard-university/"
+            },
+            "degree_name": "Bachelor's Degree",
+            "description": null,
+            "field_of_study": "Statistics",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Parkersburg High School",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Valedictorian",
+            "description": null,
+            "field_of_study": "Rank 1 of 478",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Boston, Massachusetts, United States",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2024
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "I lead the product function for Revolut's insurance org, managing 3 product teams as well as managers within engineering, product ops, and design.",
+                    "title": "Head of Product, Insurance",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2620735,
+                "name": "Lyft",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFoMDej0VdZVA/company-logo_400_400/company-logo_400_400/0/1630565402130/lyft_logo?e=1749081600&v=beta&t=AiawFKcgLb_vCzVE_VXoU1kh3slDS9VF_1eKk41lLbY",
+                "url": "https://www.linkedin.com/company/lyft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "New York City Metropolitan Area",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Lyft",
+                    "description": "I led product management for fleet management software across first party (Lyft-owned fleets), third party (B2B), and autonomous vehicle (AV) applications.",
+                    "title": "Product, Fleet Management",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "UpRole (YC S20)",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Francisco Bay Area",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "UpRole (YC S20)",
+                    "description": "Started a business to train up individuals displaced by the pandemic in high-demand healthcare skills. We applied the same model seen with software engineering bootcamps to the healthcare field.",
+                    "title": "Co-Founder, CEO",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 167872,
+                "name": "Y Combinator",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_400_400/company-logo_400_400/0/1673555093250/y_combinator_logo?e=1749081600&v=beta&t=Rxn8GTmgUFbEClMwqfDwsy9mrFoWNENUfpY3XzoJV9k",
+                "url": "https://www.linkedin.com/school/y-combinator/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Francisco Bay Area",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Y Combinator",
+                    "description": null,
+                    "title": "S20",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2620735,
+                "name": "Lyft",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFoMDej0VdZVA/company-logo_400_400/company-logo_400_400/0/1630565402130/lyft_logo?e=1749081600&v=beta&t=AiawFKcgLb_vCzVE_VXoU1kh3slDS9VF_1eKk41lLbY",
+                "url": "https://www.linkedin.com/company/lyft/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "San Francisco Bay Area",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Lyft",
+                    "description": null,
+                    "title": "Product",
+                    "employment_type": null
+                },
+                {
+                    "location": "San Francisco Bay Area",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Lyft",
+                    "description": null,
+                    "title": "Corporate Development",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5154,
+                "name": "Jefferies",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFujpA00nxrdg/company-logo_400_400/company-logo_400_400/0/1719866509142/jefferies_logo?e=1749081600&v=beta&t=7f5DB-QGDZPIH8F1JFrFBVMbqmOZ9_dhp8FpCPS12Mw",
+                "url": "https://www.linkedin.com/company/jefferies/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Houston, Texas",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Jefferies",
+                    "description": null,
+                    "title": "Energy Investment Banking",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5154,
+                "name": "Jefferies",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFujpA00nxrdg/company-logo_400_400/company-logo_400_400/0/1719866509142/jefferies_logo?e=1749081600&v=beta&t=7f5DB-QGDZPIH8F1JFrFBVMbqmOZ9_dhp8FpCPS12Mw",
+                "url": "https://www.linkedin.com/company/jefferies/",
+                "employees": {
+                    "start": 5001,
+                    "end": 10000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Houston, Texas",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Jefferies",
+                    "description": null,
+                    "title": "Energy Investment Banking",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4588,
+                "name": "Putnam Investments",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEa_LAZA8sQUg/company-logo_400_400/company-logo_400_400/0/1630581966262/putnam_investments_logo?e=1749081600&v=beta&t=GwP2Ymxtvp38aCF8jUnSJIFDg7MeINcSULeejO_Rc8w",
+                "url": "https://www.linkedin.com/company/putnam-investments/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Boston, Massachusetts",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Putnam Investments",
+                    "description": null,
+                    "title": "Summer Associate",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 4867,
+                "name": "Harvard Business School",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF_DkXTlZVo1w/company-logo_400_400/company-logo_400_400/0/1639781479259/harvard_business_school_logo?e=1749081600&v=beta&t=aRXL-SkbmnKYcbI2AQ-39K6fz4hMrkPoYBLO4Z0peps",
+                "url": "https://www.linkedin.com/school/harvard-business-school/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Harvard Business School",
+                    "description": null,
+                    "title": "Researcher",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Analysis",
+        "Databases",
+        "Statistics",
+        "Research",
+        "Economics",
+        "Data Analysis",
+        "Python",
+        "Quantitative Analytics",
+        "Data Mining",
+        "R",
+        "Analytical Skills",
+        "Microsoft Excel",
+        "Microsoft Office",
+        "Public Speaking",
+        "Python (Programming Language)"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

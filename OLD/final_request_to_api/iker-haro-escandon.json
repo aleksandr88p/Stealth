@@ -1,0 +1,377 @@
+{
+    "profile_id": "iker-haro-escandon",
+    "first_name": "Iker",
+    "last_name": "H.",
+    "sub_title": "Co-Founder & CEO  | Reinventing Finances for the Transportation Industry through AI",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQFB4bqwi2GtUg/profile-displayphoto-shrink_800_800/B4EZUceCjTGwAg-/0/1739939392726?e=1749081600&v=beta&t=kzAz0AoVZJn9Ima-6DqdMkFNZ4gfBGD38lC1C-Drcy8",
+    "background_image": "https://media.licdn.com/dms/image/v2/D4E16AQHarLkF1Q5rRA/profile-displaybackgroundimage-shrink_350_1400/B4EZWbC55YHMAc-/0/1742062985225?e=1749081600&v=beta&t=qLPw5U1NJt6_TMswXCrscFNLdRNcOTTc1qls8ysFyrY",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAACVpSQ8BwuIhFvVKnMoaV4khl8waEGwBLLQ",
+    "object_urn": 627656975,
+    "birth_date": null,
+    "summary": "Focused on solving major problems in Latin America, I've spent time in leading tech and financial environments to learn how to build powerful technology that creates real value. This has given me solid skills in fintech and a deep dive into card payments, which I'm using to boost industries like transportation that are crucial for the region's progress. \n\nMy approach to work mirrors my passion for surfing: face challenges head-on and push through with resilience. I'm all about making a difference, with a straightforward, get-it-done attitude.",
+    "location": {
+        "country": "Mexico",
+        "short": "Mexico City",
+        "city": null,
+        "state": null,
+        "default": "Mexico City, Mexico"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "ES",
+            "language": "es"
+        },
+        "supported_locales": [
+            {
+                "country": "ES",
+                "language": "es"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Español",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Ingles",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Tecnológico de Monterrey",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGU6Cy52KOXJw/company-logo_400_400/B56ZXxqtkWGUAk-/0/1743516262144?e=1749081600&v=beta&t=o9LTFqB5dBSlLf7AD0n_sl6dyfaw33e-4XtML2u9IKw",
+                "url": "https://www.linkedin.com/school/tecdemonterrey/"
+            },
+            "degree_name": "Industrial and systems engineering",
+            "description": "Bachelor in Industrial Engineering with a minor in Systems Engineering ",
+            "field_of_study": "Industrial Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "NYU Stern School of Business",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFa4W8Vhbcypg/company-logo_400_400/company-logo_400_400/0/1631317988803?e=1749081600&v=beta&t=QciZSXRvcOIHlJ80dK2pYzPmY_kNw9IRPSPeStDkqag",
+                "url": "https://www.linkedin.com/school/nyu-stern-school-of-business/"
+            },
+            "degree_name": "Trepcamp",
+            "description": null,
+            "field_of_study": "High-Impact Entrepreneurship",
+            "grade": "Scholarship"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "RMIT University",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEGU1obJOmROQ/company-logo_400_400/company-logo_400_400/0/1688439184668/rmit_university_logo?e=1749081600&v=beta&t=zOVfzYumridL4gJ4u6pL-UI8Wd_TmE-izMJ60cM6a1A",
+                "url": "https://www.linkedin.com/school/rmit-university/"
+            },
+            "degree_name": "Studying Abroad",
+            "description": null,
+            "field_of_study": "Industrial Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Máster en Negocios Digitales",
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Escuela de Internet",
+            "url": null,
+            "license_number": null,
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Commerce Society",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEnZhld3Yd3uQ/company-logo_400_400/company-logo_400_400/0/1683694289838/commerce_society_logo?e=1749081600&v=beta&t=VnxRA05uk_4oMqS7IRe-tLA3yT06tYUC77UZBK2sTFg",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Trepcamp",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 101040533,
+                "name": "Uvicuo",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGobXAC6btwqQ/company-logo_400_400/company-logo_400_400/0/1730172193637/uvicuo_logo?e=1749081600&v=beta&t=nsiUPwl_hrWsiCOfBMj2UpLKMOOlPUTSH-20emjhbLU",
+                "url": "https://www.linkedin.com/company/uvicuo/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2024
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Mexico City, Mexico",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Uvicuo",
+                    "description": null,
+                    "title": "Co-Founder & CEO",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2024
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Ciudad de México, México",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2024
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "I led the setup of Revolut's card payment infrastructure in Mexico from the ground up, achieving a fully operational system in under a year. \n\nLed the negotiations with Visa and Mastercard for LAC region, overseeing the implementation and certification of our payment processor, and ensuring all operations were compliant with regulatory standards in pursuit of a full banking license. I managed the end-to-end onboarding of critical vendors and developed the chargeback processing, successfully launching our card services with live cards.",
+                    "title": "Card Payments Lead (MX Expansion)",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Londres, Inglaterra, Reino Unido",
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "I led the development of the spend management product, focusing on CX and transaction acceptance. By revamping our ML model, I slashed false positives by over 70%, streamlining our payment process.\n\nBeyond this, I contributed broadly, from setting a company-wide product quality framework to building the marketing team from zero. I managed multiple successful launches and revamped our website, boosting our online presence and engagement.",
+                    "title": "Product Operations Manager (B2B)",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "London, Reino Unido",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Led the shift from third-party to in-house card payment processing, crucial in developing and launching Revolut's internal processor. \n\nManaged project timelines, articulated technical requirements to developers, and ensured a smooth full roll-out. Facilitated our processor's certification with Mastercard and Visa across LAC, significantly enhancing cost efficiency and CX.",
+                    "title": "Operations Manager (Payment Processing)",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6472832,
+                "name": "DiDi",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGs8qyo98IL_g/company-logo_400_400/company-logo_400_400/0/1713343700949/didiglobal_logo?e=1749081600&v=beta&t=UHYM7vhYL8f08nd6jJ20yCfO0sq858NVUZ3JCP6yA8M",
+                "url": "https://www.linkedin.com/company/didiglobal/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Mexico City Area, Mexico",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "DiDi",
+                    "description": "Lead passenger growth for the central region, including Mexico City. Developed the initial CAC model, resulting in a dashboard used by leadership to make data-driven decisions. Ensured product quality across international platforms, coordinating with multiple global teams.",
+                    "title": "Operations Analyst",
+                    "employment_type": null
+                },
+                {
+                    "location": "Ciudad de México y alrededores, México",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "DiDi",
+                    "description": "A key player in the launching and growth team, focusing on user acquisition through both offline and online channels. Led the full cycle from in-app communications to data optimization, creating the market launch acqusition playbook.",
+                    "title": "Operations Intern",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Análisis de negocio",
+        "Data Analysis",
+        "SQL",
+        "Tecnologías emergentes",
+        "Ventas",
+        "Análisis de datos",
+        "Emprendimiento social",
+        "ecommerce",
+        "E-commerce",
+        "Microsoft Excel",
+        "Microsoft Office",
+        "Dirección y desarrollo de equipos de trabajo",
+        "natural leader",
+        "Trabajo en equipo",
+        "Communication",
+        "Spanish",
+        "English",
+        "Resistencia",
+        "inovación "
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

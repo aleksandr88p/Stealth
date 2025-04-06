@@ -1,0 +1,482 @@
+{
+    "profile_id": "cristina-cordero-425781199",
+    "first_name": "Cristina",
+    "last_name": "Cordero ",
+    "sub_title": "Head of Sales | Building Natuka 🌱🐶",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQEqmGkiSNADEA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726674882531?e=1749081600&v=beta&t=iz9rYfDdWqnNnHetIEjN73gHLuynQ3S6CgLBp4I4b1g",
+    "background_image": "https://media.licdn.com/dms/image/v2/D4D16AQGMjIOHkXGKuA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739379603385?e=1749081600&v=beta&t=DJfGKzIESV7W02s3ghYvILaaBvXLrohaMQEve9nFs_s",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAC6Q9R0ByZejSu434_IP5OkkImsyI3LSpyk",
+    "object_urn": 781251869,
+    "birth_date": null,
+    "summary": "¡En Natuka, estamos en la misión de ofrecer la mejor comida natural para las mascotas más mimadas del mundo! ¿Cómo lo logramos? Pues combinando nuestro conocimiento del mercado con ingredientes de primera calidad. \n\n--\n\nIn Natuka, we are on a mission to provide the best natural food for the world's most pampered pets! How do we achieve this? By combining our market knowledge with top-quality ingredients.",
+    "location": {
+        "country": "Spain",
+        "short": "Madrid, Community of Madrid",
+        "city": "Madrid",
+        "state": "Community of Madrid",
+        "default": "Madrid, Community of Madrid, Spain"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "ES",
+            "language": "es"
+        },
+        "supported_locales": [
+            {
+                "country": "ES",
+                "language": "es"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Español",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Francés",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Inglés",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Food Production",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "school": {
+                "name": "Universidad de Valladolid",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFazHOlOJO50A/company-logo_400_400/company-logo_400_400/0/1692170343519/universidad_de_valladolid_logo?e=1749081600&v=beta&t=YYZuIVv27-7v4-dt8VBPg08MIYGakI2WLlwQefjn0go",
+                "url": "https://www.linkedin.com/school/universidad-de-valladolid/"
+            },
+            "degree_name": "Turismo y Publicidad y Relaciones Públicas",
+            "description": null,
+            "field_of_study": "Ciencias sociales",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Universidad de Sevilla",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFeIC0XDU7cug/company-logo_400_400/company-logo_400_400/0/1630518578339/universidad_de_sevilla_logo?e=1749081600&v=beta&t=LCeWBINO1hi5CfP-uArZfwBHUT88qMO8WMeBrV2vXHA",
+                "url": "https://www.linkedin.com/school/universidad-de-sevilla/"
+            },
+            "degree_name": "Publicidad y Relaciones Públicas",
+            "description": null,
+            "field_of_study": "Ciencias de la comunicación",
+            "grade": "BECA SICUE"
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "Premio Spot Publicitario. Categoría Igualdad",
+            "description": null,
+            "issuer": "Festival Publicatessen",
+            "date": {
+                "month": 4,
+                "day": null,
+                "year": 2019
+            }
+        }
+    ],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 65383524,
+                "name": "Natuka",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGVo5eUm34CSQ/company-logo_400_400/company-logo_400_400/0/1737624323337/natuka_logo?e=1749081600&v=beta&t=bS2pBL8s435AAolY9L1J8-68bx3iTiYpG2DhYVQWmlc",
+                "url": "https://www.linkedin.com/company/natuka/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid, Comunidad de Madrid, España",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2025
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Natuka",
+                    "description": null,
+                    "title": "Head of Sales",
+                    "employment_type": "Full-time"
+                },
+                {
+                    "location": "Madrid, Comunidad de Madrid, España",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2025
+                        }
+                    },
+                    "company": "Natuka ",
+                    "description": null,
+                    "title": "Sales Team Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid, Comunidad de Madrid, España",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Account Executive",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 65481930,
+                "name": "Kitch",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFI3eX0x_XuNw/company-logo_400_400/company-logo_400_400/0/1638204489567/kitch_io_logo?e=1749081600&v=beta&t=Dqo7mVDj3JzdH31KqfTJwBYwHsBiKTrtdagexXNfIGk",
+                "url": "https://www.linkedin.com/company/kitch-io/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Madrid, Comunidad de Madrid, España",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Kitch",
+                    "description": null,
+                    "title": "Sales Executive",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1123253,
+                "name": "Eurostars Hotels",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG4Z6-KldI4qw/company-logo_400_400/company-logo_400_400/0/1649949989550/eurostars_hotel_company_logo?e=1749081600&v=beta&t=AoczF2giFCqD3afQMo5ywMeb7d7xzrzVqM2bNZQsgVA",
+                "url": "https://www.linkedin.com/company/eurostars-hotel-company/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Segovia, Castilla y León, España",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Eurostars Hotels",
+                    "description": null,
+                    "title": "Recepcionista",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 7120176,
+                "name": "Turismo de Segovia",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFD0ltkXcEhzQ/company-logo_400_400/company-logo_400_400/0/1638355795346/turismo_de_segovia_logo?e=1749081600&v=beta&t=ZQ5qHYFIEkyo6YOx1TyWg0A_cFIzzKEeYnVKCtFk9dA",
+                "url": "https://www.linkedin.com/company/turismodesegovia/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Plaza azoguejo",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Turismo de Segovia",
+                    "description": null,
+                    "title": "Operador turístico",
+                    "employment_type": "Internship"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "role": "Profesor",
+            "company": {
+                "id": null,
+                "name": "Fundación Cauce",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHY_3uaablwXQ/company-logo_400_400/company-logo_400_400/0/1631321821520?e=1749081600&v=beta&t=9Kf_cBio2cLeBwXzNWlyCPTrB6gfUEsgoNO9FtHKnjI",
+                "url": "https://www.linkedin.com/company/fundaci%C3%B3n-cauce/"
+            },
+            "cause": "EDUCATION",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "role": "Auxiliar",
+            "company": {
+                "id": null,
+                "name": "Titirimundi",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFXg-3qmrDvcA/company-logo_400_400/company-logo_400_400/0/1630651975793/titirimundi_festival_sl_logo?e=1749081600&v=beta&t=PPiAMQ3DRbKeBmaqnnVHHdTtHWSu8hXtAHzKFKyM72U",
+                "url": "https://www.linkedin.com/company/titirimundi-festival-sl/"
+            },
+            "cause": "ARTS_AND_CULTURE",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "role": "Secretario del Consejo de Administración",
+            "company": {
+                "id": null,
+                "name": "Festival Publicatessen",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE8PPMkk4JQ1A/company-logo_400_400/company-logo_400_400/0/1731592107264/festival_publicatessen_logo?e=1749081600&v=beta&t=O1f1yglxZdHh8Ru1obS8YZHPPUAVpEYboYi5yVM6NZ4",
+                "url": "https://www.linkedin.com/company/festival-publicatessen/"
+            },
+            "cause": "EDUCATION",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "role": "Coordinador de comunicación",
+            "company": {
+                "id": null,
+                "name": "Alfil Juvenil JE",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGsAjqI_arVIQ/company-logo_400_400/company-logo_400_400/0/1630586957748?e=1749081600&v=beta&t=MSYhpEYM0OY3i3m1GbzK25LYGwB-QaxGQ_7z6AKZHJU",
+                "url": "https://www.linkedin.com/company/alfil-juvenil-je/"
+            },
+            "cause": "EDUCATION",
+            "description": null
+        }
+    ],
+    "skills": [
+        "Análisis de datos",
+        "Gestión por objetivos",
+        "direccion de equipos",
+        "Gestión de proyectos",
+        "Dirección de equipos",
+        "Gestión de equipos de proyectos",
+        "Marketing digital",
+        "Trabajo en equipo",
+        "Gestión de relaciones con clientes (CRM)",
+        "Gestión de ventas",
+        "Gestión de cuentas",
+        "Ventas",
+        "Marketing",
+        "Publicidad",
+        "Turismo",
+        "Relaciones públicas",
+        "Clases particulares",
+        "Eventos"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

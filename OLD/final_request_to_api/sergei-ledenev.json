@@ -1,0 +1,559 @@
+{
+    "profile_id": "sergei-ledenev",
+    "first_name": "Sergei",
+    "last_name": "Ledenev",
+    "sub_title": "Founding Software Engineer at Stealth startup, ex-Revolut, ex-Yandex",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/C4E03AQHlsmkrAyGbuQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516524087483?e=1749081600&v=beta&t=PIBWw5EIExB7c2mAUilH_3_LZzy5Gw97NkuSwYlARHg",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAA--tXcBRvt9iuND7Koh_JZb9celZPWR1mY",
+    "object_urn": 264156535,
+    "birth_date": null,
+    "summary": "With nearly 20 years of experience as a software engineer, I currently serve as the founding software engineer and tech lead at a Stealth Startup in London. I am responsible for designing and developing a reliable, scalable cloud-based technology stack with a focus on extensive data processing. My expertise in Python, complemented by hands-on experience with Java, Kubernetes (k8s), Airflow, and Apache Beam, enables me to build efficient and robust solutions.\n\nI architect systems that provide reliable access to unreliable third-party data sources, addressing complex challenges around Know Your Business (KyB). My work is focused on delivering high-performance, scalable solutions that drive our projects forward.\n\nI’m passionate about roles where I can make a significant impact, pushing the boundaries of technology and creating innovative products.",
+    "location": {
+        "country": "United Kingdom",
+        "short": "London, England",
+        "city": "London",
+        "state": "England",
+        "default": "London, England, United Kingdom"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Russian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2004
+                }
+            },
+            "school": {
+                "name": "Moscow State Institute of Radio Engineering, Electronics and Automation (Technical University) ",
+                "logo": null,
+                "url": "https://www.linkedin.com/school/%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82/"
+            },
+            "degree_name": null,
+            "description": null,
+            "field_of_study": "Computer Science",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18583501,
+                "name": "Stealth Startup",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1749081600&v=beta&t=HdK9rAhohenNit4H2D0XKcK-Ggz-Qoos_bPVstE0H2Q",
+                "url": "https://www.linkedin.com/company/stealth-startup-careers/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Stealth Startup",
+                    "description": null,
+                    "title": "Founding Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 42304792,
+                "name": "Adsum",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHQinWsbfg58w/company-logo_400_400/company-logo_400_400/0/1714552643138/adsum_finance_logo?e=1749081600&v=beta&t=8VxSsyAuUlsUTqEiAr_pQDe7KliTlZeb6xphwDHakc8",
+                "url": "https://www.linkedin.com/company/adsum-works/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Adsum",
+                    "description": "At Adsum, I led the transition of our solution from MVP to production, enhancing its performance and reliability. I introduced key technologies that unlocked further business growth by enabling efficient handling of VAT, R&D Tax Credits, and Creative Industry Tax Credits for complex, multi-entity businesses. Additionally, I improved the technical capabilities of the team through knowledge-sharing sessions and the introduction of modern Software Development Life Cycle (SDLC) practices, ensuring our platform could provide Instant VAT Refunds within 60 minutes.",
+                    "title": "Principal Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "As a Lead Software Engineer in the FinCrime department, I played a pivotal role in developing and optimizing low-latency feature engineering solutions for machine learning models. My work involved designing and implementing robust data pipelines that enhanced the accuracy and efficiency of fraud detection processes. Additionally, I served as a functional manager and mentor for up to 10 engineers across various teams, fostering their professional development and enhancing team collaboration.\n\nKey Contributions:\n\n- Led the architecture and development of scalable data processing solutions to support real-time decision-making in fraud prevention.\n- Collaborated with cross-functional teams to integrate machine learning models into production systems, ensuring high availability and reliability.\n- Utilized Infrastructure as Code (IaC) principles to automate deployment and management of cloud resources, improving operational efficiency.\n- Championed best practices in data engineering and cloud computing, enhancing team productivity and solution performance.\n- Mentored engineers by providing guidance, conducting knowledge-sharing sessions, and promoting a culture of continuous learning and innovation.",
+                    "title": "Lead Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Yandex",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Yandex",
+                    "description": "At Yandex I worked on afisha.yandex.ru project, which provide a service for selling tickets to events, shows and movies.",
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "United Media Agency (owned by Mail.ru Group)",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "United Media Agency (owned by Mail.ru Group)",
+                    "description": "We started most popular in Russia musical streaming service based on social networks owned by Mail.ru Group (vk.com and ok.ru), right now service is known under the name of Boom.\n- My team was responsible for all media data retrieval and management processes (500+ Tb media files). (Python3, Django, Celery, PostgreSQL)\n- Created analytical platform which serves 500+ mil events per day.  (Python3, Hadoop, Kafka, Clickhouse)\n- As team lead I was responsible for team planning, hiring and people motivation.\n\nIn 2018 was acquired by Mail.ru Group for 100kk$",
+                    "title": "Senior Software Developer, tech lead",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 8979,
+                "name": "МегаФон",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHA17vhR-Og0g/company-logo_400_400/company-logo_400_400/0/1631340177461?e=1749081600&v=beta&t=xhhJm9UJ0KITTkG6EDSlnsANXrF02uIlUXuNzvK41fk",
+                "url": "https://www.linkedin.com/company/megafon/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "МегаФон",
+                    "description": "As a fullstack developer I've created new look for musical service trava.ru. Technology stack: Php, Oracle, JavaScript, BackboneJS",
+                    "title": "Senior Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 204630,
+                "name": "X5 Retail Group",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHKCLFx9ie4PA/company-logo_400_400/company-logo_400_400/0/1630647862163/x5_retail_group_logo?e=1749081600&v=beta&t=qRwfrspAwBzmqZmCtcfrhCYiJORtE2E-cO2DrXAHKY0",
+                "url": "https://www.linkedin.com/company/x5group/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "X5 Retail Group",
+                    "description": "Fullstack developer for e5.ru (currently closed) e-commerce project. Start developing a new warehouse management solution.",
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "AMF.ru",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2010
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russian Federation",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2010
+                        },
+                        "end": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "AMF.ru",
+                    "description": "Support and develop internal ERP solution for e-commerce project. Automated some processes in warehouse management and logistics.",
+                    "title": "Software Developer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "centre.ru",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2007
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2007
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "centre.ru",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 61913,
+                "name": ".masterhost",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/.masterhost/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2005
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2007
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Moscow, Russia",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2007
+                        }
+                    },
+                    "company": ".masterhost",
+                    "description": null,
+                    "title": "Technical Support Specialist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Python",
+        "Data Engineering",
+        "Java",
+        "Site Reliability Engineering",
+        "DevOps",
+        "Kubernetes",
+        "Trino",
+        "ClickHouse",
+        "Terraform",
+        "Infrastructure as code (IaC)",
+        "PostgreSQL",
+        "Cloud Computing",
+        "Google Cloud Platform (GCP)",
+        "High Availability",
+        "Amazon Web Services (AWS)",
+        "Linux System Administration",
+        "SQL",
+        "Python (Programming Language)",
+        "Airflow",
+        "Apache Airflow"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

@@ -1,0 +1,882 @@
+{
+    "profile_id": "baraakoshak",
+    "first_name": "Baraa",
+    "last_name": "Koshak",
+    "sub_title": "Founder & CEO @ Abwab.ai, AI-powered MSME underwriting | Ex-Revolut, Ex-McKinsey, Ex-Square of Saudi (Hala), Ex-EdTech Startup (Ranam) | Fintech Enthusiast",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQGme9diLxn3kA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1725637529433?e=1749081600&v=beta&t=NgJRaT9grOASG5ylwT5GEFVtD2YoKMmz7knd6UnfEig",
+    "background_image": "https://media.licdn.com/dms/image/v2/D4D16AQF_RG2zbiBKIQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730230101307?e=1749081600&v=beta&t=wgjWr1dmkf-sx_T9h492T15z6qZznC5k5UKD3OOdK9I",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAcdlWwBOdwB2f1eV4Iac4n7_9DmseijhFE",
+    "object_urn": 119379308,
+    "birth_date": null,
+    "summary": "I am a transformational start-up leader who is driven by challenges, undeterred by obstacles, and committed to furthering standards of excellence. I am instrumental in mastering new skills, techniques, and technologies while prioritizing and completing projects within stringent deadlines. Throughout my career, I am proficient in building and strengthening professional relationships.\n\n• I am an instrumental C-level executive: who excels at delivering exponential growth by anticipating, identifying, and capitalising on consumer and industry needs, as well as uncovering and providing untapped business development opportunities, particularly in the fintech sector.\n• I am well-versed in equipping team personnel with the required skills and methodologies to promote leadership development, optimise workflow, and achieve work efficiency goals.\n• I excel at identifying anomalies, determining root causes, and proposing value-added solutions to facilitate corrective actions.\n• I am a talented software developer and business development strategist with solid start-up experience and the ability to drive collaborative efforts to award-winning recognition.\n• I am adept at developing product and strategies while serving as SME to improve work efficiency and achieve set organizational objectives.\n• Well-versed in utilising excellent interpersonal, analytical, and time management aptitudes to manage and support objectives aimed to improve team performance and dependability in fintech and related industries.\n\nI have demonstrated a history of leveraging strong communication and problem-solving skills to forge and nurture professional relationships with all levels of stakeholders from diversified roles and disciplines. I possess in-depth knowledge and understanding of creating and working in an environment based on open communication, respect, accountability, and creativity. While others take pride in meeting all standards set before them, my passion is for delivering service that goes beyond organizational expectations, creating a win-win scenario for everyone involved! \n\nPlease feel free to contact me with any thoughts, comments, or questions about my work as I'm always interested in making new professional acquaintances.",
+    "location": {
+        "country": "Saudi Arabia",
+        "short": "Riyadh",
+        "city": null,
+        "state": null,
+        "default": "Riyadh, Saudi Arabia"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [
+        {
+            "url": null,
+            "title": "Product Manager Certificate",
+            "description": "Product Manager Certificate from Product School",
+            "image": "https://media.licdn.com/dms/image/v2/C4D2DAQHHHBdd8J5DGw/profile-treasury-document-cover-images_1920/profile-treasury-document-cover-images_1920/0/1602856853910?e=1744502400&v=beta&t=by2Spjm_pRFw6RItQ8e6QZDkp4vy3GY60Ph1-HN8kEQ"
+        },
+        {
+            "url": null,
+            "title": "Oxford Fintech Programme ",
+            "description": "Delighted to have successfully completed the Oxford FinTech Programme, in which I have met some fantastic, like-minded people during the programme, learned from world leading experts in #fintech and built on my knowledge in the #financial sector to ensure building the best #products 🚀 ",
+            "image": "https://media.licdn.com/dms/image/v2/C562DAQFZS2HnUMCmiw/profile-treasury-document-cover-images_1920/profile-treasury-document-cover-images_1920/0/1586707731092?e=1744502400&v=beta&t=xgBD2haDz5mMhY7p-av0GtFq5tEuXY9PdfzOSv9Vl88"
+        }
+    ],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "Arabic",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "Boston University",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFBK74krMig1Q/company-logo_400_400/company-logo_400_400/0/1631319084422?e=1749081600&v=beta&t=wsGdtW8ZfZrzzhcSJMOvIpjxkPLUzW3rECzfhzb0c-U",
+                "url": "https://www.linkedin.com/school/boston-university/"
+            },
+            "degree_name": "Bachelor of Engineering (B.E.)",
+            "description": null,
+            "field_of_study": "Electrical Engineering & Computer Science ",
+            "grade": "GPA- 3.5; graduated Cum Laude Honors"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Product School",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGODY7RuiroaA/company-logo_400_400/company-logo_400_400/0/1688233590665?e=1749081600&v=beta&t=sZoN9YoYLRXqNwQ49MuVzXuyFsT0wNMgVvslPXbf5IY",
+                "url": "https://www.linkedin.com/school/product-school/"
+            },
+            "degree_name": "Product Management Certificate",
+            "description": null,
+            "field_of_study": "Product Management",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "University of Oxford",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1749081600&v=beta&t=3PXqCLF3xEIEVeTD-HWRHmjtdl-MDsj2cU1lC7R-uBY",
+                "url": "https://www.linkedin.com/school/oxforduni/"
+            },
+            "degree_name": "Oxford Fintech Programm",
+            "description": null,
+            "field_of_study": "Banking and Financial Support Services",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Berklee College of Music",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFrls5Lt4EHxQ/company-logo_400_400/company-logo_400_400/0/1648670664526/berklee_college_of_music_logo?e=1749081600&v=beta&t=EkBms0cwPWO56Ix_mjCLjTZExhfFPidd4ztxENeMNVc",
+                "url": "https://www.linkedin.com/school/berklee-college-of-music/"
+            },
+            "degree_name": null,
+            "description": null,
+            "field_of_study": "Oud Performance and Arabic Music Theory",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "school": {
+                "name": "University of Pennsylvania",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHnbnsnJlBiZg/company-logo_400_400/company-logo_400_400/0/1630601168515/university_of_pennsylvania_logo?e=1749081600&v=beta&t=FH_ETLPK-CHIx7cknCDQKBIPnzCoO79uEjs8idANdhM",
+                "url": "https://www.linkedin.com/school/university-of-pennsylvania/"
+            },
+            "degree_name": "University Connection Program",
+            "description": null,
+            "field_of_study": "Math and English",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [
+        {
+            "title": "2nd place at ArabNet startup regional competition for Ranam",
+            "description": null,
+            "issuer": "ArabNet",
+            "date": {
+                "month": null,
+                "day": null,
+                "year": 2017
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Real Estate Economics and Finance",
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "The London School of Economics and Political Science (LSE)",
+            "url": "https://lse.credential.getsmarter.com/3c8529b6-3dda-4f89-926d-f7273d6e5e6d",
+            "license_number": "59875041",
+            "display_source": "getsmarter.com",
+            "company": {
+                "id": null,
+                "name": "The London School of Economics and Political Science (LSE)",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEmNyPMuyVfyQ/company-logo_400_400/company-logo_400_400/0/1657529757949/london_school_of_economics_logo?e=1749081600&v=beta&t=s2vntm1jW8adEV9mgSELCrzQtg2OLnUyRoAoQbtRiUs",
+                "url": null
+            }
+        },
+        {
+            "name": "Product Manager Certificate",
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Product School",
+            "url": null,
+            "license_number": "24000758",
+            "display_source": null,
+            "company": {
+                "id": null,
+                "name": "Product School",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGODY7RuiroaA/company-logo_400_400/company-logo_400_400/0/1688233590665?e=1749081600&v=beta&t=sZoN9YoYLRXqNwQ49MuVzXuyFsT0wNMgVvslPXbf5IY",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [
+        {
+            "name": "Astaza Ensemble",
+            "position": "Oud Player",
+            "date_start": {
+                "month": 1,
+                "day": null,
+                "year": 2017
+            },
+            "date_end": {
+                "month": 5,
+                "day": null,
+                "year": 2018
+            }
+        },
+        {
+            "name": "Boston University",
+            "position": "Research Assistant",
+            "date_start": {
+                "month": 10,
+                "day": null,
+                "year": 2014
+            },
+            "date_end": {
+                "month": 8,
+                "day": null,
+                "year": 2016
+            }
+        },
+        {
+            "name": "Vight App",
+            "position": "Co-Founder",
+            "date_start": {
+                "month": 1,
+                "day": null,
+                "year": 2014
+            },
+            "date_end": {
+                "month": 5,
+                "day": null,
+                "year": 2015
+            }
+        }
+    ],
+    "projects": [
+        {
+            "title": "OudStick",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "description": "My Electrical Engineering Senior Project was the OudStick, an electric & portable MIDI Oud instrument to play & compose Arabic music. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Baraa",
+                    "last_name": "Koshak",
+                    "name": null,
+                    "headline": "Founder & CEO @ Abwab.ai, AI-powered MSME underwriting | Ex-Revolut, Ex-McKinsey, Ex-Square of Saudi (Hala), Ex-EdTech Startup (Ranam) | Fintech Enthusiast"
+                }
+            ]
+        },
+        {
+            "title": "ML Grammar Checker",
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "description": "As part of a graduate level software engineering course, I have built a ML Grammar Checker through syntactic n-gram and neural network modeling, developed in Java. ",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Baraa",
+                    "last_name": "Koshak",
+                    "name": null,
+                    "headline": "Founder & CEO @ Abwab.ai, AI-powered MSME underwriting | Ex-Revolut, Ex-McKinsey, Ex-Square of Saudi (Hala), Ex-EdTech Startup (Ranam) | Fintech Enthusiast"
+                }
+            ]
+        },
+        {
+            "title": "Research on Producing Environmentally Friendly Energy using Magnets",
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "description": "Producing environmentally friendly energy through utilizing magnets in making permanent rotational movement. Won 6th place among 200 in the innovation section of the national Most Competitive Youth Competition organized by Saudi Arabian General Investment Authority and Cisco.",
+            "contributors": [
+                {
+                    "type": "standardizedContributor",
+                    "first_name": "Baraa",
+                    "last_name": "Koshak",
+                    "name": null,
+                    "headline": "Founder & CEO @ Abwab.ai, AI-powered MSME underwriting | Ex-Revolut, Ex-McKinsey, Ex-Square of Saudi (Hala), Ex-EdTech Startup (Ranam) | Fintech Enthusiast"
+                }
+            ]
+        }
+    ],
+    "publications": [],
+    "courses": [
+        {
+            "name": "Advance Data Structures & Algorithms",
+            "number": null
+        },
+        {
+            "name": "Business Development & Entrepreneurship",
+            "number": null
+        },
+        {
+            "name": "Computer Organization & Architecture",
+            "number": null
+        },
+        {
+            "name": "Digital Signal Processing",
+            "number": null
+        },
+        {
+            "name": "Music Programing & Computational Audio",
+            "number": null
+        },
+        {
+            "name": "Music Thoery",
+            "number": null
+        },
+        {
+            "name": "Product Development",
+            "number": null
+        },
+        {
+            "name": "Project Management",
+            "number": null
+        },
+        {
+            "name": "Software Development",
+            "number": null
+        }
+    ],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 104619548,
+                "name": "Abwab.ai",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG1KLLI2xb5Zw/company-logo_400_400/company-logo_400_400/0/1724950338485/abwab_ai_logo?e=1749081600&v=beta&t=jEY0I2sMlbQbfpLiPh4S5QYn7yHOA8tIWrW2nUhdfvw",
+                "url": "https://www.linkedin.com/company/abwab-ai/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Riyadh, Saudi Arabia",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Abwab.ai",
+                    "description": null,
+                    "title": "Founder, CEO",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5233789,
+                "name": "TomouhCL",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG1RPLw7kp_9A/company-logo_400_400/company-logo_400_400/0/1630585102167/tomouh_logo?e=1749081600&v=beta&t=05FacKJEtWTdpCK5iUNDdldbCvN5d8HVUmkoEQ9lu7E",
+                "url": "https://www.linkedin.com/company/tomouhcl/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "TomouhCL",
+                    "description": null,
+                    "title": "Member",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2340783,
+                "name": "Entrepreneur First",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHwcaHXTfOUHA/company-logo_400_400/B4EZVb8xG8GgAY-/0/1741004411721/entrepreneurs_first_logo?e=1749081600&v=beta&t=8LHzcX-4Rlk3dGFnUWdDEfhJ24Cbnj9IYtVy7qwxjjY",
+                "url": "https://www.linkedin.com/company/entrepreneurs-first/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Entrepreneur First",
+                    "description": null,
+                    "title": "Founder in Residence",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "In my day-to-day role, I am spearheading operations involved in major global expansion functions and projects to empower the company's agility in new market entry. I administer data localization projects to enable faster new market entry, starting with India. Furthermore, I spearhead end-to-end functions related to the development of Arachnid - a product profile back-office tool to streamline product operations and enable the company's agility and expansion efforts.\n\nFollowing are some of the key highlights of my accomplishments and contributions during this role:\n• Led key product activities for soft launch in +10 countries by leading seamless execution of go-to-market strategies and managing product testing.\n• Developed a company-wide product register to enable product performance monitoring, per feature per product, of activities related to profitability, quality (NPS, testing, bugs), and competitive landscape.\n• Achieved efficient product launches for the finance department from 8-12 down to 4-6 weeks by steering a full spectrum of designing expansion procedures and integration guides, whilst streamlining core ledger and reconciliation integrations.",
+                    "title": "Product Strategy & Operations Manager",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 10094863,
+                "name": "Mozn",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGIMiSjUsJlKw/company-logo_400_400/company-logo_400_400/0/1662537646320/mozn_logo?e=1749081600&v=beta&t=dA4ZzlXMycMTP2qXmt3ZX2CeRxkM7Ivi8zahv2qWtPc",
+                "url": "https://www.linkedin.com/company/mozn/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Riyadh, Saudi Arabia",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Mozn",
+                    "description": "During my tenure here, I led key strategic initiatives for driving product initiatives from inception to execution and iteration within budgetary and time constraints. \n\nFollowing are some of the key highlights of my contributions during this role:\n• Executed operations involved in overall market research and analysis.\n• Evaluated, designed, and scoped three FinCrime/AML products, including risk scoring, transaction screening, and transaction monitoring.",
+                    "title": "Founding Team Member | FinTech SME & Product Consultant",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 13210551,
+                "name": "Resal - رسال",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHh848-J3UJFw/company-logo_400_400/company-logo_400_400/0/1708864600705/resal_logo?e=1749081600&v=beta&t=tkZQtOgxUehBPUNb6dO4ZRTopsZRlzPVFgx7brMElAc",
+                "url": "https://www.linkedin.com/company/resal/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Jeddah, Makkah, Saudi Arabia",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Resal - رسال",
+                    "description": "In my role, I distinguished market prospects and scoped new FinTech product offerings in B2B gift card management. I performed seamless development of multiple business strategies and roadmaps, whilst leading strategic initiatives for projects. I explored opportunities for projects based on the analytical understanding of the business as well as business requirements, epics, and user stories. I developed and deployed 'go-to-market' strategies for ongoing projects.\n\nFollowing are some of the key highlights of my accomplishments during this role:\n• Established partnerships with local banks required for new product offerings.\n• Streamlined processes involved in identifying and applying for the required financial license from the regulator (Saudi Central Bank - SAMA).",
+                    "title": "Product & Commercial Strategy Consultant",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 28976305,
+                "name": "Hala",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHJ7afPaqTJSQ/company-logo_400_400/B4EZUqUdCeHUAY-/0/1740171762777?e=1749081600&v=beta&t=2_bI0fmk2PqvfjQlnh9W6hQHOdOCTOpDopjDkhrZQkM",
+                "url": "https://www.linkedin.com/company/halapayments/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Riyadh, Saudi Arabia",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "Hala",
+                    "description": "During my tenure, I headed end-to-end operations of financial modelling for company strategy and product roadmap alignment, performance reporting and product lifecycle management – supported by user behaviour analysis. I spearheaded functions related to the transformation of a payment platform into a digital bank by forecasting and developing revenue targets and establishing business growth roadmaps and product rollout strategy. I administered product development for banking APIs, bill payment, debit cards, digital KYC, international remittance, IBAN, Visa & Mada Cards, spending insight, and open-loop payment link. Furthermore, I designed and built live dashboards in Tableau to monitor post-product release activity and user behaviour, ensuring highest standards for customer satisfaction and service. \n\nKey Highlights of My Contributions:\n• Executed business strategies involved in product growth along with recruiting/hiring designers and product managers.\n• Delivered support in navigating regulatory requirements for Saudi Central Bank’s Electronic Money Institute (SAMA EMI) license and developing strategic business alliances with partner banks.\n• Achieved doubling activation rate, +3x organic customer base growth rate, and increasing gross profit by +20% through pioneering the launch of digital banking business and its set of products.",
+                    "title": "Founding Team Member | Business & Product Director",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 11050991,
+                "name": "Ranam",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH7Q4qdRKn1ig/company-logo_400_400/company-logo_400_400/0/1631348840492?e=1749081600&v=beta&t=gcJLKGQNjoEmH4hT9e1OkVC4tBDqw_nuv5b9awtjwlw",
+                "url": "https://www.linkedin.com/company/ranamjam/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greater Boston Area",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Ranam",
+                    "description": "During my role, I envisioned and led the start-up of an Arabic music teaching platform that received start-up funding from Saudi Aramco (Waed), KAUST, Takamol (910ths), and King Abdulaziz City for Science and Technology (Baidr Incubator). I directed a highly analytical team of ten employees for operations, sales, marketing, product, and technical development.\n\nKey Highlights of My Accomplishments:\n• Accomplished digital product reach of over 5K+ impressions, 2K+ songs played, 1500+ sign-ups, and 75+ DAU within two months of organic product launch.\n• Achieved an award of 2nd place at ArabNet regional competition and received recognition in Top Tech Startups within Saudi Arabia by Arzan Venture Capital.\n• Designed and developed the first digital platform to deliver real-time performance feedback for Arabic music with proprietary audio signal processing algorithm that analyses music notes using Swift and C#.",
+                    "title": "Founder & CEO | Product Lead",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1371,
+                "name": "McKinsey & Company",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQFTxAlpCMGXuw/company-logo_400_400/B56ZVR8QEtHQAc-/0/1740836504187/mckinsey_logo?e=1749081600&v=beta&t=_uc765tJSFs18vcimoFth-dcXPxvuMe2e1JoN9ILT2E",
+                "url": "https://www.linkedin.com/company/mckinsey/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Riyadh, Saudi Arabia",
+                    "date": {
+                        "start": {
+                            "month": null,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "McKinsey & Company",
+                    "description": "Worked with local government entities on strategy, operations, and performance excellence.",
+                    "title": "Business Analyst",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2104830,
+                "name": "77 Media",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFWxsMqb3_2lQ/company-logo_400_400/company-logo_400_400/0/1631332376063?e=1749081600&v=beta&t=qUTTrem2yzW_deHgTEqrn0Eyh3SsFlcHXN4t6etz69c",
+                "url": "https://www.linkedin.com/company/77-media/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Jeddah, Saudi Arabia",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "77 Media",
+                    "description": "Over my tenure, I executed overall facets related to developing digital product marketing strategies. I streamlined and prioritised activities based on business impact to ensure optimal efficiency.\n\nKey Contributions:\n• Maximised engagements on Facebook by 70K likes, Twitter by 6K followers, and Instagram by 1.5K followers via unpaid campaigns.\n• Developed and deployed a social media marketing program, whilst coordinating product development and collaborating with developers, designers, and external stakeholders.\nKey Contributions:",
+                    "title": "Product Manager & Digital Marketing Specialist",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Entrepreneurship",
+        "Project Management",
+        "Strategic Planning",
+        "Marketing Strategy",
+        "Business Strategy",
+        "Product Management",
+        "Agile Methodologies",
+        "Scrum",
+        "Start-ups",
+        "Venture Capital",
+        "Data Analysis",
+        "Data Visualization",
+        "Research",
+        "User Experience",
+        "Mobile Applications",
+        "Event Management",
+        "Strategy",
+        "Analysis",
+        "User Interface Design",
+        "Social Media"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

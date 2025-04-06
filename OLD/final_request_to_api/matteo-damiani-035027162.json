@@ -1,0 +1,482 @@
+{
+    "profile_id": "matteo-damiani-035027162",
+    "first_name": "Matteo",
+    "last_name": "Damiani",
+    "sub_title": "Founder @ Stealth |  Ex-Revolut | Innovation I Trading",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQEHo-HtpM5_uA/profile-displayphoto-shrink_800_800/B4DZXuFe.aHkAc-/0/1743456170619?e=1749081600&v=beta&t=5ZezVZ4JsJ6cd3Q1S5zrS2cRFEjKfVxUCNy1aqetwJE",
+    "background_image": "https://media.licdn.com/dms/image/v2/D4D16AQE12RUEPxdw6A/profile-displaybackgroundimage-shrink_200_800/B4DZVIK_fQHkAU-/0/1740672596293?e=1749081600&v=beta&t=_KkRHBnYI25vUw1FL6XfBLWFxrUNTh3UY2Edt0Kuo40",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAACbNcWkBcTAyPwfZbcFKNkGbRkQ1MCAB5eY",
+    "object_urn": 650998121,
+    "birth_date": {
+        "month": 1,
+        "day": 2,
+        "year": null
+    },
+    "summary": "Building to Innovate in the Finance, Education and Data space and helping others startups do the same. \n\nLet's connect :)",
+    "location": {
+        "country": "France",
+        "short": "Paris, Île-de-France",
+        "city": "Paris",
+        "state": "Île-de-France",
+        "default": "Paris, Île-de-France, France"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Italian",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ]
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "school": {
+                "name": "Erasmus University Rotterdam",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH6a-XX__UABw/company-logo_400_400/company-logo_400_400/0/1630595251002/erasmus_university_rotterdam_logo?e=1749081600&v=beta&t=T07ic0Yr8u4e6nOCkmHbIEKQBYnaBaQaAwgnAisySCI",
+                "url": "https://www.linkedin.com/school/erasmus-university-rotterdam/"
+            },
+            "degree_name": "Master's degree",
+            "description": "Ranked top 15 Business Schools in Europe by @Financial Times \n\n- Top 30 Masters in Finance pre-experience @ FT\n- Top 30 Masters in Finance worldwide, QS Rankings in 2023.",
+            "field_of_study": "Finance and Investments",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "IÉSEG School of Management",
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQHJCCpRB5oGqQ/company-logo_400_400/company-logo_400_400/0/1631381093054?e=1749081600&v=beta&t=9TKysskrhkvu4DMzXPErws3xZqT7BSgqqyR12Y_Unyg",
+                "url": "https://www.linkedin.com/school/ieseg-school-of-management/"
+            },
+            "degree_name": "Echange",
+            "description": null,
+            "field_of_study": "Business Administration and Management, General",
+            "grade": "4.0"
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "school": {
+                "name": "Maastricht University School of Business and Economics",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHfHQcKud_mbQ/company-logo_400_400/company-logo_400_400/0/1649423271490/maastricht_university_school_of_business_and_economics_logo?e=1749081600&v=beta&t=KW3U7PSELvOKKegEDMZob_JBxP8gRmhwIfPK88clbEk",
+                "url": "https://www.linkedin.com/school/maastricht-university-school-of-business-and-economics/"
+            },
+            "degree_name": "Bachelor's degree",
+            "description": null,
+            "field_of_study": "International Business",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18583501,
+                "name": "Stealth Startup",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1749081600&v=beta&t=HdK9rAhohenNit4H2D0XKcK-Ggz-Qoos_bPVstE0H2Q",
+                "url": "https://www.linkedin.com/company/stealth-startup-careers/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2025
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Italy",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2025
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Stealth Startup",
+                    "description": "Reducing Information asymmetry for retail investors",
+                    "title": "Co-founder & CEO",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18698136,
+                "name": "Various Companies",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFEU28_d7gc6w/company-logo_400_400/company-logo_400_400/0/1631357179020/various_boards_logo?e=1749081600&v=beta&t=6K6Pd3RWoF5_G7sqiw_FTM7MXhJvsTpymmyWM7tNRmU",
+                "url": "https://www.linkedin.com/company/various-boards/",
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2024
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Remote",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Various Companies",
+                    "description": "Freelancing Financial and consultancy services to startups across various sectors from Finance to Fashion on content, strategy, sales and Finance",
+                    "title": "Freelancing on Strategy, Finance & Operations",
+                    "employment_type": "Freelance"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Paris, Île-de-France, France",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "- Responsible for the deployment of Revolut business in the Italian market\n- Led opening of the Italian market for B2B products\n- Negotiated and closed client profiles from startups to larger corporation",
+                    "title": "B2B Market Executive",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 27221633,
+                "name": "Antler",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGcO8WhScYJvg/company-logo_400_400/company-logo_400_400/0/1630652634929/antlerglobal_logo?e=1749081600&v=beta&t=kVakXl3C13dM2XdnwiwJuarJK0yLKr2EwKHC4gyLSms",
+                "url": "https://www.linkedin.com/company/antlerglobal/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Paris, Île-de-France, France",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "Antler",
+                    "description": "Co-founded a holistic social network for startups and VC's based on blockchain technology and AI\n\n- Co-founded 2 startup in the technology space\n- Validation of problem area\n- Building MVP/Market testing",
+                    "title": "Entrepreneur In Residence",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18598032,
+                "name": "Veesion",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFdA7eX8plBTQ/company-logo_400_400/company-logo_400_400/0/1687762401161/veesionsas_logo?e=1749081600&v=beta&t=LcrJvgqLtR9mz2gQvNQcuzVVueJ8RgapD70DKgbrXDg",
+                "url": "https://www.linkedin.com/company/veesionsas/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Paris, Île-de-France, France",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Veesion",
+                    "description": "Helped scale the business side and sales of the Veesion product in the UK market. In charge of scaling the AI based product the company was developing and refining by actively managing sales funnel and training SDR prospecting. Developed skills and AI training in the company and got acquainted with new technologies, such as image and movement recognition.\n\n- Active client negotiation \n- Meeting setup and pipeline creation \n- Product presentation \n- Building a sale from zero\n- AI & product\n- Led SDR trainings 10+ ppl\n- B2B Sales",
+                    "title": "AI Market Executive",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 15142521,
+                "name": "Maastricht University School of Business and Economics",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHfHQcKud_mbQ/company-logo_400_400/company-logo_400_400/0/1649423271490/maastricht_university_school_of_business_and_economics_logo?e=1749081600&v=beta&t=KW3U7PSELvOKKegEDMZob_JBxP8gRmhwIfPK88clbEk",
+                "url": "https://www.linkedin.com/school/maastricht-university-school-of-business-and-economics/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Maastricht, Limburg, Netherlands",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Maastricht University School of Business and Economics",
+                    "description": "Teaching finance courses to master & Bachelor students. Content focused on Entrepreneurial Finance, Sustainable Finance and Investment Analysis and Portfolio Management.\n\n- Led classed of 15+ students\n- Advised and helped on problem solving and exam preparation \n- Curated and facilitated class exchanges and discussions on financial related topics \n- Prepared classed for final examination\n- Helped students build presentations and strucutre their speeches and materials",
+                    "title": "Teaching Assistant",
+                    "employment_type": "Contract"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 19804395,
+                "name": "KEYTOCOLLEGE LTD",
+                "logo": null,
+                "url": "https://www.linkedin.com/company/keytocollege-ltd/",
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Shaftesbury, UK",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "KEYTOCOLLEGE LTD",
+                    "description": "Co-founder and Head of Sales:\n\nAs co-founder and Head of Sales, I was in charge of client retention and acquisition. I personally developed the investment and go to market strategy of the business, helping secure over 100 clients in the span of a year, reaching 150k in ARR.\n\n- Built relationships with key investors and clients\n- ARR brought to a constant from year 1\n- Helped students get into the best universities over Europe\n- Scaled network of partner high schools",
+                    "title": "Co-Founder & Head of Sales",
+                    "employment_type": "Self-employed"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Visual Basic for Applications (VBA)",
+        "Content Strategy",
+        "Small Business Consulting",
+        "Freelancing",
+        "Content Management",
+        "Strategy",
+        "Organizational Development",
+        "Consultancy Services",
+        "Financial Consulting",
+        "Youth Entrepreneurship",
+        "Entrepreneurship Development",
+        "Gamification",
+        "Team Management",
+        "Personal Finance",
+        "KYC",
+        "Debit Cards",
+        "Business Cards",
+        "Entrepreneurship",
+        "CEO",
+        "Creative Entrepreneurship"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

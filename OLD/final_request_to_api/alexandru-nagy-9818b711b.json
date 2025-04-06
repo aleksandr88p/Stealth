@@ -1,0 +1,464 @@
+{
+    "profile_id": "alexandru-nagy-9818b711b",
+    "first_name": "Alexandru",
+    "last_name": "Nagy",
+    "sub_title": "Building in Data",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQHrVU2aUNxEWA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1696778191334?e=1749081600&v=beta&t=dzl7wTIg3VUCwkgaMhr48WenFsYSFuTsr4maN1bdwwA",
+    "background_image": "https://media.licdn.com/dms/image/v2/C5116AQEbqkA_lhesqg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516883021044?e=1749081600&v=beta&t=DiTgzmUrYUXwemjtuhvjQ8uZ7UYJv9hN1_5-pxk3Q30",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAB3a_7EBYMmVGcryeNehBjQKhNHRjmjIH-Q",
+    "object_urn": 500891569,
+    "birth_date": null,
+    "summary": null,
+    "location": {
+        "country": "United Kingdom",
+        "short": "London, England",
+        "city": "London",
+        "state": "England",
+        "default": "London, England, United Kingdom"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "RO",
+            "language": "ro"
+        },
+        "supported_locales": [
+            {
+                "country": "RO",
+                "language": "ro"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Computer Software",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2024
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "school": {
+                "name": "University of Oxford",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_400_400/company-logo_400_400/0/1709206435851/oxforduni_logo?e=1749081600&v=beta&t=3PXqCLF3xEIEVeTD-HWRHmjtdl-MDsj2cU1lC7R-uBY",
+                "url": "https://www.linkedin.com/school/oxforduni/"
+            },
+            "degree_name": "MSc",
+            "description": null,
+            "field_of_study": "Software Engineering",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "school": {
+                "name": "Babes-Bolyai University",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGt0_HbZ0MrLg/company-logo_400_400/company-logo_400_400/0/1684743774441/universitatea_babe_bolyai_din_cluj_napoca_logo?e=1749081600&v=beta&t=suN456U5pGteBHz8-4OHvps6BU44MrY55etBCgPtyaw",
+                "url": "https://www.linkedin.com/school/ubbcj/"
+            },
+            "degree_name": "BSc",
+            "description": null,
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2018
+                }
+            },
+            "school": {
+                "name": "Sapienza Università di Roma",
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQF5OJVPD2RZjA/company-logo_400_400/company-logo_400_400/0/1631329806779?e=1749081600&v=beta&t=yGnh1EpZX3p2K8qAAIcZs4z24J3ElCUaFIHzNxi5xzk",
+                "url": "https://www.linkedin.com/school/sapienzauniversitadiroma/"
+            },
+            "degree_name": "Erasmus exchange",
+            "description": null,
+            "field_of_study": "Computer Science",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "school": {
+                "name": "National College Andrei Saguna",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFR2LweMFKuBA/company-logo_400_400/company-logo_400_400/0/1631305061683?e=1749081600&v=beta&t=-Qmxa7AMEswvK3b0T2Ctcp4lBu8QNHPXIIzMcEIAQBM",
+                "url": "https://www.linkedin.com/school/national-college-andrei-saguna/"
+            },
+            "degree_name": "Baccalaureate",
+            "description": null,
+            "field_of_study": "Mathematics and Computer Science",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Certified Kubernetes Administrator (CKA)",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "Cloud Native Computing Foundation (CNCF)",
+            "url": "https://www.credly.com/badges/f6c2e841-e2e3-438e-985c-4583af72af9f",
+            "license_number": "LF-jengwj5mne",
+            "display_source": "credly.com",
+            "company": {
+                "id": null,
+                "name": "Cloud Native Computing Foundation (CNCF)",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH5MvALB7nkQQ/company-logo_400_400/company-logo_400_400/0/1720630871456/cloud_native_computing_foundation_logo?e=1749081600&v=beta&t=6j-ZD-cA_37aS6e61GJM6UJmSZWjp_eOvK0Zdioj3sw",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 12596933,
+                "name": "Talos",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHXsr-g5adZsw/company-logo_400_400/company-logo_400_400/0/1719820160508/talos_trading_logo?e=1749081600&v=beta&t=ezkBMH-9imauYkWGrMsprz2RNTRS33o-hFmwpgsu-WA",
+                "url": "https://www.linkedin.com/company/talos-trading/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Talos",
+                    "description": null,
+                    "title": "Senior Data Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 12627879,
+                "name": "intropic.io",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFkplCIWG9SKQ/company-logo_400_400/company-logo_400_400/0/1652275989914/intropic_io_logo?e=1749081600&v=beta&t=2zTHwhbI54O-86xNnKbpAfz-BaPdnAfdvQobu0CqZcM",
+                "url": "https://www.linkedin.com/company/intropic-io/",
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2023
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2023
+                        }
+                    },
+                    "company": "intropic.io",
+                    "description": null,
+                    "title": "Senior Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Software Engineer",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 6825,
+                "name": "Bitdefender",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQElWgEOzZnGIA/company-logo_400_400/company-logo_400_400/0/1697632858614/bitdefender_logo?e=1749081600&v=beta&t=K-xlnZj0ujUgPIrFacHi0WYFAvULQsV2Dot4y9XFUG0",
+                "url": "https://www.linkedin.com/company/bitdefender/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 8,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Cluj-Napoca, Cluj, Romania",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 8,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Bitdefender",
+                    "description": null,
+                    "title": "Junior Software Engineer",
+                    "employment_type": "Part-time"
+                },
+                {
+                    "location": "Cluj-Napoca, Cluj, Romania",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Bitdefender",
+                    "description": null,
+                    "title": "Intern",
+                    "employment_type": "Full-time"
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [
+        {
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "role": "Curator & Organizer - TEDxYouth@PiataEnescu",
+            "company": {
+                "id": null,
+                "name": "TEDx",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHTEf7_fS2tBw/company-logo_400_400/company-logo_400_400/0/1631331577797?e=1749081600&v=beta&t=H-w3Bd-YsD4wjIg6_aWAD9u_AAwLfOkoDbzjw1Z9IVY",
+                "url": "https://www.linkedin.com/showcase/tedxofficial/"
+            },
+            "cause": "EDUCATION",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "role": "Member - Rotaract Club Visio Cluj-Napoca",
+            "company": {
+                "id": null,
+                "name": "Rotaract",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGYeYil44HjMg/company-logo_400_400/company-logo_400_400/0/1738600749808/rotaract_international_logo?e=1749081600&v=beta&t=fZZKE1bi6caW4ByANqBdRzDuwVETDn9OzFIZLGzoNI8",
+                "url": "https://www.linkedin.com/company/rotaract-international/"
+            },
+            "cause": "EDUCATION",
+            "description": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "role": "President - Interact Club Braşov",
+            "company": {
+                "id": null,
+                "name": "Interact: Rotary Sponsored Club",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHTvOAgweI0sQ/company-logo_400_400/company-logo_400_400/0/1631355208173?e=1749081600&v=beta&t=vVA3mnDRymJqRCJXrD7FM_WNsS4AWueBR8cOi0Bjug0",
+                "url": "https://www.linkedin.com/company/rotary-interact/"
+            },
+            "cause": "EDUCATION",
+            "description": null
+        }
+    ],
+    "skills": [
+        "Apache Beam",
+        "Go (Programming Language)",
+        "Google BigQuery",
+        "Market Data",
+        "Data Quality",
+        "Data Pipelines",
+        "Data Infrastructure",
+        "Data Integration",
+        "Python",
+        "PostgreSQL",
+        "Kubernetes",
+        "Terraform",
+        "Distributed Systems",
+        "Product Development",
+        "Continuous Integration and Continuous Delivery (CI/CD)",
+        "Docker",
+        "FastAPI",
+        "Apache Airflow",
+        "Data Lakes",
+        "Apache Flink"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

@@ -1,0 +1,503 @@
+{
+    "profile_id": "tasos-chatzimichailidis-33103624",
+    "first_name": "Tasos",
+    "last_name": "Chatzimichailidis",
+    "sub_title": "Chief Executive, Co-founder",
+    "profile_picture": null,
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAT83VUBhy3_xHKcyS6nBenSLv4WsK27iEU",
+    "object_urn": 83680597,
+    "birth_date": null,
+    "summary": "Top performing FinTech and InsurTech co founder chief executive across Europe, North America and Asia Pacific. As wefox CEO created Europe's largest InsurTech achieving a Billion in sales and profitability within 3 years. Now have my eyes set on building a multi-billion dollar InsurTech in the US by developing innovative technology, user centric product experience, sales & distribution, marketing, insurance product development, omni-channel customer service, and operations.",
+    "location": {
+        "country": "United States",
+        "short": "Redwood City, California",
+        "city": "Redwood City",
+        "state": "California",
+        "default": "Redwood City, California, United States"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Insurance",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1982
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1984
+                }
+            },
+            "school": {
+                "name": "Purdue University",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGUO9Kvy1lfEA/company-logo_400_400/company-logo_400_400/0/1630626191299/purdue_university_logo?e=1749081600&v=beta&t=cAYLRrZ35remY4C-Bdmo6mqG3b_L30K-vrQYxn-o7qo",
+                "url": "https://www.linkedin.com/school/purdue-university/"
+            },
+            "degree_name": null,
+            "description": null,
+            "field_of_study": "Insurance Management",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 37853600,
+                "name": "COVU",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE-es-fkPI8cg/company-logo_400_400/company-logo_400_400/0/1688444873517?e=1749081600&v=beta&t=c7yR7tJVYZynbIwSFQX6z_nRotKsHTkH1JDilA1eASU",
+                "url": "https://www.linkedin.com/company/covuinc/",
+                "employees": {
+                    "start": 51,
+                    "end": 200
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Redwood City, California, United States",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "COVU",
+                    "description": "Building a multi-billion dollar InsurTech in the US by developing innovative technology, user centric product experience, sales & distribution, marketing, insurance product development, omni-channel customer service, and operations.",
+                    "title": "Co-Founder",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, England, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2020
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "The chief executive of the Revolut Insurance business unit. Building and developing the worlds largest insurance managing general agency across all major insurance covers within the Revolut Financial SuperApp.",
+                    "title": "VP and Chief Executive of Insurance",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18137160,
+                "name": "wefox",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGAT44XV_KPOA/company-logo_400_400/company-logo_400_400/0/1689061340151/wefox_logo?e=1749081600&v=beta&t=PmNAvUs79IrKQklw7Tg9oVV99hYDklkkQ8C7n9JdyW8",
+                "url": "https://www.linkedin.com/company/wefox/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2020
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Berlin Area, Germany",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2020
+                        }
+                    },
+                    "company": "wefox",
+                    "description": "CEO of the largest European InsurTech, wefox, which has reinvented insurance at scale. Growing at over 300% in 2020 within DACH, Spain, Italy and accelerating international expansion across Europe.",
+                    "title": "CEO",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "Global Financial Services Consultancy",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Sydney, Australia",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Global Financial Services Consultancy",
+                    "description": "Business consultant delivering growth strategy development and execution achieving greater market share and margin. Specialising in multi-channel distribution and technology transformation within global financial services organisations.",
+                    "title": "Owner",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 165607,
+                "name": "QBE Insurance",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG8E4BrLB2s1w/company-logo_400_400/company-logo_400_400/0/1720407202797/qbe_logo?e=1749081600&v=beta&t=y3ZGnArqWo1PCnrSuoO8R85nTlEgeAhVuic64ebo5ws",
+                "url": "https://www.linkedin.com/company/qbe/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Sydney, Australia",
+                    "date": {
+                        "start": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "QBE Insurance",
+                    "description": "Business Owner and Director of Global Transformation Program.",
+                    "title": "Director Global Sales Transformation",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2979,
+                "name": "Allianz Group",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGHx9VjaPq_EQ/company-logo_400_400/company-logo_400_400/0/1630462389804/allianz_logo?e=1749081600&v=beta&t=ZOA3xQ6lDVaregD_43gZOsxOzWf1H1qWv51ueWWvLVg",
+                "url": "https://www.linkedin.com/company/allianz/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2000
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Munich Area, Germany and Moscow, Russia",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2005
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Allianz Group",
+                    "description": "People, process and platform transformation of Sales, Distribution and Marketing operations across Central and Eastern Europe.",
+                    "title": "Head of Sales and Marketing Central & Eastern Europe",
+                    "employment_type": null
+                },
+                {
+                    "location": "Singapore",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2002
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Allianz Group",
+                    "description": "People, process and platform transformation of Sales, Distribution and Marketing operations across Asia Pacific Region.",
+                    "title": "Head of Sales and Marketing Asia Pacific Region",
+                    "employment_type": null
+                },
+                {
+                    "location": "Munich Area, Germany",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2000
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2002
+                        }
+                    },
+                    "company": "Allianz Group",
+                    "description": "People, process and platform transformation of Sales, Distribution and Marketing operations across 60 countries and over $100 Billion of annual sales including target model vision and \"to-be\" operating model development and maintenance.",
+                    "title": "Head of Sales & Marketing, Growth Markets",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2978,
+                "name": "Allianz Life",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF8790tPQn8_A/company-logo_400_400/company-logo_400_400/0/1630642711355/allianz_life_logo?e=1749081600&v=beta&t=HClBT1EYQHLZVFh5SUykpqj5niuSf4tMKBcvXHb6uQ4",
+                "url": "https://www.linkedin.com/company/allianz-life/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 1989
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greater Minneapolis-St. Paul Area, USA",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 1989
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2000
+                        }
+                    },
+                    "company": "Allianz Life",
+                    "description": "Built, scaled and marketed a third party administration company with Allianz Life; distributing primarily Allianz and Pacific Life & Investment products including Life, Annuities, Disability and P&C Insurance through  401(k), Qualified Retirement Plans, Executive Deferred Compensation Plans, Section 125 Flexible Benefit Plans, Payroll Services, Financial Planning and Worksite Marketing.",
+                    "title": "Chief Executive Officer Field Marketing Organisation",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2690,
+                "name": "John Hancock Financial Services",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG79b2mUeYYLg/company-logo_400_400/company-logo_400_400/0/1719928515532/john_hancock_logo?e=1749081600&v=beta&t=C--U1U3qgXJluAdogo_yxvLIjk9oX09CRdkF0Na8j1U",
+                "url": "https://www.linkedin.com/company/john-hancock/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 1984
+                },
+                "end": {
+                    "month": 1,
+                    "day": null,
+                    "year": 1989
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Greater Boston Area, USA",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 1984
+                        },
+                        "end": {
+                            "month": 1,
+                            "day": null,
+                            "year": 1989
+                        }
+                    },
+                    "company": "John Hancock Financial Services",
+                    "description": "General Management of Sales & Distribution of Financial Planning, Life, Disability, Health and P&C Insurance for what became one of the largest and most profitable District offices Nationally.",
+                    "title": "District General Manager",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Risk Management",
+        "Change Management",
+        "Business Process Improvement",
+        "Insurance",
+        "Stakeholder Management",
+        "Process Improvement",
+        "Operations Management",
+        "Management",
+        "Business Analysis",
+        "Banking",
+        "Underwriting",
+        "Business Strategy",
+        "General Insurance",
+        "Relationship Management",
+        "Financial Services",
+        "Strategy",
+        "CRM",
+        "Team Management",
+        "Financial Risk",
+        "Project Management"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

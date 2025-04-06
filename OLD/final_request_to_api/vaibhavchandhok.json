@@ -1,0 +1,516 @@
+{
+    "profile_id": "vaibhavchandhok",
+    "first_name": "Vaibhav",
+    "last_name": "Chandhok",
+    "sub_title": "Co - Founder",
+    "profile_picture": "https://media.licdn.com/dms/image/v2/D4D03AQFg4i9i2tLqxA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1686936857583?e=1749081600&v=beta&t=0-bZb-HPE3hgmsm4OZWPR9wJxu-U4Q74D2n-V17ZqdY",
+    "background_image": null,
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAB05rgIBWXMwM0Y6XGl_DjApgf-vW2G6p_A",
+    "object_urn": 490319362,
+    "birth_date": null,
+    "summary": "Building FnB brands",
+    "location": {
+        "country": "India",
+        "short": "Delhi",
+        "city": null,
+        "state": null,
+        "default": "Delhi, India"
+    },
+    "premium": false,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": []
+    },
+    "industry": "Food & Beverages",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "school": {
+                "name": "Delhi College of Engineering",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFXWfIz3NjOVw/company-logo_400_400/company-logo_400_400/0/1631387954354?e=1749081600&v=beta&t=CLN2k4er1ABF5_6RBR3z8BsuO37acOhfuKtGCSks-jc",
+                "url": "https://www.linkedin.com/school/delhi-college-of-engineering/"
+            },
+            "degree_name": "Bachelor of Technology (B.Tech.)",
+            "description": null,
+            "field_of_study": "Electronics and Communications Engineering",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [
+        {
+            "name": "Tableau Essential Training (2020.1)",
+            "date": {
+                "start": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2020
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "authority": "LinkedIn",
+            "url": "https://www.linkedin.com/learning/certificates/2db2a271f6a6070d14deb21a350061f0e7f52d76f90677c32db92d7d2a12a043?trk=backfilled_certificate",
+            "license_number": null,
+            "display_source": "linkedin.com",
+            "company": {
+                "id": null,
+                "name": "LinkedIn",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_400_400/company-logo_400_400/0/1638831590218/linkedin_logo?e=1749081600&v=beta&t=8h0VmwKQ9U96kPwphY7pFOvu16Mk6gLshHVnP3Qi5hs",
+                "url": null
+            }
+        }
+    ],
+    "organizations": [
+        {
+            "name": "Toastmasters",
+            "position": null,
+            "date_start": {
+                "month": 6,
+                "day": null,
+                "year": 2020
+            },
+            "date_end": null
+        }
+    ],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": null,
+                "name": "Cloud 99",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2022
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Delhi, India",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Cloud 99",
+                    "description": "Seed funded company striving to build sustainable mass market FnB brands \n\nMr. Singh Pizzeria \nDelibom\nThe Sweet Dough",
+                    "title": "Founder - CEO",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 10,
+                    "day": null,
+                    "year": 2021
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "India",
+                    "date": {
+                        "start": {
+                            "month": 10,
+                            "day": null,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": null,
+                    "title": "Strategy and Operations manager - CEO’s office",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1663,
+                "name": "Eli Lilly and Company",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQG9tk5c8FBQUg/company-logo_400_400/company-logo_400_400/0/1719941589682/eli_lilly_and_company_logo?e=1749081600&v=beta&t=5-Eox8Rg2My5AYsPmWuwSVF4Z5dRmlYwng02987Wk0M",
+                "url": "https://www.linkedin.com/company/eli-lilly-and-company/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2021
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2021
+                        }
+                    },
+                    "company": "Eli Lilly and Company",
+                    "description": null,
+                    "title": "Consultant - Global Sales Strategy and Operations",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 789643,
+                "name": "Axtria - Ingenious Insights",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEKiBMP2B8x4Q/company-logo_400_400/company-logo_400_400/0/1719997869056/axtria_logo?e=1749081600&v=beta&t=BO-u7GOsZNF4aGUKj8S86kNRwxf8nHjPPoD5uzAu4U8",
+                "url": "https://www.linkedin.com/company/axtria/",
+                "employees": {
+                    "start": 1001,
+                    "end": 5000
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2017
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Gurgaon, Haryana, India",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2018
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2019
+                        }
+                    },
+                    "company": "Axtria - Ingenious Insights",
+                    "description": null,
+                    "title": "Associate | Consulting",
+                    "employment_type": null
+                },
+                {
+                    "location": "Gurgaon, India",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2017
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2018
+                        }
+                    },
+                    "company": "Axtria - Ingenious Insights",
+                    "description": "Incentive Compensation and Sales Insights",
+                    "title": "Analyst",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3583,
+                "name": "airtel",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEe3Kkqr6IUSA/company-logo_400_400/company-logo_400_400/0/1666868267320/airtel_logo?e=1749081600&v=beta&t=6thgCmV9Cu_-b2w29oMcxjnjF0FskGzkRGp5iadU82I",
+                "url": "https://www.linkedin.com/company/airtel/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Gurgaon, India",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "airtel",
+                    "description": null,
+                    "title": "Summer Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 14477597,
+                "name": "Engifest DTU",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQG5QYbWc_rQrg/company-logo_400_400/company-logo_400_400/0/1738920554497?e=1749081600&v=beta&t=z_Yuh3RCCJ85fMaeYkDl33OA0HSQEp9jl5yeiKXFRO8",
+                "url": "https://www.linkedin.com/company/engifestdtu/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2016
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2016
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "New Delhi Area, India",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2016
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2016
+                        }
+                    },
+                    "company": "Engifest DTU",
+                    "description": "Managed a team of 100+ to organise, for the first time,a theme-based festival. Responsible for the deciding, creating and maintaining the theme throughout the campus during the festival. How the campus came into sight during the festival period was under my perusal.",
+                    "title": "Head",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 80992,
+                "name": "Efkon GmbH",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHk-n96lBqkRg/company-logo_400_400/company-logo_400_400/0/1630581163494/efkon_ag_logo?e=1749081600&v=beta&t=b7B6Iko5hVxaehpU4dvK8xT4kxljmaaCLxpX5hVlVAA",
+                "url": "https://www.linkedin.com/company/efkon-gmbh/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 6,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 7,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Gurgaon",
+                    "date": {
+                        "start": {
+                            "month": 6,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 7,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Efkon GmbH",
+                    "description": null,
+                    "title": "Summer Intern",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 14477597,
+                "name": "Engifest DTU",
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQG5QYbWc_rQrg/company-logo_400_400/company-logo_400_400/0/1738920554497?e=1749081600&v=beta&t=z_Yuh3RCCJ85fMaeYkDl33OA0HSQEp9jl5yeiKXFRO8",
+                "url": "https://www.linkedin.com/company/engifestdtu/",
+                "employees": {
+                    "start": 201,
+                    "end": 500
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "New Delhi Area, India",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "Engifest DTU",
+                    "description": "Ensured maximum participation for the fest. Responsible for developing and maintaining the festival's image and identity. Efforts led to a footfall of over 20,000 participants and attendees.",
+                    "title": "Public Relations Co-Head",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Thinking Skills",
+        "Critical Thinking",
+        "Attention to Detail",
+        "End-to-End Project Management",
+        "Team Management",
+        "Team Leadership",
+        "Revenue Analysis",
+        "Managing multiple locations",
+        "Customer Experience",
+        "Decision-Making",
+        "Performance Analysis",
+        "Data-driven Decision Making",
+        "Teamwork",
+        "Professional Writing",
+        "Quickness",
+        "Territory Planning",
+        "Key Performance Indicators",
+        "Leadership",
+        "Management",
+        "Business Strategy"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}

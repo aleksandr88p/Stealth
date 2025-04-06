@@ -1,0 +1,651 @@
+{
+    "profile_id": "rickyleeuk",
+    "first_name": "Ricky",
+    "last_name": "Lee",
+    "sub_title": "Something New in Payments ⚫️",
+    "profile_picture": null,
+    "background_image": "https://media.licdn.com/dms/image/v2/D4E16AQHOWEPrBF0Iyw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1681637410575?e=1749081600&v=beta&t=o_T16m_4sBkpMW9-P0aoTUAuidiIabcOb_5N0h81XiQ",
+    "profile_type": "personal",
+    "open_to_work": false,
+    "entity_urn": "ACoAAAX6LVwB5YDYPC_64CEF8RFcX4oZYG-l1YQ",
+    "object_urn": 100281692,
+    "birth_date": null,
+    "summary": "Experienced in Fintech (banking and payment technologies). I enjoy diving into a company’s business strategies and building a brand that drives growth.",
+    "location": {
+        "country": "United Kingdom",
+        "short": "London, England",
+        "city": "London",
+        "state": "England",
+        "default": "London, England, United Kingdom"
+    },
+    "premium": true,
+    "influencer": false,
+    "treasury_media": [],
+    "languages": {
+        "primary_locale": {
+            "country": "US",
+            "language": "en"
+        },
+        "supported_locales": [
+            {
+                "country": "US",
+                "language": "en"
+            }
+        ],
+        "profile_languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "French",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ]
+    },
+    "industry": "Financial Services",
+    "education": [
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2003
+                }
+            },
+            "school": {
+                "name": "Creativa Formacion (UKAS Certified)",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Diploma",
+            "description": "3D Modeling with Maxon Cinema 4D Training Course - Madrid, during 2 months in 2003.",
+            "field_of_study": "3D Modeling with Maxon Cinema 4D",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2002
+                }
+            },
+            "school": {
+                "name": "Creativa Formacion (UKAS Certified)",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Diploma",
+            "description": "Website Design, Html, CSS, Javascript, Flash Training Course - Madrid, during 4 months in 2002.",
+            "field_of_study": "Website Design, Html, CSS, Javascript, Flash",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1999
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 2000
+                }
+            },
+            "school": {
+                "name": "Light House Media Institute",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Diploma",
+            "description": "Film & Video Editing Diploma at Light House Media Institute - Wolverhampton, 1999-2000.",
+            "field_of_study": "Film & Video Editing",
+            "grade": null
+        },
+        {
+            "date": {
+                "start": {
+                    "month": null,
+                    "day": null,
+                    "year": 1997
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": 1999
+                }
+            },
+            "school": {
+                "name": "Escuela Universitaria Privada de Arte y Diseño de Malaga",
+                "logo": null,
+                "url": null
+            },
+            "degree_name": "Master",
+            "description": "Master in Visual Communication (Graphic Design) Institute of Art and Design - Málaga, 1997-1999.",
+            "field_of_study": "Visual Communication (Graphic Design)",
+            "grade": null
+        }
+    ],
+    "patents": [],
+    "awards": [],
+    "certifications": [],
+    "organizations": [],
+    "projects": [],
+    "publications": [],
+    "courses": [],
+    "test_scores": [],
+    "position_groups": [
+        {
+            "company": {
+                "id": 18583501,
+                "name": "Stealth Startup",
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_400_400/company-logo_400_400/0/1735368022724/stealth_startup_51_logo?e=1749081600&v=beta&t=HdK9rAhohenNit4H2D0XKcK-Ggz-Qoos_bPVstE0H2Q",
+                "url": "https://www.linkedin.com/company/stealth-startup-careers/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2023
+                },
+                "end": {
+                    "month": null,
+                    "day": null,
+                    "year": null
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "Between UK and US",
+                    "date": {
+                        "start": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": null,
+                            "day": null,
+                            "year": null
+                        }
+                    },
+                    "company": "Stealth Startup",
+                    "description": null,
+                    "title": "Business + Product + Design",
+                    "employment_type": "Full-time"
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 18803411,
+                "name": "sync.",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE3CLKoWhJ3Og/company-logo_400_400/company-logo_400_400/0/1630650847662/sync_money_logo?e=1749081600&v=beta&t=g960YFk2eJeizZjAZ2O620d747Xi0Af1fgoIDEcsFcQ",
+                "url": "https://www.linkedin.com/company/sync-money/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2019
+                },
+                "end": {
+                    "month": 9,
+                    "day": null,
+                    "year": 2022
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 9,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "sync.",
+                    "description": "While the Group was in the process of being acquired, I was assisting the new teams with guidance in product, strategy and business opportunities.",
+                    "title": "Founder",
+                    "employment_type": null
+                },
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2019
+                        },
+                        "end": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2022
+                        }
+                    },
+                    "company": "sync.",
+                    "description": "sync. specialises in Smart Open Banking. It provides users with the ability to open over 30+ currency accounts instantly, offering unbeatable exchange rates and global money transfer services. sync.'s distinctive feature is the synchronisation of all bank accounts into a single app, offering a single user experience, delivering comprehensive financial management and tailored recommendations. The ultimate goal of sync. is to offer customers a better understand of their spending habits and to make it simple, beautiful and accessible to everyone.",
+                    "title": "Founder / CEO",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 5356541,
+                "name": "Revolut",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBudSGoYdD9g/company-logo_400_400/company-logo_400_400/0/1736441557682/revolut_logo?e=1749081600&v=beta&t=BSQlYZg5IwNKwZkFq4Idn9G9R0jwtzTbklZnN-6uUHw",
+                "url": "https://www.linkedin.com/company/revolut/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 4,
+                    "day": null,
+                    "year": 2015
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2017
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 4,
+                            "day": null,
+                            "year": 2015
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2017
+                        }
+                    },
+                    "company": "Revolut",
+                    "description": "Joined Revolut as part of their initial founding team right at the start, to help design, shape and guide their mobile strategy and brand from an initial small startup to a now worldwide recognised financial and trusted banking brand.\n\nRevolut started of as a travel money wallet that comes with a multi-currency prepaid card to spend anywhere in the world where MasterCard® is accepted. It allows you to exchange currencies at perfect interbank rates and send money through, mobile and social networks.\n\nAfter a lengthy research in this industry as a \"Challenger Bank\" and thanks to my experience in developing the full ‘Pay a Contact‘ for Lloyds Banking Group I wireframed and designed an exceptional mobile app with a unique user experience starting from a blank canvas.\nAs well designing their complete website for desktop and mobile, prepaid MasterCard®, packaging and many of their marketing strategies.",
+                    "title": "Head of Product Design / Strategy",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1821698,
+                "name": "RickyLee.co.uk",
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGVTTlZptBBFA/company-logo_400_400/company-logo_400_400/0/1631374660786?e=1749081600&v=beta&t=Sv9A6LrMGYQXRMz6xI8So2vyafgGHM669jB4zZKs7hM",
+                "url": "https://www.linkedin.com/company/ricky-lee.co.uk/",
+                "employees": {
+                    "start": 2,
+                    "end": 10
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                },
+                "end": {
+                    "month": 3,
+                    "day": null,
+                    "year": 2015
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2014
+                        },
+                        "end": {
+                            "month": 3,
+                            "day": null,
+                            "year": 2015
+                        }
+                    },
+                    "company": "RickyLee.co.uk",
+                    "description": "After my time at Lloyds Banking Group, I decided to take a year gap during which I worked on consultancy projects with top-tier Bank to help structure their digital strategy and product offering for retail and business banking customers.",
+                    "title": "Product Design and Strategy for Financial Banking & Payment Apps",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 417361,
+                "name": "Lloyds Banking Group",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHAcwlGCiYlWA/company-logo_400_400/B4EZXHndPVHgAg-/0/1742810764847/lloyds_banking_group_logo?e=1749081600&v=beta&t=KxT-zdq1O_-ebhliEEoOa8G45La81fRrigoErxG8Bto",
+                "url": "https://www.linkedin.com/company/lloyds-banking-group/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2014
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2014
+                        }
+                    },
+                    "company": "Lloyds Banking Group",
+                    "description": "I joined Lloyds Bank as a Product Lead to oversee the UX/UI and strategic aspects of the transformation during the separation of Lloyds TSB into two distinct entities: Lloyds Bank and TSB Bank. As the principal architect and designer, I oversaw the complete user experience and visual aesthetics for Lloyds Bank's flagship mobile app, with a particular focus on enhancing the \"Pay a Contact\" and many other projects.",
+                    "title": "Head of Product (UX/UI Design)",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 1110,
+                "name": "Orange",
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEIG5RkDRNPvg/company-logo_400_400/company-logo_400_400/0/1630485596129/orange_logo?e=1749081600&v=beta&t=4kHQ__M-WGpDOAEJXcgMg9OrP92WdkKTeusinPBxV3k",
+                "url": "https://www.linkedin.com/company/orange/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                },
+                "end": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London - Paris",
+                    "date": {
+                        "start": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2013
+                        },
+                        "end": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "Orange",
+                    "description": "I created an intuitive user experience for the new Orange mobile shop on Smartphones for their main Innovation HQ in Paris.\nCollaborating with Orange´s main UX team I designed a slick user interface based on simplicity; large graphics and large typography titles that engages the user to navigate through the web app always finding at one touch their needs. Work based on wireframes, user journeys and various visual concepts.",
+                    "title": "UX/UI Mobile Design Team Lead",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2718498,
+                "name": "EE",
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFBMBfYm9q4sA/company-logo_400_400/company-logo_400_400/0/1698242094597/ee_uk_logo?e=1749081600&v=beta&t=-X1YDMbgmx8xv5E_1iLd-qzxiplAPK_TZc8Ckgm9_Yc",
+                "url": "https://www.linkedin.com/company/ee-uk/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2013
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2013
+                        }
+                    },
+                    "company": "EE",
+                    "description": "After EE´s new 2012 product launch with their unique super fast 4G service in the UK telco market I became part of the Phase 2 team to restructure the user experience of the website, create and design a responsive grid adapting it to EE´s layout, B2B service, mobile shop and the new forthcoming contactless services for EE´s smartphone devices.",
+                    "title": "UX/UI Mobile Design Team Lead",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 3318,
+                "name": "Sky",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHnKMOaLVKmPA/company-logo_400_400/company-logo_400_400/0/1657538336522/sky_logo?e=1749081600&v=beta&t=gzDKe86lDoiIke3HGlU82ICwEQ7m2FjqOSyCa7eYk1Y",
+                "url": "https://www.linkedin.com/company/sky/",
+                "employees": {
+                    "start": 10001,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2012
+                },
+                "end": {
+                    "month": 11,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2012
+                        },
+                        "end": {
+                            "month": 11,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Sky",
+                    "description": "I began my journey at BskyB's subsidiary, The Cloud, where I played a key role in rebranding their logo and redesigning their consumer-facing mobile apps. Following my time at The Cloud, I transitioned to BSkyB's main headquarters in West London, where I and a small team of designers collaborated on various in-house products to enhance functionality and introduce new design features across multiple apps - Sky Cloud, Sky Go and Sky Movies.",
+                    "title": "UI/UX Design Lead Manager",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": 2648611,
+                "name": "Studio N3RD",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGunMDh_T4FmA/company-logo_400_400/company-logo_400_400/0/1631332312306?e=1749081600&v=beta&t=KuLGS8FY06y--gJNEgBOWQhE6dWU-bO1V1KjaB2SVBA",
+                "url": "https://www.linkedin.com/company/studio-n3rd/",
+                "employees": {
+                    "start": 11,
+                    "end": 50
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 5,
+                    "day": null,
+                    "year": 2011
+                },
+                "end": {
+                    "month": 2,
+                    "day": null,
+                    "year": 2012
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": "London, United Kingdom",
+                    "date": {
+                        "start": {
+                            "month": 5,
+                            "day": null,
+                            "year": 2011
+                        },
+                        "end": {
+                            "month": 2,
+                            "day": null,
+                            "year": 2012
+                        }
+                    },
+                    "company": "Studio N3RD",
+                    "description": "Worked for one of the most upcoming and creative digital agencies based in west London. I was responsible for the creative and conceptual development, direction and delivery of all visual design, product strategy and working closely with the front-end and back-end technical teams ensuring that all fnal designs and functionality were kept to the requirements. Some notable brands I worked with include Lexis Nexis, Equifax, House of Fraser, X-Factor Show Sponsors, Intelligent Reach, iROKING, iROKOtv, as well as promising startups like Newsfare and Taskhub.",
+                    "title": "UX/UI Creative Lead Designer",
+                    "employment_type": null
+                }
+            ]
+        },
+        {
+            "company": {
+                "id": null,
+                "name": "The Design Studio",
+                "logo": null,
+                "url": null,
+                "employees": {
+                    "start": null,
+                    "end": null
+                }
+            },
+            "date": {
+                "start": {
+                    "month": 1,
+                    "day": null,
+                    "year": 2004
+                },
+                "end": {
+                    "month": 12,
+                    "day": null,
+                    "year": 2010
+                }
+            },
+            "profile_positions": [
+                {
+                    "location": null,
+                    "date": {
+                        "start": {
+                            "month": 1,
+                            "day": null,
+                            "year": 2004
+                        },
+                        "end": {
+                            "month": 12,
+                            "day": null,
+                            "year": 2010
+                        }
+                    },
+                    "company": "The Design Studio",
+                    "description": "As a Senior Designer I worked for top-tier advertising agencies and design studios on prestigious accounts such as Vodafone, BMW, Samsung, and Burger King. This invaluable experience allowed me to witness the transformation of the advertising landscape as these leading brands increasingly shifted their focus towards digital platforms. During my time, I not only contributed to the creative vision but also played a crucial role in adapting and shaping their digital strategies to meet evolving consumer demands.",
+                    "title": "Creative Senior Designer",
+                    "employment_type": null
+                }
+            ]
+        }
+    ],
+    "volunteer_experiences": [],
+    "skills": [
+        "Creative Lead",
+        "Senior Designer",
+        "User Interface Design",
+        "Interaction Design",
+        "Web Design",
+        "User Experience",
+        "Digital Design",
+        "Typography",
+        "Print",
+        "Visual UI Design",
+        "Mobile Devices",
+        "Mobile Applications",
+        "Software Design",
+        "Positive Team Player",
+        "Team Leadership",
+        "Creative Direction",
+        "Android",
+        "HTML",
+        "CSS",
+        "Brochures"
+    ],
+    "network_info": null,
+    "related_profiles": null,
+    "contact_info": null,
+    "verifications_info": null
+}
